@@ -1,0 +1,4 @@
+collections:
+  about-pesta:
+    output: true
+    order: []
