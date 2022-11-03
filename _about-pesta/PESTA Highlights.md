@@ -70,7 +70,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-rfng"> <br>2011</td>
-    <td class="tg-3bal"><span style="font-weight:600">February:</span><br><br>PESTA started operations and moved to Malan Road Campus<br><br><span style="font-weight:600"><strong>March:</strong></span><br><br>PESTA organised a study trip to AAHPERD Conference at San Diego, USA with PESTA Champions and invited schools<br><br><span style="text-decoration:underline"><strong>August:</strong></span><br><br>PESTA organized the inaugural 2011 Physical &amp; Sports Education (PSE) Conference</td>
+    <td class="tg-3bal"><span style="text-decoration:underline"><strong>February:</strong></span><br><br>PESTA started operations and moved to Malan Road Campus<br><br><span style="text-decoration:underline"><strong>March:</strong></span><br><br>PESTA organised a study trip to AAHPERD Conference at San Diego, USA with PESTA Champions and invited schools<br><br><span style="text-decoration:underline"><strong>August:</strong></span><br><br>PESTA organized the inaugural 2011 Physical &amp; Sports Education (PSE) Conference</td>
   </tr>
   <tr>
     <td class="tg-ag2m"> <br>2010</td>
