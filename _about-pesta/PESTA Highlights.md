@@ -34,7 +34,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ag2m"> <br>2020</td>
-    <td class="tg-yuyh"><span style="font-weight:600">January:</span><br><br>Hosted Visiting Fellow Dr Stephen Mitchell<br><br><span style="font-weight:600">March:</span><br><br>Visiting Fellow Dr Linda Griffin conducted series of e-lectures on Game Based Approach for PESTA officers<br><br><span style="font-weight:600">November:</span><br><br>PELOT+ was refined to include Blended Learning Considerations (PELOT+ BL)<br>PESTA co-organised the inaugural Physical &amp; Sports Education Virtual Conference (PSEvC) for the PE fraternity </td>
+    <td class="tg-yuyh"><span style="text-decoration:underline"><strong>January:</strong></span><br><br>Hosted Visiting Fellow Dr Stephen Mitchell<br><br><span style="text-decoration:underline"><strong>March:</strong></span><br><br>Visiting Fellow Dr Linda Griffin conducted series of e-lectures on Game Based Approach for PESTA officers<br><br><span style="text-decoration:underline"><strong>November:</strong></span><br><br>PELOT+ was refined to include Blended Learning Considerations (PELOT+ BL)<br>PESTA co-organised the inaugural Physical &amp; Sports Education Virtual Conference (PSEvC) for the PE fraternity </td>
   </tr>
   <tr>
     <td class="tg-rfng"> <br>2019</td>
