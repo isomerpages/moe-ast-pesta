@@ -1,4 +1,5 @@
 collections:
   about-pesta:
     output: true
-    order: []
+    order:
+      - PESTA Highlights.md
