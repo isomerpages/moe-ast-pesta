@@ -61,7 +61,7 @@ Woon joined Temasek Junior College (TJC) in 1981. During his 3½ years of servic
   
 By 1984, TJC had become well known for its swimming programme. In an invitational swim meet, TJC emerged champion and beat traditional powerhouses such as Raffles Junior College and Anglo-Chinese Junior College.  On 25 May 1984, "King Neptune" as Woon was affectionally known, was given a fond farewell by the staff and students of TJC when he retired from MOE.
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/woon-sk-(neptune-1)-(s).jpg?sfvrsn=cd1aaf1c_0 "Woon SK (Neptune 1) (S)")  
+
 <style>  
 img {  
   display: block;  
@@ -69,14 +69,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/woon-sk-(neptune-1)-(s).jpeg" alt="Farewell, King Neptune!" style="width:70%;">  
   
 </body>
 
 <p style="text-align:center;"><strong>Farewell, King Neptune!</strong></p>
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/woon-sk-(neptune-2)-(s).jpg?sfvrsn=8767d2c1_0 "Woon SK (Neptune 2) (S)")
-
 <style>  
 img {  
   display: block;  
@@ -84,7 +82,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/woon-sk-(neptune-2)-(s).jpeg" alt="Farewell, King Neptune!" style="width:70%;">  
   
 </body>
 
@@ -94,7 +92,7 @@ After his retirement in 1984, Woon continued to contribute to sports at various 
   
 Currently, Woon is the Vice-President and Chairman, Technical Swimming Committee of AASF. At the age of 83, he travels around Asia to inspect swimming facilities and ensure that they are competition ready. Woon’s next big commitment is the 2014 Asian Games in Incheon, Korean, where he is a technical advisor for swimming.  
   
-**References**  
+**<u>References</u>**  
 1\. Interview with Mr Woon Sui Kut by PESTA (April - June 2012).  
 2\. Aplin, N. (Eds.). (2009). Perspectives on Physical Education and Sports Science in Singapore: An Eye on the Youth Olympic Games 2010. Singapore: McGraw-Hill Education (Asia).  
 3\. Straits Times (1952). _Woon Sui Kut is TTC Swimming Champion._ Straits Times, 9 March, 1952, p. 19. Retrieved from [http://newspapers.nl.sg/Digitised/Article/straitstimes19520309.2.133.aspx](http://newspapers.nl.sg/Digitised/Article/straitstimes19520309.2.133.aspx)  
