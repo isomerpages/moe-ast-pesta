@@ -23,9 +23,20 @@ Upon her return to Singapore, Ms Ong was appointe lecturer at Teachers Training 
   
 Ms Ong walked the talk as a PE and sports enthusiast. She enjoyed sports and played squash and tennis competitively in the 70s. In 1973, Ms Ong became the first female national squash champion. She was also the national tennis champion for a number of years in the 70s and represented Singapore in tennis at the Southeast Asian (SEA) Games. Despite her heavy workload, she picked up wind surfing and introduced the sport to her students during weekends.
 
-![Love Sports](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/love-sports.jpg?sfvrsn=672fc4f9_0 "Love Sports") **Love Sports, Do Sports: At the age of 41, Ms Ong won the 1st female National Squash Championship.**
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/love-sports.jpeg" alt="Ms Ong Siong Ngo" style="width:50%;">  
+  
+</body>
 
-**A tribute by former student, Ms Elizabeth Poey:**  
+<p style="text-align:center;"><strong>Love Sports, Do Sports: At the age of 41, Ms Ong won the 1st female National Squash Championship.</strong></p>
+
+**<u>A tribute by former student, Ms Elizabeth Poey:</u>**  
   
 Ms Ong Siong Ngo was a huge lady with a large heart and a great sense of humor.  
   
@@ -52,11 +63,11 @@ _I was one of those uncoordinated students who was not good at dance, and would 
   
 Ms Ong was a female PE pioneer and she was very progressive in her thinking and role modeling during her time. She was firm yet encouraging, and was very student-centred in her teaching of PE. She was not self-conscious of her physique and was very graceful in dance and gymnastics. She taught me to teach with passion and good attitude and never let results or awards get in the way of teaching good PE lessons.  
   
-About Ms Elizabeth Poey  
+<u>About Ms Elizabeth Poey</u>
   
 Ms Elizabeth Poey attended Teachers’ Training College (TTC) from 1971 to 1972 as a trainee PE teacher. Ms Ong Siong Ngo was her PE lecturer whom she considered her role model. Elizabeth started her teaching career in Lorong Bengkok Primary School and then National Junior College before becoming PE Head of Department in Townsville Institute. In 2000, she was appointed Principal, Bedok North Primary School. She retired as Principal, Naval Base Primary School in 2008.   
   
-**References**  
+**<u>References</u>**  
   
 Aplin, N. (Eds.). (2009). Perspectives on Physical Education and Sports Science in Singapore: An Eye on the Youth Olympic Games 2010. Singapore: McGraw-Hill Education (Asia).  
   
