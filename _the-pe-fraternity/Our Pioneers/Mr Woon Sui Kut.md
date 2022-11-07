@@ -76,7 +76,7 @@ img {
   
 </body>
 
-**Farewell, King Neptune!**
+<p style="text-align:center;"><strong>Farewell, King Neptune!</strong></p>
 
 ![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/woon-sk-(neptune-2)-(s).jpg?sfvrsn=8767d2c1_0 "Woon SK (Neptune 2) (S)")
 
@@ -91,7 +91,7 @@ img {
   
 </body>
 
-**Move to Live, Live to Move**  
+**<u>Move to Live, Live to Move</u>**  
   
 After his retirement in 1984, Woon continued to contribute to sports at various national and international platforms. Besides serving in SNOC and SSA, Woon also served in the ASEAN Swimming Federation, 1976 – 1981; Asian Amateur Swimming Federation (AASF), 1984 – current; and Federation Internationale de Natation Amateur (FINA), 1980 – 2004.  
   
