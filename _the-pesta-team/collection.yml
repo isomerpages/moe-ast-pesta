@@ -2,6 +2,7 @@ collections:
   the-pesta-team:
     output: true
     order:
+      - PESTA Leadership/.keep
       - Senior Academy Officers/Selvei Shunmugam.md
       - Senior Academy Officers/Mohamad Hairil Johari.md
       - Senior Academy Officers/Milhan Binte Mahat.md
