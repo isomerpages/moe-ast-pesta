@@ -1,4 +1,5 @@
 collections:
   the-pesta-team:
     output: true
-    order: []
+    order:
+      - Administration Team/.keep
