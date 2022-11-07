@@ -12,8 +12,6 @@ Woon actually joined competitive swimming by accident. When he was in RI, a clas
   
 Aspiring to be a PE teacher, Woon enrolled into Teacher Training College (TTC) in 1950. On 9 march 1952, TTC organized the 1st Swimming Gala at Chinese Swimming Club. Woon won the 50m, 100m , 200m, 400m and 1,500m freestyle events and became the undisputed TTC Swimming Champion. His total of 25 points was 15 points more than the 1st runner-up.
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/woon-sk-(s).jpg?sfvrsn=1cec4ac8_0 "Woon SK (S)")  
-
 <style>  
 img {  
   display: block;  
@@ -21,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/woon-sk-(s).jpeg" alt="TTC Swimming Champion (1952)" style="width:70%;">  
   
 </body>
 
