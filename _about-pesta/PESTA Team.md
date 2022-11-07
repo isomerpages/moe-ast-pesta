@@ -52,20 +52,20 @@ The PESTA Team
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="![](/images/chan%20weng%20kit%20mark.jpeg)" alt="Chan Weng Kit, Mark (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Chan Weng Kit, Mark (Mr)</a></h5><br>Deputy Director / Special Projects</td>
-    <td class="tg-0lax"><img src="![](/images/hanif.jpeg)" alt="Hanif B Abdul Rahman (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Hanif B Abdul Rahman (Mr)</a></h5><br>Principal Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/chan%20weng%20kit%20mark.jpeg" alt="Chan Weng Kit, Mark (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Chan Weng Kit, Mark (Mr)</a></h5><br>Deputy Director / Special Projects</td>
+    <td class="tg-0lax"><img src="/images/hanif.jpeg" alt="Hanif B Abdul Rahman (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Hanif B Abdul Rahman (Mr)</a></h5><br>Principal Master Teacher</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="![](/images/mabel-yong-chooi-cheng2f695c60cf8d4cc5b56251c1f8cc1633.jpeg)" alt="Mabel Yong Chooi Cheng (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Mabel Yong Chooi Cheng (Ms)</a></h5><br>Master Teacher</td>
-    <td class="tg-0lax"><img src="![](/images/teng-tse-sheng.jpeg)" alt="Teng Tse Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Teng Tse Sheng (Mr)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/mabel-yong-chooi-cheng2f695c60cf8d4cc5b56251c1f8cc1633.jpeg" alt="Mabel Yong Chooi Cheng (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Mabel Yong Chooi Cheng (Ms)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/teng-tse-sheng.jpeg" alt="Teng Tse Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Teng Tse Sheng (Mr)</a></h5><br>Master Teacher</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="![](/images/tan-seck-heong-2.jpeg)" alt="Tan Seck Heong (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Tan Seck Heong (Mr)</a></h5><br>Master Teacher</td>
-    <td class="tg-0lax"><img src="![](/images/benjamin-tan-su-jime0ed98aa860f493ab19ad4e87f3f1d12.jpeg)" alt="Benjamin Tan Su-Jim (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Benjamin Tan Su-Jim (Mr)</a></h5><br>Master Teacher (Schools)</td>
+    <td class="tg-0lax"><img src="/images/tan-seck-heong-2.jpeg" alt="Tan Seck Heong (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Tan Seck Heong (Mr)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/benjamin-tan-su-jime0ed98aa860f493ab19ad4e87f3f1d12.jpeg" alt="Benjamin Tan Su-Jim (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Benjamin Tan Su-Jim (Mr)</a></h5><br>Master Teacher (Schools)</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="![](/images/joanna-phan-swee-lee.jpeg)" alt="Joanna Phan Swee Lee (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Joanna Phan Swee Lee (Ms)</a></h5><br>Master Teacher</td>
-    <td class="tg-0lax"><img src="/images/fathul-rahman-kamsanie0a1feeb96694546bb8f4362920c68dd.jpeg" alt="Karen Low Lai Fong (Ms)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)</td>
+    <td class="tg-0lax"><img src="/images/joanna-phan-swee-lee.jpeg" alt="Joanna Phan Swee Lee (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Joanna Phan Swee Lee (Ms)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/question-14---pesta-karen-low.jpeg" alt="Karen Low Lai Fong (Ms)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)</td>
   </tr>
 </tbody>
 </table>
