@@ -2,4 +2,5 @@ collections:
   the-pe-fraternity:
     output: true
     order:
+      - Our Pioneers/.keep
       - Featured Teachers.md
