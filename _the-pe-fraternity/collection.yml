@@ -1,4 +1,5 @@
 collections:
   the-pe-fraternity:
     output: true
-    order: []
+    order:
+      - Featured Teachers.md
