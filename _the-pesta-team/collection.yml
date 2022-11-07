@@ -2,6 +2,7 @@ collections:
   the-pesta-team:
     output: true
     order:
+      - Administration Team/Diana Goh Luan En (Mdm).md
       - Administration Team/Muhammad Hafiz Ma'arof (Mr).md
       - Administration Team/Merry Bte Hamid (Mdm).md
       - Administration Team/.keep
