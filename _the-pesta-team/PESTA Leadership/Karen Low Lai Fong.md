@@ -7,7 +7,7 @@ third_nav_title: PESTA Leadership
 Master Teacher
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/question-14---pesta-karen-low.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/question-14---pesta-karen-low.jpeg" alt="Karen Low Lai Fong" style="width:175px" /></p>
 <p style="text-align:justify">
 Ms Karen Low Lai Fong started her career as a young beginning teacher at White Sand Primary School in 2003. Being an inexperienced classroom and PE teacher who was still learning the rope of effective classroom management, she encountered days that were good and bad (teary once in a while). Equipped with essential ingredients during the survival years - positive mindset, humility to ask and learn actively, as well as a group of helpful colleagues, she grew professionally and became the Head of Department (PE, Aesthetics & CCA) from 2006 to 2012. Being a former national sprinter and a club player in Ultimate Frisbee and Tennis, she has initiated and organised Zonal Ultimate Frisbee competitions, and coached school T&F athletes as well as combined school tennis team players during her stint in school.<br><br>
 	
