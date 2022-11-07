@@ -4,11 +4,10 @@ permalink: /pesta/about-pesta/the-pesta-team/muhammad-hafiz-maarof-profile-bio-2
 description: ""
 third_nav_title: Administration Team
 ---
-
 Senior Manager
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/hafiz-pic.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/hafiz-pic.jpeg" alt="Muhammad Hafiz Ma'arof" style="width:175px" /></p>
 <p style="text-align:justify">
 Hafiz started his career in the private sector and joined MOE as an Administration Manager overseeing the school’s finance, procurement, HR, inventory and pupil-related admin matters. As an Admin Manager, he was passionate about the deliverance of innovative ideas to improve efficiency and increasing the capacities of his team members through calibrated coaching as well as attending quality courses.  <br><br>
 
