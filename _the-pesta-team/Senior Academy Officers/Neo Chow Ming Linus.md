@@ -4,11 +4,10 @@ permalink: /pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022/
 description: ""
 third_nav_title: Senior Academy Officers
 ---
-
 Academy Officer
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Neo Chow Ming Linus" style="width:175px" /></p>
 <p style="text-align:justify">
 Linus started his teaching career in Seng Kang Secondary School in 2014. During his time in Seng Kang Secondary, he was given the opportunity to spearhead various programmes. He developed the Healthy Lifestyle Programme in school aimed at increasing participation in physical activities for overweight students. The programme also creates a platform for all students to come together to develop friendship and bonds through games.<br><br>
 
