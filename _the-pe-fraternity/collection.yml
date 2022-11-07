@@ -2,6 +2,7 @@ collections:
   the-pe-fraternity:
     output: true
     order:
+      - Our Pioneers/Mr Tan Hwee Hock.md
       - Our Pioneers/Mr Woon Sui Kut.md
       - Our Pioneers/Mr Yap Boon Chuan.md
       - Our Pioneers/Ms Ong Siong Ngo.md
