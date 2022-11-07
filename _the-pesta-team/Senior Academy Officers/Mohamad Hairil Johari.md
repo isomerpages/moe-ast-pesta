@@ -7,7 +7,7 @@ third_nav_title: Senior Academy Officers
 Senior Academy Officer
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/hairil-profile-bio1.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/hairil-profile-bio1.jpeg" alt="Mohamad Hairil Johari" style="width:175px" /></p>
 <p style="text-align:justify">
 Mr Mohamad Hairil Johari joined the education service in 1995 with a Diploma in Physical Education (PE) from National Institute of Education (NIE) and was conferred the Rotary International 75th Anniversary Gold Medal Award. Upon reaching three enriching years of service at Xinghua Primary, he furthered his studies in September 1998 and attained a Bachelor of Science in PE and Sports Science with Second Class Honours, Upper Division from Loughborough University, England in June 2000. One and a half years of experience covering the PE HOD duties had further allowed him to dedicate his service to Bedok South Primary.<br><br>
 
