@@ -7,7 +7,7 @@ third_nav_title: PESTA Leadership
 Master Teacher
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/joanna-phan-swee-lee.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/joanna-phan-swee-lee.jpeg" alt="Joanna Phan" style="width:175px" /></p>
 <p style="text-align:justify">
 Miss Joanna Phan Swee Lee joined PESTA in August 2014 after a stint at the Singapore International School (Hong Kong) where she headed the Physical Education, Co-Curricular Activities and Student Leadership departments from 2010 to 2014. Prior to this, she was a Head of Department for PE and Co-Curricular Activities at Catholic High School (Primary) from 2006 to 2010.<br><br>
 	
