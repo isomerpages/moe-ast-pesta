@@ -15,13 +15,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/quekjinjong-pic1.jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/quekjinjong-pic1.jpeg" alt="Dr Quek Jin Jong" style="width:70%;">  
   
 </body>
 
-
-_1985 Inter Poly & Varsity Staff Race: 4 x 100m Champions!_  
-_From left: Philip Lee, C Kunanlan, Quek Jin Jong, Paul Robinson_ 
+<p style="text-align:center;"><em>1985 Inter Poly & Varsity Staff Race: 4 x 100m Champions!<br>From left: Philip Lee, C Kunanlan, Quek Jin Jong, Paul Robinson</em></p>
 
 **Expectation of PE in Singapore**   
   
