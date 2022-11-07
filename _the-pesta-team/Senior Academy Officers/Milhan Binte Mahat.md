@@ -7,7 +7,7 @@ third_nav_title: Senior Academy Officers
 Senior Academy Officer
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/img-20200701-wa0002.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/img-20200701-wa0002.jpeg" alt="Milhan Binte Mahat" style="width:175px" /></p>
 <p style="text-align:justify">
 Ms Milhan Binte Mahat started her teaching journey in Riverside Secondary School where she was given opportunities to head the Physical Education (PE) curriculum and sports leadership. Her daily interactions with students and colleagues inspired her to find out how best to design and implement a PE curriculum and student leadership programme that prepare future adults with values, skills and competencies that will make their life purposeful, meaningful and joyful.<br><br>
 	
