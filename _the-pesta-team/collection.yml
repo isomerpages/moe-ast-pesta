@@ -2,6 +2,7 @@ collections:
   the-pesta-team:
     output: true
     order:
+      - PESTA Leadership/Mabel Yong.md
       - PESTA Leadership/Teng Tse Sheng.md
       - PESTA Leadership/Tan Seck Heong.md
       - PESTA Leadership/Benjamin Tan Su Jim.md
