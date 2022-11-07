@@ -80,8 +80,8 @@ The PESTA Team
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lvth"><img src="/images/melanie-ann-martens3d4fc422d1ac483cbc2c34c7cd0e4b3c.jpeg" alt="Selvei Shunmugam (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Selvei Shunmugam (Ms)</a></h5><br>Academy Principal</th>
-    <th class="tg-lvth"><img src="/images/fathul-rahman-kamsanie0a1feeb96694546bb8f4362920c68dd.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Mohamad Hairil Johari (Mr)</a></h5><br>Deputy Director</th>
+    <th class="tg-lvth"><img src="![](/images/selvei-shunmugam-1.jpeg)" alt="Selvei Shunmugam (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Selvei Shunmugam (Ms)</a></h5><br>Academy Principal</th>
+    <th class="tg-lvth"><img src="![](/images/hairil-profile-bio1.jpeg)" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Mohamad Hairil Johari (Mr)</a></h5><br>Deputy Director</th>
   </tr>
 </thead>
 <tbody>
