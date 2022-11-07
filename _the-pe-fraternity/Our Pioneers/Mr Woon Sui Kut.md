@@ -13,6 +13,18 @@ Woon actually joined competitive swimming by accident. When he was in RI, a clas
 Aspiring to be a PE teacher, Woon enrolled into Teacher Training College (TTC) in 1950. On 9 march 1952, TTC organized the 1st Swimming Gala at Chinese Swimming Club. Woon won the 50m, 100m , 200m, 400m and 1,500m freestyle events and became the undisputed TTC Swimming Champion. His total of 25 points was 15 points more than the 1st runner-up.
 
 ![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/woon-sk-(s).jpg?sfvrsn=1cec4ac8_0 "Woon SK (S)")  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 **TTC Swimming Champion (1952)**
 
 **Pioneer in Singapore Schools Sports**  
@@ -32,6 +44,17 @@ Besides actively developing the Singapore Schools Sports scene, Woon also contri
 In 1975, Woon led the Singapore Swimming Delegation to Beijing to participate in the China Invitational Swimming and Diving Friendship Meet, the first of its kind in China. This Meet was significant as it helped countries to establish friendly relations with China through sports competition.
 
 ![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/woon-sk-(tsp)-(s).jpg?sfvrsn=d9cd75d1_0 "Woon SK (TSP) (S)")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 **Meeting Deng Xiaoping at the China Invitational Swimming and Diving Friendship Meet (1975)**
 
 **King Neptune**  
@@ -41,9 +64,31 @@ Woon joined Temasek Junior College (TJC) in 1981. During his 3½ years of servic
 By 1984, TJC had become well known for its swimming programme. In an invitational swim meet, TJC emerged champion and beat traditional powerhouses such as Raffles Junior College and Anglo-Chinese Junior College.  On 25 May 1984, "King Neptune" as Woon was affectionally known, was given a fond farewell by the staff and students of TJC when he retired from MOE.
 
 ![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/woon-sk-(neptune-1)-(s).jpg?sfvrsn=cd1aaf1c_0 "Woon SK (Neptune 1) (S)")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 **Farewell, King Neptune!**
 
 ![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/woon-sk-(neptune-2)-(s).jpg?sfvrsn=8767d2c1_0 "Woon SK (Neptune 2) (S)")
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
 **Move to Live, Live to Move**  
   
