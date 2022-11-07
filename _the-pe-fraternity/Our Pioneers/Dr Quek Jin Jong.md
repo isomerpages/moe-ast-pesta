@@ -74,11 +74,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/quekjinjong-pic2.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/quekjinjong-pic2.jpeg" alt="Dr Quek Jin Jong" style="width:70%;">  
   
 </body>
 
-_Dr Quek (far right) and the 1981 A Division cross country team champions_  
+<p style="text-align:center;"><em>Dr Quek (far right) and the 1981 A Division cross country team champions</em></p>
+
   
 _“Dr Quek was my cross country team coach in Hwa Chong Junior College. He coached me as a runner and helped me develop a love for running. He was a role model and a great motivator. He provided lots of variety in our training. We trained for speed on the track, endurance on the trails, and strength on the hills. Not to mention circuit training! Trainings were well planned, progressive and closely monitored. We competed in many competitions all over the island, and we were the A Division cross country team champions in 1981!”_  
   
