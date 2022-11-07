@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/441d869c-e066-42be-929a-23f2324c44b2.jpeg" alt="Ms Ong Siong Ngo" style="width:70%;">  
+<body><img src="/images/441d869c-e066-42be-929a-23f2324c44b2.jpeg" alt="Ms Ong at Dartford College." style="width:70%;">  
   
 </body>
 
@@ -30,7 +30,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/love-sports.jpeg" alt="Ms Ong Siong Ngo" style="width:50%;">  
+<body><img src="/images/love-sports.jpeg" alt="At the age of 41, Ms Ong won the 1st female National Squash Championship." style="width:50%;">  
   
 </body>
 
@@ -52,8 +52,18 @@ She cared for her students while nurturing them to be self-reliant:
   
 _When we were doing gymnastics, falling seemed like second nature to us. Ms Ong was firm in her teaching and expected us to perform our movements well. When we fell, she would not mollycoddle us but tell us to get up on our own and try again. That was her way of checking that we did not suffer major injury and her way of teaching us to persevere. At the end of the lesson, she would then approach the student who had a serious fall personally and ask if he or she was well._
 
-**![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/a-typical-day.jpg?sfvrsn=bf40c074_0 "A typical day")**  
-**A typical day at TTC: Ms Ong teaching educational gymnastics through modeling.**
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/a-typical-day.jpeg" alt="A typical day at TTC: Ms Ong teaching educational gymnastics through modeling." style="width:70%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>A typical day at TTC: Ms Ong teaching educational gymnastics through modeling.</strong></p>
 
 She engaged her students meaningfully according to their starting point:  
   
