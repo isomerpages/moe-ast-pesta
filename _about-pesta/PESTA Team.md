@@ -95,7 +95,7 @@ The PESTA Team
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/tan-seck-heong-2.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019">Neo Chow Ming Linus (Mr)</a></h5><br>Master Teacher</td>
-    <td class="tg-0lax"><img src="/images/benjamin-tan-su-jime0ed98aa860f493ab19ad4e87f3f1d12.jpeg" alt="Benjamin Tan Su-Jim (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019">Benjamin Tan Su-Jim (Mr)</a></h5><br>Master Teacher (Schools)</td>
+    <td class="tg-0lax"><img src="/images/benjamin-tan-su-jime0ed98aa860f493ab19ad4e87f3f1d12.jpeg" alt="Aw Kai Yueh (Ms)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019">Aw Kai Yueh (Ms)</a></h5><br>Master Teacher (Schools)</td>
   </tr>
 </tbody>
 </table>
