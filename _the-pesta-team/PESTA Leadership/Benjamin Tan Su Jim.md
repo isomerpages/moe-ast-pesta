@@ -7,7 +7,7 @@ third_nav_title: PESTA Leadership
 Master Teacher
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/benjamin-tan-su-jime0ed98aa860f493ab19ad4e87f3f1d12.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/benjamin-tan-su-jime0ed98aa860f493ab19ad4e87f3f1d12.jpeg" alt="Benjamin Tan Su Jim" style="width:175px" /></p>
 <p style="text-align:justify">
 Mr Benjamin Tan Su-Jim joined the Physical Education and Sports Teacher Academy (PESTA) as a Physical Education (PE) Master Teacher in 2014. His teaching experiences include teaching PE in primary and secondary schools. He also served as the PE and Co-Curricular Activities Head of Department at Bedok Green Secondary School, as a Curriculum Planning Officer at the Curriculum Planning and Development Division (PE Unit), and as a Teaching Fellow at the National Institute of Education (NIE) Physical Education and Sports Science Academic Group. His current role is a School-Based Master Teacher (SBMTT) at Punggol Secondary School.<br><br>
 
