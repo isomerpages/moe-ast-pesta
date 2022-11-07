@@ -7,7 +7,7 @@ third_nav_title: Senior Academy Officers
 Academy Officer
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/yuliang.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/yuliang.jpeg" alt="Chen Yuliang" style="width:175px" /></p>
 <p style="text-align:justify">
 Mr Chen Yuliang started teaching Physical Education in Fuchun Secondary School from 2010 to 2014. In July 2015, he joined West Spring Secondary School as the Subject Head of Physical Education and CCA. Yuliang was privileged to be able to helm various portfolios in his stint in school. This allowed him to be able to embed his belief of “<em>Joy of Learning</em>”, “<em>Experiential Learning</em>” and “<em>Mens Sana in Corpore Sano</em>” into the school curriculum and many programs. He strongly believes on a holistic education and when it comes to PE lessons or school programs, students must actively engage their mind, body and heart.<br><br>
 
