@@ -8,79 +8,53 @@ The PESTA Team
 
 ![The PESTA Team](/images/whatsapp-image-2022-07-20-at-1-36-33-pm.jpeg)
 
-<ul class="“jekyllcodex_accordion”">
- <li>
-    <input id="“accordion2”" type="“checkbox”">
-    <label for="“accordion2&quot;">Title</label>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Simple</label>
     <div>
-      <h4 align="“left”" style="“color:black”">2021</h4>
-      <p>
-      
-     </p>
-      <div>
-      <h4 align="“left”" style="“color:black”">2020</h4>
-      <p>
-      
-     </p>
-     <div>
-      <h4 align="“left”" style="“color:black”">2019</h4>
-      <p>
-      
-	</p>
-  </div>
-	</div></div></li>
-	 <li>
-    <input id="“accordion3&quot;" type="“checkbox”">
-    <label for="“accordion3”">Title</label>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Multi-line Block</label>
     <div>
-      <h4 align="“left”" style="“color:black”">2021</h4>
-      <p>
-     
-     </p>
-     <h4 align="“left”" style="“color:black”">2020</h4>
-      <p>
-      
-     </p>
-     <div>
-      <h4 align="“left”" style="“color:black”">2019</h4>
-      <p>
-      
-  </p></div>
-	</div></li>
-	 <li>
-    <input id="“accordion4”" type="“checkbox”">
-    <label for="“accordion4&quot;">Title</label>
+      <p>This is line 1</p>
+      <p>This is line 2<br>
+        This is line 3</p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Multi-line Folded</label>
     <div>
-      <h4 align="“left”" style="“color:black”">2021</h4>
       <p>
-      
-     </p>
-     <h4 align="“left”" style="“color:black”">2020</h4>
-      <p>
-      
-     </p>
+        This is all going
+        to become just one line\n even though there are multiple lines
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Ordered List</label>
     <div>
-      <h4 align="“left”" style="“color:black”">2019</h4>
-      <p>
-      
-  </p></div>
-	</div></li>
-	 <li>
-    <input id="“accordion5&quot;" type="“checkbox”">
-    <label for="“accordion5”">Title</label>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+    
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Unordered List</label>
     <div>
-      <h4 align="“left”" style="“color:black”">2021</h4>
-      <p>
-      
-     </p>
-     <h4 align="“left”" style="“color:black”">2020</h4>
-      <p>
-      
-     </p>
-    <div>
-      <h4 align="“left”" style="“color:black”">2019</h4>
-      <p>
-      
-  </p></div>
-	</div></li>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </div>
+  </li>
 </ul>
