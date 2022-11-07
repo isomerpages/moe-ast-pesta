@@ -86,12 +86,12 @@ The PESTA Team
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/chan%20weng%20kit%20mark.jpeg" alt="Milhan Binte Mahat (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/mark-chan-profile-bio-2019">Milhan Binte Mahat (Ms)</a></h5><br>Deputy Director / Special Projects</td>
-			<td class="tg-0lax"><img src="/images/hanif.jpeg" alt="Lim Wei Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019">Lim Wei Sheng (Mr)</a></h5><br>Principal Master Teacher</td>
+    <td class="tg-0lax"><img src="![](/images/img-20200701-wa0002.jpeg)" alt="Milhan Binte Mahat (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/mark-chan-profile-bio-2019">Milhan Binte Mahat (Ms)</a></h5><br>Deputy Director / Special Projects</td>
+			<td class="tg-0lax"><img src="![](/images/wei-sheng.jpeg)" alt="Lim Wei Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019">Lim Wei Sheng (Mr)</a></h5><br>Principal Master Teacher</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/mabel-yong-chooi-cheng2f695c60cf8d4cc5b56251c1f8cc1633.jpeg" alt="Chen Yuliang (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019">Chen Yuliang (Mr)</a></h5><br>Master Teacher</td>
-    <td class="tg-0lax"><img src="/images/teng-tse-sheng.jpeg" alt="Teng Tse Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019">Nur Hana Tay (Mdm)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="![](/images/yuliang.jpeg)" alt="Chen Yuliang (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019">Chen Yuliang (Mr)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="![](/images/whatsapp-image-2022-01-10-at-09-01-59-(1).jpeg)" alt="Teng Tse Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019">Nur Hana Tay (Mdm)</a></h5><br>Master Teacher</td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/tan-seck-heong-2.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019">Neo Chow Ming Linus (Mr)</a></h5><br>Master Teacher</td>
