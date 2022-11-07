@@ -33,8 +33,8 @@ Recollections of Mr Yap Boon Chuan by former PE students:
     We have always admired Mr Yap for maintaining such a good physique, even at his present age. When asked, he would quip: "Charming on the outside, alarming on the inside". That's Mr Yap, always having one wise crack to cheer you up and make you feel at ease no matter who you are...his student, colleague or stranger.  
       
     _**Robert Tan**_  
-    _**Former Educator and Former Director (Sports Excellence), Singapore Sports Council  
-    **_
+    _**Former Educator and Former Director (Sports Excellence), Singapore Sports Council**_
+		
 *   **The Teacher Who Kept It "Short And Sharp"**  
       
     I had the privilege of having some tutorials under Mr Yap. The lessons that Mr Yap taught are etched into the innermost depths of my memory.  
@@ -46,11 +46,10 @@ Recollections of Mr Yap Boon Chuan by former PE students:
     _**Chan Chee Wei**_  
     _**Director of Sports, Anglo-Chinese School (Independent)**_
 
-**References**  
+**<u>References</u>**  
   
 Aplin, N. (Eds.). (2009). Perspectives on Physical Education and Sports Science in Singapore: An Eye on the Youth Olympic Games 2010. Singapore: McGraw-Hill Education (Asia).  
 
-A Note of Appreciation
-----------------------
+### A Note of Appreciation
 
 PESTA would like to thank Mr Yap Boon Chuan for the interview on 29 July 2011. We would also like to thank Mr Abdullah Tamugi, Mr Chan Chee Wei and Mr Robert Tan for their sharing on Mr Yap Boon Chuan.
