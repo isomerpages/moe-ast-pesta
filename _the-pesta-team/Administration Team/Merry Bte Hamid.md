@@ -4,11 +4,10 @@ permalink: /pesta/about-pesta/the-pesta-team/merry-profile-bio-2019/
 description: ""
 third_nav_title: Administration Team
 ---
-
 Senior Administrative Executive
 
 <p style="float:left; margin: 0 10px 0px 0">  
-<img src="/images/merry.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/merry.jpeg" alt="Merry Bte Hamid" style="width:175px" /></p>
 
 
 <p style="text-align:justify">
