@@ -104,7 +104,7 @@ The PESTA Team
 <thead>
   <tr>
     <th class="tg-lvth"><img src="/images/diana-goh-small.jpeg" alt="Selvei Shunmugam (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019">Diana Goh (Ms)</a></h5><br>Lead Manager</th>
-    <th class="tg-lvth"><img src="/images/hafiz-pic.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/muhammad-hafiz-ma'arof-profile-bio-2021">Muhammad Hafiz Ma'arof  (Mr)</a></h5><br>Senior Manager</th>
+    <th class="tg-lvth"><img src="/images/hafiz-pic.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/muhammad-hafiz-maarof-profile-bio-2021">Muhammad Hafiz Ma'arof  (Mr)</a></h5><br>Senior Manager</th>
   </tr>
 </thead>
 <tbody>
