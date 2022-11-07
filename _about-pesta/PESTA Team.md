@@ -110,14 +110,14 @@ The PESTA Team
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lvth"><img src="/images/selvei-shunmugam-1.jpeg" alt="Selvei Shunmugam (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/selvei-profile-bio-2019">Selvei Shunmugam (Ms)</a></h5><br>Academy Principal</th>
-    <th class="tg-lvth"><img src="/images/hairil-profile-bio1.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hairil-johari-profile-bio-2020">Mohamad Hairil Johari (Mr)</a></h5><br>Deputy Director</th>
+    <th class="tg-lvth"><img src="/images/selvei-shunmugam-1.jpeg" alt="Selvei Shunmugam (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/selvei-profile-bio-2019">Diana Goh (Ms)</a></h5><br>Lead Manager</th>
+    <th class="tg-lvth"><img src="/images/hairil-profile-bio1.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hairil-johari-profile-bio-2020">Muhammad Hafiz Ma'arof  (Mr)</a></h5><br>Senior Manager</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/img-20200701-wa0002.jpeg" alt="Milhan Binte Mahat (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/milhan-profile-bio-2020">Milhan Binte Mahat (Ms)</a></h5><br>Deputy Director / Special Projects</td>
-			<td class="tg-0lax"><img src="/images/wei-sheng.jpeg" alt="Lim Wei Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/lim-wei-sheng-profile-bio-2021">Lim Wei Sheng (Mr)</a></h5><br>Principal Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/img-20200701-wa0002.jpeg" alt="Milhan Binte Mahat (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/milhan-profile-bio-2020">Merry Hamid (Mdm)</a></h5><br>Senior Administrative Executive</td>
+			<td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
