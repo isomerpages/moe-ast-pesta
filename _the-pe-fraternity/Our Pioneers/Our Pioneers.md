@@ -6,7 +6,7 @@ third_nav_title: Our Pioneers
 ---
 ![C Kunalan](/images/pic-0-(3).jpeg)
 
-_My spirit is willing – so my flesh keeps trying’_
+_'My spirit is willing – so my flesh keeps trying’_
 
 _Mr C. Kunalan_
 
