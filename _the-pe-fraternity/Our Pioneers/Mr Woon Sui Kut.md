@@ -56,9 +56,9 @@ img {
   
 </body>
 
-**Meeting Deng Xiaoping at the China Invitational Swimming and Diving Friendship Meet (1975)**
+<p style="text-align:center;"><strong>Meeting Deng Xiaoping at the China Invitational Swimming and Diving Friendship Meet (1975)</strong></p>
 
-**King Neptune**  
+**<u>King Neptune</u>**  
   
 Woon joined Temasek Junior College (TJC) in 1981. During his 3½ years of service at TJC, he helped develop a swimming programme that catered to students of different abilities. His vision was for every TJC student to be able to swim. To ensure the success of the swimming programme, Woon had to lead by example and he taught swimming 3 times a week.  
   
