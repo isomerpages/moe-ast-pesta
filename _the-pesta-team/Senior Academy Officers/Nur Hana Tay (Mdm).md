@@ -7,7 +7,7 @@ third_nav_title: Senior Academy Officers
 Academy Officer
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/whatsapp-image-2022-01-10-at-09-01-59-(1).jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/whatsapp-image-2022-01-10-at-09-01-59-(1).jpeg" alt="Nur Hana Tay" style="width:175px" /></p>
 <p style="text-align:justify">
 Nur Hana started teaching PE and Math in Yumin Primary School from 1999 to 2001. Subsequently she taught in Jurong West Primary School from 2002 to 2008 where she was internally appointed as the Subject Head for NE  / SS. In 2017, she was appointed as the Senior Teacher for PE in West Grove Pri School.<br><br>
 
