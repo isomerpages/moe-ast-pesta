@@ -25,9 +25,10 @@ img {
   
 </body>
 
-**TTC Swimming Champion (1952)**
+<p style="text-align:center;"><strong>TTC Swimming Champion (1952)</strong></p>
 
-**Pioneer in Singapore Schools Sports**  
+
+**<u>Pioneer in Singapore Schools Sports</u>**  
   
 Upon graduation from TTC, Woon returned to his alma mater, RI and taught there from 1953 to 1954. He then went on to teach in Victoria School (VS) from 1954 to 1963. During this period, he took on other appointments such as Honorary Secretary of Singapore Combined Schools Sports Council and delegation leader of Combined Schools Swimming and Water Polo Teams.   
   
