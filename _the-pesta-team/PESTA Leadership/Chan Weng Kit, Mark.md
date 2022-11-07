@@ -4,7 +4,7 @@ permalink: /pesta/about-pesta/the-pesta-team/mark-chan-profile-bio-2019/
 description: ""
 third_nav_title: PESTA Leadership
 ---
-Master Teacher
+Deputy Director/ Special Projects
 
 <p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/chan%20weng%20kit%20mark.jpeg" alt="Chan Weng Kit, Mark" style="width:175px" /></p>
