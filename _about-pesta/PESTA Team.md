@@ -47,7 +47,7 @@ The PESTA Team
 <thead>
   <tr>
     <th class="tg-lvth"><img src="/images/melanie-ann-martens3d4fc422d1ac483cbc2c34c7cd0e4b3c.jpeg" alt="Melanie Ann Martens (Academy Principal)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Melanie Ann Martens (Ms)</a></h5><br>Academy Principal</th>
-    <th class="tg-lvth"><img src="https://www.tablesgenerator.com/images/20190306_121311_From-Reading-to-Making-Puppets-Dialogue-768x576.jpeg" alt="Fathul Rahman Kamsani (Deputy Director)" width="200" height="17"><br><br>Fathul Rahman Kamsani (Mr)<br>Deputy Director</th>
+    <th class="tg-lvth"><img src="/images/fathul-rahman-kamsanie0a1feeb96694546bb8f4362920c68dd.jpeg" alt="Fathul Rahman Kamsani (Deputy Director)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/principal's-message">Fathul Rahman Kamsani (Mr)</a></h5><br>Deputy Director</th>
   </tr>
 </thead>
 <tbody>
