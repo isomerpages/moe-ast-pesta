@@ -91,9 +91,29 @@ The PESTA Team
     <input type="checkbox" id="accordion3">
     <label for="accordion3">ADMINISTRATION TEAM</label>
     <div>
-      <p>
-        This is all going
-      </p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lvth{font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lvth"><img src="/images/diana-goh-small.jpeg" alt="Selvei Shunmugam (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019">Diana Goh (Ms)</a></h5><br>Lead Manager</th>
+    <th class="tg-lvth"><img src="/images/hafiz-pic.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/muhammad-hafiz-ma'arof-profile-bio-2021">Muhammad Hafiz Ma'arof  (Mr)</a></h5><br>Senior Manager</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/merry.jpeg" alt="Milhan Binte Mahat (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/merry-profile-bio-2019">Merry Hamid (Mdm)</a></h5><br>Senior Administrative Executive</td>
+			<td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
 </ul>
