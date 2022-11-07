@@ -2,6 +2,7 @@ collections:
   the-pesta-team:
     output: true
     order:
+      - PESTA Leadership/Joanna Phan.md
       - PESTA Leadership/Karen Low Lai Fong.md
       - PESTA Leadership/.keep
       - Senior Academy Officers/Selvei Shunmugam.md
