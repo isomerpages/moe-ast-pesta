@@ -2,4 +2,5 @@ collections:
   the-pesta-team:
     output: true
     order:
+      - Administration Team/Merry Bte Hamid (Mdm).md
       - Administration Team/.keep
