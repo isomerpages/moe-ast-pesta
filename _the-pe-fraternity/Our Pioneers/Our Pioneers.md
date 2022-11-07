@@ -16,8 +16,7 @@ Mr Canagasabai Kunalan, affectionately known as Mr K, was born on October 23, 19
 
 [Read more...](/pesta/be-connected-with-the-fraternity/our-pioneers/mr-canagasabai-kunalan)
 
-Features in the Past:
----------------------
+### Features in the Past:
 
 [Mr Woon Sui Kut](/pesta/be-connected-with-the-fraternity/our-pioneers/mr-woon-sui-kut)
 
