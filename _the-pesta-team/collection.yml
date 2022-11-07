@@ -2,6 +2,7 @@ collections:
   the-pesta-team:
     output: true
     order:
+      - PESTA Leadership/Chan Weng Kit, Mark.md
       - PESTA Leadership/Hanif Bin Abdul Rahman.md
       - PESTA Leadership/Mabel Yong.md
       - PESTA Leadership/Teng Tse Sheng.md
