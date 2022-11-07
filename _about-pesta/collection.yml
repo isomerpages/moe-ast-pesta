@@ -2,4 +2,5 @@ collections:
   about-pesta:
     output: true
     order:
+      - PESTA Team.md
       - PESTA Highlights.md
