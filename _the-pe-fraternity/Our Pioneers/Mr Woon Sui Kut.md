@@ -36,13 +36,12 @@ Woon firmly believed that Singapore Schools Sports played a very important role 
   
 The Singapore Combined Schools Sports Council was established in 1959 and Woon was appointed its first Honorary Secretary. As a full-time teacher in VS then, Woon took on his role with commitment and passion. In 1963, Woon joined the Ministry of Education (MOE) PE Inspectorate and continued to serve as Honorary Secretary until 1980.      
   
-**Active Advocate for Sports**  
+**<u>Active Advocate for Sports</u>**  
   
 Besides actively developing the Singapore Schools Sports scene, Woon also contributed to sports at the national level. He served in the Singapore National Olympic Council (SNOC), 1970 – 1998; Singapore Life Saving Society, 1972 – 2006; and Singapore Swimming Association (SSA), 1964 – 2008.  
   
 In 1975, Woon led the Singapore Swimming Delegation to Beijing to participate in the China Invitational Swimming and Diving Friendship Meet, the first of its kind in China. This Meet was significant as it helped countries to establish friendly relations with China through sports competition.
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/woon-sk-(tsp)-(s).jpg?sfvrsn=d9cd75d1_0 "Woon SK (TSP) (S)")  
 <style>  
 img {  
   display: block;  
@@ -50,7 +49,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/woon-sk-(tsp)-(s).jpeg" alt="Meeting Deng Xiaoping at the China Invitational Swimming and Diving Friendship Meet (1975)" style="width:70%;">  
   
 </body>
 
