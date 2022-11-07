@@ -6,7 +6,7 @@ third_nav_title: Our Pioneers
 ---
 Born in 1929, Mr Woon Sui Kut attended Telok Kurau Primary School and Raffles Institution (RI). As a boy, Woon and his friends would play hide and seek in the pool of Chinese Swimming Club because the water was dark blue and not very clear. The boys would jump into the pool and take turns to search for one another in the water.  
   
-**The Birth of a Swimming Champion**  
+**<u>The Birth of a Swimming Champion</u>**  
   
 Woon actually joined competitive swimming by accident. When he was in RI, a classmate signed him up for a swimming time trial.  Being a good sport, Woon went for the time trial and beat two school swimmers and this started his competitive swimming career in the school team. Besides swimming, Woon also competed in the 400m and High Jump events.  
   
