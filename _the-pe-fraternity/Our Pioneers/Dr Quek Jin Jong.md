@@ -8,7 +8,17 @@ Dr. Quek Jin Jong, affectionately known as JJ, started his career as a school te
   
 In this feature, Dr Quek shares his thoughts about PE and teacher training in the current landscape.
 
-![QuekJinJong Pic1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/quekjinjong-pic1.jpg?sfvrsn=671c6e9b_0 "QuekJinJong Pic1")
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/quekjinjong-pic1.jpeg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 
 _1985 Inter Poly & Varsity Staff Race: 4 x 100m Champions!_  
 _From left: Philip Lee, C Kunanlan, Quek Jin Jong, Paul Robinson_ 
@@ -59,9 +69,18 @@ _Dr Quek was one lecturer who had influenced me greatly in the way I teach today
 Ms Linda Khoo  
 PE Teacher, Singapore Chinese Girls’ Primary School
 
-![QuekJinJong Pic2](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/quekjinjong-pic2.jpg?sfvrsn=1f40afdf_0 "QuekJinJong Pic2")
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/quekjinjong-pic2.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
-                                          _Dr Quek (far right) and the 1981 A Division cross country team champions_  
+_Dr Quek (far right) and the 1981 A Division cross country team champions_  
   
 _“Dr Quek was my cross country team coach in Hwa Chong Junior College. He coached me as a runner and helped me develop a love for running. He was a role model and a great motivator. He provided lots of variety in our training. We trained for speed on the track, endurance on the trails, and strength on the hills. Not to mention circuit training! Trainings were well planned, progressive and closely monitored. We competed in many competitions all over the island, and we were the A Division cross country team champions in 1981!”_  
   
