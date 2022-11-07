@@ -4,11 +4,10 @@ permalink: /pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022/
 description: ""
 third_nav_title: Senior Academy Officers
 ---
-
 Senior Academy Officer
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg" alt="Aw Kai Yueh" style="width:175px" /></p>
 <p style="text-align:justify">
 Ms Aw Kai Yueh started teaching at Bendemeer Secondary School in 2002. With a keen interest to learn more deeply about teaching and providing better support for her learners, she pursued her Master of Education (Curriculum and Teaching) at the National Institute of Education (NIE), Singapore in 2012. She joined Serangoon Garden Secondary School after returning from her studies.<br><br>
 
