@@ -7,7 +7,7 @@ third_nav_title: Senior Academy Officers
 Senior Academy Officer
 
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/selvei-shunmugam-1.jpeg" alt="Talent Development" style="width:175px" /></p>
+<img src="/images/selvei-shunmugam-1.jpeg" alt="Selvei Shunmugam" style="width:175px" /></p>
 <p style="text-align:justify">
 Selvei graduated from NIE as a teacher specializing in the teaching of Science. However, her experiences at Marymount Convent School included the teaching of PE. She subsequently took up the role of Sports Secretary. When Selvei was posted to St Gabriel’s Primary School, she was given the opportunity to embark on the in-service Diploma in Physical Education. This opportunity equipped her with the set of knowledge and skills enabling her to expand her quest to continue a journey in the teaching of PE.<br><br>
 	
