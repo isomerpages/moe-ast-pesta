@@ -2,8 +2,8 @@ collections:
   professional-development:
     output: true
     order:
-      - TWA Dip in PE (In Service) and PETPP.md
-      - Book Chapters by the PESTA Team.md
-      - Workshops for PE and Sports CCA Teachers.md
-      - Professional Development Framework for PE and Sports Teachers.md
       - Professional Development.md
+      - Professional Development Framework for PE and Sports Teachers.md
+      - Workshops for PE and Sports CCA Teachers.md
+      - Book Chapters by the PESTA Team.md
+      - TWA Dip in PE (In Service) and PETPP.md
