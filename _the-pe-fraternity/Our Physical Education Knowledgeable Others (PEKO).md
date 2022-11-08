@@ -16,10 +16,12 @@ PEKO will provide PD support in their identified area(s) of expertise based on r
 
 For schools looking to request for PD support from a PEKO, play the video below to find out more about the process.
 
+**video to be embedded here!**
+
 Click here for information on the lists of PEKO for 2022. These lists will be updated annually.
 
-[PEKO\_Primary\_List\_2022(.pdf, 435.48 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider3/default-document-library/peko_primary_list_20222eedebff66ea49539920d5ad4f976dc8.pdf?sfvrsn=9d07a264_0 "PEKO_Primary_List_2022")
+[PEKO\_Primary\_List\_2022(.pdf, 435.48 KB)](/files/peko_primary_list_20222eedebff66ea49539920d5ad4f976dc8.pdf)
 
-[PEKO\_Secondary\_List\_2022(.pdf, 33.88 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider3/default-document-library/peko_secondary_list_2022.pdf?sfvrsn=a4d0e56_0 "PEKO_Secondary_List_2022")
+[PEKO\_Secondary\_List\_2022(.pdf, 33.88 KB)](/files/peko_secondary_list_2022.pdf)
 
-[PEKO\_JCMI List\_2022(.pdf, 30.75 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider3/default-document-library/peko_jcmi-list_2022.pdf?sfvrsn=a987f022_0 "PEKO_JCMI List_2022")
+[PEKO\_JCMI List\_2022(.pdf, 30.75 KB)](/files/peko_jcmi-list_2022.pdf)
