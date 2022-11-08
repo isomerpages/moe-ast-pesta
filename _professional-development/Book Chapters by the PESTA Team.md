@@ -234,7 +234,20 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input id="accordion16" type="checkbox">
     <label for="accordion16">Chapter 12: Being a Reflective Teacher: Using Narrative Inquiry as Professional Development in Physical Education by Mr Nasrun Bin Mizzy</label>
     <div>
-      B
+      <p><strong>Further resources</strong><br>Armour, K.R. and Jones, R.L. (1998) Physical Education: Teachers’ Lives And Careers: PE, Sport And Educational Status, London: Falmer Press.  </p>
+<ul>
+<li>This book uses narrative inquiry to explore the lives and careers of PE teachers. Their stories are analysed through the lenses of sport and physical education as a career, and their status within the broader international research literature.</li>
+</ul>
+<p> </p>
+<p>Clandinin, J.D. and Connelly, M.F. (2021) Narrative Inquiry: Experience and Story in Qualitative Research, San Francisco: Jossey-Bass.  </p>
+<ul>
+<li>This book presents the fundamental concepts and philosophies of narrative inquiry as a research method and as a reflective tool.</li>
+</ul>
+<p> </p>
+<p>Johnson, K.E. and Golombek, P.R. (eds.) (2002) Teachers’ Narrative Inquiry as Professional Development, New York: Cambridge University Press.  </p>
+<ul>
+<li>This book discusses the wide-ranging concepts and applications of narrative inquiry in professional development in education.</li>
+</ul>
     </div>
   </li>
 	 <li>
