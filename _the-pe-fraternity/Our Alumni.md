@@ -119,13 +119,13 @@ Also, introducing the following dynamic individuals who were once part of the PE
     <td class="tg-tsui"><img src="![](/images/pauline-20baeg-20pesta.jpeg)" alt="Pauline%20Baeg%20Pesta"><br>Pauline Baeg</td>
   </tr>
   <tr>
-    <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/lee-wung-yew5ee3679f6de34804997ef874df4b7cd3.tmb-medium.jpg?Culture=en&sfvrsn=735926ca_1" alt="Lee Wung Yew"><br>Lee Wung Yew</td>
+    <td class="tg-b8q8"><img src="![](/images/lee-wung-yew5ee3679f6de34804997ef874df4b7cd3.jpeg)" alt="Lee Wung Yew"><br>Lee Wung Yew</td>
   </tr>
   <tr>
-    <td class="tg-tsui"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/jan-hu.tmb-medium.jpg?Culture=en&sfvrsn=6e164b0b_1" alt="Jan Hu"><br>Jan Hu</td>
+    <td class="tg-tsui"><img src="![](/images/jan-hu.jpeg)" alt="Jan Hu"><br>Jan Hu</td>
   </tr>
   <tr>
-    <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/kelvin-goh.tmb-medium.jpg?Culture=en&sfvrsn=e18713e2_1" alt="Kelvin Goh"><br>Kelvin Goh</td>
+    <td class="tg-b8q8"><img src="![](/images/kelvin-goh.jpeg)" alt="Kelvin Goh"><br>Kelvin Goh</td>
   </tr>
 </tbody>
 </table>
