@@ -19,190 +19,106 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">PESTA LEADERSHIP</label>
     <div>
     C
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
     <div>
       B
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">ADMINISTRATION TEAM</label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">ADMINISTRATION TEAM</label>
     <div>
       A
     </div>
   </li>
 	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">PESTA LEADERSHIP</label>
     <div>
     C
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
     <div>
       B
     </div>
   </li>
 	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">PESTA LEADERSHIP</label>
     <div>
     C
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
     <div>
       B
     </div>
   </li>
 	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13">PESTA LEADERSHIP</label>
     <div>
     C
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
     <div>
       B
     </div>
   </li>
 	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15">PESTA LEADERSHIP</label>
     <div>
     C
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
     <div>
       B
     </div>
   </li>
 	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
+    <input type="checkbox" id="accordion17">
+    <label for="accordion17">PESTA LEADERSHIP</label>
     <div>
     C
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <input type="checkbox" id="accordion18">
+    <label for="accordion18">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
     <div>
       B
     </div>
   </li>
 	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
+    <input type="checkbox" id="accordion19">
+    <label for="accordion19">PESTA LEADERSHIP</label>
     <div>
     C
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
-    <div>
-      B
-    </div>
-  </li>
-	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
-    <div>
-    C
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
-    <div>
-      B
-    </div>
-  </li>
-	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
-    <div>
-    C
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
-    <div>
-      B
-    </div>
-  </li>
-	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
-    <div>
-    C
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
-    <div>
-      B
-    </div>
-  </li>
-	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
-    <div>
-    C
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
-    <div>
-      B
-    </div>
-  </li>
-	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
-    <div>
-    C
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
-    <div>
-      B
-    </div>
-  </li>
-	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">PESTA LEADERSHIP</label>
-    <div>
-    C
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <input type="checkbox" id="accordion20">
+    <label for="accordion20">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
     <div>
       B
     </div>
