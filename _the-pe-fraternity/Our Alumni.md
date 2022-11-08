@@ -29,7 +29,7 @@ Also, introducing the following dynamic individuals who were once part of the PE
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/tan-teck-hockffce7f76f6904106a360de60f731e5fb.jpg?sfvrsn=33f9d331_4" alt="tan-teck-hock" width="150" height="200"><br>Tan Teck Hock<br></td>
+    <td class="tg-b8q8"><img src="![](/images/tan-teck-hockffce7f76f6904106a360de60f731e5fb.jpeg)" alt="tan-teck-hock" width="150" height="200"><br>Tan Teck Hock<br></td>
   </tr>
   <tr>
     <td class="tg-tsui">Goh Kee Yong</td>
@@ -44,13 +44,13 @@ Also, introducing the following dynamic individuals who were once part of the PE
     <td class="tg-b8q8">Pang Mui Tiang Magdalene (Ms)</td>
   </tr>
   <tr>
-    <td class="tg-tsui"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/wee-seah.jpg?sfvrsn=7ea6f485_2" alt="Wee Seah"><br>Liang Wee Seah<br></td>
+    <td class="tg-tsui"><img src="![](/images/wee-seah.jpeg)" alt="Wee Seah"><br>Liang Wee Seah<br></td>
   </tr>
   <tr>
     <td class="tg-b8q8">Gan Kok Seng</td>
   </tr>
   <tr>
-    <td class="tg-tsui"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/randall-lim.tmb-thumb200.jpg?Culture=en&sfvrsn=af24cc6_1" alt="Randall Lim"><br>Randall Lim<br></td>
+    <td class="tg-tsui"><img src="![](/images/randall-lim.jpeg)" alt="Randall Lim"><br>Randall Lim<br></td>
   </tr>
   <tr>
     <td class="tg-b8q8">Teo Hui Hui Jeanie (Ms)</td>
@@ -80,43 +80,43 @@ Also, introducing the following dynamic individuals who were once part of the PE
     <td class="tg-b8q8">Koh Suan Lam</td>
   </tr>
   <tr>
-    <td class="tg-tsui"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/katalin-20kovacs.jpg?sfvrsn=7c289e8c_4&MaxWidth=150&MaxHeight=200&ScaleUp=true&Quality=High&Method=ResizeFitToAreaArguments&Signature=555CCEBBAAAB4371432813874F5C1E6A4B2A2873" alt="Katalin%20Kovacs"><br>Katalin Kovacs (Dr)<br></td>
+    <td class="tg-tsui"><img src="![](/images/katalin-20kovacs.jpeg)" alt="Katalin%20Kovacs"><br>Katalin Kovacs (Dr)<br></td>
   </tr>
   <tr>
-    <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/helen-20low-20small.jpg?sfvrsn=92c5e0d_4" alt="Helen%20Low%20small"><br>Low Kwee Fong Helen (Mdm)<br></td>
+    <td class="tg-b8q8"><img src="![](/images/helen-20low-20small.jpeg)" alt="Helen%20Low%20small"><br>Low Kwee Fong Helen (Mdm)<br></td>
   </tr>
   <tr>
-    <td class="tg-tsui"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/charles-timonthy-dcruz.tmb-thumb200.jpg?Culture=en&sfvrsn=2eb7f6cc_1" alt="Charles Timonthy DCruz"><br>Charles Timothy D'Cruz</td>
+    <td class="tg-tsui"><img src="![](/images/charles-timonthy-dcruz.jpeg)" alt="Charles Timonthy DCruz"><br>Charles Timothy D'Cruz</td>
   </tr>
   <tr>
-    <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/shue-20pei-20yan-20pd-20pesta-202015.jpg?sfvrsn=e614434c_4" alt="Shue%20Pei%20Yan%20PD%20PESTA%202015"><br>Shue Pei Yan<br></td>
+    <td class="tg-b8q8"><img src="![](/images/shue-20pei-20yan-20pd-20pesta-202015.jpeg)" alt="Shue%20Pei%20Yan%20PD%20PESTA%202015"><br>Shue Pei Yan<br></td>
   </tr>
   <tr>
     <td class="tg-tsui">Koh Kwei Choo Gwendoline Wendy (Mdm)</td>
   </tr>
   <tr>
-    <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/kiran-kumar-gosian-200by260.jpg?sfvrsn=af66719d_3" alt="Kiran Kumar Gosian"><br>Kiran Kumar Gosian<br></td>
+    <td class="tg-b8q8"><img src="![](/images/kiran-kumar-gosian-200by260.jpeg)" alt="Kiran Kumar Gosian"><br>Kiran Kumar Gosian<br></td>
   </tr>
   <tr>
-    <td class="tg-tsui"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/fazlin-profile-pic-2.tmb-thumb200.jpg?Culture=en&sfvrsn=ae4d8457_1" alt="Fazlin profile pic 2"><br>Fazlin Jaya Indra<br></td>
+    <td class="tg-tsui"><img src="![](/images/fazlin-profile-pic-2.jpeg)" alt="Fazlin profile pic 2"><br>Fazlin Jaya Indra<br></td>
   </tr>
   <tr>
-    <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/tw.tmb-thumb200.jpg?Culture=en&sfvrsn=b547aac8_1" alt="tw"><br>Goh Tong Wee<br></td>
+    <td class="tg-b8q8"><img src="![](/images/tw.jpeg)" alt="tw"><br>Goh Tong Wee<br></td>
   </tr>
   <tr>
-    <td class="tg-tsui"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/nas.tmb-thumb200.jpg?Culture=en&sfvrsn=93c856c7_1" alt="nas"><br>Nasrun Mizzy<br></td>
+    <td class="tg-tsui"><img src="![](/images/nas.jpeg)" alt="nas"><br>Nasrun Mizzy<br></td>
   </tr>
   <tr>
-    <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/cassandra-siua-kian-ling.tmb-thumb200.jpg?Culture=en&sfvrsn=d8eb5217_1" alt="Cassandra Siua Kian Ling"><br>Cassandra Siua (Ms)<br></td>
+    <td class="tg-b8q8"><img src="![](/images/cassandra-siua-kian-ling.jpeg)" alt="Cassandra Siua Kian Ling"><br>Cassandra Siua (Ms)<br></td>
   </tr>
   <tr>
-    <td class="tg-tsui"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/chan-meng-faia1740817b4244c8c981696bd4d3158a9.tmb-thumb200.jpg?Culture=en&sfvrsn=268c44d9_1" alt="Chan Meng Fai"><br>Chan Meng Fai<br></td>
+    <td class="tg-tsui"><img src="![](/images/chan-meng-faia1740817b4244c8c981696bd4d3158a9.jpeg)" alt="Chan Meng Fai"><br>Chan Meng Fai<br></td>
   </tr>
   <tr>
-    <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/jason-zhuo-gensheng3e84ec5031ab4b1c9737ab3b53713c7e.tmb-medium.jpg?Culture=en&sfvrsn=9c7440c9_1" alt="Jason Zhuo Gensheng" width="175" height="226"><br>Jason Zhuo Gensheng</td>
+    <td class="tg-b8q8"><img src="![](/images/jason-zhuo-gensheng3e84ec5031ab4b1c9737ab3b53713c7e.jpeg)" alt="Jason Zhuo Gensheng" width="175" height="226"><br>Jason Zhuo Gensheng</td>
   </tr>
   <tr>
-    <td class="tg-tsui"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/pauline-20baeg-20pesta.tmb-medium.jpg?Culture=en&sfvrsn=5b8742a7_1" alt="Pauline%20Baeg%20Pesta"><br>Pauline Baeg</td>
+    <td class="tg-tsui"><img src="![](/images/pauline-20baeg-20pesta.jpeg)" alt="Pauline%20Baeg%20Pesta"><br>Pauline Baeg</td>
   </tr>
   <tr>
     <td class="tg-b8q8"><img src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/lee-wung-yew5ee3679f6de34804997ef874df4b7cd3.tmb-medium.jpg?Culture=en&sfvrsn=735926ca_1" alt="Lee Wung Yew"><br>Lee Wung Yew</td>
