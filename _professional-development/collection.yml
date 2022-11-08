@@ -2,4 +2,5 @@ collections:
   professional-development:
     output: true
     order:
+      - Professional Development Framework for PE and Sports Teachers.md
       - Professional Development.md
