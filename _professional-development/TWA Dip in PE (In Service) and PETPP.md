@@ -28,7 +28,14 @@ Click below to find out more!
     <input type="checkbox" id="accordion22">
     <label for="accordion22">2023 Intake of Diploma in PE (in-service) Programme for Primary School Teachers - Application Closed</label>
     <div>
-    B
+    <p><strong>Application closed</strong></p>
+<p>The Programme seeks to train non-PE teachers to teach PE at the <strong>Primary level</strong> over two three-month periods and a five week Teaching Practice (TP) stint. Successful applicants are obliged to serve their current school for one year upon completion of the Programme. Physical Education (PE) will be listed as their Subject Proficiency 1 thereafter. </p>
+<p>Application for the 2023 Intake has closed. </p>
+<p>Should you have any queries, please feel free to contact the following PESTA Officers:</p>
+<ul>
+<li><a href="mailto:&#x6d;&#x75;&#x68;&#97;&#109;&#x6d;&#97;&#100;&#95;&#104;&#97;&#x66;&#105;&#122;&#95;&#109;&#97;&#97;&#x72;&#x6f;&#x66;&#x40;&#x6d;&#x6f;&#101;&#x2e;&#103;&#x6f;&#118;&#46;&#x73;&#103;">&#x6d;&#x75;&#x68;&#97;&#109;&#x6d;&#97;&#100;&#95;&#104;&#97;&#x66;&#105;&#122;&#95;&#109;&#97;&#97;&#x72;&#x6f;&#x66;&#x40;&#x6d;&#x6f;&#101;&#x2e;&#103;&#x6f;&#118;&#46;&#x73;&#103;</a> </li>
+<li><a href="mailto:&#x6d;&#111;&#101;&#x5f;&#112;&#x65;&#115;&#116;&#x61;&#64;&#x6d;&#111;&#x65;&#46;&#103;&#111;&#118;&#x2e;&#x73;&#103;">&#x6d;&#111;&#101;&#x5f;&#112;&#x65;&#115;&#116;&#x61;&#64;&#x6d;&#111;&#x65;&#46;&#103;&#111;&#118;&#x2e;&#x73;&#103;</a></li>
+</ul>
     </div>
   </li>
   <li>
