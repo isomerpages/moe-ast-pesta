@@ -2,6 +2,8 @@ collections:
   the-pe-fraternity:
     output: true
     order:
+      - Our Pioneers/.keep
+      - Our Pioneers/Our Pioneers.md
       - Our Pioneers/Mr Canagasabai Kunalan.md
       - Our Pioneers/Dr Lau Teng Chuan.md
       - Our Pioneers/Dr Tan Eng Yoon.md
@@ -12,6 +14,4 @@ collections:
       - Our Pioneers/Mr Yap Boon Chuan.md
       - Our Pioneers/Ms Ong Siong Ngo.md
       - Our Pioneers/Dr Quek Jin Jong.md
-      - Our Pioneers/Our Pioneers.md
-      - Our Pioneers/.keep
       - Featured Teachers.md
