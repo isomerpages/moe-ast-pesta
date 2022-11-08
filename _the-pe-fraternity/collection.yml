@@ -2,6 +2,7 @@ collections:
   the-pe-fraternity:
     output: true
     order:
+      - Our Pioneers/Mr Canagasabai Kunalan.md
       - Our Pioneers/Dr Lau Teng Chuan.md
       - Our Pioneers/Dr Tan Eng Yoon.md
       - Our Pioneers/Mr Joseph David.md
