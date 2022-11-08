@@ -41,7 +41,20 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input type="checkbox" id="accordion7">
     <label for="accordion7">Chapter 3: Knowing students as individuals and understanding their needs by Mr Tan Seck Heong</label>
     <div>
-      B
+      <p><strong>FURTHER RESOURCES</strong></p>
+<p>Donnelly, F.C., Mueller, S.S. and Gallahue, D.L. (2017) <em>Developmental Physical Education for All Children: Theory Into Practice</em> (5th edn), Champaign, IL: Human Kinetics.</p>
+<ul>
+<li>This text provides comprehensive coverage of essential information on the developmental approach to teaching physical education for children.</li>
+</ul>
+<p> </p>
+<p>Gallahue, D.L., Ozmun, J.C., and Goodway, J.D. (2012) <em>Understanding Motor Development: Infants, Children, Adolescents, Adults</em> (7th edn), New York, NY: McGraw-Hill.</p>
+<ul>
+<li>This text provides a breakdown of specific movement skills at different phases of development.</li>
+</ul>
+<p>Keenan, T., Evans, S. and Crowley, K. (2016) <em>An introduction to Child Development</em> (3rd edn), London: SAGE.</p>
+<ul>
+<li>This text provides a comprehensive overview of the theories associated with how students grow and develop.</li>
+</ul>
     </div>
   </li>
   <li>
