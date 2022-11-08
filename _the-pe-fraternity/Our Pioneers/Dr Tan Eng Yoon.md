@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/tan-eng-yoon-2-200.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/tan-eng-yoon-2-200.jpeg" alt="Dr Tan Eng Yoon" style="width:50%;">  
   
 </body>
 
@@ -66,7 +66,7 @@ _**Senior Manager (Sports Alumni) of Singapore Sports Council**_
 _**Former Educator**_  
 _**2-time Singapore Olympian**_  
 
-**References**  
+**<u>References</u>**  
   
 Aplin, N. (Eds.). (2005). Singapore Olympians: The complete Who's Who, 1936-2004.Singapore: SNP International Pte. Ltd.  
   
