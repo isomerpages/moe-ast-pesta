@@ -61,7 +61,19 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input type="checkbox" id="accordion8">
     <label for="accordion8">Chapter 4: Learners and Learning in Physical Education: Games-Centred Approaches and Nonlinear Pedagogy by Dr Tan Wee Keat Clara</label>
     <div>
-      A
+      <p><strong>FURTHER RESOURCES</strong>  </p>
+<p>Atencio, M., Chow, JY., Tan, W.K.C. and Lee, C.Y.M. (2014) ‘Using a complex and nonlinear pedagogical approach to design practical primary physical education lessons’, <em>European Physical Education Review</em>, 20 (2), 244-263.</p>
+<ul>
+<li>This paper provides practical sample activities of track and field, tennis and netball components, to illustrate the application of the nonlinear pedagogical principles in designing tasks to challenge students in their learning.</li>
+</ul>
+<p>Button, C., Seifert, L., Chow, J.Y., Davids, K. and Araujo, D. (2020) <em>Dynamics of Skill Acquisition: An Ecological Dynamics Approach</em>, Champaign, IL: Human Kinetics Publishers.</p>
+<ul>
+<li>In this text, chapter 6 provides an overview of nonlinear pedagogy and an understanding of the interaction between constraints on the student. It also explains the pedagogical principles and how they can be used to support teaching and learning. Other chapters in this text provide teachers/coaches with an understanding of motor learning from an ecological dynamics perspectives, on which nonlinear pedagogy is based on. The chapters provide theoretical insights as well as practical examples based on empirical evidence.</li>
+</ul>
+<p>Hopper, T., Butler, J. and Storey, B. (eds.) (2009) <em>TGfU: Simply Good Pedagogy: Understanding a Complex Challenge,</em> Vancouver: University of British Columbia/Physical and Health Education (PHE) Canada.</p>
+<ul>
+<li>Chapters in this text were selected from submitted papers for the fourth Teaching Games for Understanding (TGfU) international conference in 2008, with Understanding Games: Enhancing Learning in Teaching and Coaching, as its theme. They offer an overview of both TGfU and nonlinear pedagogy approaches and insights into the ‘what’, ‘why’ and ‘how of both approaches. The book provides a mixture of theory, practical examples and teacher education and coaching research, towards learner/student-centred and contextualised forms of teaching.</li>
+</ul>
     </div>
   </li>
 	 <li>
