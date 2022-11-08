@@ -121,7 +121,17 @@ The Mentor: Leaving a Legacy
 
 After his retirement, Mr K continues to lead an active and healthy lifestyle. Today at the age of 71, he still observes a daily morning exercise regime of core strength training and cardiovascular conditioning.
 
-![Pic 7](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/pic-7.jpg?sfvrsn=8d0e90e6_0 "Pic 7")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/pic-7.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 2009 YOG Torch Bearer
 
 Mr K’s legacy is defined not only by his sporting achievements but also his influence as a teacher-educator. Many PE teachers will attest to Mr K’s positive influence and impact during their teacher training days. In his unassuming way, Mr K would always be ready to demonstrate and share his skills and knowledge with trainee-teachers.
@@ -132,7 +142,17 @@ Mr Daryl Sung Tze How, PE/PAL Co-ordinator, Cedar Primary School
 
 Mr K taught me the Introduction to Physical Education module, and was also my supervisor during practicum. He left a deep impression on me during my learning years as a trainee teacher. To me, Mr. K is a passionate teacher, mentor and role model who walks the talk. As a teacher-educator, his lectures often included personal examples and testimonies which helped me connect theory with practice in PE and sports. His feedback and advice on my teaching also helped me to see things from a positive perspective and strive for improvement. He encouraged me to always hone my craft as a PE teacher and readily offered help.
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/pic-8.jpg?sfvrsn=9170378f_0 "Pic 8")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/pic-8.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 Embracing Mr K in Cedar Primary School
 
 In 2012, my school designed an exercise programme (Go for H3) in conjunction with the London Olympics. When I sought Mr K’s help to encourage and motivate my students to participate in the programme, his immediate response was “Sure, not a problem. Let me know the date, time and details.”  He shared his Olympic journey with my students in a personal and light-hearted way. For someone who has achieved so much for Singapore sports, Mr K is incredibly humble. He does not boast about his achievements and always emphasises the importance of hard work as well as heart work, that is to genuinely care for the students unconditionally.
