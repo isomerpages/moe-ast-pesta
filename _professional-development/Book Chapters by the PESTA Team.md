@@ -16,3 +16,27 @@ Throughout the book, teachers are encouraged not just to reflect on where they a
 Written for a global audience, the book brings together examples from the Singapore Physical Education and Sports Teacher Academy (PESTA), which provides CPD to teachers in the high-performing Singaporean system. Offering high quality research and practice, this book is a pivotal resource for physical education teachers undertaking CPD all over the world.
 
 Below is a resource list for readers to gain more perspectives for the respective chapter titles.
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">ADMINISTRATION TEAM</label>
+    <div>
+      A
+    </div>
+  </li>
+</ul>
