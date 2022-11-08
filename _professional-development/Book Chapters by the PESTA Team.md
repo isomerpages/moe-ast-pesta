@@ -100,7 +100,25 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input type="checkbox" id="accordion10">
     <label for="accordion10">Chapter 6: Inclusive Physical Education by Ms Kwok Hui Min</label>
     <div>
-      B
+      <p><strong>FURTHER RESOURCES</strong></p>
+<p>Ang, L., Lipponen, L. and May Yin, S. (2021) ‘Critical reflections of early childhood care and education in Singapore to build an inclusive society’, <em>Policy Futures in Education</em>, 19 (2), 139–154, <a href="https://doi.org/10.1177/1478210320971103">https://doi.org/10.1177/1478210320971103</a></p>
+<ul>
+<li>This paper discusses the need for a more critical perspective of the role of early childhood in policy and practice to meet the diverse needs of young children and families as enablers for an educational pathway to inclusion and social equality; hallmarks of a truly inclusive society.</li>
+</ul>
+<p>Coates, J. and Vickerman, P. (2013) ‘A review of methodological strategies for consulting</p>
+<p>children with special educational needs in physical education’, <em>European Journal of Special Needs Education</em>, 28 (3), 333–347, <a href="https://doi.org/10.1080/08856257.2013.797705">https://doi.org/10.1080/08856257.2013.797705</a></p>
+<ul>
+<li>This paper explores a range of methodological strategies for consulting children with SEN about their experiences of and accessibility to physical education. Based on a review of the methodological strategies, the paper concludes with proposed guidelines for including and empowering children with SEN to participate in physical education research, have their voices heard, and ensure teachers and schools respond effectively to their views.</li>
+</ul>
+<p>Gordon, B. (2011) ‘Inclusive physical education’, <em>Physical Educator</em> – <em>Journal of Physical</em></p>
+<p><em>Education New Zealand</em>, 44 (2), 20-21.  </p>
+<ul>
+<li>Gordon discusses the principles of adaptation which, when combined with creative approaches, can lead to successful inclusive experiences for both students and teachers. He also emphasises the importance of only making modifications based on needs and abilities and not disabilities and as much as possible, modifications must not change the intended outcome for the activity and/or negatively impact experiences for other children.</li>
+</ul>
+<p>Vickerman, P. (2012) ‘Including children with special educational needs in physical education: has entitlement and accessibility been realised?’ <em>Disability and Society</em>, 27 (2), 249–262, <a href="https://doi.org/10.1080/09687599.2011.644934">https://doi.org/10.1080/09687599.2011.644934</a></p>
+<ul>
+<li>Vickerman examines the extent to which students with SEN have arrived at utopia in relation to their entitlement and access to physical education. Vickerman identifies four themes central to successful inclusive physical education, whilst suggesting there is still some way to go for children with SEN to have the same opportunities in physical activity as their non-disabled peers.</li>
+</ul>
     </div>
   </li>
 	 <li>
