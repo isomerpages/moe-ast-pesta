@@ -125,7 +125,19 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input type="checkbox" id="accordion11">
     <label for="accordion11">Chapter 7: Assessing Student’s Progress Formatively by Ms Mabel Yong</label>
     <div>
-    C
+    <p><strong>FURTHER RESOURCES</strong></p>
+<p>Gardner, J. (ed.) (2012) <em>Assessment and Learning</em> (2nd edn), London: Sage Publications.</p>
+<ul>
+<li>This book contains chapters authored by members of the Assessment Reform Group (ARG), a group of researchers who focus on ensuring policy and practice take account of current research evidence. The book concentrates on the use of assessment in supporting learning. It provides practice-based theory assessment in lessons, developing motivation and assessment in relation to learning theory.</li>
+</ul>
+<p>Ritchhart, R., Church, M. and Morrison, K. (2011) <em>Making Thinking Visible: How to Promote Engagement, Understanding, and Independence for All Learners</em>, San Fransisco, CA: Jossey-Bass.</p>
+<ul>
+<li>This book considers Visible Thinking, designed to enhance students&#39; thinking and comprehension abilities, develops their thinking dispositions and deepen their understanding of the topics they study.</li>
+</ul>
+<p>Wormeli, R. (2018) <em>Fair isn&#39;t Always Equal: Assessing and Grading in the Differentiated Classroom</em>, Portland, Maine: Stenhouse Publishers.</p>
+<ul>
+<li>This book provides a catalyst for serious reflection on current grading and assessment practices in differentiated classrooms. Coherent and effective standards-based grading practices for a high-stakes, accountability-focused world is also outlined. It clearly explains the principles behind best grading practices so that you are ready for all grading questions or scenarios that you may encounter in your lessons and schools.</li>
+</ul>
     </div>
 	</li>  
   <li>
