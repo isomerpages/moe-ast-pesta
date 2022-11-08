@@ -80,7 +80,20 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Chapter 5: Identifying and Developing Students' Readiness to Learn by Mr Justin Wakefield and Dr Julia Lawrence</label>
     <div>
-    C
+    <p><strong>FURTHER RESOURCES</strong></p>
+<p>Muijs, D. and Bokhove, C. (2020) <em>Metacognition and Self-regulation: Evidence Review</em>, London: Education Endowment Foundation, viewed 2 May 2021,</p>
+<p>&lt;<a href="https://educationendowmentfoundation.org.uk/public/files/Metacognition_and_self-regulation_review.pdf">https://educationendowmentfoundation.org.uk/public/files/Metacognition_and_self-regulation_review.pdf</a>&gt;</p>
+<ul>
+<li>This evidence based publication provides definitions of key terminology that is becoming more commonly used in schools. It looks at how metacognition and self-regulation develop over time, and offers examples of effective strategies that can be used to support learning and development.</li>
+</ul>
+<p>Quigley, A, Muijs, D. and Stringer, E. (2018) <em>Metacognition and Self-regulated Learning: Guidance Report,</em> London: Education Endowment Foundation, viewed 2 May 2021, &lt;<a href="https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/">https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/</a> &gt;</p>
+<ul>
+<li>This guidance report provides easily accessible information regarding metacognition and self-regulation. Throughout, specific case studies are provided which demonstrate how strategies can be embedded in practice.</li>
+</ul>
+<p>Rosenshine, B. (2012) ​‘Principles of instruction: Research-based strategies that all teachers should know’, <em>American Educator</em>, 36 (1), 12 – 20.</p>
+<ul>
+<li>This research based article presents ten instruction principles that support students to learn effectively. At the end of the article a list of 17 principles are included that teachers can use within their teaching.</li>
+</ul>
     </div>
 	</li>  
   <li>
@@ -162,18 +175,3 @@ Below is a resource list for readers to gain more perspectives for the respectiv
   </li>
 </ul>
 
-**FURTHER RESOURCES**
-
-Muijs, D. and Bokhove, C. (2020) _Metacognition and Self-regulation: Evidence Review_, London: Education Endowment Foundation, viewed 2 May 2021,
-
-<[https://educationendowmentfoundation.org.uk/public/files/Metacognition\_and\_self-regulation\_review.pdf](https://educationendowmentfoundation.org.uk/public/files/Metacognition_and_self-regulation_review.pdf)\>
-
-*   This evidence based publication provides definitions of key terminology that is becoming more commonly used in schools. It looks at how metacognition and self-regulation develop over time, and offers examples of effective strategies that can be used to support learning and development.
-
-Quigley, A, Muijs, D. and Stringer, E. (2018) _Metacognition and Self-regulated Learning: Guidance Report,_ London: Education Endowment Foundation, viewed 2 May 2021, <https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/ >
-
-*   This guidance report provides easily accessible information regarding metacognition and self-regulation. Throughout, specific case studies are provided which demonstrate how strategies can be embedded in practice.
-
-Rosenshine, B. (2012) ​‘Principles of instruction: Research-based strategies that all teachers should know’, _American Educator_, 36 (1), 12 – 20.
-
-*   This research based article presents ten instruction principles that support students to learn effectively. At the end of the article a list of 17 principles are included that teachers can use within their teaching.
