@@ -25,7 +25,6 @@ Dr Lau led by example and this influenced his staff as well. For instance, he wo
 Dr Lau retired in 2002.  
 
 Recollections of Dr Lau Teng Chuan by former PE students:  
-
 ------------------------------------------------------------
 
 *   **A Teacher, Mentor and Friend**  
@@ -57,7 +56,7 @@ Recollections of Dr Lau Teng Chuan by former PE students:
       
     
 
-**References**  
+**<u>References</u>**  
   
 Aplin, N. (Eds.). (2009). Perspectives on Physical Education and Sports Science in Singapore: An Eye on the Youth Olympic Games 2010. Singapore: McGraw-Hill Education (Asia).   
   
@@ -69,7 +68,6 @@ Teo, E. (2001). A History of Physical Education in Singapore since 1819. 
 Yap, B. C. (1994). The Man at the Steering Wheel of SPEA, 1975 – 1992: Mr Lau Teng Chuan. News – A publication of the Singapore Physical Education Association, 1, 4 & 12.  
 
 A Note of Appreciation  
-
 -------------------------
 
 PESTA would like to thank Dr Lau Teng Chuan for the interviews on 1 & 14 July 2011. We would also like to thank Mr Robert Tan and Mr Antony Gomez for their sharing on Dr Lau Teng Chuan.
