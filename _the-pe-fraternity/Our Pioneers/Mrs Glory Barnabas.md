@@ -54,7 +54,7 @@ I attribute my development as an athlete to her constant motivation and encourag
   
 Mrs Barnabas's passion for running and sports left such a lasting impression upon me that it was a natural decision for me to become a PE teacher after my ‘A’ Levels. She has impacted many lives and made a big difference with her whole-hearted dedication and commitment as an educator, and I'm proud to say that I am of them!   
   
-About Ms Emily Huang  
+<u>About Ms Emily Huang</u>
   
 Ms Emily Huang attended School of Physical Education (SPE) from 1996 to 2000 as a trainee PE teacher. Upon graduation, she was posted to CHIJ Katong Convent where she taught for 9 years. She received the 2007 Outstanding Youth in Education Award (OYEA) in recognition of her passion and commitment in the teaching profession. At the end of 2009, Emily bumped into Mrs Glory Barnabas near CHIJ Katong Convent and invited her to teach PE in the school.  Emily is currently Head of Department (PE & CCA) at Yishun Town Secondary School.
 
@@ -78,7 +78,7 @@ _"Mrs Barnabas is always willing to share her experience as an athlete through a
 _"Mrs Barnabas taught us how to take good care of our bodies and the importance of stretching before exercising. She also taught us the importance of taking good care of our ankles. She makes PE lessons fun by letting us play games."_  
 \- Megan Yeo, CHIJ Katong Convent, Sec. 206, 2011  
   
-**References**  
+**<u>References</u>**  
   
 Colours of Passion: Retrieved on 22 December 2011: http://lastingstrides.com/lastingstrides/Book/coloursofpassion.pdf  
   
