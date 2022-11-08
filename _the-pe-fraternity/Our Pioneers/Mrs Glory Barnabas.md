@@ -15,11 +15,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/glory-outrunning.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/glory-outrunning.jpeg" alt="Glory outrunning her bigger competitors at an inter-club meet in 1970s" style="width:70%;">  
   
 </body>
 
-**Glory outrunning her bigger competitors at an inter-club meet in 1970s**
+<p style="text-align:center;"><strong>Glory outrunning her bigger competitors at an inter-club meet in 1970s</strong></p>
 
 _Passion, Commitment and Lifelong Pursuit of Excellence:_  
   
@@ -40,7 +40,7 @@ img {
   
 </body>
 
-**Practising her stride-form at the Farrer Park track in the 1980s.**
+<p style="text-align:center;"><strong>Practising her stride-form at the Farrer Park track in the 1980s.</strong></p>
 
 Glory started her teaching career in Charlton Primary School in 1961. In 1986, she was posted to Tampines Junior College (TPJC) as Head of Department (PE). She helped set up the PE Department in this new Junior College and continued to serve there until her retirement in December 2003. While her accomplishments on the track are readily acknowledged, her quiet service in teaching PE for 40 years should also be celebrated.  
   
