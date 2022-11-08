@@ -254,14 +254,115 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input id="accordion17" type="checkbox">
     <label for="accordion17">Chapter 13: Professional Development: What Is It And How Can It Work For Me? by Ms Joanna Phan Swee Lee</label>
     <div>
-    C
+    <p><strong>FURTHER RESOURCES</strong></p>
+<p>Fuller, A. and Unwin, L. (2007) ‘Expansive and restrictive learning environments’, in K. Evans, P. Hodkinson, H. Rainbird and L. Unwin (eds.) <em>Improving Workplace Learning</em>, Abingdon: Routledge, pp. 27-48.</p>
+<ul>
+<li>This chapter introduces a framework called the expansive-restrictive continuum which provides a list of factors that influence the quality of learning at a workplace.</li>
+</ul>
+<p>Skule, S. (2004) ‘Learning conditions at work: a framework to understand and assess informal learning in the workplace’, <em>International Journal of Training and Development</em>, 8 (1), 8-20.</p>
+<ul>
+<li>This article offers another perspective of conditions for learning at the workplace and provides a list of seven conditions.</li>
+</ul>
     </div>
 	</li>  
   <li>
     <input id="accordion18" type="checkbox">
     <label for="accordion18">Chapter 14: Being a Mentor by Mr Fazlin Jaya Indra</label>
     <div>
-      B
+      <p><strong>FURTHER RESOURCES</strong></p>
+<p>Aguilar, E. (2013). <em>The Art of Coaching: Effective strategies for school</em>. San Francisco: Jossey-Bass.</p>
+<ul>
+<li>A practical resource that offers the foundational skills and tools needed by new coaching educators, as well as presenting an overview of the knowledge and theory base behind the practice.</li>
+</ul>
+<p>Armour, K. M., and Yelling, M. (2007). Effective professional development for physical education teachers: The role of informal, collaborative learning. <em>Journal of Teaching in Physical Education</em>, 26, 177-200.</p>
+<ul>
+<li>This paper reports data from the third phase of a 2-year investigation into continuing professional development (CPD) for physical education teachers in England. The most striking finding was the high value they placed on learning informally (yet strategically) with and from each other.</li>
+</ul>
+<p><a href="https://www.ascd.org/search?query=coaching%20and%20mentoring&amp;page=1&amp;configure%5BhitsPerPage%5D=12&amp;refinementList%5Bkeywords%5D%5B0%5D=Coaching%20and%20mentoring">Association for Supervision and Curriculum Development (ASCD)</a>.</p>
+<ul>
+<li>A non-profit organisation founded in 1943 that has members including superintendents, principals, teachers, and teacher educators. It offers a repository of publications and references on mentoring.</li>
+</ul>
+<p>Bechtel, P. A., and O’Sullivan, M. (2006). Effective professional development – What we know now. <em>Journal of Teaching in Physical Education</em>, 25(4), 363-378.</p>
+<ul>
+<li>This article presented several theoretical frameworks related to teacher change to better understand teachers’: Fullanʼs theory of teacher change; Shaw, Davis, and McCartyʼs theory</li>
+</ul>
+<p>of the teacher change process; and Guskeyʼs model of teacher change.</p>
+<p>Capel, S. and Lawrence, J. (2018). <em>Mentoring Physical Education Teachers in the Secondary School: A Practical Guide</em>, Abingdon: Routledge.</p>
+<ul>
+<li>This book looks at knowledge and skills every mentor needs to guide beginning teachers. It offers practical tools such as lesson plans and feedback guides, observation sheets, and examples of dialogue with beginning physical education teachers.</li>
+</ul>
+<p>Centre for the Use of Research and Evidence in Education (2014). National framework for mentoring and coaching. <a href="http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf">http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf</a>  </p>
+<ul>
+<li>This article presented ten principles, based on evidence from research and consultation, to inform mentoring and coaching programmes in schools and to help increase the impact of continuing professional development on student learning.</li>
+</ul>
+<p>Chao, G. T. (1997). Mentoring phases and outcomes. <em>Journal of Vocational Behavior</em>, 51, 15-28.</p>
+<ul>
+<li>This article studied mentoring relationships that are theorized to evolve through several stages over time. Data from individuals, who were mentored and not mentored, were compared and results showed consistent differences between them on career outcomes, job satisfaction, organizational socialization, and income.</li>
+</ul>
+<p>Clutterbuck, D., and Ragins, B.R. (2002). <em>Mentoring and diversity</em>. Oxford: Heinemann.</p>
+<ul>
+<li>The book illustrates the importance of mentoring as a proactive tool in diversity initiatives, and demonstrates how mentoring can be used to recruit, develop and retain a diverse and innovative workforce.</li>
+</ul>
+<p>Ensher, E. A., and Murphy, S. E. (2011). The Mentoring Relationship Challenges Scale (MRCS): The impact of mentoring stage, type and gender. <em>Journal of Vocational Behavior</em>, 79, 253-266.</p>
+<ul>
+<li>The qualitative study investigated the role of relational challenges in various stages and types of mentoring relationships. The MRCS measured three factors of relational challenges: Demonstrating Commitment and Resilience; Measuring Up to a Mentor&#39;s Standards; and Career Goal and Risk Orientation.</li>
+</ul>
+<p>Hargreaves, A., and Fullan, M. (2012). <em>Professional Capital: Transforming teaching in every school</em>, New York: Teachers College Press.</p>
+<ul>
+<li>The ideas-driven, evidence-based, and strategically powerful book explore a new ground-breaking agenda to transform future of teaching. It includes action guidelines for classroom teachers and school leaders.</li>
+</ul>
+<p>Hobson, A. J., Ashby, P., Malderez, A., &amp; Tomlinson, P. D. (2009). Mentoring beginning teachers: What we know and what we don’t. <em>Teaching and Teacher Education</em>, 25, 207-216.</p>
+<ul>
+<li>This article reports the findings of a review of the international research literature on mentoring beginning teachers. Research identifies a range of potential benefits and costs associated with mentoring.</li>
+</ul>
+<p>Howells, K., Lawrence, J. and Roden, J. (eds.) (2021). <em>Mentoring Teachers in the Primary School,</em> Abingdon: Routledge.</p>
+<ul>
+<li>This book aims to help mentors of trainee and newly qualified primary school teachers to both develop their own mentoring skills and provide the essential guidance their beginning teachers need as they navigate the roller-coaster of the first years in teaching. Offering tried and tested strategies based on the best research, it covers the knowledge, skills and understanding every mentor needs.</li>
+</ul>
+<p>Hudson, P. (2013). Mentoring as professional development: Growth for both mentor and mentee. <em>Professional Development in Education</em>, 39(5), 771-783.</p>
+<ul>
+<li>Mentoring provides one way for embedding cost-effective professional development. This mixed-method study includes surveying mentor teachers on a five-part Likert scale and interviews with experienced mentors to investigate professional development for mentors as a result of the mentoring process.</li>
+</ul>
+<p>Jaspers, W. M., Meijer, P. C., Prins, F., and Wubbels, T. (2014). Mentor teachers: Their perceived possibilities and challenges as mentor and teacher. <em>Teaching and Teacher Education</em>, 44, 106-116.</p>
+<ul>
+<li>This interview study, including seven case studies of mentor teachers in primary education, explores the possibilities and challenges these mentor teachers perceive when they (sequentially and simultaneously) combine the teacher and mentor roles.</li>
+</ul>
+<p>Kalbfleisch, P. J. (2007). Mentoring enactment theory: Describing, explaining, and predicting communication in mentoring relationships. In B. R. Ragins &amp; K. E. Kram (Eds.), <em>The handbook of mentoring at work: Theory, research, and practice</em>, pp. 499−518. Thousand Oaks, CA: Sage Publications</p>
+<ul>
+<li>The mentoring enactment theory emerges from the study of communication and personal relationships. The theory proposes proactive communicative strategies that can be used by mentors and by protégés to initiate, develop, maintain, and repair mentoring relationships.</li>
+</ul>
+<p>Kram, K. E. (1983). Phases of the mentor relationship. <em>Academy of Management Journal</em>, 26(4), 608-625.</p>
+<ul>
+<li>This article presented a conceptual model derived from an intensive biographical interview study of mentoring relationships to highlight the success phases of a developmental relationship.</li>
+</ul>
+<p>New Teacher Centre (n.d.). High Quality Mentoring and Instructional Coaching Practices. <a href="https://newteachercenter.org/resources/high-quality-mentoring-and-instructional-coaching-practices/">https://newteachercenter.org/resources/high-quality-mentoring-and-instructional-coaching-practices/</a></p>
+<ul>
+<li>A resource for education leaders seeking to create and/or improve programs with coaching practices that result in improved student learning, equity-focused teaching practice, and teacher retention.</li>
+</ul>
+<p>Ng, P. T. (2004). <em>Grow Me! Coaching for Schools</em>. Singapore: Pearson.</p>
+<ul>
+<li>The book discusses the gist of coaching, steps involved in coaching, attributes of a good coach, factors that schools need to consider in implementing coaching, application of the GROW ME model to both staff development.</li>
+</ul>
+<p>Rink, J. (2014) (7th edition). <em>Teaching Physical Education for Learning</em>. New York: McGrawHill.</p>
+<ul>
+<li>The book is content specific and emphasizes teaching strategies and theories to give teachers a foundation for designing an effective learning experience.</li>
+</ul>
+<p>Sempowicz, T., &amp; Hudson, P. (2011). How can a mentor’s personal attributes and pedagogical knowledge develop a preservice teacher’s behaviour management? <em>International Journal of Learning</em>, 18(1), 303-314.</p>
+<ul>
+<li>This study presents the importance of a mentor’s personal attributes and pedagogical knowledge for developing a mentee’s teaching practices and investigates how mentoring may facilitate the development of a mentee’s behaviour management strategies.</li>
+</ul>
+<p>Tolhurst, J. (2010). <em>The Essential Guide to Coaching and Mentoring: Practical Skills for Teachers</em> (2nd ed.). NY: Pearson Education.</p>
+<ul>
+<li>This book provides detailed, realistic and helpful examples of effective practice; clear and authoritative guidance, and very useful and engaging case studies. This guide is a powerful resource to support the widespread and successful application of coaching and mentoring.</li>
+</ul>
+<p>Wright, S. C., &amp; Smith, D. E. (2000). A case for formalized mentoring. <em>Quest -Illinois- National Association for Physical Education in Higher Education</em>, 52(2), 200-213.</p>
+<ul>
+<li>The article shares a practical application of mentoring that exists for their students in the field of sport psychology and provide examples of current mentoring dyads within kinesiology and physical education in higher education.</li>
+</ul>
+<p>Zachary, L. J. (2005). <em>Creating a Mentoring Culture: The Organisation Guide</em>. San Francisco: Jossey-Bass.</p>
+<ul>
+<li>As a mentoring resource, the book is filled with step-by-step guidance and practical advice to embed mentoring within schools and organization.</li>
+</ul>
     </div>
   </li>
 	 <li>
