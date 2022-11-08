@@ -369,14 +369,50 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input id="accordion19" type="checkbox">
     <label for="accordion19">Chapter 15: Leading and Managing for Effective Continuing Professional Development in Physical Education by Mr Mark Chan and Mr Kiran Kumar Gomez</label>
     <div>
-    C
+    <p><strong>Further Resources</strong></p>
+<p>Hanover Research (2017) <em>Best Practices in Professional Development</em>, viewed 21 June 2021,<br>&lt;<a href="https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf">https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf</a>&gt;  </p>
+<ul>
+<li>This report looks at best practice literature on effective CPD. It includes delivery modes, engagement strategies and evaluation practices. It also presents how three school districts in the United States of America implement best practices, informed by research, in CPD.</li>
+</ul>
+<p>DuFour, R., DuFour, R., Eaker, R.E., Mattos, M.A. and Muhammad, A. (2021) <em>Revisiting Professional Learning Communities at Work: Proven Insights for Sustained, Substantive School Improvement</em> (2nd edn), Bloomington, IN: Solution Tree Press.  </p>
+<ul>
+<li>This book shares insights and perspectives in managing professional learning communities (PLCs) for sustained improvements that translate into positive student learning. It should be particularly interesting for readers who have prior experience in leading and managing PLCs.</li>
+</ul>
+<p>Academy of Singapore Teachers (2018) <em>Professional Learning Communities,</em> viewed 21 June 2021,<br>&lt;<a href="/professional-excellence/professional-learning-communities/">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/professional-learning-communities/</a>&gt;  </p>
+<ul>
+<li>This website details how PLCs can be led and managed in the Singapore context. Most Singapore schools have come on board to practice PLCs as a means of facilitating continual CPD, build teachers’ capacity and enhance student learning.</li>
+</ul>
     </div>
 	</li>  
   <li>
     <input id="accordion20" type="checkbox">
     <label for="accordion20">Chapter 16: Continuing Professional Development (CPD): Supporting the Delivery of Quality Teaching in Physical Education by Ms Wendy Koh</label>
     <div>
-      B
+      <p><strong>Further Resources</strong></p>
+<p>Batlle, J. and Miller, P. (2017) ‘Video enhanced observation and teacher development: Teachers’ beliefs as technology users’, <em>EDULEARN17 Proceedings</em>, <em>1</em>.</p>
+<ul>
+<li>This paper outlines the use of the VEO (Video Enhanced Observation) app and how it can benefit teacher professional development,</li>
+</ul>
+<p>Beavers, A. (2009) ‘Teachers as learners: Implications of adult education for professional development’, <em>Journal of College Teaching and Learning (TLC</em>), 6 (7), 25-30.</p>
+<ul>
+<li>Beavers’ paper outlines briefly some adult education principles offering at the same time, simple, applicable suggestions for teacher professional development programs such as: key characteristics of adult learners, self-directed learning, transformative learning and critical reflection.</li>
+</ul>
+<p>Cranton, P. (1996) <em>Professional Development as Transformative Learning. New Perspectives for Teachers of Adults</em>, San Francisco, CA: Jossey-Bass.</p>
+<ul>
+<li>This book offers practical ideas for adult educators on how to stimulate and support their own development as educators and better understand the process of professional development as adult learning. It includes a chapter that focusses on Mezirow&#39;s (1991) theory of transformation to the development of adult education practice</li>
+</ul>
+<p>Grenny, J., Patterson, K., Maxfield, D., McMillan, R. and Switzler, A. (2013) <em>Influencer: The New Science of Leading Change</em> (2nd edn), New York: McGraw-Hill.</p>
+<ul>
+<li>The authors of this book are leaders of VitalSmarts, a leadership training company known for its innovative best practices in providing training products and services. Their book outlines the influence process and includes robust strategies for making change inevitable in various aspects of your life be it personal, or work. It provides 6 strategies that can be used for changing both thoughts and actions of individuals.</li>
+</ul>
+<p>Rodríguez, J.B. (2016) ‘An interview with Paul Seedhouse on video enhanced observation (VEO): a new tool for teacher training, professional development and classroom research’, <em>Bellaterra Journal of Teaching &amp; Learning Language &amp; Literature</em>, 9 (3), 90-97.</p>
+<ul>
+<li>This documented interview provides details on the VEO tool and its use in improving teacher professional development.</li>
+</ul>
+<p>Thorburn, M. (ed.) (2017) <em>Transformative Learning and Teaching in Physical Education</em>, Abingdon: Routledge.</p>
+<ul>
+<li>This book offers readers an in-depth understanding of transformational learning and to consider the implications for physical education. A series of professional perspectives will appeal to academics, policymakers, teacher educators and teachers in the fields of physical education, health and well-being, and postgraduate students studying these subject areas.</li>
+</ul>
     </div>
   </li>
 </ul>
