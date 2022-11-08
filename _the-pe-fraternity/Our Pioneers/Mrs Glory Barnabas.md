@@ -36,7 +36,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/practising-her-stride-form.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/practising-her-stride-form.jpeg" alt="School Uniform" style="width:70%;">  
   
 </body>
 
@@ -65,11 +65,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/teaching-pe.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/teaching-pe.jpeg" alt="Teaching PE in 2012: Glory demonstrating push ups with a gym ball to her Sec 5 class." style="width:70%;">  
   
 </body>
 
- **Teaching PE in 2012: Glory demonstrating push ups with a gym ball to her Sec 5 class.**
+<p style="text-align:center;"><strong>Teaching PE in 2012: Glory demonstrating push ups with a gym ball to her Sec 5 class.</strong></p>
 
 **Recollections by present students:**  
   
