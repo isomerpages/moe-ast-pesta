@@ -4,13 +4,16 @@ permalink: /pesta/be-connected-with-the-fraternity/our-pioneers/
 description: ""
 third_nav_title: Our Pioneers
 ---
-![C Kunalan](/images/pic-0-(3).jpeg)
-
-_'My spirit is willing – so my flesh keeps trying’_
-
-_Mr C. Kunalan_
-
-_Teacher/ Athlete/ Mentor_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/pic-0-(3).jpeg" alt="Mr Canagasabai Kunalan" style="width:75%;">  
+ 
+<p style="text-align:center;"><em>'My spirit is willing – so my flesh keeps trying’</em><br>Mr C. Kunalan<br>Teacher/ Athlete/ Mentor</p>
 
 Mr Canagasabai Kunalan, affectionately known as Mr K, was born on October 23, 1942, in a rubber estate in Johore, Malaysia. A household name in Singapore Track and Field and a highly regarded educator, this special feature looks at Mr K as a Teacher, Athlete and Mentor. 
 
