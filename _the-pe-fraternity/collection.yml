@@ -2,6 +2,7 @@ collections:
   the-pe-fraternity:
     output: true
     order:
+      - PESTA Teacher Attributes.md
       - Our Networks/Head of Department (HOD).md
       - Our Networks/Teacher Leader (TL).md
       - Our Networks/.keep
