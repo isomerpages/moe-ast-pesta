@@ -2,5 +2,6 @@ collections:
   professional-development:
     output: true
     order:
+      - Workshops for PE and Sports CCA Teachers.md
       - Professional Development Framework for PE and Sports Teachers.md
       - Professional Development.md
