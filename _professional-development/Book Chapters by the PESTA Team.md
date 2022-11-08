@@ -144,14 +144,44 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input type="checkbox" id="accordion12">
     <label for="accordion12">Chapter 8: Intentionality: The Key to Effective Affective Learning by Mr Hanif Abdul Rahman</label>
     <div>
-      B
+      <p><strong>FURTHER RESOURCES</strong></p>
+<p>CASEL (Collaborative for Academic, Social, and Emotional Learning) website, viewed 27 July 2021, &lt;<a href="https://casel.org/">https://casel.org</a>&gt;</p>
+<ul>
+<li>CASEL is a source for knowledge about high-quality, evidence-based SEL. It supports teachers and policy leaders and enhances the experiences and outcomes for all students. The website contains articles, researches and teaching resources for SEL</li>
+</ul>
+<p>Krathwohl, D. (2002) ‘A revision of Bloom&#39;s taxonomy: An overview’, <em>Theory into Practice,</em> 41, 212-218; and</p>
+<p>Krathwohl, D., Bloom, B. and Masia, B. (1964) <em>Taxonomy of Educational Objectives: Handbook II. Affective Domain</em>, New York, NY: McKay.</p>
+<ul>
+<li>Krathwohl’s taxonomy can be used as a frame to formatively assess students as you facilitate the development of SEC. Student behaviours can be observed and referenced across the five levels of the taxonomy.</li>
+</ul>
+<p>TPSR (Teaching Personal and Social Responsibility) Alliance, viewed 27 July 2021, <a href="https://www.tpsr-alliance.org">https://www.tpsr-alliance.org</a></p>
+<ul>
+<li>Expanding on Hellison’s TPSR (Teaching Personal and Social Responsibility) model, the website offers a platform for sharing resources, ideas and strategies for utilising physical education, sports and exercise as vehicles for teaching youths to be more responsible.</li>
+</ul>
     </div>
   </li>
 	 <li>
     <input type="checkbox" id="accordion13">
     <label for="accordion13">Chapter 9: You as the Teacher: Teacher Identity and How it Relates to Your Philosophy of Teaching by Mr Teng Tse Sheng</label>
     <div>
-    C
+    <p><strong>FURTHER RESOURCES</strong></p>
+<p>Knowing who you are, your beliefs and assumptions that guide your teaching is an on-going process. There is a whole body of knowledge on teaching beliefs and finding your inner self to support you in this journey of self-discovery. As a start, these books and articles may be enriching and helpful in your journey.</p>
+<p>Butler, J. (2005) ‘TGfU pet-agogy: old dogs, new tricks and puppy school’, <em>Physical Education and Sport Pedagogy</em>, 10 (3), 225-240.</p>
+<ul>
+<li>This is an excellent read, especially if you are in the process of adopting a new pedagogical approach or model in your teaching. In this article, Butler explores the journey of both beginning and experienced teachers in adopting Teaching Games for Understanding in order to examine the essential ingredients to teacher change. She argues that the opportunity to discuss teachers’ core beliefs is key to teacher change.</li>
+</ul>
+<p>Fives, H., and Buehl, M. (2012) ‘Spring cleaning for the “messy” construct of teachers’ beliefs: What are they? Which have been examined? What can they tell us?’ in K.R. Harris, S. Graham and T. Urdan (eds.) <em>APA Educational Psychology Handbook</em>, Washington, DC: APA, pp. 471-499.</p>
+<ul>
+<li>This may be by far the most comprehensive review of the research and thoughts of scholars on teaching beliefs. The article will give you  good grounding in  teaching beliefs and the arguments surrounding it, supported by research evidence. If you are keen to delve deeper into the impact of teaching beliefs on teacher growth and student outcomes, this is the chapter you do not want to miss.</li>
+</ul>
+<p>Palmer, P. (1998) <em>The Courage to Teach: Exploring the Inner Landscape of a Teacher’s Life</em>, San Francisco: John Wiley and Sons.</p>
+<ul>
+<li>Palmer argues passionately in this book that because good teaching cannot be reduced to techniques, it is important to know who you are as a teacher. This book should help you reconnect with your love for teaching by taking you through a journey of self-discovery. This book is a classic, and another must read for all teachers. After reading the book you will not only be inspired, but will end up knowing yourself a little better.</li>
+</ul>
+<p>Pratt D., Smulders D. and Associates (2016) <em>Five Perspectives on Teaching: Mapping a Plurality of the Good</em> (2nd edn), Malabar, Florida: Krieger Publishing Company.</p>
+<ul>
+<li>The information you find in the TPI website is only the tip of the iceberg. If you are keen to gain a deeper understanding of the five perspectives, the philosophy behind the TPI, and the framework that guided the original research in teaching perspectives, then this book is a must read.</li>
+</ul>
     </div>
 	</li>  
   <li>
