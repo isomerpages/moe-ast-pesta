@@ -17,7 +17,7 @@ img {
   
 </body>
 
-**Objectives:**
+**<u>Objectives:</u>**
 
 *   Raise awareness and actualisation of the roles of TLs, ie, Pedagogical Leader, Mentor & Collaborator;
 *   Deepen professional knowledge through networking; and
