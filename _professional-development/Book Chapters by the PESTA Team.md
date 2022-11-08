@@ -22,7 +22,19 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Chapter 2: Continuity and Progression - What do my students need to know and understand to make progress? by Ms Karen Low Lai Fong</label>
     <div>
-    C
+    <p><strong>FURTHER RESOURCES</strong></p>
+<p>Lund, J. and Tannehill, D. (2014) <em>Standards-based Physical Education Curriculum Development</em>, New York: Jones and Bartlett Publishers.</p>
+<ul>
+<li>This book contains chapters authored by experts with a wealth of experience designing and implementing thematic curriculum. The book concentrates on the process of building a physical education curriculum and provides theories on various curriculum models for understanding and enactment.</li>
+</ul>
+<p>Rink, J. (2014) <em>Teaching Physical Education for Learning</em>, Boston, MA: McGraw-Hill Higher Education.</p>
+<ul>
+<li>This book focuses on teaching as an interactive, content-specific process, from kindergarten through grade 12. It offers teaching strategies and theories to enable teachers in building a foundation for designing effective learning experiences.</li>
+</ul>
+<p>Tomlinson, C.A., Moon, T.R. and Imbeau, M.B. (2015) <em>Assessment and Student Success in a Differentiated Classroom</em>, Alexandria, Virginia: ASCD.</p>
+<ul>
+<li>This paper highlights attributes of quality classroom practice with particular attention to critical intersections between formative assessment and instructional planning for teachers who seek to support the success of a broad range of learners in today’s culturally and academically diverse classrooms.</li>
+</ul>
     </div>
 	</li>  
   <li>
@@ -124,3 +136,4 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     </div>
   </li>
 </ul>
+
