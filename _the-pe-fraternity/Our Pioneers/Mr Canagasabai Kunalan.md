@@ -11,15 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic-0-(3).jpeg)" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-> _'My spirit is willing – so my flesh keeps trying’_
-
-> Mr C. Kunalan
-
-> Teacher/ Athlete/ Mentor
+<body><img src="/images/pic-0-(3).jpeg" alt="Mr Canagasabai Kunalan" style="width:75%;">  
+ 
+<p style="text-align:center;"><em>'My spirit is willing – so my flesh keeps trying’</em><br>Mr C. Kunalan<br>Teacher/ Athlete/ Mentor</p>
 
 Mr Canagasabai Kunalan, affectionately known as Mr K, was born on October 23, 1942, in a rubber estate in Johore, Malaysia. A household name in Singapore Track and Field and a highly regarded educator, this special feature looks at Mr K as a Teacher, Athlete and Mentor.
 
@@ -39,11 +33,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic-2.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/pic-2.jpeg" alt="Cross Country Race for DSTS athletes" style="width:75%;">  
   
 </body>  
 
-Cross Country Race for DSTS athletes
+<p style="text-align:center;">Cross Country Race for DSTS athletes</p>
 
 By the time Mr K was posted to the former Dunearn Secondary Technical School (DSTS) and took charge of the school’s Track and Field team, he had already developed a wider repertoire of training methods which were considered advanced for his time. He combined endurance, speed and strength training for his students, for example by making them run from the school which was then located along Upper Bukit Timah Road to MacRitchie Reservoir, coupled with 300m interval slope runs and 103 steps workouts.  
   
