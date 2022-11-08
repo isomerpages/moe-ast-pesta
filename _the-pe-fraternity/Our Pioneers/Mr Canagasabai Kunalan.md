@@ -4,7 +4,16 @@ permalink: /pesta/be-connected-with-the-fraternity/our-pioneers/mr-canagasabai-k
 description: ""
 third_nav_title: Our Pioneers
 ---
-![Pic 0 (3)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/pic-0-(3).jpg?sfvrsn=86b91563_4 "Pic 0 (3)")
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/pic-0-(3).jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
 > _'My spirit is willing – so my flesh keeps trying’_
 
@@ -23,14 +32,34 @@ Mr K shared candidly that if not for the acute shortage of teachers during the 1
 
 When Mr K joined the former Tiong Bahru School, he was asked to teach Mathematics, English Language, Physical Education and Music. He reminisced how he struggled to prepare Mathematics lessons because it was his weakest subject as a student. Despite his unfamiliarity with badminton, Mr K was made the badminton headmaster for the school. Badminton training sessions then were held in the evenings at the open-air car park aided by flood lights. According to Mr K, attendance at the daily badminton training sessions gradually soared, and one day, his principal called him into the office to request that badminton training sessions be reduced because the school could not afford the rising electric bill.
 
-![Pic 2](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/pic-2.jpg?sfvrsn=9ffa34d9_0 "Pic 2")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/pic-2.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>  
+
 Cross Country Race for DSTS athletes
 
 By the time Mr K was posted to the former Dunearn Secondary Technical School (DSTS) and took charge of the school’s Track and Field team, he had already developed a wider repertoire of training methods which were considered advanced for his time. He combined endurance, speed and strength training for his students, for example by making them run from the school which was then located along Upper Bukit Timah Road to MacRitchie Reservoir, coupled with 300m interval slope runs and 103 steps workouts.  
   
 To this day, his students from the former Dunearn Secondary Technical School still talk fondly about their training sessions at the annual barbeque organise by Mr K.
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/pic-3.jpg?sfvrsn=4df4e210_0 "Pic 3")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/pic-3.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 Annual BBQ with DSTS Athletes
 
  
@@ -38,12 +67,32 @@ Annual BBQ with DSTS Athletes
 The Athlete: Blazing The Trail
 ------------------------------
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/pic-4.jpg?sfvrsn=8b5a15b8_0 "Pic 4")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/pic-4.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 On the practice track at Kallang (Photo courtesy of SSC)
 
 Considered one of Singapore’s greatest ever athletes on the track, Mr K was named Sportsman of the Year in 1968 and 1969. His remarkable feat of 10.38 seconds in the 1968 Mexico City Olympic Games 100 metres was a national record that stood for 33 years. Throughout his sporting career, he won 15 SEA Games and 5 Asian Games medal.  
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/pic-5-1.jpg?sfvrsn=c9608649_0 "Pic 5-1")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/pic-5-1.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 1961/62 Teachers’ Union Soccer Team
 
 Mr K started his sporting career at the late age of 20 years. In fact, he was more interested in soccer than running. While training with the Singapore Teachers’ Union soccer team, Mr K was talent-spotted by the late Dr Tan Eng Yoon who noticed him moving very quickly on the field. Dr Tan saw great potential in Mr K as an athlete and invited him to join the national squad for training. Feeling unworthy to be part of the squad, Mr K gave excuses for his absence from training but finally gave in after persistent coaxing by Dr Tan and Mr Chia Hearn Kok, a former national athlete. The rest, as they say is history.  
@@ -54,7 +103,17 @@ Mr K experienced a breakthrough in his sporting career in 1966. He held 5 nation
 
 Recollection by a former teammate, Mr Ho Munn Cheong  
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/pic-6.jpg?sfvrsn=5256f181_0 "Pic 6")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/pic-6.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
  Racing against the 1968 Olympic silver medallist
 
 The Mentor: Leaving a Legacy
