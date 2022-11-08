@@ -103,12 +103,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic-6.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/pic-6.jpeg" alt="Racing against the 1968 Olympic silver medallist" style="width:75%;">  
   
 </body>
 
- Racing against the 1968 Olympic silver medallist
-	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Racing against the 1968 Olympic silver medallist</p>
 
 The Mentor: Leaving a Legacy
 ----------------------------
@@ -122,18 +121,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic-7.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/pic-7.jpeg" alt="2009 YOG Torch Bearer" style="width:70%;">  
   
 </body>
 
-2009 YOG Torch Bearer
-	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">2009 YOG Torch Bearer</p>
 
 Mr K’s legacy is defined not only by his sporting achievements but also his influence as a teacher-educator. Many PE teachers will attest to Mr K’s positive influence and impact during their teacher training days. In his unassuming way, Mr K would always be ready to demonstrate and share his skills and knowledge with trainee-teachers.
 
 **Recollections by Former Trainee-Teachers**
 
-Mr Daryl Sung Tze How, PE/PAL Co-ordinator, Cedar Primary School
+<u>Mr Daryl Sung Tze How, PE/PAL Co-ordinator, Cedar Primary School</u>
 
 Mr K taught me the Introduction to Physical Education module, and was also my supervisor during practicum. He left a deep impression on me during my learning years as a trainee teacher. To me, Mr. K is a passionate teacher, mentor and role model who walks the talk. As a teacher-educator, his lectures often included personal examples and testimonies which helped me connect theory with practice in PE and sports. His feedback and advice on my teaching also helped me to see things from a positive perspective and strive for improvement. He encouraged me to always hone my craft as a PE teacher and readily offered help.
 
@@ -144,16 +142,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic-8.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/pic-8.jpeg" alt="Embracing Mr K in Cedar Primary School" style="width:75%;">  
   
 </body>
 
-Embracing Mr K in Cedar Primary School
-	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Embracing Mr K in Cedar Primary School</p>
 
 In 2012, my school designed an exercise programme (Go for H3) in conjunction with the London Olympics. When I sought Mr K’s help to encourage and motivate my students to participate in the programme, his immediate response was “Sure, not a problem. Let me know the date, time and details.”  He shared his Olympic journey with my students in a personal and light-hearted way. For someone who has achieved so much for Singapore sports, Mr K is incredibly humble. He does not boast about his achievements and always emphasises the importance of hard work as well as heart work, that is to genuinely care for the students unconditionally.
 
-Ms Eng Li Li, Programme Manager, PESTA
+<u>Ms Eng Li Li, Programme Manager, PESTA</u>
 
 I had the privilege of learning from Mr K during my Diploma in PE (in- service) training. He would ensure that all the resources, equipment and practice areas were ready before each lesson. During Track and Field lessons, he would personally ensure that the sand pit would be loosened and a measuring tape put in place to record the performance of each jumper. Many of my fellow course mates, including the oldest who was only 43 years old, moaned that we were too old to do the rigorous physical training. The 60-year old Mr K stemmed the flow of complaints by outrunning, out-jumping and out-throwing us on the track and in the field. He really led by example. We were so inspired by him that we did our level best to improve our skills and performance despite the aching muscles.
 
