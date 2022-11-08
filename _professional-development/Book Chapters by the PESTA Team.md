@@ -39,4 +39,172 @@ Below is a resource list for readers to gain more perspectives for the respectiv
       A
     </div>
   </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
+	 <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">PESTA LEADERSHIP</label>
+    <div>
+    C
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">SENIOR ACADEMY OFFICERS / ACADEMY OFFICERS</label>
+    <div>
+      B
+    </div>
+  </li>
 </ul>
