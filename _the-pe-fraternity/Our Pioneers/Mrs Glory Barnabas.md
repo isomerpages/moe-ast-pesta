@@ -8,7 +8,17 @@ Mrs Glory Barnabas was born in 1941. She studied at Paya Lebar Methodist Girls�
   
 Glory went on to become a national athlete and won many medals for Singapore at the SEAP Games (now known as SEA Games) and Asian Games. Through her participation and accomplishments in athletics, Glory embodied passion, commitment and lifelong pursuit of excellence.
 
-![Glory outrunning](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/glory-outrunning.jpg?sfvrsn=8f9a32fa_0 "Glory outrunning")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/glory-outrunning.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 **Glory outrunning her bigger competitors at an inter-club meet in 1970s**
 
 _Passion, Commitment and Lifelong Pursuit of Excellence:_  
@@ -19,7 +29,17 @@ _After her retirement in 1977, Glory went on to compete in the World Masters Ath
   
 _She also competed in the Asia Masters Athletics Championship from 1981 to 2010, winning many medals in the sprints. In 2004 (Bangkok), she attempted and won Gold in triple jump with a distance of 7.36m. In 2006 (Bangalore), she won Gold in high jump._
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/practising-her-stride-form.jpg?sfvrsn=8edbda45_0 "Practising her stride-form")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/practising-her-stride-form.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 **Practising her stride-form at the Farrer Park track in the 1980s.**
 
 Glory started her teaching career in Charlton Primary School in 1961. In 1986, she was posted to Tampines Junior College (TPJC) as Head of Department (PE). She helped set up the PE Department in this new Junior College and continued to serve there until her retirement in December 2003. While her accomplishments on the track are readily acknowledged, her quiet service in teaching PE for 40 years should also be celebrated.  
@@ -38,7 +58,17 @@ About Ms Emily Huang
   
 Ms Emily Huang attended School of Physical Education (SPE) from 1996 to 2000 as a trainee PE teacher. Upon graduation, she was posted to CHIJ Katong Convent where she taught for 9 years. She received the 2007 Outstanding Youth in Education Award (OYEA) in recognition of her passion and commitment in the teaching profession. At the end of 2009, Emily bumped into Mrs Glory Barnabas near CHIJ Katong Convent and invited her to teach PE in the school.  Emily is currently Head of Department (PE & CCA) at Yishun Town Secondary School.
 
-![](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider3/default-album/teaching-pe.jpg?sfvrsn=c69ff0e8_0 "Teaching PE")  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/teaching-pe.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
  **Teaching PE in 2012: Glory demonstrating push ups with a gym ball to her Sec 5 class.**
 
 **Recollections by present students:**  
