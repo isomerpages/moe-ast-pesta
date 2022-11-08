@@ -50,13 +50,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic-3.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/pic-3.jpeg" alt="Annual BBQ with DSTS Athletes" style="width:75%;">  
   
 </body>
 
-Annual BBQ with DSTS Athletes
+<p style="text-align:center;">Annual BBQ with DSTS Athletes</p>
 
- 
 
 The Athlete: Blazing The Trail
 ------------------------------
@@ -73,6 +72,7 @@ img {
 </body>
 
 On the practice track at Kallang (Photo courtesy of SSC)
+	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
 
 Considered one of Singapore’s greatest ever athletes on the track, Mr K was named Sportsman of the Year in 1968 and 1969. His remarkable feat of 10.38 seconds in the 1968 Mexico City Olympic Games 100 metres was a national record that stood for 33 years. Throughout his sporting career, he won 15 SEA Games and 5 Asian Games medal.  
 
@@ -88,6 +88,7 @@ img {
 </body>
 
 1961/62 Teachers’ Union Soccer Team
+	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
 
 Mr K started his sporting career at the late age of 20 years. In fact, he was more interested in soccer than running. While training with the Singapore Teachers’ Union soccer team, Mr K was talent-spotted by the late Dr Tan Eng Yoon who noticed him moving very quickly on the field. Dr Tan saw great potential in Mr K as an athlete and invited him to join the national squad for training. Feeling unworthy to be part of the squad, Mr K gave excuses for his absence from training but finally gave in after persistent coaxing by Dr Tan and Mr Chia Hearn Kok, a former national athlete. The rest, as they say is history.  
   
@@ -109,6 +110,7 @@ img {
 </body>
 
  Racing against the 1968 Olympic silver medallist
+	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
 
 The Mentor: Leaving a Legacy
 ----------------------------
@@ -127,6 +129,7 @@ img {
 </body>
 
 2009 YOG Torch Bearer
+	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
 
 Mr K’s legacy is defined not only by his sporting achievements but also his influence as a teacher-educator. Many PE teachers will attest to Mr K’s positive influence and impact during their teacher training days. In his unassuming way, Mr K would always be ready to demonstrate and share his skills and knowledge with trainee-teachers.
 
@@ -148,6 +151,7 @@ img {
 </body>
 
 Embracing Mr K in Cedar Primary School
+	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
 
 In 2012, my school designed an exercise programme (Go for H3) in conjunction with the London Olympics. When I sought Mr K’s help to encourage and motivate my students to participate in the programme, his immediate response was “Sure, not a problem. Let me know the date, time and details.”  He shared his Olympic journey with my students in a personal and light-hearted way. For someone who has achieved so much for Singapore sports, Mr K is incredibly humble. He does not boast about his achievements and always emphasises the importance of hard work as well as heart work, that is to genuinely care for the students unconditionally.
 
