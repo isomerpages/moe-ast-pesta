@@ -67,12 +67,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic-4.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/pic-4.jpeg" alt="On the practice track at Kallang (Photo courtesy of SSC)" style="width:55%;">  
   
 </body>
 
-On the practice track at Kallang (Photo courtesy of SSC)
-	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">On the practice track at Kallang (Photo courtesy of SSC)</p>
 
 Considered one of Singapore’s greatest ever athletes on the track, Mr K was named Sportsman of the Year in 1968 and 1969. His remarkable feat of 10.38 seconds in the 1968 Mexico City Olympic Games 100 metres was a national record that stood for 33 years. Throughout his sporting career, he won 15 SEA Games and 5 Asian Games medal.  
 
@@ -83,12 +82,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic-5-1.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/pic-5-1.jpeg" alt="1961/62 Teachers’ Union Soccer Team" style="width:75%;">  
   
 </body>
 
-1961/62 Teachers’ Union Soccer Team
-	<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">1961/62 Teachers’ Union Soccer Team</p>
 
 Mr K started his sporting career at the late age of 20 years. In fact, he was more interested in soccer than running. While training with the Singapore Teachers’ Union soccer team, Mr K was talent-spotted by the late Dr Tan Eng Yoon who noticed him moving very quickly on the field. Dr Tan saw great potential in Mr K as an athlete and invited him to join the national squad for training. Feeling unworthy to be part of the squad, Mr K gave excuses for his absence from training but finally gave in after persistent coaxing by Dr Tan and Mr Chia Hearn Kok, a former national athlete. The rest, as they say is history.  
   
