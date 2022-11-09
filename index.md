@@ -17,9 +17,9 @@ sections:
         - title: Professional Development Calendar
           description: ""
           url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Our Pioneers
+          description: ""
+          url: /pesta/be-connected-with-the-fraternity/our-pioneers
   - infobar:
       title: Infobar title
       subtitle: Subtitle
