@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Pioneers
 ---
 <img src="/images/tan-hwee-hock-200.jpeg"  
-style="width:40%">
+style="width:30%">
 
 Mr Tan Hwee Hock graduated from the Teacher Training College (TTC) in 1952 and was among the early PE teachers to be sent to Loughborough College for formal Physical Education (PE) teacher training in 1956. As early as the 1960s, he, together with other PE pioneers, believed and advocated for the establishment of a local training institute to cater to the professional development of PE and sports teachers in Singapore.  
   
