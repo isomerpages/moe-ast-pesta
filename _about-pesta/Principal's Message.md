@@ -4,7 +4,7 @@ permalink: /pesta/about-pesta/principals-message/
 description: ""
 ---
 <img src="/images/principal-photo.jpeg"  
-style="width:40%">
+style="width:33%">
 
 The Physical Education and Sports Teacher Academy (PESTA) was set up to build a distinctive community of physical education teachers to deliver quality physical education and sports coaching in Singapore schools. This would be done through strong pedagogical leadership, teacher ownership of continual professional development and an effective, established system of mentoring.
 
