@@ -20,10 +20,13 @@ sections:
         - title: Our Pioneers
           description: ""
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Physical Knowledgeable Others (PEKO)
+      description: In 2022, PESTA introduced Physical Education Knowledgeable Others
+        (PEKO) to harness the strengths and expertise of the PE fraternity to
+        enhance...
+      button: Please click on this link to find out more!
+      url: /pesta/be-connected-with-the-fraternity/physical-education-knowledgeable-others-peko
+      image: /images/peko30657bbb65bc46838744da5ed9b80113.png
+      alt: PEKO
 ---
