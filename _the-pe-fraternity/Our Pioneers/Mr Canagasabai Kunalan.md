@@ -123,7 +123,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic-7.jpeg" alt="2009 YOG Torch Bearer" style="width:70%;">  
+<body><img src="/images/pic-7.jpeg" alt="2009 YOG Torch Bearer" style="width:50%;">  
   
 </body>
 
