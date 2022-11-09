@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/pesta.gif
       key_highlights:
         - title: About Us
