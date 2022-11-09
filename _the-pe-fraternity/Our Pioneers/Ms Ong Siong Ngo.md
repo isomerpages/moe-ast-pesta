@@ -59,7 +59,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/a-typical-day.jpeg" alt="A typical day at TTC: Ms Ong teaching educational gymnastics through modeling." style="width:70%;">  
+<body><img src="/images/a-typical-day.jpeg" alt="A typical day at TTC: Ms Ong teaching educational gymnastics through modeling." style="width:60%;">  
   
 </body>
 
