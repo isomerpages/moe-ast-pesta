@@ -7,9 +7,9 @@ description: ""
 
 #### Physical Education &amp; Sports Teacher Academy
 
-[moe\_pesta@moe.gov.sg](mailto:moe_pesta@moe.gov.sg)<br>
-[academyofsingaporeteachers.moe.edu.sg/pesta](https://academyofsingaporeteachers.moe.edu.sg/pesta)<br>
-6664 1520<br>
+[moe\_pesta@moe.gov.sg](mailto:moe_pesta@moe.gov.sg)<br><br>
+[academyofsingaporeteachers.moe.edu.sg/pesta](https://academyofsingaporeteachers.moe.edu.sg/pesta)<br><br>
+6664 1520<br><br>
 [/pesta/about-pesta/contact-pesta-staff](/pesta/about-pesta/contact-pesta-staff)
 
 ### PESTA Facebook
