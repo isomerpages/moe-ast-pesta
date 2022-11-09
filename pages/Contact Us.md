@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:37%;">  
+<body><img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:27%;">  
   
 </body>
   
