@@ -144,3 +144,15 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 </tbody>
 </table>
 
+### Where we are:
+
+Address: Academy of Singapore Teachers (AST). 2 Malan Road, Block P, Singapore 109433   
+MRT station: 10 mins walk or about 500 metres from Labrador Park station (on Circle Line)  
+Bus services: 51, 57, 61, 93, 97, 97E, 100, 120, 166, 175, 963, 963E  
+
+<u>Buses from nearby MRT stations</u> <br>
+Buona Vista MRT and Commonwealth MRT: 100  
+Harbourfront MRT: 57, 61, 97, 100, 166  
+Holland Village MRT: 61  
+Orchard MRT: 175  
+Queenstown MRT: 51
