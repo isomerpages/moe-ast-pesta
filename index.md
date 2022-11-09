@@ -11,12 +11,12 @@ sections:
       subtitle: Hero subtitle
       background: /images/pesta.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: About Us
+          description: ""
+          url: /pesta/about-pesta/the-pesta-team
+        - title: Professional Development Calendar
+          description: ""
+          url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers
         - title: Page A
           description: Page A is important too
           url: /privacy/
