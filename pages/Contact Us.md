@@ -58,8 +58,11 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lvth"><img src="/images/melanie-ann-martens3d4fc422d1ac483cbc2c34c7cd0e4b3c.jpeg" alt="Melanie Ann Martens (Academy Principal)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principals-message">Melanie Ann Martens (Ms)</a></h5><br>Academy Principal</th>
-    <th class="tg-lvth"><img src="/images/fathul-rahman-kamsanie0a1feeb96694546bb8f4362920c68dd.jpeg" alt="Fathul Rahman Kamsani (Deputy Director)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Fathul Rahman Kamsani (Mr)</a></h5><br>Deputy Director</th>
+    <th class="tg-lvth"><img src="/images/melanie-ann-martens3d4fc422d1ac483cbc2c34c7cd0e4b3c.jpeg" alt="Melanie Ann Martens (Academy Principal)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/principals-message">Melanie Ann Martens (Ms)</a></h5><br>Academy Principal<p><a href="mailto:Melanie_Ann_Martens@moe.gov.sg">Melanie_Ann_Martens@moe.gov.sg</a></p>
+<p><a href="tel:66641515">66641515</a></p></th>
+    <th class="tg-lvth"><img src="/images/fathul-rahman-kamsanie0a1feeb96694546bb8f4362920c68dd.jpeg" alt="Fathul Rahman Kamsani (Deputy Director)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Fathul Rahman Kamsani (Mr)</a></h5><br>Deputy Director<p><a href="mailto:Fathul_Rahman_Kamsani@moe.gov.sg">Fathul_Rahman_Kamsani@moe.gov.sg</a></p>
+<p><a href="tel:66641518">66641518</a></p>
+</th>
   </tr>
 </thead>
 <tbody>
@@ -81,3 +84,4 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
   </tr>
 </tbody>
 </table>
+
