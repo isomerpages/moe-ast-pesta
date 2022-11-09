@@ -12,6 +12,7 @@ img {
 }  
 </style>  
 <body><img src="/images/pic-0-(3).jpeg" alt="Mr Canagasabai Kunalan" style="width:75%;">  
+	
 </body>
  
 <p style="text-align:center;"><em>'My spirit is willing – so my flesh keeps trying’</em><br>Mr C. Kunalan<br>Teacher/ Athlete/ Mentor</p>
