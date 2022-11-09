@@ -30,7 +30,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/love-sports.jpeg" alt="At the age of 41, Ms Ong won the 1st female National Squash Championship." style="width:50%;">  
+<body><img src="/images/love-sports.jpeg" alt="At the age of 41, Ms Ong won the 1st female National Squash Championship." style="width:45%;">  
   
 </body>
 
