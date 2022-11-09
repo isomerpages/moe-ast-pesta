@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Pioneers
 ---
 <img src="/images/tan-eng-yoon1-200.jpeg"  
-style="width:40%">
+style="width:30%">
 
 The late Dr Tan Eng Yoon was well known as an athlete, teacher, coach and administrator.   
   
