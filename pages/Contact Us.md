@@ -56,7 +56,7 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 .tg .tg-lvth{font-size:16px;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<br>Master Teacher<table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-lvth"><img height="19" width="200" alt="Melanie Ann Martens (Academy Principal)" src="/images/melanie-ann-martens3d4fc422d1ac483cbc2c34c7cd0e4b3c.jpeg"><br><br><h5><a href="/pesta/about-pesta/principals-message">Melanie Ann Martens (Ms)</a></h5><br>Academy Principal<p><a href="mailto:Melanie_Ann_Martens@moe.gov.sg">Melanie_Ann_Martens@moe.gov.sg</a></p>
