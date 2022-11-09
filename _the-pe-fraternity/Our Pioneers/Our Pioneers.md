@@ -12,8 +12,10 @@ img {
 }  
 </style>  
 <body><img src="/images/pic-0-(3).jpeg" alt="Mr Canagasabai Kunalan" style="width:75%;">  
+</body>
  
 <p style="text-align:center;"><em>'My spirit is willing – so my flesh keeps trying’</em><br>Mr C. Kunalan<br>Teacher/ Athlete/ Mentor</p>
+	
 
 Mr Canagasabai Kunalan, affectionately known as Mr K, was born on October 23, 1942, in a rubber estate in Johore, Malaysia. A household name in Singapore Track and Field and a highly regarded educator, this special feature looks at Mr K as a Teacher, Athlete and Mentor. 
 
