@@ -19,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/woon-sk-(s).jpeg" alt="TTC Swimming Champion (1952)" style="width:70%;">  
+<body><img src="/images/woon-sk-(s).jpeg" alt="TTC Swimming Champion (1952)" style="width:50%;">  
   
 </body>
 
