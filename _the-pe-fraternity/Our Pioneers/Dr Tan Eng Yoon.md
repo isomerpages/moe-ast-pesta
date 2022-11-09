@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/tan-eng-yoon-2-200.jpeg" alt="Dr Tan Eng Yoon" style="width:50%;">  
+<body><img src="/images/tan-eng-yoon-2-200.jpeg" alt="Dr Tan Eng Yoon" style="width:40%;">  
   
 </body>
 
