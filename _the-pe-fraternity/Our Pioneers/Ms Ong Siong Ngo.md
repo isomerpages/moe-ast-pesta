@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/441d869c-e066-42be-929a-23f2324c44b2.jpeg" alt="Ms Ong at Dartford College." style="width:70%;">  
+<body><img src="/images/441d869c-e066-42be-929a-23f2324c44b2.jpeg" alt="Ms Ong at Dartford College." style="width:60%;">  
   
 </body>
 
