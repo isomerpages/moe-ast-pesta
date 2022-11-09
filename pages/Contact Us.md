@@ -82,11 +82,17 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 <p><a href="tel:66641512">66641512</a></p>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/tan-seck-heong-2.jpeg" alt="Tan Seck Heong (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019">Tan Seck Heong (Mr)</a></h5><br>Master Teacher</td>
-			<td class="tg-0lax"><img src="/images/teng-tse-sheng.jpeg" alt="Teng Tse Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019">Teng Tse Sheng (Mr)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/tan-seck-heong-2.jpeg" alt="Tan Seck Heong (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019">Tan Seck Heong (Mr)</a></h5><br>Master Teacher<p><a href="mailto:Tan_Seck_Heong@moe.gov.sg">Tan_Seck_Heong@moe.gov.sg</a></p>
+<p><a href="tel:66641514">66641514</a></p>
+</td>
+			<td class="tg-0lax"><img src="/images/teng-tse-sheng.jpeg" alt="Teng Tse Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019">Teng Tse Sheng (Mr)</a></h5><br>Master Teacher<p><a href="mailto:Teng_Tse_Sheng@moe.gov.sg">Teng_Tse_Sheng@moe.gov.sg</a></p>
+<p><a href="tel:66641509">66641509</a></p>
+</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/joanna-phan-swee-lee.jpeg" alt="Joanna Phan Swee Lee (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Joanna Phan Swee Lee (Ms)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/joanna-phan-swee-lee.jpeg" alt="Joanna Phan Swee Lee (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Joanna Phan Swee Lee (Ms)</a></h5><br>Master Teacher<p><a href="mailto:Joanna_Phan@moe.gov.sg">Joanna_Phan@moe.gov.sg</a></p>
+<p><a href="tel:66641542">66641542</a></p>
+</td>
     <td class="tg-0lax"><img src="/images/question-14---pesta-karen-low.jpeg" alt="Karen Low Lai Fong (Ms)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)</td>
   </tr>
 </tbody>
