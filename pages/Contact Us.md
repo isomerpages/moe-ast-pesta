@@ -100,30 +100,30 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
     <td class="tg-lvth"><img src="/images/selvei-shunmugam-1.jpeg" alt="Selvei Shunmugam (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/selvei-profile-bio-2019">Selvei Shunmugam (Ms)</a></h5><br>Senior Academy Officer<p><a href="mailto:Selvei_Shunmugam@moe.gov.sg">Selvei_Shunmugam@moe.gov.sg</a></p>
 <p><a href="tel:66641539">66641539</a></p>
 </td>
-    <td class="tg-lvth"><img src="/images/hairil-profile-bio1.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hairil-johari-profile-bio-2020">Mohamad Hairil Johari (Mr)</a></h5><p><a href="mailto:Mohamad_Hairil_Johari@moe.gov.sg">Mohamad_Hairil_Johari@moe.gov.sg</a></p>
+    <td class="tg-lvth"><img src="/images/hairil-profile-bio1.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hairil-johari-profile-bio-2020">Mohamad Hairil Johari (Mr)</a></h5><br>Senior Academy Officer<p><a href="mailto:Mohamad_Hairil_Johari@moe.gov.sg">Mohamad_Hairil_Johari@moe.gov.sg</a></p>
 <p><a href="tel:66641535">66641535</a></p>
 </td>
   </tr>
 	<tr>
-    <td class="tg-0lax"><img src="/images/img-20200701-wa0002.jpeg" alt="Milhan Binte Mahat (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/milhan-profile-bio-2020">Milhan Binte Mahat (Ms)</a></h5><p><a href="mailto:Milhan_Mahat@moe.gov.sg">Milhan_Mahat@moe.gov.sg</a></p>
+    <td class="tg-0lax"><img src="/images/img-20200701-wa0002.jpeg" alt="Milhan Binte Mahat (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/milhan-profile-bio-2020">Milhan Binte Mahat (Ms)</a></h5><br>Senior Academy Officer<p><a href="mailto:Milhan_Mahat@moe.gov.sg">Milhan_Mahat@moe.gov.sg</a></p>
 </td>
-	<td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg" alt="Aw Kai Yueh (Ms)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><p><a href="mailto:Aw_Kai_Yueh@moe.gov.sg">Aw_Kai_Yueh@moe.gov.sg</a></p>
+	<td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg" alt="Aw Kai Yueh (Ms)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer<p><a href="mailto:Aw_Kai_Yueh@moe.gov.sg">Aw_Kai_Yueh@moe.gov.sg</a></p>
 <p><a href="tel:66641532">66641532</a></p>
 </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/yuliang.jpeg" alt="Chen Yuliang (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/chen-yuliang-bio-2020">Chen Yuliang (Mr)</a></h5><p><a href="mailto:Chen_Yuliang@moe.gov.sg">Chen_Yuliang@moe.gov.sg</a></p>
+    <td class="tg-0lax"><img src="/images/yuliang.jpeg" alt="Chen Yuliang (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/chen-yuliang-bio-2020">Chen Yuliang (Mr)</a></h5><br>Academy Officer<p><a href="mailto:Chen_Yuliang@moe.gov.sg">Chen_Yuliang@moe.gov.sg</a></p>
 <p><a href="tel:66641543">66641543</a></p>
 </td>
-	<td class="tg-0lax"><img src="/images/wei-sheng.jpeg" alt="Lim Wei Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/lim-wei-sheng-profile-bio-2021">Lim Wei Sheng (Mr)</a></h5><p><a href="mailto:Lim_Wei_Sheng@moe.gov.sg">Lim_Wei_Sheng@moe.gov.sg</a></p>
+	<td class="tg-0lax"><img src="/images/wei-sheng.jpeg" alt="Lim Wei Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/lim-wei-sheng-profile-bio-2021">Lim Wei Sheng (Mr)</a></h5><br>Academy Officer<p><a href="mailto:Lim_Wei_Sheng@moe.gov.sg">Lim_Wei_Sheng@moe.gov.sg</a></p>
 <p><a href="tel:66641508">66641508</a></p>
 </td>
   </tr>
   <tr>
-	<td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-59-(1).jpeg" alt="Teng Tse Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022">Nur Hana Tay (Mdm)</a></h5><p><a href="mailto:Nur_Hana_Tay@moe.gov.sg">Nur_Hana_Tay@moe.gov.sg</a></p>
+	<td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-59-(1).jpeg" alt="Teng Tse Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022">Nur Hana Tay (Mdm)</a></h5><br>Academy Officer<p><a href="mailto:Nur_Hana_Tay@moe.gov.sg">Nur_Hana_Tay@moe.gov.sg</a></p>
 <p><a href="tel:66641538">66641538</a></p>
 </td>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022">Neo Chow Ming Linus (Mr)</a></h5><p><a href="mailto:Linus_Neo@moe.gov.sg">Linus_Neo@moe.gov.sg</a></p>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022">Neo Chow Ming Linus (Mr)</a></h5><br>Academy Officer<p><a href="mailto:Linus_Neo@moe.gov.sg">Linus_Neo@moe.gov.sg</a></p>
 <p><a href="tel:66641537">66641537</a></p>
 </td>
   </tr>
