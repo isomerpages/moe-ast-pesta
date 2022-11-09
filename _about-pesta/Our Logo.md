@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pesta-logo-(clear).jpeg" alt="PESTA logo" style="width:40%;">  
+<body><img src="/images/pesta-logo-(clear).jpeg" alt="PESTA logo" style="width:35%;">  
   
 </body>
 
