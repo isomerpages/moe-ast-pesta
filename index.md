@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Physical Education & Sports Teacher Academy
+description: Physical Education & Sports Teacher Academy
+image: /images/pesta-logo-(clear).jpeg
 permalink: /
 notification: ""
 sections:
@@ -45,3 +45,4 @@ sections:
       image: /images/whatsapp-image-2022-07-20-at-1-55-36-pmbdb1477e888e413688f596be3ac192d5.jpeg
       alt: PE Fraternity
 ---
+
