@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Pioneers
 ---
 <img src="/images/yap-boon-chuan-200.jpeg"  
-style="width:40%">
+style="width:30%">
 
 Mr Yap Boon Chuan was born in Penang and taught there until 1954, when he came to Singapore to teach in St. Joseph Institution. At St. Joseph Institution, he took on the role of football master and introduced rugby and cricket to the school. In 1957, he was awarded a scholarship to Loughborough College for Physical Education (PE) teacher training. Upon his return in 1960, Mr Yap taught in Raffles Institution where he was the rugby and football master. In 1961, Mr Yap joined the Extra-curricular Activities Centre (ECAC) Branch as a PE Inspector. As a PE Inspector, he would visit schools to understand the practice of PE on the ground. During his school visits, he saw the need for professional development amongst PE teachers and to have a formal curriculum to promote the teaching of PE and sports.  
   
