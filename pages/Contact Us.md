@@ -26,7 +26,7 @@ Steps to join us on Facebook -
 
 2\. Answer three entry questions. (This is important. It is how we ensure only our own PE colleagues are allowed in the closed group.)
 
-3\. Await admin's approval and you are in!  
+3\. Await admin's approval and you are in!   
 
 <style>  
 img {  
@@ -35,7 +35,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:50%;" alt="School Uniform" src="/images/image001-(1).png">  
+<body><img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:37%;">  
+  
+</body>
   
 
 
