@@ -5,7 +5,7 @@ description: ""
 ---
 <img style="width:30%" src="/images/pesta-logo-(clear).jpeg">
 
-#### Physical Education &amp; Sports Teacher Academy
+### Physical Education &amp; Sports Teacher Academy
 
 [moe\_pesta@moe.gov.sg](mailto:moe_pesta@moe.gov.sg)<br><br>
 [academyofsingaporeteachers.moe.edu.sg/pesta](https://academyofsingaporeteachers.moe.edu.sg/pesta)<br><br>
