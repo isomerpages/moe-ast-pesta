@@ -38,4 +38,12 @@ sections:
       url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers
       image: /images/black-simple-sports-event-poster-(poster-(landscape)).png
       alt: Workshops for PE teachers
+  - infopic:
+      title: PE Fraternity
+      description: What is teaching PE all about? Interested to know more about the PE
+        fraternity?
+      button: Yes I am!
+      url: /pesta/be-connected-with-the-fraternity
+      image: /images/whatsapp-image-2022-07-20-at-1-55-36-pmbdb1477e888e413688f596be3ac192d5.jpeg
+      alt: PE Fraternity
 ---
