@@ -4,14 +4,13 @@ permalink: /pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/
 description: ""
 third_nav_title: Senior Academy Officers
 ---
+Academy Officer
 
-Senior Academy Officer
+<img src="/images/karthikesan-newest.jpeg"  
+style="width:40%">
 
-<p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/img-20200701-wa0002.jpeg" alt="Milhan Binte Mahat" style="width:175px" /></p>
-<p style="text-align:justify">
-Ms Milhan Binte Mahat started her teaching journey in Riverside Secondary School where she was given opportunities to head the Physical Education (PE) curriculum and sports leadership. Her daily interactions with students and colleagues inspired her to find out how best to design and implement a PE curriculum and student leadership programme that prepare future adults with values, skills and competencies that will make their life purposeful, meaningful and joyful.<br><br>
-	
-In students’ learning, she is interested to learn how students learn better with others (e.g. teachers, peers), by themselves (self-directed) and also find out what motivates them to want to learn and grow. She is also inspired to better her understanding on how an adult’s (e.g. teacher, coach, parents) behaviour impacts students’ learning and their motivation to learn for life.<br><br>
+Prior to joining AST, Karthik has been with Yishun Innova Junior College as a teacher for about 3 years and Subject Head of PE & CCA for about 5 years.  
 
-In June 2020, Ms Milhan joined PESTA to be part of the organisation's effort to partner educators in their journeys to sharpen their existing professional skills and competencies. She believes that these efforts are required to deliver quality PE and Sports programmes that remains relevant to the ever evolving educational landscape.</p>
+Karthik believes strongly in educating the whole child. He believes that strong values will help the child to live a responsible, purposeful life build upon a strong foundation of meaningful relationships. He also believes in personal development through reading, experimenting, learning through others’ life experiences and being open to feedback.
+
+Karthik loves to play and watch football in his free time. His favourite team is Manchester United. He also enjoys spending time with his wife and two young boys.
