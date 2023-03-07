@@ -81,7 +81,7 @@ The PESTA Team
     <td class="tg-0lax"><img src="/images/karthikesan-newest.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar">Karthikesan S/O Kumar (Mr)</a></h5><br>Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/pesta-amber-ng.jpeg" style="width:200px" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber">Amber Ng (Ms)</a></h5><br>Academy Officer</td>
+    <td class="tg-0lax"><img src="/images/pesta-amber-ng.jpeg" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber">Amber Ng (Ms)</a></h5><br>Academy Officer</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
@@ -104,13 +104,13 @@ The PESTA Team
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lvth"><img src="/images/diana-goh-small.jpeg" alt="Selvei Shunmugam (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019">Diana Goh (Ms)</a></h5><br>Lead Manager</th>
-    <th class="tg-lvth"><img src="/images/hafiz-pic.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/muhammad-hafiz-maarof-profile-bio-2021">Muhammad Hafiz Ma'arof  (Mr)</a></h5><br>Senior Manager</th>
+    <th class="tg-lvth"><img src="/images/diana-goh-small.jpeg" alt="Selvei Shunmugam (Ms)" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019">Diana Goh (Ms)</a></h5><br>Lead Manager</th>
+    <th class="tg-lvth"><img src="/images/hafiz-pic.jpeg" alt="Mohamad Hairil Johari (Mr)" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/muhammad-hafiz-maarof-profile-bio-2021">Muhammad Hafiz Ma'arof  (Mr)</a></h5><br>Senior Manager</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/merry.jpeg" alt="Milhan Binte Mahat (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/merry-profile-bio-2019">Merry Hamid (Mdm)</a></h5><br>Senior Administrative Executive</td>
+    <td class="tg-0lax"><img src="/images/merry.jpeg" alt="Milhan Binte Mahat (Ms)" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/merry-profile-bio-2019">Merry Hamid (Mdm)</a></h5><br>Senior Administrative Executive</td>
 			<td class="tg-0lax"></td>
   </tr>
 </tbody>
