@@ -74,7 +74,7 @@ The PESTA Team
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="![](/images/ridzal-newest.jpeg)"  style="width:200px"><br><br><h5><a href="???">Mohammed Ridzal Mohammed Ali (Mr)</a></h5><br>Senior Academy Officer</td>
-			<td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="???">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
+			<td class="tg-0lax"><img src="![](/images/nurhanatay.jpg)"  style="width:200px"><br><br><h5><a href="???">Nur Hana Tay (Mdm)</a></h5><br>Academy Officer</td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="???">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
