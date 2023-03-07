@@ -124,10 +124,10 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 </td>
   </tr>
 	<tr>
-    <td class="tg-lvth"><img height="19" width="200" alt="Selvei Shunmugam (Ms)" src="/images/diana-goh-small.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019">Diana Goh (Ms)</a></h5><br>Lead Manager<p><a href="mailto:Diana_Goh@moe.gov.sg">Diana_Goh@moe.gov.sg</a></p>
-<p><a href="tel:66641519">66641519</a></p>
+    <td class="tg-lvth"><img src="/images/pesta-amber-ng.jpeg" style="width:200px"><br><br><h5>Ng Yin Wai Amber (Ms)</h5><br>Academy Officer<p><a href="mailto:Amber_Ng@moe.gov.sg">Diana_Goh@moe.gov.sg</a></p>
+<p><a href="tel:66641511">66641511</a></p>
 </td>
-    <td class="tg-lvth"><img height="19" width="200" alt="Selvei Shunmugam (Ms)" src="/images/diana-goh-small.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019">Diana Goh (Ms)</a></h5><br>Lead Manager<p><a href="mailto:Diana_Goh@moe.gov.sg">Diana_Goh@moe.gov.sg</a></p>
+    <td class="tg-lvth"><img src="/images/diana-goh-small.jpeg" style="width:200px"><br><br><h5>Diana Goh (Ms)</h5><br>Lead Manager<p><a href="mailto:Diana_Goh@moe.gov.sg">Diana_Goh@moe.gov.sg</a></p>
 <p><a href="tel:66641519">66641519</a></p>
 </td>
   </tr>
