@@ -14,7 +14,7 @@ sections:
           url: /pesta/about-pesta/the-pesta-team
         - title: Professional Development Calendar
           description: ""
-          url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers
+          url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
         - title: Our Pioneers
           description: ""
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
