@@ -68,24 +68,24 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img height="17" width="200" alt="Hanif B Abdul Rahman (Mr)" src="/images/hanif.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019">Hanif B Abdul Rahman (Mr)</a></h5><br>Principal Master Teacher<p><a href="mailto:Hanif_Abdul_Rahman@moe.gov.sg">Hanif_Abdul_Rahman@moe.gov.sg</a></p>
+    <td class="tg-0lax"><img src="/images/hanif.jpeg" style="width:200px"><br><br><h5>Hanif B Abdul Rahman (Mr)</h5><br>Principal Master Teacher<p><a href="mailto:Hanif_Abdul_Rahman@moe.gov.sg">Hanif_Abdul_Rahman@moe.gov.sg</a></p>
 <p><a href="tel:66641533">66641533</a></p>
 </td>
-		    <td class="tg-0lax"><img height="17" width="200" alt="Benjamin Tan Su-Jim (Mr)" src="/images/benjamin-tan-su-jime0ed98aa860f493ab19ad4e87f3f1d12.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019">Benjamin Tan Su-Jim (Mr)</a></h5><br>Master Teacher (Schools)<p><a href="mailto:Benjamin_Sj_Tan@schools.gov.sg">Benjamin_Sj_Tan@schools.gov.sg</a></p>
+		    <td class="tg-0lax"><img src="/images/benjamin-tan-su-jime0ed98aa860f493ab19ad4e87f3f1d12.jpeg" style="width:200px"><br><br><h5>Benjamin Tan Su-Jim (Mr)</h5><br>Master Teacher (Schools)<p><a href="mailto:Benjamin_Sj_Tan@schools.gov.sg">Benjamin_Sj_Tan@schools.gov.sg</a></p>
 </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img height="19" width="200" alt="Mabel Yong Chooi Cheng (Ms)" src="/images/mabel-yong-chooi-cheng2f695c60cf8d4cc5b56251c1f8cc1633.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019">Mabel Yong Chooi Cheng (Ms)</a></h5><br>Master Teacher<p><a href="mailto:Mabel_Yong@moe.gov.sg">Mabel_Yong@moe.gov.sg</a></p>
+    <td class="tg-0lax"><img src="/images/mabel-yong-chooi-cheng2f695c60cf8d4cc5b56251c1f8cc1633.jpeg" style="width:200px"><br><br><h5>Mabel Yong Chooi Cheng (Ms)</h5><br>Master Teacher<p><a href="mailto:Mabel_Yong@moe.gov.sg">Mabel_Yong@moe.gov.sg</a></p>
 <p><a href="tel:66641512">66641512</a></p>
 </td>
-    <td class="tg-0lax"><img height="19" width="200" alt="Tan Seck Heong (Mr)" src="/images/tan-seck-heong-2.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019">Tan Seck Heong (Mr)</a></h5><br>Master Teacher<p><a href="mailto:Tan_Seck_Heong@moe.gov.sg">Tan_Seck_Heong@moe.gov.sg</a></p>
+    <td class="tg-0lax"><img src="/images/tan-seck-heong-2.jpeg" style="width:200px"><br><br><h5>Tan Seck Heong (Mr)</h5><br>Master Teacher<p><a href="mailto:Tan_Seck_Heong@moe.gov.sg">Tan_Seck_Heong@moe.gov.sg</a></p>
 <p><a href="tel:66641514">66641514</a></p>
   </td></tr>
   <tr>
-    <td class="tg-0lax"><img height="17" width="200" alt="Teng Tse Sheng (Mr)" src="/images/teng-tse-sheng.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019">Teng Tse Sheng (Mr)</a></h5><br>Master Teacher<p><a href="mailto:Teng_Tse_Sheng@moe.gov.sg">Teng_Tse_Sheng@moe.gov.sg</a></p>
+    <td class="tg-0lax"><img src="/images/teng-tse-sheng.jpeg" style="width:200px"><br><br><h5>Teng Tse Sheng (Mr)</h5><br>Master Teacher<p><a href="mailto:Teng_Tse_Sheng@moe.gov.sg">Teng_Tse_Sheng@moe.gov.sg</a></p>
 <p><a href="tel:66641509">66641509</a></p>
 </td>
-			<td class="tg-0lax"><img height="19" width="200" alt="Joanna Phan Swee Lee (Ms)" src="/images/joanna-phan-swee-lee.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Joanna Phan Swee Lee (Ms)</a></h5><br>Master Teacher<p><a href="mailto:Joanna_Phan@moe.gov.sg">Joanna_Phan@moe.gov.sg</a></p>
+			<td class="tg-0lax"><img  src="/images/joanna-phan-swee-lee.jpeg" style="width:200px"><br><br><h5>Joanna Phan Swee Lee (Ms)</h5><br>Master Teacher<p><a href="mailto:Joanna_Phan@moe.gov.sg">Joanna_Phan@moe.gov.sg</a></p>
 <p><a href="tel:66641542">66641542</a></p>
 </td>
   </tr>
