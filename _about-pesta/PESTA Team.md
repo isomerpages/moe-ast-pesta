@@ -77,12 +77,12 @@ The PESTA Team
 			<td class="tg-0lax"><img src="![](/images/nurhanatay.jpg)"  style="width:200px"><br><br><h5><a href="???">Nur Hana Tay (Mdm)</a></h5><br>Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="???">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="???">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
+    <td class="tg-0lax"><img src="![](/images/neo_chow_ming_linus.jpg)"  style="width:200px"><br><br><h5><a href="???">Neo Chow Ming Linus (Mr)</a></h5><br>Academy Officer</td>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="???">Karthikesan S/O Kumar (Mr)</a></h5><br>Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" ><br><br><h5><a href="???">Neo Chow Ming Linus (Mr)</a></h5></td>
-    <td class="tg-0lax">0</td>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" ><br><br><h5><a href="???">Amber Ng (Ms)</a></h5><br>Academy Officer</td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
