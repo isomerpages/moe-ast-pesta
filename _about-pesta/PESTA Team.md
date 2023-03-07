@@ -68,20 +68,20 @@ The PESTA Team
 <thead>
   <tr>
     <th class="tg-lvth"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</th>
-    <th class="tg-lvth"><img src="![](/images/francis-newest.jpeg)"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Francis Tang (Mr)</a></h5><br>Senior Academy Officer</th>
+    <th class="tg-lvth"><img src="![](/images/francis-newest.jpeg)"  style="width:200px"><br><br><h5><a href="???">Francis Tang (Mr)</a></h5><br>Senior Academy Officer</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
-			<td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
+    <td class="tg-0lax"><img src="![](/images/ridzal-newest.jpeg)"  style="width:200px"><br><br><h5><a href="???">Mohammed Ridzal Mohammed Ali (Mr)</a></h5><br>Senior Academy Officer</td>
+			<td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="???">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="???">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="???">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022">Neo Chow Ming Linus (Mr)</a></h5></td>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" ><br><br><h5><a href="???">Neo Chow Ming Linus (Mr)</a></h5></td>
     <td class="tg-0lax">0</td>
   </tr>
 </tbody>
