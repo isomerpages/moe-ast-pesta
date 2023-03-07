@@ -44,7 +44,7 @@ The PESTA Team
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/question-14---pesta-karen-low.jpeg" alt="Karen Low Lai Fong (Ms)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)</td>
-		    <td class="tg-0lax"><img src="![](/images/pesta-nasrun_photo.jpeg)" alt="Joanna Phan Swee Lee (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Nasrun Mizzy (Mr)</a></h5><br>Master Teacher</td>
+		    <td class="tg-0lax"><img src="/images/pesta-nasrun_photo.jpeg" alt="Joanna Phan Swee Lee (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Nasrun Mizzy (Mr)</a></h5><br>Master Teacher</td>
   </tr>
 </tbody>
 </table>
