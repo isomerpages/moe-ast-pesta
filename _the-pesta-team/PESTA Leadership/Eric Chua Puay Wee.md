@@ -4,16 +4,15 @@ permalink: /pesta/about-pesta/the-pesta-team/eric-chua-puay-wee-bio-2023/
 description: ""
 third_nav_title: PESTA Leadership
 ---
+Deputy Director/ PESTA
 
-Deputy Director/ Special Projects
+<img src="/images/eric-chua-(dd_pesta).jpeg"  
+style="width:40%">
 
-<p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/chan%20weng%20kit%20mark.jpeg" alt="Chan Weng Kit, Mark" style="width:175px" /></p>
+Prior to joining MOE, Eric worked in SAFRA as a Sports Executive where he was involved in planning and organising sports programmes, club management and development.  His passion in sports and working with youth led him to join the ministry in 2000 as a PE teacher.  He started his career in CHIJ St Theresa’s Convent, before joining Meridian JC where he took on the responsibility of SH Sports and subsequently HOD CCA.  He was appointed as a Vice-Principal in 2013 and served in Holy Innocents High School and Queenstown Secondary School.  
 
-<p style="text-align:justify">
-Mr Chan Weng Kit, Mark began his career at Temasek Secondary School in June 1999, teaching Physical Education and Mathematics. He became the Physical Education (PE) Head of Department from 2002 to June 2005, before assuming school leadership positions in various secondary schools between June 2005 and Dec 2016. Mark joined the Physical Education and Sports Teacher Academy (PESTA) in January 2017. In August that same year, Mark went to pursue his Master of Arts (MA) in PE at Teachers College, Columbia University in New York, USA on a MOE Postgraduate Scholarship.<br><br>
+Eric believes in the unique worth of the individual, the enhancement of his well-being and the symbiotic relations between him and society.  He strongly believes that every child wants to and can learn.  Physical education is a vital component of students’ schooling experience which enables them to be active and physically competent individuals.  It contributes to their holistic education and the development of 21st Century Competencies to better prepare each individual to thrive in a fast-changing and highly-connected world.   
 
-Mark aspires to enable students of all abilities, from diverse backgrounds, to develop skills, nurture a love for PE and experience success in their unique ways in a safe, positive and purposeful learning environment. Mark also believes that students need to learn and experience the joy of learning. Education needs to be seen as providing a “lifting” effect to all students as teachers strive to develop each and every student to his or her fullest potential. <em><strong>L</strong>earning <strong>I</strong>s <strong>F</strong>un <strong>T</strong>ogether</em>.<br><br>  
-At PESTA, Mark’s main scope of work involves providing professional development opportunities for PE teachers for improved PE education delivery in schools through quality workshops, schools and networks support for the different segments of PE teachers.<br><br>
+In his free time, Eric loves to swim and cycle.  His weekly cycling regime covers over 100km at the dedicated cycling lane at Tanah Merah Coastal Road and around Singapore.  He also enjoys playing basketball and all racket games.  
 
-Mark’s current interest area in PE is closely related to his work at PESTA, in particular, looking into the development of pedagogical content knowledge and skills of PE teachers, so as to cater to the diverse learning needs of students.</p>
+At PESTA, Eric seeks to learn and work with the esteemed team of Teacher Leaders in building a distinctive community of physical education teachers to deliver quality physical education and sports coaching in Singapore schools and making a difference in the lives of students.
