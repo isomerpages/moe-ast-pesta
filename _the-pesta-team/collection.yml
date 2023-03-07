@@ -2,6 +2,7 @@ collections:
   the-pesta-team:
     output: true
     order:
+      - PESTA Leadership/Nasrun Mizzy (Mr).md
       - PESTA Leadership/Eric Chua Puay Wee.md
       - PESTA Leadership/Hanif Bin Abdul Rahman.md
       - PESTA Leadership/Mabel Yong.md
