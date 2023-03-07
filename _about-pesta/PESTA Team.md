@@ -81,7 +81,7 @@ The PESTA Team
     <td class="tg-0lax"><img src="![](/images/karthikesan-newest.jpeg)"  style="width:200px"><br><br><h5><a href="???">Karthikesan S/O Kumar (Mr)</a></h5><br>Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="![](/images/pesta-amber-ng.jpeg)" alt="Neo Chow Ming Linus (Mr)" width="200" ><br><br><h5><a href="???">Amber Ng (Ms)</a></h5><br>Academy Officer</td>
+    <td class="tg-0lax"><img src="![](/images/pesta-amber-ng.jpeg)" style="width:200px" ><br><br><h5><a href="???">Amber Ng (Ms)</a></h5><br>Academy Officer</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
