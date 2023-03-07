@@ -59,9 +59,9 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lvth"><img src="/images/mel-newest.jpeg" style=“width:200px”><br><br><h5>Melanie Ann Martens (Ms)</h5><br>Academy Principal<p><a href="mailto:Melanie_Ann_Martens@moe.gov.sg">Melanie_Ann_Martens@moe.gov.sg</a></p>
+    <th class="tg-lvth"><img src="/images/mel-newest.jpeg" style="width:200px"><br><br><h5>Melanie Ann Martens (Ms)</h5><br>Academy Principal<p><a href="mailto:Melanie_Ann_Martens@moe.gov.sg">Melanie_Ann_Martens@moe.gov.sg</a></p>
 <p><a href="tel:66641515">66641515</a></p></th>
-    <th class="tg-lvth"><img src="/images/eric-chua-(dd_pesta).jpeg" style=“width:200px”><br><br><h5>Eric Chua Puay Wee (Mr)</h5><br>Deputy Director<p><a href="mailto:Chua_Puay_Wee@moe.gov.sg">Chua_Puay_Wee@moe.gov.sg</a></p>
+    <th class="tg-lvth"><img src="/images/eric-chua-(dd_pesta).jpeg" style="width:200px"><br><br><h5>Eric Chua Puay Wee (Mr)</h5><br>Deputy Director<p><a href="mailto:Chua_Puay_Wee@moe.gov.sg">Chua_Puay_Wee@moe.gov.sg</a></p>
 <p><a href="tel:66641518">66641518</a></p>
 </th>
   </tr>
