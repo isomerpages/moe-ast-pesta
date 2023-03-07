@@ -96,11 +96,12 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 </td>
   </tr>
 	<tr>
-    <td class="tg-lvth"><img height="17" width="200" alt="Aw Kai Yueh (Ms)" src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer<p><a href="mailto:Aw_Kai_Yueh@moe.gov.sg">Aw_Kai_Yueh@moe.gov.sg</a></p>
+    <td class="tg-lvth"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg" style="width:200px"><br><br><h5>Aw Kai Yueh (Ms)</h5><br>Senior Academy Officer<p><a href="mailto:Aw_Kai_Yueh@moe.gov.sg">Aw_Kai_Yueh@moe.gov.sg</a></p>
 <p><a href="tel:66641532">66641532</a></p>
 </td>
-    <td class="tg-lvth"><img height="17" width="200" alt="Aw Kai Yueh (Ms)" src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer<p><a href="mailto:Aw_Kai_Yueh@moe.gov.sg">Aw_Kai_Yueh@moe.gov.sg</a></p>
-<p><a href="tel:66641532">66641532</a></p>
+    <td class="tg-lvth"><img src="/images/francis-newest.jpeg" style="width:200px"><br><br><h5>
+Tang Yee Fun Francis (Mr)</h5><br>Senior Academy Officer<p><a href="mailto:Francis_Tang@moe.gov.sg">Francis_Tang@moe.gov.sg</a></p>
+<p><a href="tel:66641537">66641537</a></p>
 </td>
   </tr>
 
