@@ -103,24 +103,20 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 <p><a href="tel:66641532">66641532</a></p>
 </td>
   </tr>
-	<tr>
-    <td class="tg-0lax"><img src="/images/ridzal-newest.jpeg" style="width:200px"><br><br><h5>Mohammed Ridzal Bin Mohammed Ali (Mr)</h5><br>Senior Academy Officer<p><a href="mailto:Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg">Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg</a></p><p><a href="tel:66641543">66641543</a></p>
-</td>
-	<td class="tg-0lax"><img src="/images/ridzal-newest.jpeg" style="width:200px"><br><br><h5>Mohammed Ridzal Bin Mohammed Ali (Mr)</h5><br>Senior Academy Officer<p><a href="mailto:Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg">Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg</a></p><p><a href="tel:66641543">66641543</a></p>
-</td>
-  </tr>
+
   <tr>
     <td class="tg-0lax"><img src="/images/ridzal-newest.jpeg" style="width:200px"><br><br><h5>Mohammed Ridzal Bin Mohammed Ali (Mr)</h5><br>Senior Academy Officer<p><a href="mailto:Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg">Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg</a></p><p><a href="tel:66641543">66641543</a></p>
 </td>
-	<td class="tg-0lax"><img src="/images/ridzal-newest.jpeg" style="width:200px"><br><br><h5>Mohammed Ridzal Bin Mohammed Ali (Mr)</h5><br>Senior Academy Officer<p><a href="mailto:Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg">Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg</a></p><p><a href="tel:66641543">66641543</a></p>
-</td>
-  </tr>
-  <tr>
-	<td class="tg-0lax"><img height="17" width="200" alt="Teng Tse Sheng (Mr)" src="/images/whatsapp-image-2022-01-10-at-09-01-59-(1).jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022">Nur Hana Tay (Mdm)</a></h5><br>Academy Officer<p><a href="mailto:Nur_Hana_Tay@moe.gov.sg">Nur_Hana_Tay@moe.gov.sg</a></p>
+	<td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-59-(1).jpeg" style="width:200px"><br><br><h5>Nur Hana Tay (Mdm)</h5><br>Academy Officer<p><a href="mailto:Nur_Hana_Tay@moe.gov.sg">Nur_Hana_Tay@moe.gov.sg</a></p>
 <p><a href="tel:66641538">66641538</a></p>
 </td>
-    <td class="tg-0lax"><img height="19" width="200" alt="Neo Chow Ming Linus (Mr)" src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022">Neo Chow Ming Linus (Mr)</a></h5><br>Academy Officer<p><a href="mailto:Linus_Neo@moe.gov.sg">Linus_Neo@moe.gov.sg</a></p>
+  </tr>
+  <tr>
+	<td class="tg-0lax"><img  src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" style="width:200px"><br><br><h5>Neo Chow Ming Linus (Mr)</h5><br>Academy Officer<p><a href="mailto:Linus_Neo@moe.gov.sg">Linus_Neo@moe.gov.sg</a></p>
 <p><a href="tel:66641537">66641537</a></p>
+</td>
+    <td class="tg-0lax"><img  src="/images/karthikesan-newest.jpeg" style="width:200px"><br><br><h5>Karthikesan S/O Kumar (Mr)</h5><br>Academy Officer<p><a href="mailto:Karthikesan_Kumar@moe.gov.sg">Karthikesan_Kumar@moe.gov.sg</a></p>
+<p><a href="tel:66641522">66641522</a></p>
 </td>
   </tr>
 	<tr>
