@@ -90,9 +90,9 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img height="17" width="200" alt="Karen Low Lai Fong (Ms)" src="/images/question-14---pesta-karen-low.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)<p><a href="mailto:Low_Lai_Fong_A@moe.edu.sg">Low_Lai_Fong_A@moe.edu.sg</a></p>
+    <td class="tg-0lax"><img src="/images/question-14---pesta-karen-low.jpeg" style="width:200px"><br><br><h5>Karen Low Lai Fong (Ms)</h5><br>Master Teacher (Schools)<p><a href="mailto:Low_Lai_Fong_A@moe.edu.sg">Low_Lai_Fong_A@moe.edu.sg</a></p>
 </td>
-    <td class="tg-0lax"><img height="17" width="200" alt="Karen Low Lai Fong (Ms)" src="/images/question-14---pesta-karen-low.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)<p><a href="mailto:Low_Lai_Fong_A@moe.edu.sg">Low_Lai_Fong_A@moe.edu.sg</a></p>
+    <td class="tg-0lax"><img src="/images/pesta-nasrun_photo.jpeg" style="width:200px"><br><br><h5>Nasrun Mizzy (Mr)</h5><br>Master Teacher<p><a href="mailto:Nasrun_Mizzy@moe.gov.sg">Nasrun_Mizzy@moe.gov.sg</a></p>
 </td>
   </tr>
 	<tr>
