@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /pesta/contact-pesta-staff/
 description: ""
 ---
-<img style="width:30%" src="/images/pesta-logo-(clear).jpeg">
+<img style="width:20%" src="/images/pesta-logo-(clear).jpeg">
 
 ### Physical Education &amp; Sports Teacher Academy
 
