@@ -28,12 +28,12 @@ sections:
       image: /images/peko30657bbb65bc46838744da5ed9b80113.png
       alt: PEKO
   - infopic:
-      title: 2022 Workshops for PE and Sports CCA Teachers
+      title: 2023 Workshops for PE and Sports CCA Teachers
       description: Looking for workshops to enhance your professional development? We
         have an array of workshops designed for you! By PE teachers. For PE
         teachers.
       button: Please click on this link to find out more!
-      url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers
+      url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
       image: /images/black-simple-sports-event-poster-(poster-(landscape)).png
       alt: Workshops for PE teachers
   - infopic:
@@ -45,4 +45,3 @@ sections:
       image: /images/whatsapp-image-2022-07-20-at-1-55-36-pmbdb1477e888e413688f596be3ac192d5.jpeg
       alt: PE Fraternity
 ---
-
