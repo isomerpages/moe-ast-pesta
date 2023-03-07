@@ -67,22 +67,22 @@ The PESTA Team
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lvth"><img src="/images/selvei-shunmugam-1.jpeg" alt="Selvei Shunmugam (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/selvei-profile-bio-2019">Selvei Shunmugam (Ms)</a></h5></th>
-    <th class="tg-lvth"><img src="/images/hairil-profile-bio1.jpeg" alt="Mohamad Hairil Johari (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hairil-johari-profile-bio-2020">Mohamad Hairil Johari (Mr)</a></h5></th>
+    <th class="tg-lvth"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</th>
+    <th class="tg-lvth"><img src="![](/images/francis-newest.jpeg)"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Francis Tang (Mr)</a></h5><br>Senior Academy Officer</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/img-20200701-wa0002.jpeg" alt="Milhan Binte Mahat (Ms)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/milhan-profile-bio-2020">Milhan Binte Mahat (Ms)</a></h5></td>
-			<td class="tg-0lax"><img src="/images/wei-sheng.jpeg" alt="Lim Wei Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/lim-wei-sheng-profile-bio-2021">Lim Wei Sheng (Mr)</a></h5></td>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
+			<td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/yuliang.jpeg" alt="Chen Yuliang (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/chen-yuliang-bio-2020">Chen Yuliang (Mr)</a></h5></td>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-59-(1).jpeg" alt="Teng Tse Sheng (Mr)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022">Nur Hana Tay (Mdm)</a></h5></td>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg"  style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" height="19"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022">Neo Chow Ming Linus (Mr)</a></h5></td>
-    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg" alt="Aw Kai Yueh (Ms)" width="200" height="17"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5></td>
+    <td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" alt="Neo Chow Ming Linus (Mr)" width="200" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022">Neo Chow Ming Linus (Mr)</a></h5></td>
+    <td class="tg-0lax">0</td>
   </tr>
 </tbody>
 </table>
