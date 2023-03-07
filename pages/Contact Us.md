@@ -59,9 +59,9 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lvth"><img src="![](/images/mel-newest.jpeg)"><br><br><h5><a href="/pesta/about-pesta/principals-message">Melanie Ann Martens (Ms)</a></h5><br>Academy Principal<p><a href="mailto:Melanie_Ann_Martens@moe.gov.sg">Melanie_Ann_Martens@moe.gov.sg</a></p>
+    <th class="tg-lvth"><img src="/images/mel-newest.jpeg" style=“width:200px”><br><br><h5><strong>Melanie Ann Martens (Ms)</h5><br>Academy Principal<p></strong><a href="mailto:Melanie_Ann_Martens@moe.gov.sg">Melanie_Ann_Martens@moe.gov.sg</a></p>
 <p><a href="tel:66641515">66641515</a></p></th>
-    <th class="tg-lvth"><img height="17" width="200" alt="Fathul Rahman Kamsani (Deputy Director)" src="/images/fathul-rahman-kamsanie0a1feeb96694546bb8f4362920c68dd.jpeg"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Fathul Rahman Kamsani (Mr)</a></h5><br>Deputy Director<p><a href="mailto:Fathul_Rahman_Kamsani@moe.gov.sg">Fathul_Rahman_Kamsani@moe.gov.sg</a></p>
+    <th class="tg-lvth"><img src="![](/images/eric-chua-(dd_pesta).jpeg)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Eric Chua Puay Wee (Mr)</a></h5><br>Deputy Director<p><a href="mailto:Fathul_Rahman_Kamsani@moe.gov.sg">Fathul_Rahman_Kamsani@moe.gov.sg</a></p>
 <p><a href="tel:66641518">66641518</a></p>
 </th>
   </tr>
