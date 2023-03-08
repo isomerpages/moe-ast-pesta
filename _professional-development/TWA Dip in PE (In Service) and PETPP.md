@@ -8,7 +8,7 @@ Click below to find out more!
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion22">
-    <label for="accordion22">2023 Intake of Diploma in PE (in-service) Programme for Primary School Teachers - Application Closed</label>
+    <label for="accordion22"><h4>2023 Intake of Diploma in PE (in-service) Programme for Primary School Teachers - Application Closed</h4></label>
     <div>
     <p><strong><em>Application closed</em></strong></p>
 <p>The Programme seeks to train non-PE teachers to teach PE at the <strong>Primary level</strong> over two three-month periods and a five week Teaching Practice (TP) stint. Successful applicants are obliged to serve their current school for one year upon completion of the Programme. Physical Education (PE) will be listed as their Subject Proficiency 1 thereafter. </p>
@@ -22,7 +22,7 @@ Click below to find out more!
   </li>
   <li>
     <input type="checkbox" id="accordion23">
-    <label for="accordion23">Physical Education Teacher Practitioner Programme (PETPP) - Application Closed</label>
+    <label for="accordion23"><h4>Physical Education Teacher Practitioner Programme (PETPP) - Application Closed</h4></label>
     <div>
       <p><em><strong>Application closed</strong></em>  </p>
 <p>The Programme seeks to alleviate short-term shortage of QPETs at the Primary level by equipping non-QPETs with requisite knowledge and skills to conduct PE lessons that meet curricular objectives safely. </p>
