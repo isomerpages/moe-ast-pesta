@@ -3,8 +3,7 @@ title: Book Chapters by the PESTA Team
 permalink: /pesta/professional-development/book-chapters-by-the-pesta-team/
 description: ""
 ---
-Continuing Professional Development (CPD) for Teaching and Learning in Physical Education
-=========================================================================================
+## Continuing Professional Development (CPD) for Teaching and Learning in Physical Education
 
 **This book is designed to contribute to the continuing professional development (CPD) of practicing physical education teachers and supporting them to continue to earn and develop their teaching with a specific focus on how this impacts on and enhances students' learning.**
 
@@ -416,4 +415,3 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     </div>
   </li>
 </ul>
-
