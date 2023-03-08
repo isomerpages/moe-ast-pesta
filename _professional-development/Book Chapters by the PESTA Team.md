@@ -19,7 +19,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion6" type="checkbox">
-    <label for="accordion6">Chapter 2: Continuity and Progression - What do my students need to know and understand to make progress? by Ms Karen Low Lai Fong</label>
+    <label for="accordion6"><h4>Chapter 2: Continuity and Progression - What do my students need to know and understand to make progress? by Ms Karen Low Lai Fong</h4></label>
     <div>
     <p><strong>FURTHER RESOURCES</strong></p>
 <p>Lund, J. and Tannehill, D. (2014)&nbsp;<em>Standards-based Physical Education Curriculum Development</em>, New York: Jones and Bartlett Publishers.</p>
@@ -38,7 +38,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 	</li>  
   <li>
     <input id="accordion7" type="checkbox">
-    <label for="accordion7">Chapter 3: Knowing students as individuals and understanding their needs by Mr Tan Seck Heong</label>
+    <label for="accordion7"><h4>Chapter 3: Knowing students as individuals and understanding their needs by Mr Tan Seck Heong</h4></label>
     <div>
       <p><strong>FURTHER RESOURCES</strong></p>
 <p>Donnelly, F.C., Mueller, S.S. and Gallahue, D.L. (2017)&nbsp;<em>Developmental Physical Education for All Children: Theory Into Practice</em>&nbsp;(5th edn), Champaign, IL: Human Kinetics.</p>
@@ -58,7 +58,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
   </li>
   <li>
     <input id="accordion8" type="checkbox">
-    <label for="accordion8">Chapter 4: Learners and Learning in Physical Education: Games-Centred Approaches and Nonlinear Pedagogy by Dr Tan Wee Keat Clara</label>
+    <label for="accordion8"><h4>Chapter 4: Learners and Learning in Physical Education: Games-Centred Approaches and Nonlinear Pedagogy by Dr Tan Wee Keat Clara</h4></label>
     <div>
       <p><strong>FURTHER RESOURCES</strong>  </p>
 <p>Atencio, M., Chow, JY., Tan, W.K.C. and Lee, C.Y.M. (2014) ‘Using a complex and nonlinear pedagogical approach to design practical primary physical education lessons’,&nbsp;<em>European Physical Education Review</em>,&nbsp;20&nbsp;(2), 244-263.</p>
@@ -77,7 +77,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
   </li>
 	 <li>
     <input id="accordion9" type="checkbox">
-    <label for="accordion9">Chapter 5: Identifying and Developing Students' Readiness to Learn by Mr Justin Wakefield and Dr Julia Lawrence</label>
+    <label for="accordion9"><h4>Chapter 5: Identifying and Developing Students' Readiness to Learn by Mr Justin Wakefield and Dr Julia Lawrence</h4></label>
     <div>
     <p><strong>FURTHER RESOURCES</strong></p>
 <p>Muijs, D. and Bokhove, C. (2020)&nbsp;<em>Metacognition and Self-regulation: Evidence Review</em>, London: Education Endowment Foundation, viewed 2 May 2021,</p>
@@ -97,7 +97,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 	</li>  
   <li>
     <input id="accordion10" type="checkbox">
-    <label for="accordion10">Chapter 6: Inclusive Physical Education by Ms Kwok Hui Min</label>
+    <label for="accordion10"><h4>Chapter 6: Inclusive Physical Education by Ms Kwok Hui Min</h4></label>
     <div>
       <p><strong>FURTHER RESOURCES</strong></p>
 <p>Ang, L., Lipponen, L. and May Yin, S. (2021) ‘Critical reflections of early childhood care and education in Singapore to build an inclusive society’,&nbsp;<em>Policy Futures in Education</em>, 19 (2), 139–154,&nbsp;<a href="https://doi.org/10.1177/1478210320971103">https://doi.org/10.1177/1478210320971103</a></p>
@@ -122,7 +122,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
   </li>
 	 <li>
     <input id="accordion11" type="checkbox">
-    <label for="accordion11">Chapter 7: Assessing Student’s Progress Formatively by Ms Mabel Yong</label>
+    <label for="accordion11"><h4>Chapter 7: Assessing Student’s Progress Formatively by Ms Mabel Yong</h4></label>
     <div>
     <p><strong>FURTHER RESOURCES</strong></p>
 <p>Gardner, J. (ed.) (2012)&nbsp;<em>Assessment and Learning</em>&nbsp;(2nd edn), London: Sage Publications.</p>
@@ -141,7 +141,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 	</li>  
   <li>
     <input id="accordion12" type="checkbox">
-    <label for="accordion12">Chapter 8: Intentionality: The Key to Effective Affective Learning by Mr Hanif Abdul Rahman</label>
+    <label for="accordion12"><h4>Chapter 8: Intentionality: The Key to Effective Affective Learning by Mr Hanif Abdul Rahman</h4></label>
     <div>
       <p><strong>FURTHER RESOURCES</strong></p>
 <p>CASEL (Collaborative for Academic, Social, and Emotional Learning) website, viewed 27 July 2021, &lt;<a href="https://casel.org/">https://casel.org</a>&gt;</p>
@@ -161,7 +161,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
   </li>
 	 <li>
     <input id="accordion13" type="checkbox">
-    <label for="accordion13">Chapter 9: You as the Teacher: Teacher Identity and How it Relates to Your Philosophy of Teaching by Mr Teng Tse Sheng</label>
+    <label for="accordion13"><h4>Chapter 9: You as the Teacher: Teacher Identity and How it Relates to Your Philosophy of Teaching by Mr Teng Tse Sheng</h4></label>
     <div>
     <p><strong>FURTHER RESOURCES</strong></p>
 <p>Knowing who you are, your beliefs and assumptions that guide your teaching is an on-going process. There is a whole body of knowledge on teaching beliefs and finding your inner self to support you in this journey of self-discovery. As a start, these books and articles may be enriching and helpful in your journey.</p>
@@ -185,7 +185,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 	</li>  
   <li>
     <input id="accordion14" type="checkbox">
-    <label for="accordion14">Chapter 10: Teaching Approaches by Mr Benjamin S.J. Tan</label>
+    <label for="accordion14"><h4>Chapter 10: Teaching Approaches by Mr Benjamin S.J. Tan</h4></label>
     <div>
       <p><strong>Further resources</strong></p>
 <p>Ashworth, S. (2020) ‘History and overview of the Spectrum’, in B. SueSee, M. Hewitt, and S. Pill (eds.)&nbsp;<em>The Spectrum of Teaching Styles in Physical Education</em>, Abingdon: Routledge, pp.14-26.</p>
@@ -208,7 +208,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
   </li>
 	 <li>
     <input id="accordion15" type="checkbox">
-    <label for="accordion15">Chapter 11: Enhancing Physical Education Using Digital Technologies by Mr Jason Zhuo Gensheng and Mr Goh Ming Ming Kelvin</label>
+    <label for="accordion15"><h4>Chapter 11: Enhancing Physical Education Using Digital Technologies by Mr Jason Zhuo Gensheng and Mr Goh Ming Ming Kelvin</h4></label>
     <div>
     <p><strong>Further Resources</strong></p>
 <p>Casey, A., Goodyear, V.A. and Armour, K.M. (eds.) (2016)&nbsp;<em>Digital Technologies and Learning in Physical Education: Pedagogical Cases</em>, Abingdon: Routledge.</p>
@@ -231,7 +231,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 	</li>  
   <li>
     <input id="accordion16" type="checkbox">
-    <label for="accordion16">Chapter 12: Being a Reflective Teacher: Using Narrative Inquiry as Professional Development in Physical Education by Mr Nasrun Bin Mizzy</label>
+    <label for="accordion16"><h4>Chapter 12: Being a Reflective Teacher: Using Narrative Inquiry as Professional Development in Physical Education by Mr Nasrun Bin Mizzy</h4></label>
     <div>
       <p><strong>Further resources</strong><br>Armour, K.R. and Jones, R.L. (1998) Physical Education: Teachers’ Lives And Careers: PE, Sport And Educational Status, London: Falmer Press.  </p>
 <ul>
@@ -251,7 +251,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
   </li>
 	 <li>
     <input id="accordion17" type="checkbox">
-    <label for="accordion17">Chapter 13: Professional Development: What Is It And How Can It Work For Me? by Ms Joanna Phan Swee Lee</label>
+    <label for="accordion17"><h4>Chapter 13: Professional Development: What Is It And How Can It Work For Me? by Ms Joanna Phan Swee Lee</h4></label>
     <div>
     <p><strong>FURTHER RESOURCES</strong></p>
 <p>Fuller, A. and Unwin, L. (2007) ‘Expansive and restrictive learning environments’, in K. Evans, P. Hodkinson, H. Rainbird and L. Unwin (eds.) <em>Improving Workplace Learning</em>, Abingdon: Routledge, pp. 27-48.</p>
@@ -266,7 +266,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 	</li>  
   <li>
     <input id="accordion18" type="checkbox">
-    <label for="accordion18">Chapter 14: Being a Mentor by Mr Fazlin Jaya Indra</label>
+    <label for="accordion18"><h4>Chapter 14: Being a Mentor by Mr Fazlin Jaya Indra</h4></label>
     <div>
       <p><strong>FURTHER RESOURCES</strong></p>
 <p>Aguilar, E. (2013). <em>The Art of Coaching: Effective strategies for school</em>. San Francisco: Jossey-Bass.</p>
@@ -366,7 +366,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
   </li>
 	 <li>
     <input id="accordion19" type="checkbox">
-    <label for="accordion19">Chapter 15: Leading and Managing for Effective Continuing Professional Development in Physical Education by Mr Mark Chan and Mr Kiran Kumar Gomez</label>
+    <label for="accordion19"><h4>Chapter 15: Leading and Managing for Effective Continuing Professional Development in Physical Education by Mr Mark Chan and Mr Kiran Kumar Gomez</h4></label>
     <div>
     <p><strong>Further Resources</strong></p>
 <p>Hanover Research (2017) <em>Best Practices in Professional Development</em>, viewed 21 June 2021,<br>&lt;<a href="https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf">https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf</a>&gt;  </p>
@@ -385,7 +385,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 	</li>  
   <li>
     <input id="accordion20" type="checkbox">
-    <label for="accordion20">Chapter 16: Continuing Professional Development (CPD): Supporting the Delivery of Quality Teaching in Physical Education by Ms Wendy Koh</label>
+    <label for="accordion20"><h4>Chapter 16: Continuing Professional Development (CPD): Supporting the Delivery of Quality Teaching in Physical Education by Ms Wendy Koh</h4></label>
     <div>
       <p><strong>Further Resources</strong></p>
 <p>Batlle, J. and Miller, P. (2017) ‘Video enhanced observation and teacher development: Teachers’ beliefs as technology users’, <em>EDULEARN17 Proceedings</em>, <em>1</em>.</p>
