@@ -36,8 +36,8 @@ The PESTA Team
 		    <td class="tg-0lax"><img src="![](/images/mabel-yong-chooi-resized.jpeg)" style="width:200px" alt="Mabel Yong Chooi Cheng (Ms)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019">Mabel Yong Chooi Cheng (Ms)</a></h5><br>Master Teacher</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/teng-tse-sheng.jpeg" style="width:200px" alt="Teng Tse Sheng (Mr)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019">Teng Tse Sheng (Mr)</a></h5><br>Master Teacher</td>
-		    <td class="tg-0lax"><img src="/images/tan-seck-heong-2.jpeg" style="width:200px" alt="Tan Seck Heong (Mr)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019">Tan Seck Heong (Mr)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="![](/images/teng-tse-sheng-resized.jpeg)" style="width:200px" alt="Teng Tse Sheng (Mr)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019">Teng Tse Sheng (Mr)</a></h5><br>Master Teacher</td>
+		    <td class="tg-0lax"><img src="![](/images/tan-seck-heong-resized.jpeg)" style="width:200px" alt="Tan Seck Heong (Mr)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019">Tan Seck Heong (Mr)</a></h5><br>Master Teacher</td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/benjamin-tan-su-jime0ed98aa860f493ab19ad4e87f3f1d12.jpeg" style="width:200px" alt="Benjamin Tan Su-Jim (Mr)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019">Benjamin Tan Su-Jim (Mr)</a></h5><br>Master Teacher (Schools)</td>
