@@ -41,11 +41,11 @@ The PESTA Team
   </tr>
   <tr>
     <td class="tg-0lax"><img src="![](/images/benjamin-tan-su-resized.jpeg)" style="width:200px" alt="Benjamin Tan Su-Jim (Mr)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019">Benjamin Tan Su-Jim (Mr)</a></h5><br>Master Teacher (Schools)</td>
-		    <td class="tg-0lax"><img src="/images/joanna-phan-swee-lee.jpeg" style="width:200px" alt="Joanna Phan Swee Lee (Ms)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Joanna Phan Swee Lee (Ms)</a></h5><br>Master Teacher</td>
+		    <td class="tg-0lax"><img src="![](/images/joanna-phan-swee-lee-resized.jpeg)" style="width:200px" alt="Joanna Phan Swee Lee (Ms)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Joanna Phan Swee Lee (Ms)</a></h5><br>Master Teacher</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/question-14---pesta-karen-low.jpeg" style="width:200px" alt="Karen Low Lai Fong (Ms)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)</td>
-		    <td class="tg-0lax"><img src="/images/pesta-nasrun_photo.jpeg" style="width:200px" alt="Joanna Phan Swee Lee (Ms)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Nasrun Mizzy (Mr)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="![](/images/pesta-karen-low-resized.jpeg)" style="width:200px" alt="Karen Low Lai Fong (Ms)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)</td>
+		    <td class="tg-0lax"><img src="![](/images/pesta-nasrun-resized.jpeg)" style="width:200px" alt="Joanna Phan Swee Lee (Ms)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Nasrun Mizzy (Mr)</a></h5><br>Master Teacher</td>
   </tr>
 </tbody>
 </table>
