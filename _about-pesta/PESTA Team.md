@@ -27,7 +27,7 @@ The PESTA Team
 <thead>
   <tr>
     <th class="tg-lvth"><img src="/images/melanie-ann-martens-resized.jpeg" style="width:200px" alt="Melanie Ann Martens (Academy Principal)"><br><br><h5><a href="/pesta/about-pesta/principals-message">Melanie Ann Martens (Ms)</a></h5><br>Academy Principal</th>
-    <th class="tg-lvth"><img src="/images/eric-chua-(dd_pesta)-resized.jpeg" style="width:200px" alt="Fathul Rahman Kamsani (Deputy Director)" ><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/fathul-profile-bio-2019">Eric Chua Puay Wee (Mr)</a></h5><br>Deputy Director</th>
+    <th class="tg-lvth"><img src="/images/eric-chua-(dd_pesta)-resized.jpeg" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/eric-chua-puay-wee-bio-2023/">Eric Chua Puay Wee (Mr)</a></h5><br>Deputy Director</th>
   </tr>
 </thead>
 <tbody>
