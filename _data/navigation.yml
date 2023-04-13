@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/pesta-logo-(clear).jpeg
 links:
+  - title: About Pesta
+    collection: about-pesta
+  - title: The PE Fraternity
+    collection: the-pe-fraternity
+  - title: Professional Development
+    collection: professional-development
+  - title: Partners and Stakeholders
+    url: /pesta/partners-and-stakeholders
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /pesta/contact-pesta-staff/
