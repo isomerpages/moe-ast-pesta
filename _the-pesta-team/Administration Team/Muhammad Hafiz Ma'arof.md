@@ -7,6 +7,7 @@ third_nav_title: Administration Team
 Senior Manager
 
 ![hafiz](/images/hafiz%204.JPG)
+
 Hafiz started his career in the private sector and joined MOE as an Administration Manager overseeing the school’s finance, procurement, HR, inventory and pupil-related admin matters. As an Admin Manager, he was passionate about the deliverance of innovative ideas to improve efficiency and increasing the capacities of his team members through calibrated coaching as well as attending quality courses. &nbsp;<br><br>
 
 Hafiz joined PESTA in 2021 and assists the academy in professional development matters. He strives to elevate the levels of physical education and sport through quality training to staff.  <br><br>
