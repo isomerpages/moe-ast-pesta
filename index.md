@@ -34,7 +34,7 @@ sections:
         teachers.
       button: Please click on this link to find out more!
       url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
-      image: /images/black-simple-sports-event-poster-(poster-(landscape)).png
+      image: /images/2023 pd calendar.png
       alt: Workshops for PE teachers
   - infopic:
       title: PE Fraternity
