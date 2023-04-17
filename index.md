@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/copy of pesta banner.png
       key_highlights:
         - title: About Us
           description: ""
