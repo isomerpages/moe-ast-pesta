@@ -6,8 +6,7 @@ third_nav_title: Senior Academy Officers
 ---
 Senior Academy Officer
 
-<img src="/images/ridzal-newest.jpeg"  
-style="width:40%">
+![](/images/ridzal%203.JPG)
 
 Prior to joining AST, Mohd Ridzal Ali has been with Townsville Primary School as HOD PE/CCA/Aesthetics.  
 
