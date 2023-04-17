@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pesta.gif
+      background: /images/pesta-logo-(clear).jpeg
       key_highlights:
         - title: About Us
           description: ""
