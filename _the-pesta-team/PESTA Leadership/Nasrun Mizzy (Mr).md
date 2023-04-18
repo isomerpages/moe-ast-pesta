@@ -6,7 +6,7 @@ third_nav_title: PESTA Leadership
 ---
 Master Teacher
 
-<img src="/images/pesta-nasrun_photo.jpeg" style="width:35%">
+![](/images/Staff%20Photos/nasrun1.JPG)
 
 Prior to joining AST, Nasrun has been with Teck Whye Primary School as Head of Department (PE &amp; CCA) for about 3 years. He was the Dean for Co-Curriculum at Beacon Primary School for 9 years before becoming a Senior Academy Officer with PESTA from 2017-2019.  
 
