@@ -43,8 +43,8 @@ The PESTA Team
 		    <td class="tg-0lax"><img src="/images/Staff%20Photos/joanna.JPG" style="width:500px" alt="Joanna Phan Swee Lee (Ms)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019">Joanna Phan Swee Lee (Ms)</a></h5><br>Master Teacher</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/pesta-karen-low-resized.jpeg" style="width:200px" alt="Karen Low Lai Fong (Ms)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)</td>
-		    <td class="tg-0lax"><img src="/images/pesta-nasrun-resized.jpeg" style="width:150px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/">Nasrun Mizzy (Mr)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/Staff%20Photos/karen1.JPG" style="width:200px" alt="Karen Low Lai Fong (Ms)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019">Karen Low Lai Fong (Ms)</a></h5><br>Master Teacher (Schools)</td>
+		    <td class="tg-0lax"><img src="/images/Staff%20Photos/nasrun1.JPG" style="width:150px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/">Nasrun Mizzy (Mr)</a></h5><br>Master Teacher</td>
   </tr>
 </tbody>
 </table>
