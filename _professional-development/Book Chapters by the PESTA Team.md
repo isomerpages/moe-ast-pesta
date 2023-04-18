@@ -144,7 +144,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <label for="accordion12"><h4>Chapter 8: Intentionality: The Key to Effective Affective Learning by Mr Hanif Abdul Rahman</h4></label>
     <div>
       <p><strong>FURTHER RESOURCES</strong></p>
-<p>CASEL (Collaborative for Academic, Social, and Emotional Learning) website, viewed 27 July 2021, &lt;<a href="https://casel.org/">https://casel.org</a>&gt;</p>
+<p>CASEL (Collaborative for Academic, Social, and Emotional Learning) website, viewed 27 July 2021, <a href="https://casel.org/">https://casel.org</a></p>
 <ul>
 <li>CASEL is a source for knowledge about high-quality, evidence-based SEL. It supports teachers and policy leaders and enhances the experiences and outcomes for all students. The website contains articles, researches and teaching resources for SEL</li>
 </ul>
@@ -196,7 +196,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>This chapter highlights the relationships between concepts of teaching approach, teaching strategy, teaching style, teaching skill and learning environment. It also discusses how appropriate use of teaching approaches results in the achievement of learning outcomes.</li>
 </ul>
-<p>Garn, A. and Byra, M (2002) ‘Psychomotor, cognitive, and social development spectrum style’,&nbsp;<em>Teaching Elementary Physical Education</em>, 13 (2), 8-13, viewed 29 July 2021, &lt;<a href="https://spectrumofteachingstyles.org/assets/files/articles/Garn_Byra_2002_Psychomotor_Cognitive_and_Social_Development.pdf">https://spectrumofteachingstyles.org/assets/files/articles/Garn_Byra_2002_Psychomotor_Cognitive_and_Social_Development.pdf</a>&gt;</p>
+<p>Garn, A. and Byra, M (2002) ‘Psychomotor, cognitive, and social development spectrum style’,&nbsp;<em>Teaching Elementary Physical Education</em>, 13 (2), 8-13, viewed 29 July 2021, <a href="https://spectrumofteachingstyles.org/assets/files/articles/Garn_Byra_2002_Psychomotor_Cognitive_and_Social_Development.pdf">https://spectrumofteachingstyles.org/assets/files/articles/Garn_Byra_2002_Psychomotor_Cognitive_and_Social_Development.pdf</a></p>
 <ul>
 <li>This chapter highlights how the use of the reproductive and productive clusters of the Spectrum fosters the development of the students’ competencies in psychomotor, cognitive and affective domains. The article contains some ideas on how the different styles are taught in lessons to meet psychomotor, cognitive and affective learning outcomes.</li>
 </ul>
