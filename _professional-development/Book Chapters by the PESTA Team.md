@@ -220,8 +220,8 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>In this 30-minutes podcast Jarrod Robinson (PE Geek), a physical education teacher from Australia, shares 100 ways of using digital technologies in physical education. If you prefer to read a copy, you can access it at:</li>
 </ul>
-<p><a>http://edt315.weebly.com/uploads/4/5/3/2/4532212/100_ways_to_use_technology_in_pe.pdf</a></p>
-<p>You can also explore his website for more resources:&nbsp;<a>https://thepegeek.com/</a></p>
+<p><a href="http://edt315.weebly.com/uploads/4/5/3/2/4532212/100_ways_to_use_technology_in_pe.pdf">http://edt315.weebly.com/uploads/4/5/3/2/4532212/100_ways_to_use_technology_in_pe.pdf</a></p>
+<p>You can also explore his website for more resources:&nbsp;<a href="https://thepegeek.com/">https://thepegeek.com/</a></p>
 <p>If you are on Twitter, you can find him via the handle @mrrobbo where he tweets about resources, ideas, webinars and training courses.</p>
 <p>Support REAL Teachers.org. (n.d.)&nbsp;<em>Technology In Physical Education</em>&nbsp;[online], viewed 27 January 2021, <a href="https://www.supportrealteachers.org/technology-in-physical-education.html">https://www.supportrealteachers.org/technology-in-physical-education.html</a></p>
 <ul>
