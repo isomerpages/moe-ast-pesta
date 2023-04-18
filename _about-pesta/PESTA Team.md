@@ -23,8 +23,6 @@ The PESTA Team
 .tg .tg-lvth{font-size:16px;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-
-		![]()
     <table class="tg">
 <thead>
   <tr>
