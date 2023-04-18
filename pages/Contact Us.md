@@ -8,9 +8,9 @@ description: ""
 ### Physical Education &amp; Sports Teacher Academy
 
 [moe\_pesta@moe.gov.sg](mailto:moe_pesta@moe.gov.sg)<br><br>
-[academyofsingaporeteachers.moe.edu.sg/pesta](https://academyofsingaporeteachers.moe.edu.sg/pesta)<br><br>
+[https://pesta.moe.edu.sg/](https://pesta.moe.edu.sg/)<br><br>
 6664 1520<br><br>
-[/pesta/about-pesta/contact-pesta-staff](/pesta/about-pesta/contact-pesta-staff)
+[https://pesta.moe.edu.sg/pesta/contact-pesta-staff/](https://pesta.moe.edu.sg/pesta/contact-pesta-staff/)
 
 ### PESTA Facebook
 
@@ -35,9 +35,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:27%;">  
+<img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:27%;">  
   
-</body>
+
   
 
 
@@ -85,7 +85,7 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
     <td class="tg-0lax"><img src="/images/teng-tse-sheng.jpeg" style="width:200px"><br><br><h5>Teng Tse Sheng (Mr)</h5><br>Master Teacher<p><a href="mailto:Teng_Tse_Sheng@moe.gov.sg">Teng_Tse_Sheng@moe.gov.sg</a></p>
 <p><a href="tel:66641509">66641509</a></p>
 </td>
-			<td class="tg-0lax"><img  src="/images/joanna-phan-swee-lee.jpeg" style="width:200px"><br><br><h5>Joanna Phan Swee Lee (Ms)</h5><br>Master Teacher<p><a href="mailto:Joanna_Phan@moe.gov.sg">Joanna_Phan@moe.gov.sg</a></p>
+			<td class="tg-0lax"><img src="/images/joanna-phan-swee-lee.jpeg" style="width:200px"><br><br><h5>Joanna Phan Swee Lee (Ms)</h5><br>Master Teacher<p><a href="mailto:Joanna_Phan@moe.gov.sg">Joanna_Phan@moe.gov.sg</a></p>
 <p><a href="tel:66641542">66641542</a></p>
 </td>
   </tr>
@@ -113,10 +113,10 @@ Tang Yee Fun Francis (Mr)</h5><br>Senior Academy Officer<p><a href="mailto:Franc
 </td>
   </tr>
   <tr>
-	<td class="tg-0lax"><img  src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" style="width:200px"><br><br><h5>Neo Chow Ming Linus (Mr)</h5><br>Academy Officer<p><a href="mailto:Linus_Neo@moe.gov.sg">Linus_Neo@moe.gov.sg</a></p>
+	<td class="tg-0lax"><img src="/images/whatsapp-image-2022-01-10-at-09-01-58.jpeg" style="width:200px"><br><br><h5>Neo Chow Ming Linus (Mr)</h5><br>Academy Officer<p><a href="mailto:Linus_Neo@moe.gov.sg">Linus_Neo@moe.gov.sg</a></p>
 <p><a href="tel:66641537">66641537</a></p>
 </td>
-    <td class="tg-0lax"><img  src="/images/karthikesan-newest.jpeg" style="width:200px"><br><br><h5>Karthikesan S/O Kumar (Mr)</h5><br>Academy Officer<p><a href="mailto:Karthikesan_Kumar@moe.gov.sg">Karthikesan_Kumar@moe.gov.sg</a></p>
+    <td class="tg-0lax"><img src="/images/karthikesan-newest.jpeg" style="width:200px"><br><br><h5>Karthikesan S/O Kumar (Mr)</h5><br>Academy Officer<p><a href="mailto:Karthikesan_Kumar@moe.gov.sg">Karthikesan_Kumar@moe.gov.sg</a></p>
 <p><a href="tel:66641522">66641522</a></p>
 </td>
   </tr>
