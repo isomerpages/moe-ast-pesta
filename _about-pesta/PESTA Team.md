@@ -68,7 +68,7 @@ The PESTA Team
 <thead>
   <tr>
     <th class="tg-lvth"><img src="/images/whatsapp-image-2022-07-14-at-9-31-52-am.jpeg" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022">Aw Kai Yueh (Ms)</a></h5><br>Senior Academy Officer</th>
-    <th class="tg-lvth"><img src="/images/francis-newest.jpeg" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tang-yee-fun-francis">Francis Tang (Mr)</a></h5><br>Senior Academy Officer</th>
+    <th class="tg-lvth"><img src="/images/francis-newest.jpeg" style="width:160px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tang-yee-fun-francis">Francis Tang (Mr)</a></h5><br>Senior Academy Officer</th>
   </tr>
 </thead>
 <tbody>
