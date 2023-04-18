@@ -8,7 +8,7 @@ Academy Officer
 
 <p style="float:left; margin: 0 10px 0px 0">
 
-![](/images/linus%20photo.JPG)
+<img src="/images/linus%20photo.JPG" style="width:60%">
 	
 </p><p style="text-align:justify">
 Mr Linus started his teaching career in Seng Kang Secondary School in 2014. During his time in Seng Kang Secondary, he was given the opportunity to spearhead various programmes. He developed the Healthy Lifestyle Programme in school aimed at increasing participation in physical activities for overweight students. The programme also creates a platform for all students to come together to develop friendship and bonds through games.<br><br>
