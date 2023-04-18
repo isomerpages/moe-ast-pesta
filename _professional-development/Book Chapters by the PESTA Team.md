@@ -377,7 +377,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>This book shares insights and perspectives in managing professional learning communities (PLCs) for sustained improvements that translate into positive student learning. It should be particularly interesting for readers who have prior experience in leading and managing PLCs.</li>
 </ul>
-<p>Academy of Singapore Teachers (2018)&nbsp;<em>Professional Learning Communities,</em>&nbsp;viewed 21 June 2021,<br>&lt;<a href="/professional-excellence/professional-learning-communities/">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/professional-learning-communities/</a>&gt;  </p>
+<p>Academy of Singapore Teachers (2018)&nbsp;<em>Professional Learning Communities,</em>&nbsp;viewed 21 June 2021,<br><a href="/professional-excellence/professional-learning-communities/">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/professional-learning-communities/</a></p>
 <ul>
 <li>This website details how PLCs can be led and managed in the Singapore context. Most Singapore schools have come on board to practice PLCs as a means of facilitating continual CPD, build teachers’ capacity and enhance student learning.</li>
 </ul>
