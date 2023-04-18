@@ -369,7 +369,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <label for="accordion19"><h4>Chapter 15: Leading and Managing for Effective Continuing Professional Development in Physical Education by Mr Mark Chan and Mr Kiran Kumar Gomez</h4></label>
     <div>
     <p><strong>Further Resources</strong></p>
-<p>Hanover Research (2017)&nbsp;<em>Best Practices in Professional Development</em>, viewed 21 June 2021,<br>&lt;<a href="https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf">https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf</a>&gt;  </p>
+<p>Hanover Research (2017)&nbsp;<em>Best Practices in Professional Development</em>, viewed 21 June 2021,<br><a href="https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf">https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf</a></p>
 <ul>
 <li>This report looks at best practice literature on effective CPD. It includes delivery modes, engagement strategies and evaluation practices. It also presents how three school districts in the United States of America implement best practices, informed by research, in CPD.</li>
 </ul>
