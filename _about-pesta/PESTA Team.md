@@ -32,8 +32,8 @@ The PESTA Team
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/hanif1.JPG" alt="Hanif B Abdul Rahman (Mr)" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019">Hanif B Abdul Rahman (Mr)</a></h5><br>Principal Master Teacher</td>
-		    <td class="tg-0lax"><img src="/images/mabel1.JPG" style="width:200px" alt="Mabel Yong Chooi Cheng (Ms)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019">Mabel Yong Chooi Cheng (Ms)</a></h5><br>Master Teacher</td>
+    <td class="tg-0lax"><img src="/images/Staff%20Photos/hanif1.JPG" alt="Hanif B Abdul Rahman (Mr)" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019">Hanif B Abdul Rahman (Mr)</a></h5><br>Principal Master Teacher</td>
+		    <td class="tg-0lax"><img src="/images/Staff%20Photos/mabel1.JPG" style="width:200px" alt="Mabel Yong Chooi Cheng (Ms)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019">Mabel Yong Chooi Cheng (Ms)</a></h5><br>Master Teacher</td>
   </tr>
   <tr><td class="tg-0lax"><img src="/images/teng%20tse%20sheng.JPG" style="width:200px" alt="Teng Tse S%20tse%20sheng.JPG"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019">Teng Tse Sheng (Mr)</a></h5><br>Master Teacher</td>
 		    <td class="tg-0lax"><img src="/images/Staff%20Photos/seck%20heong1.JPG" style="width:140px" alt="Tan Seck Heong (Mr)"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019">Tan Seck Heong (Mr)</a></h5><br>Master Teacher</td>
@@ -76,11 +76,11 @@ The PESTA Team
 			<td class="tg-0lax"><img src="/images/hana%20photo.JPG" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022">Nur Hana Tay (Mdm)</a></h5><br>Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/neo_chow_ming_linus.jpg" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022">Neo Chow Ming Linus (Mr)</a></h5><br>Academy Officer</td>
-    <td class="tg-0lax"><img src="/images/karthikesan-newest.jpeg" style="width:160px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar">Karthikesan S/O Kumar (Mr)</a></h5><br>Academy Officer</td>
+    <td class="tg-0lax"><img src="/images/linus%20photo.JPG" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022">Neo Chow Ming Linus (Mr)</a></h5><br>Academy Officer</td>
+    <td class="tg-0lax"><img src="/images/karthikesan.JPG" style="width:160px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar">Karthikesan S/O Kumar (Mr)</a></h5><br>Academy Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/pesta-amber-ng.jpeg" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber">Amber Ng (Ms)</a></h5><br>Academy Officer</td>
+    <td class="tg-0lax"><img src="/images/Staff%20Photos/amber2.JPG" style="width:200px"><br><br><h5><a href="/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber">Amber Ng (Ms)</a></h5><br>Academy Officer</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
