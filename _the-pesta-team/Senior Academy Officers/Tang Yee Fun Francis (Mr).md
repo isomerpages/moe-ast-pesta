@@ -6,7 +6,8 @@ third_nav_title: Senior Academy Officers
 ---
 Senior Academy Officer
 
-![](/images/francis%203.JPG)
+<img src="/images/francis%203.JPG" style="width:60%">
+
 
 Prior to joining AST, Francis has been with Outram Secondary School as Lead Teacher (PE) for about 14 years.  
 

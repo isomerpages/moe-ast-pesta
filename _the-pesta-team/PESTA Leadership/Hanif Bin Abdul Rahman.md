@@ -6,8 +6,7 @@ third_nav_title: PESTA Leadership
 ---
 Principal Master Teacher (PE)
 
-<p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/hanif.jpeg" alt="Hanif Bin Abdul Rahman" style="width:175px" /></p>
+![](/images/Staff%20Photos/hanif1.JPG)
 
 <p style="text-align:justify">
 Mr Hanif Abdul Rahman was appointed as the first Physical Education (PE) Principal Master Teacher at the Physical Education and Sports Teacher Academy (PESTA) in 2018. He joined PESTA in 2013 as the first PE Master Teacher.<br><br>

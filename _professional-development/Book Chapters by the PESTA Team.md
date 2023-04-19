@@ -81,11 +81,11 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <div>
     <p><strong>FURTHER RESOURCES</strong></p>
 <p>Muijs, D. and Bokhove, C. (2020)&nbsp;<em>Metacognition and Self-regulation: Evidence Review</em>, London: Education Endowment Foundation, viewed 2 May 2021,</p>
-<p>&lt;<a href="https://educationendowmentfoundation.org.uk/public/files/Metacognition_and_self-regulation_review.pdf">https://educationendowmentfoundation.org.uk/public/files/Metacognition_and_self-regulation_review.pdf</a>&gt;</p>
+<p><a href="https://educationendowmentfoundation.org.uk/public/files/Metacognition_and_self-regulation_review.pdf">https://educationendowmentfoundation.org.uk/public/files/Metacognition_and_self-regulation_review.pdf</a></p>
 <ul>
 <li>This evidence based publication provides definitions of key terminology that is becoming more commonly used in schools. It looks at how metacognition and self-regulation develop over time, and offers examples of effective strategies that can be used to support learning and development.</li>
 </ul>
-<p>Quigley, A, Muijs, D. and Stringer, E. (2018)&nbsp;<em>Metacognition and Self-regulated Learning: Guidance Report,</em>&nbsp;London: Education Endowment Foundation, viewed 2 May 2021, &lt;<a href="https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/">https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/</a> &gt;</p>
+<p>Quigley, A, Muijs, D. and Stringer, E. (2018)&nbsp;<em>Metacognition and Self-regulated Learning: Guidance Report,</em>&nbsp;London: Education Endowment Foundation, viewed 2 May 2021, <a href="https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/">https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/</a></p>
 <ul>
 <li>This guidance report provides easily accessible information regarding metacognition and self-regulation. Throughout, specific case studies are provided which demonstrate how strategies can be embedded in practice.</li>
 </ul>
@@ -144,7 +144,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <label for="accordion12"><h4>Chapter 8: Intentionality: The Key to Effective Affective Learning by Mr Hanif Abdul Rahman</h4></label>
     <div>
       <p><strong>FURTHER RESOURCES</strong></p>
-<p>CASEL (Collaborative for Academic, Social, and Emotional Learning) website, viewed 27 July 2021, &lt;<a href="https://casel.org/">https://casel.org</a>&gt;</p>
+<p>CASEL (Collaborative for Academic, Social, and Emotional Learning) website, viewed 27 July 2021, <a href="https://casel.org/">https://casel.org</a></p>
 <ul>
 <li>CASEL is a source for knowledge about high-quality, evidence-based SEL. It supports teachers and policy leaders and enhances the experiences and outcomes for all students. The website contains articles, researches and teaching resources for SEL</li>
 </ul>
@@ -196,7 +196,7 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>This chapter highlights the relationships between concepts of teaching approach, teaching strategy, teaching style, teaching skill and learning environment. It also discusses how appropriate use of teaching approaches results in the achievement of learning outcomes.</li>
 </ul>
-<p>Garn, A. and Byra, M (2002) ‘Psychomotor, cognitive, and social development spectrum style’,&nbsp;<em>Teaching Elementary Physical Education</em>, 13 (2), 8-13, viewed 29 July 2021, &lt;<a href="https://spectrumofteachingstyles.org/assets/files/articles/Garn_Byra_2002_Psychomotor_Cognitive_and_Social_Development.pdf">https://spectrumofteachingstyles.org/assets/files/articles/Garn_Byra_2002_Psychomotor_Cognitive_and_Social_Development.pdf</a>&gt;</p>
+<p>Garn, A. and Byra, M (2002) ‘Psychomotor, cognitive, and social development spectrum style’,&nbsp;<em>Teaching Elementary Physical Education</em>, 13 (2), 8-13, viewed 29 July 2021, <a href="https://spectrumofteachingstyles.org/assets/files/articles/Garn_Byra_2002_Psychomotor_Cognitive_and_Social_Development.pdf">https://spectrumofteachingstyles.org/assets/files/articles/Garn_Byra_2002_Psychomotor_Cognitive_and_Social_Development.pdf</a></p>
 <ul>
 <li>This chapter highlights how the use of the reproductive and productive clusters of the Spectrum fosters the development of the students’ competencies in psychomotor, cognitive and affective domains. The article contains some ideas on how the different styles are taught in lessons to meet psychomotor, cognitive and affective learning outcomes.</li>
 </ul>
@@ -220,8 +220,8 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>In this 30-minutes podcast Jarrod Robinson (PE Geek), a physical education teacher from Australia, shares 100 ways of using digital technologies in physical education. If you prefer to read a copy, you can access it at:</li>
 </ul>
-<p><a>http://edt315.weebly.com/uploads/4/5/3/2/4532212/100_ways_to_use_technology_in_pe.pdf</a></p>
-<p>You can also explore his website for more resources:&nbsp;<a>https://thepegeek.com/</a></p>
+<p><a href="http://edt315.weebly.com/uploads/4/5/3/2/4532212/100_ways_to_use_technology_in_pe.pdf">http://edt315.weebly.com/uploads/4/5/3/2/4532212/100_ways_to_use_technology_in_pe.pdf</a></p>
+<p>You can also explore his website for more resources:&nbsp;<a href="https://thepegeek.com/">https://thepegeek.com/</a></p>
 <p>If you are on Twitter, you can find him via the handle @mrrobbo where he tweets about resources, ideas, webinars and training courses.</p>
 <p>Support REAL Teachers.org. (n.d.)&nbsp;<em>Technology In Physical Education</em>&nbsp;[online], viewed 27 January 2021, <a href="https://www.supportrealteachers.org/technology-in-physical-education.html">https://www.supportrealteachers.org/technology-in-physical-education.html</a></p>
 <ul>
@@ -237,12 +237,12 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>This book uses narrative inquiry to explore the lives and careers of PE teachers. Their stories are analysed through the lenses of sport and physical education as a career, and their status within the broader international research literature.</li>
 </ul>
-<p> </p>
+<p>&nbsp;</p>
 <p>Clandinin, J.D. and Connelly, M.F. (2021) Narrative Inquiry: Experience and Story in Qualitative Research, San Francisco: Jossey-Bass.  </p>
 <ul>
 <li>This book presents the fundamental concepts and philosophies of narrative inquiry as a research method and as a reflective tool.</li>
 </ul>
-<p> </p>
+<p>&nbsp;</p>
 <p>Johnson, K.E. and Golombek, P.R. (eds.) (2002) Teachers’ Narrative Inquiry as Professional Development, New York: Cambridge University Press.  </p>
 <ul>
 <li>This book discusses the wide-ranging concepts and applications of narrative inquiry in professional development in education.</li>
@@ -254,11 +254,11 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <label for="accordion17"><h4>Chapter 13: Professional Development: What Is It And How Can It Work For Me? by Ms Joanna Phan Swee Lee</h4></label>
     <div>
     <p><strong>FURTHER RESOURCES</strong></p>
-<p>Fuller, A. and Unwin, L. (2007) ‘Expansive and restrictive learning environments’, in K. Evans, P. Hodkinson, H. Rainbird and L. Unwin (eds.) <em>Improving Workplace Learning</em>, Abingdon: Routledge, pp. 27-48.</p>
+<p>Fuller, A. and Unwin, L. (2007) ‘Expansive and restrictive learning environments’, in K. Evans, P. Hodkinson, H. Rainbird and L. Unwin (eds.)&nbsp;<em>Improving Workplace Learning</em>, Abingdon: Routledge, pp. 27-48.</p>
 <ul>
 <li>This chapter introduces a framework called the expansive-restrictive continuum which provides a list of factors that influence the quality of learning at a workplace.</li>
 </ul>
-<p>Skule, S. (2004) ‘Learning conditions at work: a framework to understand and assess informal learning in the workplace’, <em>International Journal of Training and Development</em>, 8 (1), 8-20.</p>
+<p>Skule, S. (2004) ‘Learning conditions at work: a framework to understand and assess informal learning in the workplace’,&nbsp;<em>International Journal of Training and Development</em>, 8&nbsp;(1), 8-20.</p>
 <ul>
 <li>This article offers another perspective of conditions for learning at the workplace and provides a list of seven conditions.</li>
 </ul>
@@ -269,11 +269,11 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <label for="accordion18"><h4>Chapter 14: Being a Mentor by Mr Fazlin Jaya Indra</h4></label>
     <div>
       <p><strong>FURTHER RESOURCES</strong></p>
-<p>Aguilar, E. (2013). <em>The Art of Coaching: Effective strategies for school</em>. San Francisco: Jossey-Bass.</p>
+<p>Aguilar, E. (2013).&nbsp;<em>The Art of Coaching: Effective strategies for school</em>. San Francisco: Jossey-Bass.</p>
 <ul>
 <li>A practical resource that offers the foundational skills and tools needed by new coaching educators, as well as presenting an overview of the knowledge and theory base behind the practice.</li>
 </ul>
-<p>Armour, K. M., and Yelling, M. (2007). Effective professional development for physical education teachers: The role of informal, collaborative learning. <em>Journal of Teaching in Physical Education</em>, 26, 177-200.</p>
+<p>Armour, K. M., and Yelling, M. (2007). Effective professional development for physical education teachers: The role of informal, collaborative learning.&nbsp;<em>Journal of Teaching in Physical Education</em>, 26, 177-200.</p>
 <ul>
 <li>This paper reports data from the third phase of a 2-year investigation into continuing professional development (CPD) for physical education teachers in England. The most striking finding was the high value they placed on learning informally (yet strategically) with and from each other.</li>
 </ul>
@@ -281,84 +281,84 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>A non-profit organisation founded in 1943 that has members including superintendents, principals, teachers, and teacher educators. It offers a repository of publications and references on mentoring.</li>
 </ul>
-<p>Bechtel, P. A., and O’Sullivan, M. (2006). Effective professional development – What we know now. <em>Journal of Teaching in Physical Education</em>, 25(4), 363-378.</p>
+<p>Bechtel, P. A., and O’Sullivan, M. (2006). Effective professional development – What we know now.&nbsp;<em>Journal of Teaching in Physical Education</em>, 25(4), 363-378.</p>
 <ul>
 <li>This article presented several theoretical frameworks related to teacher change to better understand teachers’: Fullanʼs theory of teacher change; Shaw, Davis, and McCartyʼs theory</li>
 </ul>
 <p>of the teacher change process; and Guskeyʼs model of teacher change.</p>
-<p>Capel, S. and Lawrence, J. (2018). <em>Mentoring Physical Education Teachers in the Secondary School: A Practical Guide</em>, Abingdon: Routledge.</p>
+<p>Capel, S. and Lawrence, J. (2018).&nbsp;<em>Mentoring Physical Education Teachers in the Secondary School: A Practical Guide</em>, Abingdon: Routledge.</p>
 <ul>
 <li>This book looks at knowledge and skills every mentor needs to guide beginning teachers. It offers practical tools such as lesson plans and feedback guides, observation sheets, and examples of dialogue with beginning physical education teachers.</li>
 </ul>
-<p>Centre for the Use of Research and Evidence in Education (2014). National framework for mentoring and coaching. <a href="http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf">http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf</a>  </p>
+<p>Centre for the Use of Research and Evidence in Education (2014). National framework for mentoring and coaching.&nbsp;<a href="http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf">http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf</a>&nbsp;&nbsp;</p>
 <ul>
 <li>This article presented ten principles, based on evidence from research and consultation, to inform mentoring and coaching programmes in schools and to help increase the impact of continuing professional development on student learning.</li>
 </ul>
-<p>Chao, G. T. (1997). Mentoring phases and outcomes. <em>Journal of Vocational Behavior</em>, 51, 15-28.</p>
+<p>Chao, G. T. (1997). Mentoring phases and outcomes.&nbsp;<em>Journal of Vocational Behavior</em>, 51, 15-28.</p>
 <ul>
 <li>This article studied mentoring relationships that are theorized to evolve through several stages over time. Data from individuals, who were mentored and not mentored, were compared and results showed consistent differences between them on career outcomes, job satisfaction, organizational socialization, and income.</li>
 </ul>
-<p>Clutterbuck, D., and Ragins, B.R. (2002). <em>Mentoring and diversity</em>. Oxford: Heinemann.</p>
+<p>Clutterbuck, D., and Ragins, B.R. (2002).&nbsp;<em>Mentoring and diversity</em>. Oxford: Heinemann.</p>
 <ul>
 <li>The book illustrates the importance of mentoring as a proactive tool in diversity initiatives, and demonstrates how mentoring can be used to recruit, develop and retain a diverse and innovative workforce.</li>
 </ul>
-<p>Ensher, E. A., and Murphy, S. E. (2011). The Mentoring Relationship Challenges Scale (MRCS): The impact of mentoring stage, type and gender. <em>Journal of Vocational Behavior</em>, 79, 253-266.</p>
+<p>Ensher, E. A., and Murphy, S. E. (2011). The Mentoring Relationship Challenges Scale (MRCS): The impact of mentoring stage, type and gender.&nbsp;<em>Journal of Vocational Behavior</em>, 79, 253-266.</p>
 <ul>
-<li>The qualitative study investigated the role of relational challenges in various stages and types of mentoring relationships. The MRCS measured three factors of relational challenges: Demonstrating Commitment and Resilience; Measuring Up to a Mentor&#39;s Standards; and Career Goal and Risk Orientation.</li>
+<li>The qualitative study investigated the role of relational challenges in various stages and types of mentoring relationships. The MRCS measured three factors of relational challenges: Demonstrating Commitment and Resilience; Measuring Up to a Mentor's Standards; and Career Goal and Risk Orientation.</li>
 </ul>
-<p>Hargreaves, A., and Fullan, M. (2012). <em>Professional Capital: Transforming teaching in every school</em>, New York: Teachers College Press.</p>
+<p>Hargreaves, A., and Fullan, M. (2012).&nbsp;<em>Professional Capital: Transforming teaching in every school</em>, New York: Teachers College Press.</p>
 <ul>
 <li>The ideas-driven, evidence-based, and strategically powerful book explore a new ground-breaking agenda to transform future of teaching. It includes action guidelines for classroom teachers and school leaders.</li>
 </ul>
-<p>Hobson, A. J., Ashby, P., Malderez, A., &amp; Tomlinson, P. D. (2009). Mentoring beginning teachers: What we know and what we don’t. <em>Teaching and Teacher Education</em>, 25, 207-216.</p>
+<p>Hobson, A. J., Ashby, P., Malderez, A., &amp; Tomlinson, P. D. (2009). Mentoring beginning teachers: What we know and what we don’t.&nbsp;<em>Teaching and Teacher Education</em>, 25, 207-216.</p>
 <ul>
 <li>This article reports the findings of a review of the international research literature on mentoring beginning teachers. Research identifies a range of potential benefits and costs associated with mentoring.</li>
 </ul>
-<p>Howells, K., Lawrence, J. and Roden, J. (eds.) (2021). <em>Mentoring Teachers in the Primary School,</em> Abingdon: Routledge.</p>
+<p>Howells, K., Lawrence, J. and Roden, J. (eds.) (2021).&nbsp;<em>Mentoring Teachers in the Primary School,</em>&nbsp;Abingdon: Routledge.</p>
 <ul>
 <li>This book aims to help mentors of trainee and newly qualified primary school teachers to both develop their own mentoring skills and provide the essential guidance their beginning teachers need as they navigate the roller-coaster of the first years in teaching. Offering tried and tested strategies based on the best research, it covers the knowledge, skills and understanding every mentor needs.</li>
 </ul>
-<p>Hudson, P. (2013). Mentoring as professional development: Growth for both mentor and mentee. <em>Professional Development in Education</em>, 39(5), 771-783.</p>
+<p>Hudson, P. (2013). Mentoring as professional development: Growth for both mentor and mentee.&nbsp;<em>Professional Development in Education</em>, 39(5), 771-783.</p>
 <ul>
 <li>Mentoring provides one way for embedding cost-effective professional development. This mixed-method study includes surveying mentor teachers on a five-part Likert scale and interviews with experienced mentors to investigate professional development for mentors as a result of the mentoring process.</li>
 </ul>
-<p>Jaspers, W. M., Meijer, P. C., Prins, F., and Wubbels, T. (2014). Mentor teachers: Their perceived possibilities and challenges as mentor and teacher. <em>Teaching and Teacher Education</em>, 44, 106-116.</p>
+<p>Jaspers, W. M., Meijer, P. C., Prins, F., and Wubbels, T. (2014). Mentor teachers: Their perceived possibilities and challenges as mentor and teacher.&nbsp;<em>Teaching and Teacher Education</em>, 44, 106-116.</p>
 <ul>
 <li>This interview study, including seven case studies of mentor teachers in primary education, explores the possibilities and challenges these mentor teachers perceive when they (sequentially and simultaneously) combine the teacher and mentor roles.</li>
 </ul>
-<p>Kalbfleisch, P. J. (2007). Mentoring enactment theory: Describing, explaining, and predicting communication in mentoring relationships. In B. R. Ragins &amp; K. E. Kram (Eds.), <em>The handbook of mentoring at work: Theory, research, and practice</em>, pp. 499−518. Thousand Oaks, CA: Sage Publications</p>
+<p>Kalbfleisch, P. J. (2007). Mentoring enactment theory: Describing, explaining, and predicting communication in mentoring relationships. In B. R. Ragins &amp; K. E. Kram (Eds.),&nbsp;<em>The handbook of mentoring at work: Theory, research, and practice</em>, pp. 499−518. Thousand Oaks, CA: Sage Publications</p>
 <ul>
 <li>The mentoring enactment theory emerges from the study of communication and personal relationships. The theory proposes proactive communicative strategies that can be used by mentors and by protégés to initiate, develop, maintain, and repair mentoring relationships.</li>
 </ul>
-<p>Kram, K. E. (1983). Phases of the mentor relationship. <em>Academy of Management Journal</em>, 26(4), 608-625.</p>
+<p>Kram, K. E. (1983). Phases of the mentor relationship.&nbsp;<em>Academy of Management Journal</em>, 26(4), 608-625.</p>
 <ul>
 <li>This article presented a conceptual model derived from an intensive biographical interview study of mentoring relationships to highlight the success phases of a developmental relationship.</li>
 </ul>
-<p>New Teacher Centre (n.d.). High Quality Mentoring and Instructional Coaching Practices. <a href="https://newteachercenter.org/resources/high-quality-mentoring-and-instructional-coaching-practices/">https://newteachercenter.org/resources/high-quality-mentoring-and-instructional-coaching-practices/</a></p>
+<p>New Teacher Centre (n.d.). High Quality Mentoring and Instructional Coaching Practices.&nbsp;<a href="https://newteachercenter.org/resources/high-quality-mentoring-and-instructional-coaching-practices/">https://newteachercenter.org/resources/high-quality-mentoring-and-instructional-coaching-practices/</a></p>
 <ul>
 <li>A resource for education leaders seeking to create and/or improve programs with coaching practices that result in improved student learning, equity-focused teaching practice, and teacher retention.</li>
 </ul>
-<p>Ng, P. T. (2004). <em>Grow Me! Coaching for Schools</em>. Singapore: Pearson.</p>
+<p>Ng, P. T. (2004).&nbsp;<em>Grow Me! Coaching for Schools</em>. Singapore: Pearson.</p>
 <ul>
 <li>The book discusses the gist of coaching, steps involved in coaching, attributes of a good coach, factors that schools need to consider in implementing coaching, application of the GROW ME model to both staff development.</li>
 </ul>
-<p>Rink, J. (2014) (7th edition). <em>Teaching Physical Education for Learning</em>. New York: McGrawHill.</p>
+<p>Rink, J. (2014) (7th edition).&nbsp;<em>Teaching Physical Education for Learning</em>. New York: McGrawHill.</p>
 <ul>
 <li>The book is content specific and emphasizes teaching strategies and theories to give teachers a foundation for designing an effective learning experience.</li>
 </ul>
-<p>Sempowicz, T., &amp; Hudson, P. (2011). How can a mentor’s personal attributes and pedagogical knowledge develop a preservice teacher’s behaviour management? <em>International Journal of Learning</em>, 18(1), 303-314.</p>
+<p>Sempowicz, T., &amp; Hudson, P. (2011). How can a mentor’s personal attributes and pedagogical knowledge develop a preservice teacher’s behaviour management?&nbsp;<em>International Journal of Learning</em>, 18(1), 303-314.</p>
 <ul>
 <li>This study presents the importance of a mentor’s personal attributes and pedagogical knowledge for developing a mentee’s teaching practices and investigates how mentoring may facilitate the development of a mentee’s behaviour management strategies.</li>
 </ul>
-<p>Tolhurst, J. (2010). <em>The Essential Guide to Coaching and Mentoring: Practical Skills for Teachers</em> (2nd ed.). NY: Pearson Education.</p>
+<p>Tolhurst, J. (2010).&nbsp;<em>The Essential Guide to Coaching and Mentoring: Practical Skills for Teachers</em>&nbsp;(2nd ed.). NY: Pearson Education.</p>
 <ul>
 <li>This book provides detailed, realistic and helpful examples of effective practice; clear and authoritative guidance, and very useful and engaging case studies. This guide is a powerful resource to support the widespread and successful application of coaching and mentoring.</li>
 </ul>
-<p>Wright, S. C., &amp; Smith, D. E. (2000). A case for formalized mentoring. <em>Quest -Illinois- National Association for Physical Education in Higher Education</em>, 52(2), 200-213.</p>
+<p>Wright, S. C., &amp; Smith, D. E. (2000). A case for formalized mentoring.&nbsp;<em>Quest -Illinois- National Association for Physical Education in Higher Education</em>, 52(2), 200-213.</p>
 <ul>
 <li>The article shares a practical application of mentoring that exists for their students in the field of sport psychology and provide examples of current mentoring dyads within kinesiology and physical education in higher education.</li>
 </ul>
-<p>Zachary, L. J. (2005). <em>Creating a Mentoring Culture: The Organisation Guide</em>. San Francisco: Jossey-Bass.</p>
+<p>Zachary, L. J. (2005).&nbsp;<em>Creating a Mentoring Culture: The Organisation Guide</em>. San Francisco: Jossey-Bass.</p>
 <ul>
 <li>As a mentoring resource, the book is filled with step-by-step guidance and practical advice to embed mentoring within schools and organization.</li>
 </ul>
@@ -369,15 +369,15 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <label for="accordion19"><h4>Chapter 15: Leading and Managing for Effective Continuing Professional Development in Physical Education by Mr Mark Chan and Mr Kiran Kumar Gomez</h4></label>
     <div>
     <p><strong>Further Resources</strong></p>
-<p>Hanover Research (2017) <em>Best Practices in Professional Development</em>, viewed 21 June 2021,<br>&lt;<a href="https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf">https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf</a>&gt;  </p>
+<p>Hanover Research (2017)&nbsp;<em>Best Practices in Professional Development</em>, viewed 21 June 2021,<br><a href="https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf">https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf</a></p>
 <ul>
 <li>This report looks at best practice literature on effective CPD. It includes delivery modes, engagement strategies and evaluation practices. It also presents how three school districts in the United States of America implement best practices, informed by research, in CPD.</li>
 </ul>
-<p>DuFour, R., DuFour, R., Eaker, R.E., Mattos, M.A. and Muhammad, A. (2021) <em>Revisiting Professional Learning Communities at Work: Proven Insights for Sustained, Substantive School Improvement</em> (2nd edn), Bloomington, IN: Solution Tree Press.  </p>
+<p>DuFour, R., DuFour, R., Eaker, R.E., Mattos, M.A. and Muhammad, A. (2021)&nbsp;<em>Revisiting Professional Learning Communities at Work: Proven Insights for Sustained, Substantive School Improvement</em>&nbsp;(2nd edn), Bloomington, IN: Solution Tree Press.  </p>
 <ul>
 <li>This book shares insights and perspectives in managing professional learning communities (PLCs) for sustained improvements that translate into positive student learning. It should be particularly interesting for readers who have prior experience in leading and managing PLCs.</li>
 </ul>
-<p>Academy of Singapore Teachers (2018) <em>Professional Learning Communities,</em> viewed 21 June 2021,<br>&lt;<a href="/professional-excellence/professional-learning-communities/">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/professional-learning-communities/</a>&gt;  </p>
+<p>Academy of Singapore Teachers (2018)&nbsp;<em>Professional Learning Communities,</em>&nbsp;viewed 21 June 2021,<br><a href="/professional-excellence/professional-learning-communities/">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/professional-learning-communities/</a></p>
 <ul>
 <li>This website details how PLCs can be led and managed in the Singapore context. Most Singapore schools have come on board to practice PLCs as a means of facilitating continual CPD, build teachers’ capacity and enhance student learning.</li>
 </ul>
@@ -388,27 +388,27 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <label for="accordion20"><h4>Chapter 16: Continuing Professional Development (CPD): Supporting the Delivery of Quality Teaching in Physical Education by Ms Wendy Koh</h4></label>
     <div>
       <p><strong>Further Resources</strong></p>
-<p>Batlle, J. and Miller, P. (2017) ‘Video enhanced observation and teacher development: Teachers’ beliefs as technology users’, <em>EDULEARN17 Proceedings</em>, <em>1</em>.</p>
+<p>Batlle, J. and Miller, P. (2017) ‘Video enhanced observation and teacher development: Teachers’ beliefs as technology users’,&nbsp;<em>EDULEARN17 Proceedings</em>,&nbsp;<em>1</em>.</p>
 <ul>
 <li>This paper outlines the use of the VEO (Video Enhanced Observation) app and how it can benefit teacher professional development,</li>
 </ul>
-<p>Beavers, A. (2009) ‘Teachers as learners: Implications of adult education for professional development’, <em>Journal of College Teaching and Learning (TLC</em>), 6 (7), 25-30.</p>
+<p>Beavers, A. (2009) ‘Teachers as learners: Implications of adult education for professional development’,&nbsp;<em>Journal of College Teaching and Learning (TLC</em>),&nbsp;6&nbsp;(7), 25-30.</p>
 <ul>
 <li>Beavers’ paper outlines briefly some adult education principles offering at the same time, simple, applicable suggestions for teacher professional development programs such as: key characteristics of adult learners, self-directed learning, transformative learning and critical reflection.</li>
 </ul>
-<p>Cranton, P. (1996) <em>Professional Development as Transformative Learning. New Perspectives for Teachers of Adults</em>, San Francisco, CA: Jossey-Bass.</p>
+<p>Cranton, P. (1996)&nbsp;<em>Professional Development as Transformative Learning. New Perspectives for Teachers of Adults</em>, San Francisco, CA: Jossey-Bass.</p>
 <ul>
-<li>This book offers practical ideas for adult educators on how to stimulate and support their own development as educators and better understand the process of professional development as adult learning. It includes a chapter that focusses on Mezirow&#39;s (1991) theory of transformation to the development of adult education practice</li>
+<li>This book offers practical ideas for adult educators on how to stimulate and support their own development as educators and better understand the process of professional development as adult learning. It includes a chapter that focusses on Mezirow's (1991) theory of transformation to the development of adult education practice</li>
 </ul>
-<p>Grenny, J., Patterson, K., Maxfield, D., McMillan, R. and Switzler, A. (2013) <em>Influencer: The New Science of Leading Change</em> (2nd edn), New York: McGraw-Hill.</p>
+<p>Grenny, J.,&nbsp;Patterson, K.,&nbsp;Maxfield, D.,&nbsp;McMillan, R. and&nbsp;Switzler, A. (2013)&nbsp;<em>Influencer: The New Science of Leading Change</em>&nbsp;(2nd edn),&nbsp;New York: McGraw-Hill.</p>
 <ul>
 <li>The authors of this book are leaders of VitalSmarts, a leadership training company known for its innovative best practices in providing training products and services. Their book outlines the influence process and includes robust strategies for making change inevitable in various aspects of your life be it personal, or work. It provides 6 strategies that can be used for changing both thoughts and actions of individuals.</li>
 </ul>
-<p>Rodríguez, J.B. (2016) ‘An interview with Paul Seedhouse on video enhanced observation (VEO): a new tool for teacher training, professional development and classroom research’, <em>Bellaterra Journal of Teaching &amp; Learning Language &amp; Literature</em>, 9 (3), 90-97.</p>
+<p>Rodríguez, J.B. (2016) ‘An interview with Paul Seedhouse on video enhanced observation (VEO): a new tool for teacher training, professional development and classroom research’,&nbsp;<em>Bellaterra Journal of Teaching &amp; Learning Language &amp; Literature</em>,&nbsp;9 (3), 90-97.</p>
 <ul>
 <li>This documented interview provides details on the VEO tool and its use in improving teacher professional development.</li>
 </ul>
-<p>Thorburn, M. (ed.) (2017) <em>Transformative Learning and Teaching in Physical Education</em>, Abingdon: Routledge.</p>
+<p>Thorburn, M. (ed.) (2017)&nbsp;<em>Transformative Learning and Teaching in Physical Education</em>, Abingdon: Routledge.</p>
 <ul>
 <li>This book offers readers an in-depth understanding of transformational learning and to consider the implications for physical education. A series of professional perspectives will appeal to academics, policymakers, teacher educators and teachers in the fields of physical education, health and well-being, and postgraduate students studying these subject areas.</li>
 </ul>

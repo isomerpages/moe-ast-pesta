@@ -6,8 +6,7 @@ third_nav_title: PESTA Leadership
 ---
 Master Teacher
 
-<p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/mabel-yong-chooi-cheng2f695c60cf8d4cc5b56251c1f8cc1633.jpeg" alt="Mabel Yong" style="width:175px" /></p>
+![](/images/Staff%20Photos/mabel1.JPG)
 
 <p style="text-align:justify">
 Ms Mabel Yong Chooi Cheng started her teaching career in 1992 teaching PE in primary schools, and has served as Head of Department for 17 years. She joined the Physical Education and Sports Teacher Academy (PESTA) as a Programme Manager in 2012 and was subsequently appointed Lead Teacher/Physical Education and Master Teacher/Physical Education in 2014 and 2016 respectively.<br><br>

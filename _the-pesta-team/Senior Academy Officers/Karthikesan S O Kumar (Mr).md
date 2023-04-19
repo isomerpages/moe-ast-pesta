@@ -6,7 +6,7 @@ third_nav_title: Senior Academy Officers
 ---
 Academy Officer
 
-
+![](/images/karthikesan.JPG)
 
 Prior to joining AST, Karthik has been with Yishun Innova Junior College as a teacher for about 3 years and Subject Head of PE &amp; CCA for about 5 years.  
 

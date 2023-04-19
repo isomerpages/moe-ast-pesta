@@ -8,7 +8,7 @@ Academy Officer
 
 <p style="float:left; margin: 0 10px 0px 0">
 
-![](/images/hana%20photo.JPG)
+<img src="/images/hana%20photo.JPG" style="width:60%">
 	
 </p><p style="text-align:justify">
 Nur Hana started teaching PE and Math in Yumin Primary School from 1999 to 2001. Subsequently she taught in Jurong West Primary School from 2002 to 2008 where she was internally appointed as the Subject Head for NE&nbsp; / SS. In 2017, she was appointed as the Senior Teacher for PE in West Grove Pri School.<br><br>

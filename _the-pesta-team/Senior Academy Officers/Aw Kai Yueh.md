@@ -6,7 +6,8 @@ third_nav_title: Senior Academy Officers
 ---
 Senior Academy Officer
 
-![Kai Yueh](/images/kai%20yueh.JPG)
+<img src="/images/kai%20yueh.JPG" style="width:60%">
+
 
 <p style="text-align:justify">
 Ms Aw Kai Yueh started teaching at Bendemeer Secondary School in 2002. With a keen interest to learn more deeply about teaching and providing better support for her learners, she pursued her Master of Education (Curriculum and Teaching) at the National Institute of Education (NIE), Singapore in 2012. She joined Serangoon Garden Secondary School after returning from her studies.<br><br>

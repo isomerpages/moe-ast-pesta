@@ -6,8 +6,7 @@ third_nav_title: PESTA Leadership
 ---
 Master Teacher
 
-<p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/teng-tse-sheng.jpeg" alt="Teng Tse Sheng" style="width:175px" /></p>
+![](/images/Staff%20Photos/teng%20tse%20sheng.JPG)
 
 <p style="text-align:justify">
 Mr Teng Tse Sheng started his teaching career in June 2000 at Serangoon Junior College (SRJC). He was the PE Head of Department from 2009 to 2011. During his time at SRJC, Tse Sheng coached the college football team for 11 years, and was also the assistant coach for the Singapore Schools Under-17 Football Team in 2005 and 2006. He joined the Physical Education and Sports Teacher Academy (PESTA) as a Programme Manager in 2012. In 2014, Tse Sheng was awarded the MOE Postgraduate Scholarship to pursue his Master of Education at the University of British Columbia (UBC), Canada. Tse Sheng has a keen interest in games-teaching pedagogies, in particular the Game Centred Approach and the Inventing Games Model. Upon his return from his studies, he started a Game Centred Approach Community of Practice, where a group of teachers practising this approach meet regularly to share ideas.<br><br>
