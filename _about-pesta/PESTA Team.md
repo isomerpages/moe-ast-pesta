@@ -31,7 +31,7 @@ The PESTA Team
 | -------- | -------- | 
 | [Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) | [Nasrun Mizzy - Master Teacher](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)
 
-##### Senior Academy / Academy Officers
+##### Senior Academy / Academy Officers / Administration Team
 
 ![](/images/Staff%20Photos/kai%20yueh%20-%20website.jpg)|![](/images/francis%203.JPG)|
 | -------- | -------- | 
@@ -40,6 +40,22 @@ The PESTA Team
 ![](/images/ridzal%20-%20website.jpg)|![](/images/hana%20photo.JPG)|
 | -------- | -------- | 
 | [Mohammed Ridzal Bin Mohammed Ali (Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Nur Hana Tay (Academy Officer)](/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022/)
+
+![](/images/linus%20photo.JPG)|![](/images/karthikesan.JPG)|
+| -------- | -------- | 
+| [Neo Chow Ming Linus (Academy Officer)](/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022/) | [Karthikesan S/O Kumar (Academy Officer)](/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/)
+
+![](/images/Staff%20Photos/amber2.JPG)|![](/images/diana%204.JPG)|
+| -------- | -------- | 
+| [Ng Yin Wai Amber (Academy Officer)](/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber/) | [Diana Goh Luan En (Lead Manager)](/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019/)
+
+![](/images/hafiz%204.JPG)|![](/images/merry1.JPG)|
+| -------- | -------- | 
+| [Ng Yin Wai Amber (Academy Officer)](/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber/) | [Diana Goh Luan En (Lead Manager)](/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019/)
+
+
+
+
 
 
 
