@@ -18,6 +18,15 @@ The PESTA Team
 | -------- | -------- | 
 | [Hanif Abdul Rahman (Principal Master Teacher)  ](/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019/)  | [Mabel Yong Chooi Cheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/)
 
+![](/images/Staff%20Photos/teng%20tse%20sheng.JPG) | ![](/images/Staff%20Photos/seck%20heong1.JPG)|
+| -------- | -------- | 
+| [Teng Tse Sheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019/)  | [Tan Seck Heong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/)
+
+
+
+
+
+
 
 <ul class="jekyllcodex_accordion">
   <li>
