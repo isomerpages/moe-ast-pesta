@@ -22,7 +22,7 @@ The PESTA Team
 
 | ![](/images/Staff%20Photos/hanif%20-%20website.JPG) |  ![](/images/Staff%20Photos/mabel%20-%20website.JPG) |
 | -------- | -------- | 
-|[Hanif Abdul Rahman (Principal Master Teacher)  ](/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019/)| [Mabel Yong Chooi Cheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/)    |
+|[Hanif Abdul Rahman (Principal Master Teacher)  ](/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019/)| [Mabel Yong Chooi Cheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/)   | 
 
 
 
