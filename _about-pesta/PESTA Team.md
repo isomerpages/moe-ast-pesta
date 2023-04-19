@@ -22,11 +22,11 @@ The PESTA Team
 | -------- | -------- | 
 |[Teng Tse Sheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019/)| [Tan Seck Heong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/)| 
 
-![](/images/benjamin%20-%20websites.jpg) |![](/images/Staff%20Photos/joanna.JPG) |
+| ![](/images/benjamin%20-%20websites.jpg) |![](/images/Staff%20Photos/joanna.JPG) |
 | -------- | -------- | 
 |[Benjamin Tan Su-Jim (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019/) |[Joanna Phan Swee Lee (Master Teacher)](/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019/) | 
 
-![](/images/karen%20-%20website.jpg)|![](/images/Staff%20Photos/nasrun1.JPG) |
+| ![](/images/karen%20-%20website.jpg)|![](/images/Staff%20Photos/nasrun1.JPG) |
 | -------- | -------- | 
 |[Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) |[Nasrun Mizzy - Master Teacher](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)| 
 
