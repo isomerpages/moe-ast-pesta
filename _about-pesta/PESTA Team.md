@@ -23,6 +23,10 @@ The PESTA Team
 | [Teng Tse Sheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019/)  | [Tan Seck Heong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/)
 
 
+![](/images/benjamin%20-%20websites.jpg) | ![](/images/Staff%20Photos/joanna.JPG)|
+| -------- | -------- | 
+| [Benjamin Tan Su-Jim (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019/)  | [Joanna Phan Swee Lee (Master Teacher)](/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019/)
+
 
 
 
