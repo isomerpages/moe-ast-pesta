@@ -33,12 +33,13 @@ The PESTA Team
 
 ##### Senior Academy / Academy Officers
 
-![](/images/kai%20yueh.JPG)|![](/images/francis%203.JPG)|
+![](/images/Staff%20Photos/kai%20yueh%20-%20website.jpg)|![](/images/francis%203.JPG)|
 | -------- | -------- | 
-| [Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) | [Nasrun Mizzy - Master Teacher](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)
+| [Aw Kai Yueh (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022/) | [Francis Tang Yee Fun (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/tang-yee-fun-francis/)
 
-
-
+![](/images/ridzal%20-%20website.jpg)|![](/images/hana%20photo.JPG)|
+| -------- | -------- | 
+| [Mohammed Ridzal Bin Mohammed Ali (Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Nur Hana Tay (Academy Officer)](/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022/)
 
 
 
