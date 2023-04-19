@@ -14,12 +14,9 @@ The PESTA Team
 | -------- | -------- | 
 | [Melanie Ann Martens (Academy Principal)](/pesta/about-pesta/principals-message/)   | [Eric Chua Puay Wee (Deputy Director)](/pesta/about-pesta/the-pesta-team/eric-chua-puay-wee-bio-2023/)
 
-![](/images/Staff%20Photos/hanif1.JPG) | ![](/images/Staff%20Photos/mabel1.JPG) |
+![](/images/Staff%20Photos/hanif%20-%20website.JPG) |  ![](/images/Staff%20Photos/mabel%20-%20website.JPG)|
 | -------- | -------- | 
-| Text     | Text     |
-
-
-
+| Hanif Abdul Rahman (Principal Master Teacher)     |Mabel Yong Chooi Cheng (Master Teacher)
 
 
 <ul class="jekyllcodex_accordion">
