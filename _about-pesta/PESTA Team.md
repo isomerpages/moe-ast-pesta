@@ -31,6 +31,14 @@ The PESTA Team
 | -------- | -------- | 
 | [Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) | [Nasrun Mizzy - Master Teacher](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)
 
+##### Senior Academy / Academy Officers
+
+![](/images/kai%20yueh.JPG)|![](/images/francis%203.JPG)|
+| -------- | -------- | 
+| [Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) | [Nasrun Mizzy - Master Teacher](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)
+
+
+
 
 
 
