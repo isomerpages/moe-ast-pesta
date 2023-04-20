@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-![](/images/tl%20network.jpg)
+![](/images/tl%20network%20pic%20cropped.jpg)
 
 
 **<u>Objectives:</u>**
