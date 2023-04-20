@@ -21,7 +21,10 @@ Join the community on this journey of ubiquitous learning!
 
 Steps to join us on Facebook -
 
-1\. Search under 'groups' for&nbsp;**'PESTA MOE'**&nbsp;and click on 'join group'.&nbsp;**(Or you can simply scan the QR Code below)**
+1\. Search under 'groups' for&nbsp;**'PESTA MOE'**&nbsp;and click on 'join group'.&nbsp;**(You can simply click on the link to [PESTA MOE Facebook](https://www.facebook.com/groups/1526387690786653/) or scan the QR Code below)**
+
+<img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:27%;">  
+  
 
 2\. Answer three entry questions. (This is important. It is how we ensure only our own PE colleagues are allowed in the closed group.)
 
@@ -34,17 +37,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:27%;">  
-  
 
   
 
+  
 
-We Want to Hear From You!
+
+### We Want to Hear From You!
 
 If you have any feedback/suggestions for PESTA or for the PE fraternity, please feel free to leave your inputs in the online form&nbsp;[here](https://form.gov.sg/62feec402c1e9100131b6720)!
 
-##### PESTA Staff
+### PESTA Staff
 
 |  ![](/images/melanienewest.jpg)| ![](/images/eric%20chua2.JPG) |
 | -------- | -------- | 
