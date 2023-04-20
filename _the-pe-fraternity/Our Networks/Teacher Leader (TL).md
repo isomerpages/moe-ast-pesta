@@ -13,13 +13,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/tl-core-team.jpeg" alt="Teacher Leader (TL) Network" style="width:80%;">  
-  
-</body>
+![](/images/tl%20network.jpg)
+
 
 **<u>Objectives:</u>**
 
-*   Raise awareness and actualisation of the roles of TLs, ie, Pedagogical Leader, Mentor & Collaborator;
+*   Raise awareness and actualisation of the roles of TLs, ie, Pedagogical Leader, Mentor &amp; Collaborator;
 *   Deepen professional knowledge through networking; and
 *   Build networked learning communities (NLC).
 
@@ -30,4 +29,4 @@ In 2016, the TL Network Core Team (CT) was formed, consisting of Master, Lead an
 *   Propagate good and innovative teaching practices through cluster and zonal schools; and
 *   Spearhead NLCs for special interest groups with TLs.
 
-Led by PESTA, the TL Network currently meet centrally as a big group in Term 1 to set the learning direction for the year.  This is then followed by a zonal network session each in Term 2 and 3, led by the zonal CT members. The big group will meet again centrally in Term 4 to share and celebrate the learning for the year.
+Led by PESTA, the TL Network currently meet centrally as a big group in Term 1 to set the learning direction for the year.&nbsp; This is then followed by a zonal network session each in Term 2 and 3, led by the zonal CT members. The big group will meet again centrally in Term 4 to share and celebrate the learning for the year.
