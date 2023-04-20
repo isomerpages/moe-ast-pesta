@@ -26,7 +26,7 @@ Steps to join us on Facebook -
 <img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:27%;">  
   
 
-2\. Answer three entry questions. (This is important. It is how we ensure only our own PE colleagues are allowed in the closed group.)
+2\. Answer three entry questions. **(This is important. It is how we ensure only our own local PE colleagues are allowed in the closed group.)**
 
 3\. Await admin's approval and you are in!   
 
