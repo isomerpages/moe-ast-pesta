@@ -1,5 +1,5 @@
 ---
-title: Ng Yin Wai Amber (Ms)
+title: Ng Yin Wai Amber
 permalink: /pesta/about-pesta/the-pesta-team/ng-yin-wai-amber/
 description: ""
 third_nav_title: Senior Academy Officers

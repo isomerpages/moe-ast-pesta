@@ -1,5 +1,5 @@
 ---
-title: Karthikesan S O Kumar (Mr)
+title: Karthikesan S O Kumar
 permalink: /pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/
 description: ""
 third_nav_title: Senior Academy Officers

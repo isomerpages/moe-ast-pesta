@@ -1,5 +1,5 @@
 ---
-title: Mohammed Ridzal Bin Mohammed Ali (Mr)
+title: Mohammed Ridzal Bin Mohammed Ali
 permalink: /pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/
 description: ""
 third_nav_title: Senior Academy Officers

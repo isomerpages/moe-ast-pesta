@@ -15,15 +15,18 @@ Tel: 6664 1520<br>
 
 For PE teachers. By PE teachers. With PE teachers.
 
-Join us on the largest online MOE PE teachers' network here! With over a thousand PE practitioners on board, the facebook feed is brimming with informative, reflective and insightful posts on all things PE. You will be invigorated by the engaging conversations by our fellow professionals.  
-  
+Join us on the largest online MOE PE teachers' network here! With over a thousand PE practitioners on board, the facebook feed is brimming with informative, reflective and insightful posts on all things PE. You will be invigorated by the engaging conversations by our fellow professsionals. **(For Singapore PE and Sports Teachers only)**
+
 Join the community on this journey of ubiquitous learning!
 
 Steps to join us on Facebook -
 
-1\. Search under 'groups' for&nbsp;**'PESTA MOE'**&nbsp;and click on 'join group'.&nbsp;**(Or you can simply scan the QR Code below)**
+1\. Search under 'groups' for&nbsp;**'PESTA MOE'**&nbsp;and click on 'join group'.&nbsp;**(You can simply click on the link to [PESTA MOE Facebook](https://www.facebook.com/groups/1526387690786653/) or scan the QR Code below)**
 
-2\. Answer three entry questions. (This is important. It is how we ensure only our own PE colleagues are allowed in the closed group.)
+<img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:27%;">  
+  
+
+2\. Answer three entry questions. **(This is important. It is how we ensure only our own local PE colleagues are allowed in the closed group.)**
 
 3\. Await admin's approval and you are in!   
 
@@ -34,57 +37,44 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/image001-(1).png" alt="PESTA Facebook" style="width:27%;">  
-  
 
   
 
+  
 
-We Want to Hear From You!
+
+### We Want to Hear From You!
 
 If you have any feedback/suggestions for PESTA or for the PE fraternity, please feel free to leave your inputs in the online form&nbsp;[here](https://form.gov.sg/62feec402c1e9100131b6720)!
 
-##### PESTA Staff
+### PESTA Staff
 
-|  ![](/images/melanienewest.jpg)| ![](/images/eric%20chua2.JPG) |
-| -------- | -------- | 
-| [Melanie Ann Martens (Academy Principal)](/pesta/about-pesta/principals-message/)   | [Eric Chua Puay Wee (Deputy Director)](/pesta/about-pesta/the-pesta-team/eric-chua-puay-wee-bio-2023/)
 
-| ![](/images/Staff%20Photos/hanif%20-%20website.JPG) |  ![](/images/Staff%20Photos/mabel%20-%20website.JPG) |
-| -------- | -------- | 
-|[Hanif Abdul Rahman (Principal Master Teacher)  ](/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019/)| [Mabel Yong Chooi Cheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/)   | 
 
-| ![](/images/Staff%20Photos/teng%20tse%20sheng.JPG) |  ![](/images/Staff%20Photos/seck%20heong1.JPG) |
-| -------- | -------- | 
-|[Teng Tse Sheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019/)| [Tan Seck Heong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/)| 
+| Name of Officer | Designation | Email |
+| -------- | -------- | -------- |
+| Melanie Ann Martens (Ms)    | Academy Principal | melanie_ann_martens@moe.gov.sg |
+| Chua Puay Wee    | Deputy Director | chua_puay_wee@moe.gov.sg |
+| Hanif Bin Abdul Rahman | Principal Master Teacher | hanif_abdul_rahman@moe.gov.sg |
+| Teng Tse Sheng | Master Teacher | teng_tse_sheng@moe.gov.sg |
+| Mabel Yong Chooi Cheng (Ms) | Master Teacher | mabel_yong@moe.gov.sg |
+| Joanna Phan Swee Lee (Ms) | Master Teacher | joanna_phan@moe.gov.sg|
+| Nasrun Bin Mizzy | Master Teacher | nasrun_mizzy@moe.gov.sg|
+| Benjamin Tan Su-Jim | Master Teacher (Schools) | benjamin_sj_tan@schools.gov.sg |
+| Tan Seck Heong| Master Teacher (Schools) | tan_seck_heong@schools.gov.sg |
+| Low Lai Fong (Ms) | Master Teacher (Schools) | low_lai_fong_a@schools.gov.sg|
+| Aw Kai Yueh (Ms) | Senior Academy Officer | aw_kai_yueh@moe.gov.sg|
+| Tang Yee Fun Francis | Senior Academy Officer | francis_tang@moe.gov.sg|
+| Mohammed Ridzal Bin Mohammed Ali | Senior Academy Officer | mohammed_ridzal_mohammed_ali@moe.gov.sg|
+| Nur Hana Tay (Ms) | Academy Officer | nur_hana_tay@moe.gov.sg|
+| Neo Chow Ming Linus | Academy Officer | linus_neo@moe.gov.sg|
+| Karthikesan S/O Kumar | Academy Officer |karthikesan_kumar@moe.gov.sg|
+| Ng Yin Wai Amber (Ms) | Academy Officer |amber_ng@moe.gov.sg|
+| Diana Goh Luan En (Ms) | Lead Manager |diana_goh@moe.gov.sg|
+| Muhammad Hafiz Bin Ma'arof | Senior Manager |muhammad_hafiz_maarof@moe.gov.sg|
+| Merry Bte Hamid (Ms) | Executive | merry_hamid@moe.gov.sg|
 
-| ![](/images/benjamin%20-%20websites.jpg) |![](/images/Staff%20Photos/joanna.JPG) |
-| -------- | -------- | 
-|[Benjamin Tan Su-Jim (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019/) |[Joanna Phan Swee Lee (Master Teacher)](/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019/) | 
 
-| ![](/images/karen%20-%20website.jpg)|![](/images/Staff%20Photos/nasrun1.JPG) |
-| -------- | -------- | 
-|[Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) |[Nasrun Mizzy - Master Teacher](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)| 
-
-| ![](/images/Staff%20Photos/kai%20yueh%20-%20website.jpg)|![](/images/francis%203.JPG)|
-| -------- | -------- | 
-| [Aw Kai Yueh (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022/) | [Francis Tang Yee Fun (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/tang-yee-fun-francis/)
-
-| ![](/images/ridzal%20-%20website.jpg)|![](/images/hana%20photo.JPG)|
-| -------- | -------- | 
-| [Mohammed Ridzal Bin Mohammed Ali (Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Nur Hana Tay (Academy Officer)](/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022/)
-
-| ![](/images/linus%20photo.JPG)|![](/images/karthikesan.JPG)|
-| -------- | -------- | 
-| [Neo Chow Ming Linus (Academy Officer)](/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022/) | [Karthikesan S/O Kumar (Academy Officer)](/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/)
-
-| ![](/images/Staff%20Photos/amber2.JPG)|![](/images/diana%204.JPG)|
-| -------- | -------- | 
-| [Ng Yin Wai Amber (Academy Officer)](/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber/) | [Diana Goh Luan En (Lead Manager)](/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019/)
-
-| ![](/images/hafiz%204.JPG)|![](/images/merry1.JPG)|
-| -------- | -------- | 
-| [Muhammad Hafiz Bin Ma'arof (Senior Manager)](/pesta/about-pesta/the-pesta-team/muhammad-hafiz-maarof-profile-bio-2021/)| [Merry Bte Hamid (Executive)](/pesta/about-pesta/the-pesta-team/merry-profile-bio-2019/)
 
 
 ##### Where we are:

@@ -10,7 +10,7 @@ The PESTA Team
 
 ##### PESTA Leadership
 
-|  ![](/images/melanienewest.jpg)| ![](/images/eric%20chua2.JPG) |
+| ![](/images/Staff%20Photos/melanie4new.JPG)| ![](/images/eric%20chua3.JPG) |
 | -------- | -------- | 
 | [Melanie Ann Martens (Academy Principal)](/pesta/about-pesta/principals-message/)   | [Eric Chua Puay Wee (Deputy Director)](/pesta/about-pesta/the-pesta-team/eric-chua-puay-wee-bio-2023/)
 
@@ -18,13 +18,14 @@ The PESTA Team
 | -------- | -------- | 
 |[Hanif Abdul Rahman (Principal Master Teacher)  ](/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019/)| [Mabel Yong Chooi Cheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/)   | 
 
-| ![](/images/Staff%20Photos/teng%20tse%20sheng.JPG) |  ![](/images/Staff%20Photos/seck%20heong1.JPG) |
+| ![](/images/Staff%20Photos/teng%20tse%20sheng.JPG) | ![](/images/Staff%20Photos/benjamin.JPG) |
 | -------- | -------- | 
-|[Teng Tse Sheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019/)| [Tan Seck Heong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/)| 
+|[Teng Tse Sheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019/)|[Benjamin Tan Su-Jim (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019/) | 
 
-| ![](/images/benjamin%20-%20websites.jpg) |![](/images/Staff%20Photos/joanna.JPG) |
+
+| ![](/images/Staff%20Photos/seck%20website.jpg) | ![](/images/Staff%20Photos/joanna5.JPG)|
 | -------- | -------- | 
-|[Benjamin Tan Su-Jim (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019/) |[Joanna Phan Swee Lee (Master Teacher)](/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019/) | 
+|[Tan Seck Heong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/) |[Joanna Phan Swee Lee (Master Teacher)](/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019/) | 
 
 | ![](/images/karen%20-%20website.jpg)|![](/images/Staff%20Photos/nasrun1.JPG) |
 | -------- | -------- | 

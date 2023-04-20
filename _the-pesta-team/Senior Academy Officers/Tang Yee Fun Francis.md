@@ -1,5 +1,5 @@
 ---
-title: Tang Yee Fun Francis (Mr)
+title: Tang Yee Fun Francis
 permalink: /pesta/about-pesta/the-pesta-team/tang-yee-fun-francis/
 description: ""
 third_nav_title: Senior Academy Officers
