@@ -25,7 +25,7 @@ The PESTA Team
 
 | ![](/images/Staff%20Photos/seck%20website.jpg) | ![](/images/Staff%20Photos/joanna5.JPG)|
 | -------- | -------- | 
-| |[Joanna Phan Swee Lee (Master Teacher)](/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019/) | 
+|[Tan Seck Heong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/) |[Joanna Phan Swee Lee (Master Teacher)](/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019/) | 
 
 | ![](/images/karen%20-%20website.jpg)|![](/images/Staff%20Photos/nasrun1.JPG) |
 | -------- | -------- | 
