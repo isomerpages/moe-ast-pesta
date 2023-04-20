@@ -68,6 +68,11 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 | Mohammed Ridzal Bin Mohammed Ali | Senior Academy Officer | mohammed_ridzal_mohammed_ali@moe.gov.sg|
 | Nur Hana Tay (Ms) | Academy Officer | nur_hana_tay@moe.gov.sg|
 | Neo Chow Ming Linus | Academy Officer | linus_neo@moe.gov.sg|
+| Karthikesan S/O Kumar | Academy Officer |karthikesan_kumar@moe.gov.sg|
+| Ng Yin Wai Amber (Ms) | Academy Officer |amber_ng@moe.gov.sg|
+| Diana Goh Luan En (Ms) | Lead Manager |diana_goh@moe.gov.sg|
+| Muhammad Hafiz Bin Ma'arof | Senior Manager |muhammad_hafiz_maarof@moe.gov.sg|
+| Merry Bte Hamid | Executive | merry_hamid@moe.gov.sg|
 
 
 
