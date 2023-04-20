@@ -6,9 +6,9 @@ description: ""
 PESTA is dedicated to the professional development of Physical Education (PE) and Sports teachers in Singapore.
 
 <h5 style="text-align:center;"><u>Vision</u></h5>
-<p style="text-align:center;">Better PE. Better Sport. Better Life. <sup>New</sup></p>
+<p style="text-align:center;">Better PE. Better Sport. Better Life. <sup></sup></p>
 <h5 style="text-align:center;"> <u>Mission</u></h5>
-<p style="text-align:center;">Inspire. Empower. Transform. (Lives) <sup>New</sup></p>
+<p style="text-align:center;">Inspire. Empower. Transform. (Lives) <sup></sup></p>
 <h5 style="text-align:center;"> <u>Motto</u></h5>
 <p style="text-align:center;">Keep Learning, Keep Moving</p>
 <h5 style="text-align:center;"> <u>Philosophy</u></h5>
