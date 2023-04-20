@@ -26,8 +26,8 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: ""
+      - email: moe_pesta@moe.gov.sg
+      - other: ""
     title: General Enquiries & Feedback
 ---
