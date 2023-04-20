@@ -42,6 +42,6 @@ sections:
         fraternity?
       button: Yes I am!
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
-      image: /images/tl network.jpg
+      image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
 ---
