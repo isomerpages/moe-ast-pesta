@@ -17,7 +17,7 @@ sections:
         - title: Our Pioneers
           description: ""
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
-      background: /images/pesta banner (1200 × 630 px) (1).png
+      background: /images/pesta banner - final.jpg
   - infopic:
       title: Physical Knowledgeable Others (PEKO)
       description: In 2022, PESTA introduced Physical Education Knowledgeable Others
