@@ -8,7 +8,7 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">PE &amp; SPORTS TEACHERS FEATURED IN THE PAST</label>
     <div>
-      <p><strong>PE &amp; Sports Teachers Featured in the Past:</strong><em> (ALL LINKS BROKEN!)</em>  </p>
+      <p><strong>PE &amp; Sports Teachers Featured in the Past:</strong><em></em>  </p>
 <ul>
 <li><a href="https://www.pesta.moe.edu.sg/cos/o.x?c=/pesta/pagetree&amp;func=view&amp;rid=1132928">Mr Vaithilingam Ernest Jr., HOD PE, St. Hilda Primary&nbsp;School</a></li>
 <li><a href="https://www.pesta.moe.edu.sg/cos/o.x?c=/pesta/pagetree&amp;func=view&amp;rid=1128495">Ms Pauline Choy, HOD PE, Meridien Junior College</a></li>
