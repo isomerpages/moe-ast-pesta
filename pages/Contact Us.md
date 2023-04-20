@@ -15,8 +15,8 @@ Tel: 6664 1520<br>
 
 For PE teachers. By PE teachers. With PE teachers.
 
-Join us on the largest online MOE PE teachers' network here! With over a thousand PE practitioners on board, the facebook feed is brimming with informative, reflective and insightful posts on all things PE. You will be invigorated by the engaging conversations by our fellow professionals.  
-  
+Join us on the largest online MOE PE teachers' network here! With over a thousand PE practitioners on board, the facebook feed is brimming with informative, reflective and insightful posts on all things PE. You will be invigorated by the engaging conversations by our fellow professsionals. **(For Singapore PE and Sports Teachers only)**
+
 Join the community on this journey of ubiquitous learning!
 
 Steps to join us on Facebook -
