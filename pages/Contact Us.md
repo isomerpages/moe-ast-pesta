@@ -57,6 +57,13 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 | Chua Puay Wee    | Deputy Director | chua_puay_wee@moe.gov.sg |
 | Hanif Bin Abdul Rahman | Principal Master Teacher | hanif_abdul_rahman@moe.gov.sg |
 | Teng Tse Sheng | Master Teacher | teng_tse_sheng@moe.gov.sg |
+| Mabel Yong Chooi Cheng | Master Teacher | mabel_yong@moe.gov.sg |
+| Joanna Phan Swee Lee (Ms) | Master Teacher | joanna_phan@moe.gov.sg|
+| Nasrun Bin Mizzy | Master Teacher | nasrun_mizzy@moe.gov.sg|
+| Benjamin Tan Su-Jim | Master Teacher (Schools) | benjamin_sj_tan@schools.gov.sg |
+| Tan Seck Heong| Master Teacher (Schools) | tan_seck_heong@schools.gov.sg |
+| Low Lai Fong (Ms) | Master Teacher (Schools) | low_lai_fong_a@schools.gov.sg|
+
 
 
 
