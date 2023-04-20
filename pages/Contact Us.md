@@ -72,7 +72,7 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 | Ng Yin Wai Amber (Ms) | Academy Officer |amber_ng@moe.gov.sg|
 | Diana Goh Luan En (Ms) | Lead Manager |diana_goh@moe.gov.sg|
 | Muhammad Hafiz Bin Ma'arof | Senior Manager |muhammad_hafiz_maarof@moe.gov.sg|
-| Merry Bte Hamid | Executive | merry_hamid@moe.gov.sg|
+| Merry Bte Hamid (Ms) | Executive | merry_hamid@moe.gov.sg|
 
 
 
