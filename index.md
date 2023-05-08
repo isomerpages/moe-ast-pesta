@@ -19,7 +19,7 @@ sections:
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
       background: /images/pesta banner hero page.jpg
   - infopic:
-      title: Physical Knowledgeable Others (PEKO)
+      title: Physical Education Knowledgeable Others (PEKO)
       description: In 2022, PESTA introduced Physical Education Knowledgeable Others
         (PEKO) to harness the strengths and expertise of the PE fraternity to
         enhance...
