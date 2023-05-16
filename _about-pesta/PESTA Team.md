@@ -12,7 +12,7 @@ The PESTA Team
 
 | ![](/images/Staff%20Photos/melanie4new.JPG)| ![](/images/eric%20chua3.JPG) |
 | -------- | -------- | 
-| [Melanie Ann Martens (Academy Principal)](/pesta/about-pesta/principals-message/)   | [Eric Chua Puay Wee (Deputy Director)](/pesta/about-pesta/the-pesta-team/eric-chua-puay-wee-bio-2023/)
+| [Melanie Ann Martens (Academy Principal)](/the-pesta-team/pesta-leadership/permalink/) | [Eric Chua Puay Wee (Deputy Director)](/pesta/about-pesta/the-pesta-team/eric-chua-puay-wee-bio-2023/)
 
 | ![](/images/Staff%20Photos/hanif%20-%20website.JPG) |  ![](/images/Staff%20Photos/mabel%20-%20website.JPG) |
 | -------- | -------- | 

@@ -6,7 +6,7 @@ description: ""
 ---
 ## Workshops for PE and Sports CCA Teachers
 
-For the full list of workshops offered in 2023, please download a copy [here](https://go.gov.sg/workshops-2023).
+For the full list of workshops offered in 2023, please access the copy here: [2023 Workshops ](https://docs.google.com/spreadsheets/d/1HaUxaper8hCuEQW44jRye6blN-zT0VBtqpoW-wX4drA/edit?usp=sharing)
 
 Please click on the unique link to the course in the spreadsheet or login[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider3/default-document-library/2023-pd-details---updated-as-of-03-02-2023.xls?sfvrsn=9bcab3ea_0 "here") to [OPAL 2.0](https://www.opal2.moe.edu.sg/) to obtain more details on the workshop's objectives, mode of learning etc and register. 
 
@@ -25,7 +25,7 @@ Learning Objectives
 
 The 2023 attachment periods are as follows:
 
-Timeframe 1: Term 3 Week 1 to Term 3 Week 4
+Timeframe 1: Term 3 Week 1 to Term 3 Week 4 
 
 Timeframe 2: Term 3 Week 5 to Term 3 Week 8
 
