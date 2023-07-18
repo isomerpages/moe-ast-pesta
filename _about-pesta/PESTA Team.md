@@ -3,10 +3,11 @@ title: PESTA Team
 permalink: /pesta/about-pesta/the-pesta-team/
 description: ""
 ---
-The PESTA Team
+PESTA Team
 ==============
+![](/images/team%20photo%20(2023).jpeg)
 
-![](/images/pesta%20team.jpg)
+
 
 ##### PESTA Leadership
 
@@ -41,7 +42,8 @@ The PESTA Team
 
 | ![](/images/ridzal%20-%20website.jpg)|![](/images/hana%20photo.JPG)|
 | -------- | -------- | 
-| [Mohammed Ridzal Bin Mohammed Ali (Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Nur Hana Tay (Academy Officer)](/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022/)
+| [Mohammed Ridzal Bin Mohammed Ali (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Nur Hana Tay (Academy Officer)](/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022/)
+
 
 | ![](/images/linus%20photo.JPG)|![](/images/karthikesan.JPG)|
 | -------- | -------- | 
