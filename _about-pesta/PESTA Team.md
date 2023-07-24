@@ -52,6 +52,10 @@ PESTA Team
 | -------- | -------- | 
 | [Ng Yin Wai Amber (Academy Officer)](/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber/) | [Diana Goh Luan En (Lead Manager)](/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019/)
 
+| ![](/images/hui%20chun.JPG)|![](/images/blank%20space%202.jpg)|
+| -------- | -------- | 
+| Tan Hui Chun |
+
 | ![](/images/hafiz%204.JPG)|![](/images/merry1.JPG)|
 | -------- | -------- | 
 | [Muhammad Hafiz Bin Ma'arof (Senior Manager)](/pesta/about-pesta/the-pesta-team/muhammad-hafiz-maarof-profile-bio-2021/)| [Merry Bte Hamid (Executive)](/pesta/about-pesta/the-pesta-team/merry-profile-bio-2019/)
