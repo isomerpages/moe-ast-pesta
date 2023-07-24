@@ -8,7 +8,6 @@ PESTA Team
 ![](/images/team%20photo%20(2023).jpeg)
 
 
-
 ##### PESTA Leadership
 
 | ![](/images/Staff%20Photos/melanie4new.JPG)| ![](/images/eric%20chua3.JPG) |
