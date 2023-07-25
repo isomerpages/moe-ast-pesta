@@ -66,6 +66,7 @@ If you have any feedback/suggestions for PESTA or for the PE fraternity, please 
 | Aw Kai Yueh (Ms) | Senior Academy Officer | aw_kai_yueh@moe.gov.sg|
 | Tang Yee Fun Francis | Senior Academy Officer | francis_tang@moe.gov.sg|
 | Mohammed Ridzal Bin Mohammed Ali | Senior Academy Officer | mohammed_ridzal_mohammed_ali@moe.gov.sg|
+Tan Hui Chun | Senior Academy Officer | tan_hui_chun@moe.gov.sg
 | Nur Hana Tay (Ms) | Academy Officer | nur_hana_tay@moe.gov.sg|
 | Neo Chow Ming Linus | Academy Officer | linus_neo@moe.gov.sg|
 | Karthikesan S/O Kumar | Academy Officer |karthikesan_kumar@moe.gov.sg|
