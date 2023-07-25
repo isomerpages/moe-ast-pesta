@@ -54,7 +54,7 @@ PESTA Team
 
 | ![](/images/hui%20chun.JPG)|![](/images/blank%20space%202.jpg)|
 | -------- | -------- | 
-| Tan Hui Chun |
+| [Tan Hui Chun (Senior Academy Officer)](https://academyofsingaporeteachers.moe.edu.sg/the-pesta-team/tan-hui-chun/permalink/) |
 
 | ![](/images/hafiz%204.JPG)|![](/images/merry1.JPG)|
 | -------- | -------- | 
