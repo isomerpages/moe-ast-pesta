@@ -49,4 +49,6 @@ sections:
       button: Click here!
       url: https://sites.google.com/moe.edu.sg/tcef2023pestaposterinfomations/home
       image: /images/tcef2023.jpg
+      alt: PESTA TCEF 2023 Resource
+      description: Looking to access PESTA 2023 TCEF resources?
 ---
