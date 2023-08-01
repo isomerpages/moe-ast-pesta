@@ -1,9 +1,9 @@
 ---
 title: Tan Hui Chun
-permalink: /the-pesta-team/tan-hui-chun/permalink/
+permalink: /pesta/about-pesta/the-pesta-team/tan-hui-chun/
 description: ""
-image: /images/hui chun.JPG
 third_nav_title: Senior Academy Officers
+image: /images/hui chun.JPG
 ---
 <img src="/images/hui%20chun.JPG" style="width:60%">
 
