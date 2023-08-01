@@ -3,10 +3,10 @@ title: PESTA Team
 permalink: /pesta/about-pesta/the-pesta-team/
 description: ""
 ---
-The PESTA Team
+PESTA Team
 ==============
+![](/images/team%20photo%20(2023).jpeg)
 
-![](/images/pesta%20team.jpg)
 
 ##### PESTA Leadership
 
@@ -39,9 +39,10 @@ The PESTA Team
 | -------- | -------- | 
 | [Aw Kai Yueh (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022/) | [Francis Tang Yee Fun (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/tang-yee-fun-francis/)
 
-| ![](/images/ridzal%20-%20website.jpg)|![](/images/hana%20photo.JPG)|
+| ![](/images/ridzal%20-%20website.jpg)|![](/images/hui%20chun.JPG)|
 | -------- | -------- | 
-| [Mohammed Ridzal Bin Mohammed Ali (Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Nur Hana Tay (Academy Officer)](/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022/)
+| [Mohammed Ridzal Bin Mohammed Ali (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Tan Hui Chun (Senior Academy Officer)](https://academyofsingaporeteachers.moe.edu.sg/the-pesta-team/tan-hui-chun/permalink/)
+
 
 | ![](/images/linus%20photo.JPG)|![](/images/karthikesan.JPG)|
 | -------- | -------- | 
@@ -50,6 +51,11 @@ The PESTA Team
 | ![](/images/Staff%20Photos/amber2.JPG)|![](/images/diana%204.JPG)|
 | -------- | -------- | 
 | [Ng Yin Wai Amber (Academy Officer)](/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber/) | [Diana Goh Luan En (Lead Manager)](/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019/)
+
+| ![](/images/hana%20photo.JPG)|![](/images/blank%20space%202.jpg)|
+| -------- | -------- | 
+| [Nur Hana Tay (Academy Officer)](/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022/) |
+
 
 | ![](/images/hafiz%204.JPG)|![](/images/merry1.JPG)|
 | -------- | -------- | 

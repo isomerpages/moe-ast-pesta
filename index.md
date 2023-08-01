@@ -44,4 +44,9 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
+  - infopic:
+      title: PESTA TCEF 2023 Resource
+      button: Click here!
+      url: https://sites.google.com/moe.edu.sg/tcef2023pestaposterinfomations/home
+      image: /images/tcef2023.jpg
 ---
