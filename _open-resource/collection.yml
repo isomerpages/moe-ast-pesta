@@ -2,5 +2,4 @@ collections:
   open-resource:
     output: true
     order:
-      - Open Resource Main.md
       - Open Resource.md
