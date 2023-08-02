@@ -2,5 +2,5 @@ collections:
   open-resource:
     output: true
     order:
-      - Skillsfuture for Educators.md
       - Open Resource.md
+      - Skillsfuture for Educators.md
