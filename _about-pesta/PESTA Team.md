@@ -29,11 +29,11 @@ PESTA Team
 
 | ![](/images/karen%20-%20website.jpg)|![](/images/Staff%20Photos/nasrun1.JPG) |
 | -------- | -------- | 
-|[Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) |[Nasrun Mizzy - Master Teacher](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)| 
+|[Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) |[Nasrun Bin Mizzy (Master Teacher)]((/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/))
 
 
 
-##### Senior Academy / Academy Officers / Administration Team
+##### Senior Academy Officers / Academy Officers / Administration Team
 
 | ![](/images/Staff%20Photos/kai%20yueh%20-%20website.jpg)|![](/images/francis%203.JPG)|
 | -------- | -------- | 
@@ -41,7 +41,7 @@ PESTA Team
 
 | ![](/images/ridzal%20-%20website.jpg)|![](/images/hui%20chun.JPG)|
 | -------- | -------- | 
-| [Mohammed Ridzal Bin Mohammed Ali (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Tan Hui Chun (Senior Academy Officer)] [Tan Hui Chun (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/tan-hui-chun)
+| [Mohammed Ridzal Bin Mohammed Ali (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Tan Hui Chun (Senior Academy Officer)]((/pesta/about-pesta/the-pesta-team/tan-hui-chun))
 
 
 | ![](/images/linus%20photo.JPG)|![](/images/karthikesan.JPG)|
