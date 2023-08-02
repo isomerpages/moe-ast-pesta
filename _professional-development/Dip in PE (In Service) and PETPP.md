@@ -33,8 +33,7 @@ We look forward to your continued support for current non-QPETs to pursue their 
 *   Connie_Yeo@moe.gov.sg (PSOEB)
 *   Muhammad_Sulaiman_Othman@moe.gov.sg (PSOEB)
 
-
-[Please click here to download the Registration Form for PETPP 2024!](/files/registration%20form%20for%20petpp%202024.pdf)
+[Please click here to download the Registration Form for 2024 PETPP!](/files/registration%20form%20for%202024%20petpp.pdf)
 
 
 
@@ -50,5 +49,3 @@ The Programme seeks to train non-PE teachers to teach PE at **Primary level** ov
 *   Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg (PESTA) 
 *   Connie_Yeo@moe.gov.sg (PSOEB)
 *   Muhammad_Sulaiman_Othman@moe.gov.sg (PSOEB)
-
-
