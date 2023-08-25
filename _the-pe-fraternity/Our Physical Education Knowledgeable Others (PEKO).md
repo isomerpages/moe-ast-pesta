@@ -16,7 +16,7 @@ PEKO will provide PD support in their identified area(s) of expertise based on r
 
 For schools looking to request for PD support from a PEKO, play the video below to find out more about the process.
 
-**video to be embedded here!**
+
 
 Click here for the list of PEKO!  
 [List of PEKOs - Updated 6 March 2023](/files/2023-peko-list-(updated-24-feb)-(1).pdf)
