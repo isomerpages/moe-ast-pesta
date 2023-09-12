@@ -14,8 +14,9 @@ In 2022, PESTA introduced Physical Education Knowledgeable Others (PEKO) to har
 
 PEKO will provide PD support in their identified area(s) of expertise based on request from schools. The nature and extent of PD support are to be mutually agreed and determined between the requesting school and the identified PEKO. For example, the requesting school may request to work with the PEKO on a pedagogical approach in a series of face-to-face and/or online consultations for a period of 5 weeks.
 
-For schools looking to request for PD support from a PEKO, play the video below to find out more about the process.
+For schools looking to request for PD support from a PEKO, play the video in the link below to find out more about the process. 
 
+[How to engage PEKO - Video]( https://drive.google.com/file/d/1GWo_SVW_M0GDDc1s9t8i-giFfScS0ZZV/view?usp=sharing)
 
 
 Click here for the list of PEKO!  
