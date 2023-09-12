@@ -41,7 +41,7 @@ PESTA Team
 
 | ![](/images/ridzal%20-%20website.jpg)|![](/images/hui%20chun.JPG)|
 | -------- | -------- | 
-| [Mohammed Ridzal Bin Mohammed Ali (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Tan Hui Chun (Senior Academy Officer)]((/pesta/about-pesta/the-pesta-team/tan-hui-chun))
+| [Mohammed Ridzal Bin Mohammed Ali (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/) | [Tan Hui Chun (Senior Academy Officer)](/pesta/about-pesta/the-pesta-team/tan-hui-chun/)
 
 
 | ![](/images/linus%20photo.JPG)|![](/images/karthikesan.JPG)|
