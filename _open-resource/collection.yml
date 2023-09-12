@@ -1,7 +1,0 @@
-collections:
-  open-resource:
-    output: true
-    order:
-      - Open Resource.md
-      - Skillsfuture for Educators.md
-      - 21st Century Competencies.md
