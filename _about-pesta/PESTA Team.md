@@ -29,7 +29,7 @@ PESTA Team
 
 | ![](/images/karen%20-%20website.jpg)|![](/images/Staff%20Photos/nasrun1.JPG) |
 | -------- | -------- | 
-|[Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) |[Nasrun Bin Mizzy (Master Teacher)]((/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/))
+|[Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) | [Nasrun Bin Mizzy (Master Teacher)](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)
 
 
 
