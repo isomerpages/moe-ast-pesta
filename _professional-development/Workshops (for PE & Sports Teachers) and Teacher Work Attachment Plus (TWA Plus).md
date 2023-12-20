@@ -3,6 +3,7 @@ title: Workshops (for PE & Sports Teachers) and Teacher Work Attachment Plus
   (TWA Plus)
 permalink: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
 description: ""
+variant: markdown
 ---
 ## Workshops for PE and Sports CCA Teachers
 
@@ -23,11 +24,7 @@ Learning Objectives
 *   Harness skills in teaching PE and Sports
 *   Understand linkages between curriculum design and implementation of PE syllabus, and how PESTA supports learning outcomes through Professional Development
 
-The 2023 attachment periods are as follows:
-
-Timeframe 1: Term 3 Week 1 to Term 3 Week 4 
-
-Timeframe 2: Term 3 Week 5 to Term 3 Week 8
+The 2024 attachment period is from Term 3 Week 1 to Term 3 Week 4.
 
 For more information, please visit the MOE Intranet link below:   
 [https://intranet.moe.gov.sg/academy/TWA/Pages/TWA.aspx](http://intranet.moe.gov.sg/academy/TWA/Pages/TWA.aspx)
