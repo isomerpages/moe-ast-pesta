@@ -25,7 +25,7 @@ sections:
         teachers.
       button: Please click on this link to find out more!
       url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
-      image: /images/PL_Calendar_2024b.png
+      image: /images/PL_Calendar_2024c.png
       alt: Workshops for PE teachers
   - infopic:
       title: Physical Education Knowledgeable Others (PEKO)
