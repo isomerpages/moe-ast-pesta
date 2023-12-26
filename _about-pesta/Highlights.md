@@ -4,6 +4,10 @@ permalink: /pesta/about-pesta/pesta-highlights/
 description: ""
 variant: markdown
 ---
+#### **2023** 
+**October:**
+* PESTA received the MOE Innergy Award (Commendation) for the project on 'Enhancing the quality of lesson discussions by exploiting online affordances in VEO'
+
 #### **2022**
 **January:**  
 * PESTA launched its Ground Up Teachers Sharing (GUTS) network in PESTA FB page for teachers to share and transfer their tacit knowledge to others.  
@@ -19,6 +23,9 @@ variant: markdown
   
 **July:**  
 * PESTA launched the Lesson Ideas for Everyone (LIFE) series in PESTA FB Page for officers to share on lesson ideas.
+
+**August:**
+* PESTA received the MOE Innergy Award (Commendation) for the project "Use of VR360 for Immersive Blended Learning PE Lessons"
 
 #### **2021**
 **August:**
