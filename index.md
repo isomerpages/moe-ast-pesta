@@ -17,7 +17,7 @@ sections:
         - title: Our Pioneers
           description: ""
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
-      background: /images/Picture9.png
+      background: /images/picture_11.png
   - infopic:
       title: 2024 Workshops for PE and Sports CCA Teachers
       description: >-
@@ -28,7 +28,7 @@ sections:
         By PE teachers. For PE teachers.
       button: Please click on this link to find out more!
       url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
-      image: /images/PL_Calendar_2024c.png
+      image: /images/PL_Calendar_2024d.png
       alt: Workshops for PE teachers
   - infopic:
       title: Physical Education Knowledgeable Others (PEKO)
