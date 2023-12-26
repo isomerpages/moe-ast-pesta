@@ -11,13 +11,13 @@ sections:
         - title: About Us
           description: ""
           url: /pesta/about-pesta/the-pesta-team
-        - title: Professional Development Calendar
+        - title: Professional Learning
           description: ""
           url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
         - title: Our Pioneers
           description: ""
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
-      background: /images/pesta banner hero page.jpg
+      background: /images/Picture9.png
   - infopic:
       title: 2024 Workshops for PE and Sports CCA Teachers
       description: >-
