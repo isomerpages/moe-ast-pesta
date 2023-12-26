@@ -20,9 +20,12 @@ sections:
       background: /images/pesta banner hero page.jpg
   - infopic:
       title: 2024 Workshops for PE and Sports CCA Teachers
-      description: Looking for workshops to enhance your professional learning? We
-        have an array of workshops designed for you! By PE teachers. For PE
-        teachers.
+      description: >-
+        Looking for workshops to enhance your professional learning? We have an
+        array of workshops designed for you! 
+
+
+        By PE teachers. For PE teachers.
       button: Please click on this link to find out more!
       url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
       image: /images/PL_Calendar_2024c.png
