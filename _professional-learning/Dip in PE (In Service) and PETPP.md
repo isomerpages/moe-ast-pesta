@@ -2,8 +2,9 @@
 title: Dip in PE (In Service) and PETPP
 permalink: /pesta/professional-development/being-part-of-pesta/
 description: ""
+variant: markdown
 ---
-####  2024 Physical Education Teacher Practitioner Programme (PETPP) - Application open till 1 Sep 2023!
+####  2024 Physical Education Teacher Practitioner Programme (PETPP) (Application closed on 1 Sep 2023)
 
 The PE Teacher Practitioner Programme (PETPP) was introduced in 2021 to alleviate the short-term shortage of QPETs at the primary level. It equips non-Qualified Physical Education Teachers with requisite knowledge and skills to conduct PE lessons that meet curricular objectives safely. The PETPP has replaced the former “Introduction to Basics of Teaching Physical Education” (IBTPE) as the mandatory PD for non-QPETs who are intending and/or will be deployed to teach PE at the primary level.
 
