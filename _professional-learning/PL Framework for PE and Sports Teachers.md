@@ -1,10 +1,10 @@
 ---
-title: PD Framework for PE and Sports Teachers
+title: PL Framework for PE and Sports Teachers
 permalink: /pesta/professional-development/professional-development-framework-for-pe-and-sports-teachers/
 description: ""
+variant: markdown
 ---
-
-![Professional Development Framework](/images/pesta's-pd-framework.png)
+![Professional Learning Framework](/images/pesta's-pd-framework.png)
 
 PE and Sports teachers can look forward to attending a variety of Professional Development activities specially designed to deepen their knowledge, hone their teaching skills and engage their hearts in three areas:
 
@@ -14,7 +14,7 @@ PE and Sports teachers can look forward to attending a variety of Professional D
       
     
 
-Professional Development activities will be targeted at the needs of teachers in various developmental roles:
+Professional Learning activities will be targeted at the needs of teachers in various developmental roles:
 
 *   Beginning Teachers;
 *   Experienced Teachers; and
@@ -22,11 +22,10 @@ Professional Development activities will be targeted at the needs of teachers in
 
   
 
-Professional Development activities will be delivered through:
+Professional Learning activities will be delivered through:
 
 *   Workshops and Programmes;
 *   School Support; and
 *   PESTA Networks:   
-    \- Head of Department (HOD) Network; and  
     \- Teacher-Leader (TL) Network  
     \- PEKO

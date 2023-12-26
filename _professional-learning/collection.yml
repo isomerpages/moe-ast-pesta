@@ -1,8 +1,8 @@
 collections:
-  professional-development:
+  professional-learning:
     output: true
     order:
-      - PD Framework for PE and Sports Teachers.md
+      - PL Framework for PE and Sports Teachers.md
       - Workshops (for PE & Sports Teachers) and Teacher Work Attachment Plus
         (TWA Plus).md
       - Book Chapters by the PESTA Team.md
