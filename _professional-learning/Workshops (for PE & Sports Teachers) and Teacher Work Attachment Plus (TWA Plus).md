@@ -7,9 +7,9 @@ variant: markdown
 ---
 ## Workshops for PE and Sports CCA Teachers
 
-For the full list of workshops offered in 2023, please access the copy here: [2023 Workshops ](https://docs.google.com/spreadsheets/d/1HaUxaper8hCuEQW44jRye6blN-zT0VBtqpoW-wX4drA/edit?usp=sharing)
+For the full list of workshops offered in 2024, please access the copy here: [2024 PL Calendar](https://pl-calendar-2024.my.canva.site/).
 
-Please click on the unique link to the course in the spreadsheet or login[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider3/default-document-library/2023-pd-details---updated-as-of-03-02-2023.xls?sfvrsn=9bcab3ea_0 "here") to [OPAL 2.0](https://www.opal2.moe.edu.sg/) to obtain more details on the workshop's objectives, mode of learning etc and register. 
+Please click on the unique link to the workshop in the list or login[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider3/default-document-library/2023-pd-details---updated-as-of-03-02-2023.xls?sfvrsn=9bcab3ea_0 "here") to [OPAL 2.0](https://www.opal2.moe.edu.sg/) to obtain more details on the workshop's structure, objectives etc and register. 
 
 For more information, please contact Muhammad_Hafiz_Maarof@moe.gov.sg. 
 
@@ -19,8 +19,7 @@ An opportunity to work with PESTA officers to learn and broaden perspectives so 
 
 Learning Objectives
 
-*   Gain insights on how PESTA develops and organises PD Courses for PE and Sports Teachers
-*   Deepen subject knowledge in PE and Sports
+*   Gain insights on how PESTA develops and organises PD Courses for PE and Sports Teachers*   Deepen subject knowledge in PE and Sports
 *   Harness skills in teaching PE and Sports
 *   Understand linkages between curriculum design and implementation of PE syllabus, and how PESTA supports learning outcomes through Professional Development
 
