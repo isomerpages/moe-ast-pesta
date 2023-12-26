@@ -11,21 +11,24 @@ sections:
         - title: About Us
           description: ""
           url: /pesta/about-pesta/the-pesta-team
-        - title: Professional Development Calendar
+        - title: Professional Learning
           description: ""
           url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
         - title: Our Pioneers
           description: ""
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
-      background: /images/pesta banner hero page.jpg
+      background: /images/picture_11.png
   - infopic:
       title: 2024 Workshops for PE and Sports CCA Teachers
-      description: Looking for workshops to enhance your professional learning? We
-        have an array of workshops designed for you! By PE teachers. For PE
-        teachers.
+      description: >-
+        Looking for workshops to enhance your professional learning? We have an
+        array of workshops designed for you! 
+
+
+        By PE teachers. For PE teachers.
       button: Please click on this link to find out more!
       url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
-      image: /images/PL_Calendar_2024b.png
+      image: /images/PL_Calendar_2024d.png
       alt: Workshops for PE teachers
   - infopic:
       title: Physical Education Knowledgeable Others (PEKO)

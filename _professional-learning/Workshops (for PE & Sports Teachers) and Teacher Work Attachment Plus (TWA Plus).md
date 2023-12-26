@@ -7,7 +7,8 @@ variant: markdown
 ---
 ## Workshops for PE and Sports CCA Teachers
 
-For the full list of workshops offered in 2024, please access the copy here: [2024 PL Calendar](https://pl-calendar-2024.my.canva.site/).
+Click on this link to access the list of workshops offered in 2024!
+ [Professional Learning (PL) Calendar [2024]](https://pl-calendar-2024.my.canva.site/).
 
 Please click on the unique link to the workshop in the list or login[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider3/default-document-library/2023-pd-details---updated-as-of-03-02-2023.xls?sfvrsn=9bcab3ea_0 "here") to [OPAL 2.0](https://www.opal2.moe.edu.sg/) to obtain more details on the workshop's structure, objectives etc and register. 
 
