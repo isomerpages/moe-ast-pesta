@@ -19,6 +19,15 @@ sections:
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
       background: /images/pesta banner hero page.jpg
   - infopic:
+      title: 2024 Workshops for PE and Sports CCA Teachers
+      description: Looking for workshops to enhance your professional learning? We
+        have an array of workshops designed for you! By PE teachers. For PE
+        teachers.
+      button: Please click on this link to find out more!
+      url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
+      image: /images/PL_Calendar_2024b.png
+      alt: Workshops for PE teachers
+  - infopic:
       title: Physical Education Knowledgeable Others (PEKO)
       description: In 2022, PESTA introduced Physical Education Knowledgeable Others
         (PEKO) to harness the strengths and expertise of the PE fraternity to
@@ -27,15 +36,6 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/physical-education-knowledgeable-others-peko
       image: /images/peko30657bbb65bc46838744da5ed9b80113.png
       alt: PEKO
-  - infopic:
-      title: 2023 Workshops for PE and Sports CCA Teachers
-      description: Looking for workshops to enhance your professional development? We
-        have an array of workshops designed for you! By PE teachers. For PE
-        teachers.
-      button: Please click on this link to find out more!
-      url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
-      image: /images/2023 pd calendar.png
-      alt: Workshops for PE teachers
   - infopic:
       title: PE Fraternity
       description: What is teaching PE all about? Interested to know more about the PE
