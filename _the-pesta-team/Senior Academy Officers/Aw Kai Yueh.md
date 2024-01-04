@@ -3,6 +3,7 @@ title: Aw Kai Yueh
 permalink: /pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022/
 description: ""
 third_nav_title: Senior Academy Officers
+variant: markdown
 ---
 Senior Academy Officer
 
@@ -16,4 +17,4 @@ Kai Yueh has served as a Subject Head (PE/CCA) for four years before she was app
 
 Having 20 years of experience teaching students from wide ranging backgrounds, she believes in constant reflecting, researching and sharing to build the collective wisdom required for overcoming challenges and improving classroom practices.<br><br>
 
-As a Lead Teacher (LT), she regularly opens her classroom for the fraternity, mentors fellow colleagues, conducts workshops, facilitates network sessions and collaborates with teacher leaders to investigate on how to teach more effectively. Her research interest is widespread and has shared at conferences and symposiums on topics such as Games Concept Approach (GCA), what makes PE lessons enjoyable or not enjoyable, and Blended Learning in PE. Currently she studies more intensely in areas of Educational Assessment and Differentiated Instruction.</p>
+As a Lead Teacher (LT), she regularly opens her classroom for the fraternity, mentors fellow colleagues, conducts workshops, facilitates network sessions and collaborates with teacher leaders to investigate on how to teach more effectively. Her research interest is widespread and has shared at conferences and symposiums on topics such as Games Concept Approach (GCA), what makes PE lessons enjoyable or not enjoyable, and Blended Learning in PE. </p>
