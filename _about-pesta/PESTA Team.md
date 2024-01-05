@@ -2,6 +2,7 @@
 title: PESTA Team
 permalink: /pesta/about-pesta/the-pesta-team/
 description: ""
+variant: markdown
 ---
 PESTA Team
 ==============
@@ -14,22 +15,19 @@ PESTA Team
 | -------- | -------- | 
 | [Melanie Ann Martens (Academy Principal)](/the-pesta-team/pesta-leadership/permalink/) | [Eric Chua Puay Wee (Deputy Director)](/pesta/about-pesta/the-pesta-team/eric-chua-puay-wee-bio-2023/)
 
-| ![](/images/Staff%20Photos/hanif%20-%20website.JPG) |  ![](/images/Staff%20Photos/mabel%20-%20website.JPG) |
+| ![](/images/Staff%20Photos/hanif%20-%20website.JPG) |  ![](/images/Staff%20Photos/seck%20website.jpg) |
 | -------- | -------- | 
-|[Hanif Abdul Rahman (Principal Master Teacher)  ](/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019/)| [Mabel Yong Chooi Cheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/)   | 
+|[Hanif Abdul Rahman (Principal Master Teacher)  ](/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019/)|[Tan Seck Heong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/)  | 
 
 | ![](/images/Staff%20Photos/teng%20tse%20sheng.JPG) | ![](/images/Staff%20Photos/benjamin.JPG) |
 | -------- | -------- | 
 |[Teng Tse Sheng (Master Teacher)](/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019/)|[Benjamin Tan Su-Jim (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/benjamin-tan-profile-bio-2019/) | 
 
 
-| ![](/images/Staff%20Photos/seck%20website.jpg) | ![](/images/Staff%20Photos/joanna5.JPG)|
+|![](/images/Staff%20Photos/nasrun1.JPG) | ![](/images/Staff%20Photos/joanna5.JPG)|
 | -------- | -------- | 
-|[Tan Seck Heong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/) |[Joanna Phan Swee Lee (Master Teacher)](/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019/) | 
+| [Nasrun Bin Mizzy (Master Teacher)](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)|[Joanna Phan Swee Lee (Master Teacher)](/pesta/about-pesta/the-pesta-team/joanna-phan-profile-bio-2019/) | 
 
-| ![](/images/karen%20-%20website.jpg)|![](/images/Staff%20Photos/nasrun1.JPG) |
-| -------- | -------- | 
-|[Karen Low Lai Fong (Master Teacher - Schools)](/pesta/about-pesta/the-pesta-team/karen-tan-profile-bio-2019/) | [Nasrun Bin Mizzy (Master Teacher)](/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/)
 
 
 
@@ -54,12 +52,12 @@ PESTA Team
 
 
 
-| ![](/images/diana%204.JPG) | ![](/images/blank%20space%202.jpg)|
+| ![](/images/diana%204.JPG) |  ![](/images/hafiz%204.JPG)   |
 | -------- | -------- | 
-| [Diana Goh Luan En (Lead Manager)](/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019/)  | 
+| [Diana Goh Luan En (Lead Manager)](/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019/)  |[Muhammad Hafiz Bin Ma'arof (Senior Manager)](/pesta/about-pesta/the-pesta-team/muhammad-hafiz-maarof-profile-bio-2021/) | 
 
 
+| ![](/images/merry1.JPG)|![](/images/blank%20space%202.jpg)|
+| -------- | -------- | [Merry Bte Hamid (Executive)](/pesta/about-pesta/the-pesta-team/merry-profile-bio-2019/)| ![](/images/blank%20space%202.jpg)
 
-| ![](/images/hafiz%204.JPG)|![](/images/merry1.JPG)|
-| -------- | -------- | 
-| [Muhammad Hafiz Bin Ma'arof (Senior Manager)](/pesta/about-pesta/the-pesta-team/muhammad-hafiz-maarof-profile-bio-2021/)| [Merry Bte Hamid (Executive)](/pesta/about-pesta/the-pesta-team/merry-profile-bio-2019/)
+![](/images/blank%20space%202.jpg)
