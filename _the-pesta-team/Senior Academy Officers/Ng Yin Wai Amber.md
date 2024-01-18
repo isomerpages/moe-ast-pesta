@@ -3,8 +3,10 @@ title: Ng Yin Wai Amber
 permalink: /pesta/about-pesta/the-pesta-team/ng-yin-wai-amber/
 description: ""
 third_nav_title: Senior Academy Officers
+variant: markdown
 ---
-Academy Officer
+##### Ng Yin Wai Amber (Academy Officer)
+
 
 ![](/images/Staff%20Photos/amber2.JPG)
 
