@@ -2,6 +2,7 @@ collections:
   the-pesta-team:
     output: true
     order:
+      - PESTA Leadership/Irfan Bin Ismail.md
       - PESTA Leadership/Melanie Ann Martens.md
       - PESTA Leadership/.keep
       - PESTA Leadership/Eric Chua Puay Wee.md
