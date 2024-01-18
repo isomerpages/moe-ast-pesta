@@ -3,8 +3,9 @@ title: Neo Chow Ming Linus
 permalink: /pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022/
 description: ""
 third_nav_title: Senior Academy Officers
+variant: markdown
 ---
-Academy Officer
+##### Linus Neo (Academy Officer)
 
 <p style="float:left; margin: 0 10px 0px 0">
 
