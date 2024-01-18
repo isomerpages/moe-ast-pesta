@@ -3,8 +3,10 @@ title: Eric Chua Puay Wee
 permalink: /pesta/about-pesta/the-pesta-team/eric-chua-puay-wee-bio-2023/
 description: ""
 third_nav_title: PESTA Leadership
+variant: markdown
 ---
-Deputy Director/ PESTA
+##### Chua Puay Wee Eric (Deputy Director)
+
 
 ![](/images/eric%20chua3.JPG)
 
