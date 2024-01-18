@@ -4,7 +4,9 @@ permalink: /pesta/about-pesta/the-pesta-team/tan-hui-chun/
 description: ""
 third_nav_title: Senior Academy Officers
 image: /images/hui chun.JPG
+variant: markdown
 ---
+#### Tan Hui Chun (Senior Academy Officer)
 <img src="/images/hui%20chun.JPG" style="width:60%">
 
 Senior Academy Officer
