@@ -3,8 +3,9 @@ title: Mohammed Ridzal Bin Mohammed Ali
 permalink: /pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/
 description: ""
 third_nav_title: Senior Academy Officers
+variant: markdown
 ---
-Senior Academy Officer
+##### Mohammed Ridzal (Senior Academy Officer)
 
 <img src="/images/ridzal%203.JPG" style="width:60%">
 
