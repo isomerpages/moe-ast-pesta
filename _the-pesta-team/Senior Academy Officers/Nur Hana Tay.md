@@ -3,8 +3,10 @@ title: Nur Hana Tay
 permalink: /pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022/
 description: ""
 third_nav_title: Senior Academy Officers
+variant: markdown
 ---
-Academy Officer
+##### Nur Hana Tay (Academy Officer)
+
 
 <p style="float:left; margin: 0 10px 0px 0">
 
