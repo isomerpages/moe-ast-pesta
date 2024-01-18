@@ -11,10 +11,10 @@ locations:
     operating_hours:
       - days: Mon - Thu
         time: 8.30am - 5.30pm
-        description: Closed on Weekends and Public Holidays
+        description: ""
       - days: Fri
         time: 8.00am - 5.00pm
-        description: ""
+        description: Closed on Weekends and Public Holidays
     maps_link: ""
     title: PESTA Office
 contacts:
@@ -23,4 +23,5 @@ contacts:
       - email: moe_pesta@moe.gov.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
