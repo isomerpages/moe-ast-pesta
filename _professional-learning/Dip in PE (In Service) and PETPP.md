@@ -11,7 +11,7 @@ The Diploma in Physical Education (In-Service) Programme seeks to develop profes
 
 Given staffing needs for some subjects, applications can only be supported if officers are not teaching Subject Areas of Need (SAN) or niche subjects.  In addition, Sec teachers will also remain at their current level to teach PE upon course completion.
 
-This programme will be conducted over two three-month periods and a five-week Teaching Practice (TP) over 2025 and 2026.
+This programme will be conducted over two three-month periods and a five-week Teaching Practice (TP) in 2025 and 2026.
 
 Upon successful completion of the programme, these officers will be considered Qualified PE Teachers (QPETs). Their Subject Proficiency 1 will be changed to PE and will be deployed according to current HR Group's guidelines. 
       
