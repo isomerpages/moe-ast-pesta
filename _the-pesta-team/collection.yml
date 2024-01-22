@@ -2,8 +2,8 @@ collections:
   the-pesta-team:
     output: true
     order:
-      - PESTA Leadership/Melanie Ann Martens.md
       - PESTA Leadership/.keep
+      - PESTA Leadership/Melanie Ann Martens.md
       - PESTA Leadership/Eric Chua Puay Wee.md
       - PESTA Leadership/Hanif Bin Abdul Rahman.md
       - PESTA Leadership/Mabel Yong.md
@@ -12,13 +12,15 @@ collections:
       - PESTA Leadership/Benjamin Tan Su Jim.md
       - PESTA Leadership/Joanna Phan.md
       - PESTA Leadership/Karen Low Lai Fong.md
-      - PESTA Leadership/Nasrun Mizzy.md
-      - Senior Academy Officers/Tan Hui Chun.md
+      - PESTA Leadership/Nasrun Bin Mizzy.md
+      - PESTA Leadership/Irfan Bin Ismail.md
       - Senior Academy Officers/.keep
+      - Senior Academy Officers/Tan Hui Chun.md
       - Senior Academy Officers/Aw Kai Yueh.md
       - Senior Academy Officers/Tang Yee Fun Francis.md
       - Senior Academy Officers/Mohammed Ridzal Bin Mohammed Ali.md
       - Senior Academy Officers/Nur Hana Tay.md
+      - Senior Academy Officers/Algena Koh.md
       - Senior Academy Officers/Neo Chow Ming Linus.md
       - Senior Academy Officers/Karthikesan S O Kumar.md
       - Senior Academy Officers/Ng Yin Wai Amber.md

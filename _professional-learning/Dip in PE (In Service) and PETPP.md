@@ -4,7 +4,24 @@ permalink: /pesta/professional-development/being-part-of-pesta/
 description: ""
 variant: markdown
 ---
-####  2024 Physical Education Teacher Practitioner Programme (PETPP) (Application closed on 1 Sep 2023)
+####  2025 Diploma in PE (in-service) Programme for Primary School Teachers 
+(Application Open till 15 Apr 2024) 
+
+The Diploma in Physical Education (In-Service) Programme seeks to develop professional competency and expertise on non-PE teachers in the teaching of PE. We are pleased to inform you that for the coming 2025/2026 intake, we are offering the programme as dual level training for Primary and Secondary levels. 
+
+Given staffing needs for some subjects, applications can only be supported if officers are not teaching Subject Areas of Need (SAN) or niche subjects.  In addition, Sec teachers will also remain at their current level to teach PE upon course completion.
+
+This programme will be conducted over two three-month periods and a five-week Teaching Practice (TP) in 2025 and 2026.
+
+Upon successful completion of the programme, these officers will be considered Qualified PE Teachers (QPETs). Their Subject Proficiency 1 will be changed to PE and will be deployed according to current HR Group's guidelines. 
+      
+Should you have any queries, please feel free to contact Mr Muhammad Hafiz (Senior Manager/PESTA) at Muhammad_Hafiz_Maarof@moe.gov.sg.
+
+Please note that completed forms must be submitted to above email by 15 April 2025 and that conduct of the programme is subjected to the minimum number of participants required by NIE.  
+
+[Download the Application Form for 2025 Intake of Diploma in PE (In-Service) here!](/files/Application_form_for_2025_Intake_of_Dip_in_PE__In_Service_.pdf) 
+
+####  2024 Physical Education Teacher Practitioner Programme (PETPP) (Application closed)
 
 The PE Teacher Practitioner Programme (PETPP) was introduced in 2021 to alleviate the short-term shortage of QPETs at the primary level. It equips non-Qualified Physical Education Teachers with requisite knowledge and skills to conduct PE lessons that meet curricular objectives safely. The PETPP has replaced the former “Introduction to Basics of Teaching Physical Education” (IBTPE) as the mandatory PD for non-QPETs who are intending and/or will be deployed to teach PE at the primary level.
 
@@ -34,19 +51,6 @@ We look forward to your continued support for current non-QPETs to pursue their 
 *   Connie_Yeo@moe.gov.sg (PSOEB)
 *   Muhammad_Sulaiman_Othman@moe.gov.sg (PSOEB)
 
-[Please click here to download the Registration Form for 2024 PETPP!](/files/registration%20form%20for%202024%20petpp.pdf)
 
 
 
-####  2025 Diploma in PE (in-service) Programme for Primary School Teachers 
-(Application will be opened in 2024) 
-
-The Programme seeks to train non-PE teachers to teach PE at **Primary level** over two three-month periods and a five week Teaching Practice (TP) stint. Successful applicants are obliged to serve their current school for one year upon completion of the Programme. Physical Education (PE) will be listed as their Subject Proficiency 1 thereafter.
-
- Should you have any queries, please feel free to contact the following PESTA/PSOEB Officers:
- 
-*   Muhammad_Hafiz_Maarof@moe.gov.sg (PESTA)
-*   Mabel_Yong@moe.gov.sg (PESTA) 
-*   Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg (PESTA) 
-*   Connie_Yeo@moe.gov.sg (PSOEB)
-*   Muhammad_Sulaiman_Othman@moe.gov.sg (PSOEB)
