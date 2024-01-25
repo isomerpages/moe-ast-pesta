@@ -1,0 +1,8 @@
+---
+title: Nasrun Bin Mizzy
+permalink: /pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/
+description: ""
+third_nav_title: PESTA Leadership
+variant: tiptap
+---
+<h4>Nasrun Mizzy (Master Teacher)</h4><div class="isomer-image-wrapper"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Nasrul2.JPG"></div><p>Prior to joining AST, Nasrun Mizzy has been with Teck Whye Primary School as Head of Department (PE &amp; CCA) for about 3 years. He was the Dean for Co-Curriculum at Beacon Primary School for 9 years before becoming a Senior Academy Officer with PESTA from 2017-2019.</p><p>Nasrun believes strongly in the power of collaborative learning. He advocates teachers being critical friends and resource persons to one another through the mantra of #malufirst (trying things out first, and then sharing them with others to invite critique) and #malutogether (facilitating the new learning with others and inspiring them to try out new ideas). His pet areas are using narrative inquiry for professional development, affective domain and 21CC in PE and assessment literacy in PE. He believes that every child deserves every teacher’s best effort in providing varied and authentic learning experiences regardless of their starting points and backgrounds.</p><p>Nasrun loves to spend time with his wife and 5 children doing the simple things in life like cycling, reading, Netflixing, catching Pokemons and staycationing at local hotels. He is a Liverpool fan.</p>
