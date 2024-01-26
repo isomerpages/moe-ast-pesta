@@ -4,9 +4,9 @@ permalink: /pesta/professional-development/professional-development-framework-fo
 description: ""
 variant: markdown
 ---
-![Professional Learning Framework](/images/pesta's-pd-framework.png)
+![Professional Learning Framework](/images/PESTA_PL_Framework.png)
 
-PE and Sports teachers can look forward to attending a variety of Professional Development activities specially designed to deepen their knowledge, hone their teaching skills and engage their hearts in three areas:
+PE and Sports teachers can look forward to attending a variety of Professional Learning activities specially designed to deepen their knowledge, hone their teaching skills and engage their hearts in three areas:
 
 *   Subject Knowledge;
 *   Professional Practice; and
