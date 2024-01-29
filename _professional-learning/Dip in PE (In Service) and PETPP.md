@@ -4,8 +4,8 @@ permalink: /pesta/professional-development/being-part-of-pesta/
 description: ""
 variant: markdown
 ---
-####  2025 Diploma in PE (in-service) Programme for Primary School Teachers 
-(Application Open till 15 Apr 2024) 
+###  2025 Diploma in PE (In-Service) Programme
+##### (Application Open till 15 Apr 2024) 
 
 The Diploma in Physical Education (In-Service) Programme seeks to develop professional competency and expertise on non-PE teachers in the teaching of PE. We are pleased to inform you that for the coming 2025/2026 intake, we are offering the programme as dual level training for Primary and Secondary levels. 
 
@@ -50,7 +50,3 @@ We look forward to your continued support for current non-QPETs to pursue their 
 *   Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg (PESTA) 
 *   Connie_Yeo@moe.gov.sg (PSOEB)
 *   Muhammad_Sulaiman_Othman@moe.gov.sg (PSOEB)
-
-
-
-
