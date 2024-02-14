@@ -25,6 +25,6 @@ Click here for the list of PEKO!
 
 To collaborate with a PEKO, please fill in this form:  [http://go.gov.sg/pekorequest](http://go.gov.sg/pekorequest)
 
-If you have engaged a PEKO, We would like to hear from you!  
+If you have engaged a PEKO, we would like to hear from you!  
 Please fill up this feedback form after your engagement/collaboration with PEKO:
 [PEKO Feedback Form](http://go.gov.sg/feedbackforpeko)
