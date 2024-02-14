@@ -2,6 +2,7 @@
 title: Our Physical Education Knowledgeable Others (PEKO)
 permalink: /pesta/be-connected-with-the-fraternity/physical-education-knowledgeable-others-peko/
 description: ""
+variant: markdown
 ---
 In 2022, PESTA introduced Physical Education Knowledgeable Others (PEKO) to harness the strengths and expertise of the PE fraternity to enhance PD experiences in a more beneficial and sustainable way. These knowledgeable others are PE teachers with expertise in areas such as:
 
@@ -16,12 +17,14 @@ PEKO will provide PD support in their identified area(s) of expertise based on r
 
 For schools looking to request for PD support from a PEKO, play the video in the link below to find out more about the process. 
 
-[How to engage PEKO - Video]( https://drive.google.com/file/d/1GWo_SVW_M0GDDc1s9t8i-giFfScS0ZZV/view?usp=sharing)
+[How to engage PEKO - Video Guide](https://drive.google.com/file/d/1ZXKewyXvqQ_jGMA85lzjdopKEOlZY7eK/view?usp=sharing)
 
 
 Click here for the list of PEKO!  
-[List of PEKOs - Updated 6 March 2023](/files/2023-peko-list-(updated-24-feb)-(1).pdf)
+[PEKO Contact List_Updated 14 Feb 2024](/files/2024_PEKO_Contact_List__updated_14_Feb_.pdf)
 
-For Requestors - We would like to hear from you!  
-Please fill up this feedback form after your engagement/collaboration with PEKO:  
-[Feedback Form For Requestor](https://form.gov.sg/61ee32ade323860015467b22)
+To collaborate with a PEKO, please fill in this form:  [http://go.gov.sg/pekorequest](http://go.gov.sg/pekorequest)
+
+If you have engaged a PEKO, We would like to hear from you!  
+Please fill up this feedback form after your engagement/collaboration with PEKO:
+[PEKO Feedback Form](http://go.gov.sg/feedbackforpeko)
