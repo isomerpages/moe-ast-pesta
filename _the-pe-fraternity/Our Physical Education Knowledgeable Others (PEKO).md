@@ -17,7 +17,7 @@ PEKO will provide PD support in their identified area(s) of expertise based on r
 
 For schools looking to request for PD support from a PEKO, play the video in the link below to find out more about the process. 
 
-[How to engage PEKO - Video Guide](https://drive.google.com/file/d/1ZXKewyXvqQ_jGMA85lzjdopKEOlZY7eK/view?usp=sharing)
+[How to engage a PEKO - Video Guide](https://drive.google.com/file/d/1ZXKewyXvqQ_jGMA85lzjdopKEOlZY7eK/view?usp=sharing)
 
 
 Click here for the list of PEKO!  
