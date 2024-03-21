@@ -14,4 +14,7 @@ description: ""
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
+<div class="iframe-wrapper">
+<iframe height="389" width="790" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHUobNX1K6-77T2cc-SNddrCnYmRCYkuxN9Y2efyL5qpb8nniwTXUfauGLLDqLWw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
