@@ -10,4 +10,5 @@ description: ""
 </p>
 <p><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=951645" rel="noopener noreferrer nofollow" target="_blank">E-pedagogy Resources (by ETD)</a>
 </p>
-<p></p>
+<p><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72184" rel="noopener noreferrer nofollow" target="_blank">Developing 21st Century Competencies (21CC) in Students Resources in OPAL</a>
+</p>
