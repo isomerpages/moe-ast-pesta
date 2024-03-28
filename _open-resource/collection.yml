@@ -2,5 +2,6 @@ collections:
   open-resource:
     output: true
     order:
+      - 21st Century Competencies.md
       - All Resources.md
       - SFEd Workshop Resources.md
