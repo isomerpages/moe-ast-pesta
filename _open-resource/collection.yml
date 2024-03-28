@@ -2,7 +2,7 @@ collections:
   open-resource:
     output: true
     order:
-      - All Resources.md
+      - About Open Resource.md
       - SFEd Workshop Resources.md
       - 21st Century Competencies.md
       - Leadership in PE.md
