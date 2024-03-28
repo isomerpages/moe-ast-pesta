@@ -1,4 +1,5 @@
 collections:
   open-resource:
     output: true
-    order: []
+    order:
+      - Open Resource.md
