@@ -2,11 +2,11 @@ collections:
   open-resource:
     output: true
     order:
-      - Leadership in PE.md
       - All Resources.md
       - SFEd Workshop Resources.md
       - 21st Century Competencies.md
       - Full Subject Based Banding.md
       - Learning Areas.md
+      - Leadership in PE.md
       - Informal Professional Learning.md
       - Other Useful Links.md
