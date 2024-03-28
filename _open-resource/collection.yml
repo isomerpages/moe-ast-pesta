@@ -2,5 +2,5 @@ collections:
   open-resource:
     output: true
     order:
-      - Open Resource.md
+      - All Resources.md
       - SFEd Workshop Resources.md
