@@ -4,17 +4,20 @@ permalink: /aboutopenresource/
 variant: tiptap
 description: ""
 ---
-<p>Many general resources are openly available these days on the internet.
-PESTA would like to add to the international body of knowledge by contributing
-sound PE resources, based on high standards of the Singapore education
-system, the Singapore Physical Education Syllabus and the quality workshops
-that we conduct.</p>
-<p>These resources will be shared here at our PESTA Open Resource Webpage
-(PORW). PORW is a platform housed within PESTA’s website managed by PESTA
-and is accessible to the general public, with PE teachers as our specific
-target audience.&nbsp;</p>
-<p>The resources focusing on the six prioritised areas of practice in SkillsFuture
-for Educators (SFEd), are specially curated by PESTA.</p>
-<p>Get in touch with our Team (email us at <a href="mailto:moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>moe_pesta@moe.gov.sg</u></a>) if
-you have any queries or feedback.</p>
-<p></p>
+<p>Numerous general resources are readily accessible on the internet. PESTA
+aims to enrich the global repository of knowledge by offering sound physical
+education (PE) resources, grounded in the exemplary standards of the Singapore
+education system, the Singapore Physical Education Syllabus, and the exceptional
+quality of workshops we conduct.</p>
+<p>These resources will be disseminated through our PESTA Open Resource Webpage
+(PORW), a dedicated platform housed within the PESTA website and overseen
+by our organization. PORW is designed to be catering primarily to PE teachers
+while remaining accessible to the broader public.</p>
+<p>The resources, which center on the six prioritized areas of practice outlined
+in SkillsFuture for Educators (SFEd), are meticulously curated by PESTA
+to ensure relevance and effectiveness.</p>
+<p>For inquiries or feedback, please feel free to reach out to our team via
+email at <a href="mailto:moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_pesta@moe.gov.sg</a>.
+We welcome the opportunity to engage with you.</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Click here for a full list of FAQ.</a>
+</p>
