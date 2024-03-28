@@ -2,10 +2,10 @@ collections:
   open-resource:
     output: true
     order:
-      - Other Useful Links.md
-      - Informal Professional Learning.md
       - All Resources.md
       - SFEd Workshop Resources.md
       - 21st Century Competencies.md
       - Full Subject Based Banding.md
       - Learning Areas.md
+      - Other Useful Links.md
+      - Informal Professional Learning.md
