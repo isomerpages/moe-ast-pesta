@@ -2,6 +2,7 @@ collections:
   open-resource:
     output: true
     order:
+      - Informal Professional Learning.md
       - All Resources.md
       - SFEd Workshop Resources.md
       - 21st Century Competencies.md
