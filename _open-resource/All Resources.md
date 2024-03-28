@@ -14,7 +14,7 @@ description: ""
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Full Subject Based Banding</div><div class="isomer-card-description">Resources for Full Subject Based Banding workshops</div><div class="isomer-card-link">Click here to access the resources</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://academyofsingaporeteachers.moe.edu.sg/full-subject-based-banding/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Full Subject Based Banding</div><div class="isomer-card-description">Resources for Full Subject Based Banding workshops</div><div class="isomer-card-link">Click here to access the resources</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Learning Areas</div>
