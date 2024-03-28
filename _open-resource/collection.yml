@@ -2,7 +2,7 @@ collections:
   open-resource:
     output: true
     order:
-      - Full Subject Based Banding.md
       - All Resources.md
       - SFEd Workshop Resources.md
       - 21st Century Competencies.md
+      - Full Subject Based Banding.md
