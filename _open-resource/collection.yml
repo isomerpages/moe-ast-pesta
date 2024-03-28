@@ -1,0 +1,4 @@
+collections:
+  open-resource:
+    output: true
+    order: []
