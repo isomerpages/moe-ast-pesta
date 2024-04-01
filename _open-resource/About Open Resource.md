@@ -4,11 +4,10 @@ permalink: /aboutopenresource/
 variant: tiptap
 description: ""
 ---
-<p>Numerous general resources are readily accessible on the internet. PESTA
-aims to enrich the global repository of knowledge by offering sound physical
-education (PE) resources, grounded in the exemplary standards of the Singapore
-education system, the Singapore Physical Education Syllabus, and the exceptional
-quality of workshops we conduct.</p>
+<p>PESTA aims to enrich the global repository of knowledge by offering sound
+physical education (PE) resources, grounded in the exemplary standards
+of the Singapore education system, the Singapore Physical Education Syllabus,
+and the exceptional quality of workshops we conduct.</p>
 <p>These resources will be disseminated through our PESTA Open Resource Webpage
 (PORW), a dedicated platform housed within the PESTA website and overseen
 by our organization. PORW is designed to be catering primarily to PE teachers
