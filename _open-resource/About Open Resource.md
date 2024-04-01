@@ -18,5 +18,5 @@ and effectiveness.</p>
 <p>For inquiries or feedback, please feel free to reach out to our team via
 email at <a href="mailto:moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_pesta@moe.gov.sg</a>.
 We welcome the opportunity to engage with you.</p>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/openresourcefaq/" rel="noopener noreferrer nofollow" target="_blank">Click here for list of FAQ</a>
+<p><a href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/editPage/FAQ%20for%20Open%20Resource.md" rel="noopener noreferrer nofollow" target="_blank">Click here for list of FAQ</a>
 </p>
