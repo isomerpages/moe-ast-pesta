@@ -14,8 +14,8 @@ quality of workshops we conduct.</p>
 by our organization. PORW is designed to be catering primarily to PE teachers
 while remaining accessible to the broader public.</p>
 <p>The resources, which center on the six prioritized areas of practice outlined
-in SkillsFuture for Educators (SFEd), are meticulously curated by PESTA
-to ensure relevance and effectiveness.</p>
+in SkillsFuture for Educators (SFEd), are curated by PESTA to ensure relevance
+and effectiveness.</p>
 <p>For inquiries or feedback, please feel free to reach out to our team via
 email at <a href="mailto:moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_pesta@moe.gov.sg</a>.
 We welcome the opportunity to engage with you.</p>
