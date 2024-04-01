@@ -19,5 +19,5 @@ to ensure relevance and effectiveness.</p>
 <p>For inquiries or feedback, please feel free to reach out to our team via
 email at <a href="mailto:moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_pesta@moe.gov.sg</a>.
 We welcome the opportunity to engage with you.</p>
-<p><a href="/openresourcefaq" rel="noopener noreferrer nofollow" target="_blank">Click here for a full list of FAQ.</a>
+<p><a href="/openresourcefaq" rel="noopener noreferrer nofollow" target="_blank">Click here for list of FAQ</a>
 </p>
