@@ -16,8 +16,8 @@ description: ""
 <div class="isomer-card-body">
 <div class="isomer-card-title">E-Ped: Tech in PE. Do we need it?</div>
 <div class="isomer-card-description">Featuring Master Teacher Nasrun, Academy Officers Linus and Karthik</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Link to podcast</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PESTA_Team_Talk_Podcast_Logo__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What is Nonlinear Pedagogy?</div><div class="isomer-card-description">Featuring Master Teacher Irfan and Academy Officers Kai Yueh and Karthik</div><div class="isomer-card-link">Link to podcast</div></div></a>
 </div>
 <p></p>
