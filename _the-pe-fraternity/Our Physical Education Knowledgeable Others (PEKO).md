@@ -21,7 +21,7 @@ For schools looking to request for PD support from a PEKO, play the video in the
 
 
 Click here for the list of PEKO!  
-[PEKO Contact List_Updated 14 Feb 2024](/files/PEKO_List_2024.pdf)
+[PEKO Contact List [Updated 8 Apr 2024]](/files/PEKO_Masterlist_5_Apr_24.pdf)
 
 To collaborate with a PEKO, please fill in this form:  [http://go.gov.sg/pekorequest](http://go.gov.sg/pekorequest)
 
