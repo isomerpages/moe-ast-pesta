@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ###  2025 Diploma in PE (In-Service) Programme
-##### (Application Open till 15 Apr 2024) 
+##### (Application Closed) 
 
 The Diploma in Physical Education (In-Service) Programme seeks to develop professional competency and expertise on non-PE teachers in the teaching of PE. We are pleased to inform you that for the coming 2025/2026 intake, we are offering the programme as dual level training for Primary and Secondary levels. 
 
@@ -19,9 +19,9 @@ Should you have any queries, please feel free to contact Mr Muhammad Hafiz (Seni
 
 Please note that completed forms must be submitted to above email by 15 April 2025 and that conduct of the programme is subjected to the minimum number of participants required by NIE.  
 
-[Download the Application Form for 2025 Intake of Diploma in PE (In-Service) here!](/files/Application_form_for_2025_Intake_of_Dip_in_PE__In_Service_.pdf) 
 
-####  2024 Physical Education Teacher Practitioner Programme (PETPP) (Application closed)
+###  2024 Physical Education Teacher Practitioner Programme (PETPP) 
+##### (Application closed)
 
 The PE Teacher Practitioner Programme (PETPP) was introduced in 2021 to alleviate the short-term shortage of QPETs at the primary level. It equips non-Qualified Physical Education Teachers with requisite knowledge and skills to conduct PE lessons that meet curricular objectives safely. The PETPP has replaced the former “Introduction to Basics of Teaching Physical Education” (IBTPE) as the mandatory PD for non-QPETs who are intending and/or will be deployed to teach PE at the primary level.
 
@@ -46,7 +46,7 @@ All applications must be endorsed by the School Leader (SL) before submission. A
 We look forward to your continued support for current non-QPETs to pursue their passion in teaching PE. Should you have any queries, please feel free to contact the following PESTA/PSOEB Officers:
  
 *   Muhammad_Hafiz_Maarof@moe.gov.sg (PESTA)
-*   Mabel_Yong@moe.gov.sg (PESTA) 
+
 *   Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg (PESTA) 
 *   Connie_Yeo@moe.gov.sg (PSOEB)
 *   Muhammad_Sulaiman_Othman@moe.gov.sg (PSOEB)
