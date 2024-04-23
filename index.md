@@ -27,6 +27,7 @@ sections:
       button: Click here!
       url: /teacher-leaders-tl-symposium/
       image: /images/TL_Sympo.png
+      alt: TL Symposium
   - infopic:
       title: 2024 Workshops for PE and Sports CCA Teachers
       description: >-
