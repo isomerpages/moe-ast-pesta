@@ -19,6 +19,16 @@ sections:
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
       background: /images/picture_11.png
   - infopic:
+      title: Teacher Leaders (TL) Symposium
+      id: infopic
+      description: Our TL Core Team and Lead Teachers will share their insights on
+        teaching and learning in PE!  This will be held on Thu, 2 May 2024, 1.30
+        to 6.00 p.m.
+      button: Click here!
+      url: /teacher-leaders-tl-symposium/
+      image: /images/TL_Sympo.png
+      alt: TL Symposium
+  - infopic:
       title: 2024 Workshops for PE and Sports CCA Teachers
       description: >-
         Looking for workshops to enhance your professional learning? We have an
