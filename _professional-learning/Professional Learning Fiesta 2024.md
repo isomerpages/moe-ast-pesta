@@ -4,7 +4,7 @@ permalink: /professional-learning-fiesta-2024/
 variant: tiptap
 description: ""
 ---
-<h4>Professional Learning Fiesta 2024 </h4>
+<h4>Professional Learning Fiesta 2024</h4>
 <p>Professional Learning Fiesta 2024 is back! PLF seeks to affirm and celebrate
 the spirit of professional learning amongst PE teachers. Held biennially,
 PLF provides a platform for teachers to share and connect. We value the
