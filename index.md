@@ -29,6 +29,18 @@ sections:
       image: /images/TL_Sympo.png
       alt: TL Symposium
   - infopic:
+      title: Professional Learning Fiesta 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: |-
+        Save the Date!  26th August 2024 to 19th September 2024!
+
+        Registration is Open for PRESENTERS!
+      button: CLICK HERE!
+      url: /professional-learning-fiesta-2024/
+      image: /images/PLF_2024_Banner__1_.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Workshops for PE and Sports CCA Teachers
       description: >-
         Looking for workshops to enhance your professional learning? We have an
