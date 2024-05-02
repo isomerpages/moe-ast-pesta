@@ -15,7 +15,7 @@ This programme will be conducted over two three-month periods and a five-week T
 
 Upon successful completion of the programme, these officers will be considered Qualified PE Teachers (QPETs). Their Subject Proficiency 1 will be changed to PE and will be deployed according to current HR Group's guidelines. 
       
-Should you have any queries, please feel free to contact Mr Muhammad Hafiz (Senior Manager/PESTA) at Muhammad_Hafiz_Maarof@moe.gov.sg.
+Should you have any queries, please feel free to contact Mr Muhammad Hafiz (Lead Manager/PESTA) at Muhammad_Hafiz_Maarof@moe.gov.sg.
 
 Please note that completed forms must be submitted to above email by 15 April 2025 and that conduct of the programme is subjected to the minimum number of participants required by NIE.  
 
@@ -46,7 +46,6 @@ All applications must be endorsed by the School Leader (SL) before submission. A
 We look forward to your continued support for current non-QPETs to pursue their passion in teaching PE. Should you have any queries, please feel free to contact the following PESTA/PSOEB Officers:
  
 *   Muhammad_Hafiz_Maarof@moe.gov.sg (PESTA)
-
 *   Mohammed_Ridzal_Mohammed_Ali@moe.gov.sg (PESTA) 
 *   Connie_Yeo@moe.gov.sg (PSOEB)
 *   Muhammad_Sulaiman_Othman@moe.gov.sg (PSOEB)
