@@ -30,7 +30,6 @@ sections:
       alt: TL Symposium
   - infopic:
       title: Professional Learning Fiesta 2024
-      subtitle: Add an image and text
       id: infopic
       description: |-
         Save the Date!  26th August 2024 to 19th September 2024!
