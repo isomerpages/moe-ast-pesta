@@ -4,9 +4,13 @@ permalink: /pesta/about-pesta/pesta-highlights/
 description: ""
 variant: markdown
 ---
+#### **2024** 
+**May:**
+* PESTA hosted the TL Symposium which was attended by about 200 personnel from the PE fraternity.
+
 #### **2023** 
 **October:**
-* PESTA received the MOE Innergy Award (Commendation) for the project on 'Enhancing the quality of lesson discussions by exploiting online affordances in VEO'
+* PESTA received the MOE Innergy Award (Commendation) for the project on 'Enhancing the quality of lesson discussions by exploiting online affordances in VEO.
 
 #### **2022**
 **January:**  

@@ -14,5 +14,6 @@ sign up to learn from one another.&nbsp;</p>
 <p>Registration is <strong>open</strong> for <strong>PRESENTERS</strong>, visit
 the <a href="https://sites.google.com/moe.edu.sg/plf2024/home" rel="noopener noreferrer nofollow" target="_blank">PLF2024</a> site
 for more information!</p>
-<p></p><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/plf2024/home"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLF_2024_Banner__1_.jpg"></a>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/plf2024/home"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLF_Banner_edited.jpg"></a>
 <p></p>
