@@ -37,8 +37,7 @@ sections:
         Registration is Open for PRESENTERS!
       button: CLICK HERE!
       url: /professional-learning-fiesta-2024/
-      image: /images/PLF_2024_Banner__1_.jpg
-      alt: Image alt text
+      image: /images/PLF_Banner_edited.jpg
   - infopic:
       title: 2024 Workshops for PE and Sports CCA Teachers
       description: >-
