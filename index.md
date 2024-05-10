@@ -28,6 +28,7 @@ sections:
       button: CLICK HERE!
       url: /professional-learning-fiesta-2024/
       image: /images/PLF_Banner_edited.jpg
+      alt: PLF2024
   - infopic:
       title: Teacher Leaders (TL) Symposium
       id: infopic
