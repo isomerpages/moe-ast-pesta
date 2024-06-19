@@ -17,7 +17,7 @@ Upon successful completion of the programme, these officers will be considered Q
       
 Should you have any queries, please feel free to contact Mr Muhammad Hafiz (Lead Manager/PESTA) at Muhammad_Hafiz_Maarof@moe.gov.sg.
 
-Please note that completed forms must be submitted to above email by 15 April 2025 and that conduct of the programme is subjected to the minimum number of participants required by NIE.  
+Please note that completed forms must be submitted to above email by 15 April 2024 and that conduct of the programme is subjected to the minimum number of participants required by NIE.  
 
 
 ###  2024 Physical Education Teacher Practitioner Programme (PETPP) 
