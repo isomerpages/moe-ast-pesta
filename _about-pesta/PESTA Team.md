@@ -101,7 +101,7 @@ variant: tiptap
 <div class="isomer-card-title">Academy Officer</div>
 <div class="isomer-card-link">Ng Yin Wai Amber</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/neo-chow-ming-linus-bio-2022/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Linus_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Academy Officer</div><div class="isomer-card-link">Neo Chow Ming Linus</div></div></a>
+</a>
 </div>
 <h3>Administration Team</h3>
 <p></p>
