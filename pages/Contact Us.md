@@ -44,7 +44,12 @@ and many other professional learning content.</p>
 <p>If you have any feedback/suggestions for PESTA or for the PE fraternity,
 please feel free to leave your inputs in the online form&nbsp;<a href="https://form.gov.sg/62feec402c1e9100131b6720" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <h3>PESTA Staff</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -220,17 +225,6 @@ please feel free to leave your inputs in the online form&nbsp;<a href="https://f
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_hana_tay@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Neo Chow Ming Linus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>linus_neo@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
