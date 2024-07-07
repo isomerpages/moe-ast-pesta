@@ -4,7 +4,9 @@ permalink: /teacher-work-attachment-plus-twa-plus/
 variant: tiptap
 description: ""
 ---
-<h3>Teacher Work Attachment Plus (TWA+)</h3>
+<h2>Teacher Work Attachment Plus (TWA+)</h2>
+<p></p>
+<h4><strong>[Application Closed]</strong></h4>
 <p>An opportunity to work with PESTA officers to learn and broaden perspectives
 so as to make learning in the classroom more relevant and authentic.</p>
 <p><strong><u>Learning Objectives</u></strong>
@@ -27,6 +29,6 @@ Development</p>
 </li>
 </ul>
 <p>The 2024 attachment period is from Term 3 Week 1 to Term 3 Week 4.</p>
-<p>For more information, please visit the MOE Intranet link below:&nbsp;</p>
-<p>[<a href="https://intranet.moe.gov.sg/academy/TWA/Pages/TWA.aspx](http://intranet.moe.gov.sg/academy/TWA/Pages/TWA.aspx)" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/academy/TWA/Pages/TWA.aspx](http://intranet.moe.gov.sg/academy/TWA/Pages/TWA.aspx)</a>
+<p>For more information, please visit the MOE Intranet link below:&nbsp;
+<br><a href="https://intranet.moe.gov.sg/academy/TWA/Pages" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet TWA+ Page</a>
 </p>
