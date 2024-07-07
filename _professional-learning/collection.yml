@@ -2,8 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
-      - Workshops (for PE & Sports Teachers) and Teacher Work Attachment Plus
-        (TWA Plus).md
+      - Workshops (for PE & Sports CCA Teachers).md
       - Professional Learning Fiesta 2024.md
       - PL Framework for PE and Sports Teachers.md
       - Dip in PE (In Service) and PETPP.md
