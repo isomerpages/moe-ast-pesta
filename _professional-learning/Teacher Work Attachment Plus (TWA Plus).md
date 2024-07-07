@@ -4,7 +4,7 @@ permalink: /teacher-work-attachment-plus-twa-plus/
 variant: tiptap
 description: ""
 ---
-<h2>Teacher Work Attachment Plus (TWA+)</h2>
+<h2>Teacher Work Attachment+ (TWA+)</h2>
 <p></p>
 <h4><strong>[Application Closed]</strong></h4>
 <p>An opportunity to work with PESTA officers to learn and broaden perspectives
