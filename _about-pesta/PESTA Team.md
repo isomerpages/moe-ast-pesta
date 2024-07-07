@@ -55,7 +55,7 @@ variant: tiptap
 <div class="isomer-card-link">Nasrun Mizzy</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/irfan-ismail-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Irfan_Website_Photo.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher</div><div class="isomer-card-link">Irfan Ismail</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Mabel_Website.jpg">
