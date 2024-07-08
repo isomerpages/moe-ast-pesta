@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1>PESTA TEAM</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/team%20photo%20(2023).jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="PESTA Team Photo 2024" src="/images/1.jpg">
 </div>
 <h3>PESTA Leadership</h3>
 <p></p>
@@ -55,6 +55,17 @@ variant: tiptap
 <div class="isomer-card-link">Nasrun Mizzy</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/irfan-ismail-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Irfan_Website_Photo.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher</div><div class="isomer-card-link">Irfan Ismail</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Mabel_Website.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Master Teacher</div>
+<div class="isomer-card-link">Mabel Yong</div>
+</div>
+</a>
 </div>
 <h3>Senior / Academy Officers<br></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Kai_Yueh_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Aw Kai Yueh</div></div></a>
