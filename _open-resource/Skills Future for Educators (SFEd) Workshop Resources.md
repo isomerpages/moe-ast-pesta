@@ -74,7 +74,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1Snm6khekJwseufM3-7lnUZL3JuRUktnt/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">21CC in Physical Education (All Levels)</a>
+<p><a href="https://drive.google.com/file/d/1MXIC8k5hVyFHOw9NIpv0ogEv2PIQ5j7i/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">21CC in Physical Education (All Levels)</a>
 </p>
 </li>
 </ul>
