@@ -77,10 +77,6 @@ description: ""
 <p><a href="https://drive.google.com/file/d/1MXIC8k5hVyFHOw9NIpv0ogEv2PIQ5j7i/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">21CC in Physical Education (All Levels)</a>
 </p>
 </li>
-<li>
-<p><a href="https://drive.google.com/drive/folders/1qIvTnEivvK1QmmcA5uWl8tBEdkHlh6Io?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">21CC Workshop</a>
-</p>
-</li>
 </ul>
 </div>
 </details>
