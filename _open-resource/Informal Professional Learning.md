@@ -15,7 +15,7 @@ of topics from innovative pedagogical approaches to the latest trends in
 physical education. Each episode aims to inspire, educate, and provide
 practical tips for educators.</p>
 <hr>
-<h4>21st Century Competencies in Physical Education</h4>
+<h4><strong>21st Century Competencies in Physical Education</strong></h4>
 <p>This episode of 'Team Talk' features Principal Master Teacher Hanif, Master
 Teacher Nasrun and Lead Teachers Fazlin and Sherlyn. They share about their
 own journey in learning about 21st Century Competencies (21st CC) and discuss
@@ -26,7 +26,7 @@ strategies to develop 21CC intentionally during PE lessons.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jbX2yrbywX4?si=oegSiFHInxiT6oTv"></iframe>
 </div>
 <hr>
-<h4>Exploring Nonlinear Pedagogy</h4>
+<h4><strong>Exploring Nonlinear Pedagogy</strong></h4>
 <p>This episode of 'Team Talk' features Master Teacher Irfan, Academy Officers
 Kai Yueh and Karthik. In this episode, Irfan , Karthik and Kai Yueh discuss
 about Kai Yueh's inquiry on how to get started on applying Nonlinear Pedagogy.</p>
@@ -36,7 +36,7 @@ about Kai Yueh's inquiry on how to get started on applying Nonlinear Pedagogy.</
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yup6VnR8G6k?si=C1VZKyHa98cASblT"></iframe>
 </div>
 <hr>
-<h4>Emerging 21st Century Competencies in Physical Education</h4>
+<h4><strong>Emerging 21st Century Competencies in Physical Education</strong></h4>
 <p>This episode of 'Team Talk' features Master Teacher Nasrun, Academy Officers
 Ridzal and Hana. The PESTA officers share about developing the Emerging
 21st Century Competencies from their own teaching experiences. Is PE only
@@ -48,5 +48,23 @@ E21CC?</p>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WuPZqjDPlks?si=XXgGT_N7RVNnVPwq"></iframe>
+</div>
+<hr>
+<h4><strong>A Conversation with Dr Chow Jia Yi</strong></h4>
+<p>This episode of 'Team Talk' features Associate Professor Chow Jia Yi who
+joins our PESTA officers for an intimate conversation about his teaching
+journey, his fond memories as a student and also shares some insights about
+Nonlinear pedagogy.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Q6JRHc0OGEk?si=f40qU9IS95YXhsTo"></iframe>
+</div>
+<hr>
+<h4><strong>A Conversation with Principal Master Teacher Hanif</strong></h4>
+<p>This episode of 'Team Talk' features PMTT Hanif who joins MTT Nasrun and
+Academy Officer Karthik in a conversation about how he was in his schooling
+days, what made him to become a teacher, his approach to teaching and his
+journey as SG’s 1st master teacher and then principal master teacher!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t6MhJ9zChY0?si=aihF63aWSztqQ-08"></iframe>
 </div>
 <p></p>
