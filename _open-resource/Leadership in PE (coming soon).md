@@ -1,5 +1,5 @@
 ---
-title: Leadership in PE
+title: Leadership in PE (coming soon)
 permalink: /leadership-in-pe/
 variant: tiptap
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: About Open Resource
-permalink: /aboutopenresource/
+title: About PESTA Open Web Resource (POWeR)
+permalink: /aboutpower/
 variant: tiptap
 description: ""
 ---

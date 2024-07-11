@@ -2,9 +2,9 @@ collections:
   open-resource:
     output: true
     order:
-      - About Open Resource.md
+      - About PESTA Open Web Resource (POWeR).md
       - Skills Future for Educators (SFEd) Workshop Resources.md
       - 21st Century Competencies.md
-      - Leadership in PE.md
+      - Leadership in PE (coming soon).md
       - Informal Professional Learning.md
       - Other Useful Links.md
