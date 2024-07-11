@@ -38,4 +38,5 @@ or looks like for students in the context of that particular lesson content.</di
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/muMLPsO8ZN8?si=nUQRm7fbpdOA7C67"></iframe>
 </div>
-<p></p>
+<p>This activity can be used to facilitate co-construction of success criteria
+with students.</p>
