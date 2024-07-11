@@ -35,4 +35,18 @@ about Kai Yueh's inquiry on how to get started on applying Nonlinear Pedagogy.</
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yup6VnR8G6k?si=C1VZKyHa98cASblT"></iframe>
 </div>
+<hr>
+<h4>Emerging 21st Century Competencies in Physical Education</h4>
+<p>This episode of 'Team Talk' features Master Teacher Nasrun, Academy Officers
+Ridzal and Hana. The PESTA officers share about developing the Emerging
+21st Century Competencies from their own teaching experiences. Is PE only
+about developing the psychomotor skills? Can we embed opportunities to
+develop communication skills to resolve conflict, give feedback and actively
+listen? What teaching routines can we include to deliberately develop the
+E21CC?</p>
+<p><a href="https://open.spotify.com/episode/2H9nqJKm1qBiIe1pqD95fL?si=TI_heHIZSwyWz5FiK-W4DQ" rel="noopener noreferrer nofollow" target="_blank">Link to Podcast Episode on Spotify</a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WuPZqjDPlks?si=XXgGT_N7RVNnVPwq"></iframe>
+</div>
 <p></p>
