@@ -8,8 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/baa0bd37_cd99_468f_8fd7_53f6da37632d.jpg">
 </div>
-<p><strong><u>Story Behind the Design of the Logo</u></strong>
-</p>
+<h4><strong>Story Behind the Design of the Logo</strong></h4>
 <p>The logo represents the <strong><em>P</em></strong><em>ESTA </em><strong><em>O</em></strong><em>pen </em><strong><em>We</em></strong><em>b </em><strong><em>R</em></strong><em>esources</em> (<strong><em>POWeR</em></strong>),
 a dedicated website for Physical Education (PE) teachers. This platform
 offers a rich repository of resources to encourage teachers to become self-directed
