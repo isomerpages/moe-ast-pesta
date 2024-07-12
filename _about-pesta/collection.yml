@@ -2,7 +2,6 @@ collections:
   about-pesta:
     output: true
     order:
-      - Story behind our POWeR Logo.md
       - Principal's Message.md
       - Our Logo.md
       - Our Vision, Mission, Motto and Philosophy.md
