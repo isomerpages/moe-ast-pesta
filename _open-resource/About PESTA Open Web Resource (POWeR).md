@@ -4,8 +4,6 @@ permalink: /aboutpower/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Power banner" src="/images/baa0bd37_cd99_468f_8fd7_53f6da37632d.jpg">
 </div>
