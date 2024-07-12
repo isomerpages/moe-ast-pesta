@@ -2,6 +2,7 @@ collections:
   open-resource:
     output: true
     order:
+      - Story behind our POWeR Logo.md
       - About PESTA Open Web Resource (POWeR).md
       - Skills Future for Educators (SFEd) Workshop Resources.md
       - 21st Century Competencies.md
