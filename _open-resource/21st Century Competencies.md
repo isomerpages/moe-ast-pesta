@@ -6,12 +6,20 @@ description: ""
 ---
 <h1>Resources for Developing 21CC in PE</h1>
 <hr>
-<p>These videos show suggested approaches in infusing 21CC in PE. The goal
-is to offer an approach in enacting and facilitating the learning process
-through the use of affective layering. The activities and thus, the facilitation
-process, may or may not be enacted in totality during a typical PE lesson.
-Teachers are encouraged to exercise discretion in applying the strategies,
-and in maintaining the physicality of PE lessons.</p>
+<p>The 21st Century Competencies (21CC) curriculum is designed to equip students
+with the essential skills and values needed to thrive in a rapidly changing
+world. These videos illustrate possible methods for integrating 21CC into
+PE lessons, emphasising affective layering to enrich the learning experience.
+By focusing on planned tasks that foster these competencies, teachers can
+adapt and apply these strategies in a way that aligns with the outcomes
+of the 2024 PE Syllabus while also maintaining the physical nature of PE
+and ensuring a balanced and engaging approach.</p>
+<p>The activities and the facilitation process, may or may not be enacted
+in totality during a typical PE lesson. Teachers are encouraged to exercise
+discretion in applying the strategies and integrate them where appropriate,
+based on student profile, lesson outcomes and objectives. The video entitled
+'Facilitating 21CC with the 5Es' gives an overview on the facilitation
+process, which are applied in the rest of the videos.</p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
