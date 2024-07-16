@@ -17,6 +17,8 @@ discussions with experienced PE teachers and experts, covering a range
 of topics from innovative pedagogical approaches to the latest trends in
 physical education. Each episode aims to inspire, educate, and provide
 practical tips for educators.</p>
+<p><a href="https://open.spotify.com/show/6ZouNEP1A91eMGfVP3NdLa?si=83671f3bae4648de" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to all episodes on Spotify</a>
+</p>
 <hr>
 <h4><strong>21st Century Competencies in Physical Education</strong></h4>
 <p>This episode of 'Team Talk' features Principal Master Teacher Hanif, Master
