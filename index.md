@@ -27,6 +27,7 @@ sections:
       button: Click here!
       url: /teachers-conference-and-excel-fest-2025-tcef2025/
       image: /images/TCEF.png
+      alt: TCEF2025
   - infopic:
       title: Professional Learning Fiesta 2024
       id: infopic
