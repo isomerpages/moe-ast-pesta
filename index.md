@@ -21,10 +21,8 @@ sections:
   - infopic:
       title: Professional Learning Fiesta 2024
       id: infopic
-      description: |-
-        Save the Date!  26th August 2024 to 19th September 2024!
-
-        Registration is Open for PRESENTERS!
+      description: Save the Date!  26th August 2024 to 19th September
+        2024!  Registration is Open for PRESENTERS!
       button: CLICK HERE!
       url: /professional-learning-fiesta-2024/
       image: /images/PLF_Banner_edited.jpg
@@ -41,12 +39,9 @@ sections:
       alt: TL Symposium
   - infopic:
       title: 2024 Workshops for PE and Sports CCA Teachers
-      description: >-
-        Looking for workshops to enhance your professional learning? We have an
-        array of workshops designed for you! 
-
-
-        By PE teachers. For PE teachers.
+      description: Looking for workshops to enhance your professional learning? We
+        have an array of workshops designed for you!   By PE teachers. For PE
+        teachers.
       button: Please click on this link to find out more!
       url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
       image: /images/PL_Calendar_2024d.png
@@ -75,4 +70,13 @@ sections:
       image: /images/tcef2023.jpg
       alt: PESTA TCEF 2023 Resource
       description: Looking to access PESTA 2023 TCEF resources?
+  - infopic:
+      title: Teachers’ Conference and ExCEL Fest 2025 (TCEF2025)
+      id: infopic
+      description: The deadline for proposal submission for TCEF2025 has been extended
+        to 14th August. Seize this opportunity and showcase your school's
+        initiatives!
+      button: Click here!
+      url: /teachers-conference-and-excel-fest-2025-tcef2025/
+      image: /images/TCEF.png
 ---
