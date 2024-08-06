@@ -16,12 +16,12 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 <p>You may access more information regarding SFEd from the links below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/skillsfuture-for-educators/overview/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers' webpage on SFEd</a>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/skillsfuture-for-educators/overview/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers' webpage on SFEd</a>
 </p>
 </li>
 </ul>
 <hr>
-<h4>The following are materials from selected SFEd workshops run by PESTA. The materials have been curated for open resources sharing. </h4>
+<h4>The following materials are curated from selected SFEd workshops run by PESTA for open resources sharing.</h4>
 <p><strong>Click on the drop down arrow to access the resources.</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -96,4 +96,5 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>For more information, contact <a href="moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>moe_pesta@moe.gov.sg</u></a>
+</p>
