@@ -4,7 +4,26 @@ permalink: /sfed-workshop-resources/
 variant: tiptap
 description: ""
 ---
-<p>Click on the drop down arrow to access the resources.</p>
+<p>SkillsFuture for Educators (SFEd) was announced at the MOE Committee of
+Supply 2020 under the Learn for Life movement . It is an initiative to
+improve teachers’ competencies and encourage lifelong learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OYK_Quote.png">
+</div>
+<p><strong>By Ong Ye Kung, Former Minister for Education, 4 March 2020.</strong>
+</p>
+<hr>
+<p>You may access more information regarding SFEd from the links below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p> <a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/skillsfuture-for-educators/overview/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers' webpage on SFEd</a>
+</p>
+</li>
+</ul>
+<hr>
+<h4>The following are materials from selected SFEd workshops run by PESTA. The materials have been curated for open resources sharing. </h4>
+<p><strong>Click on the drop down arrow to access the resources.</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Character and Citizenship Education</summary>
