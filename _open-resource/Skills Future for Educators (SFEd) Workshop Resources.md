@@ -96,5 +96,5 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 </div>
 </details>
 </div>
-<p>For more information, contact <a href="moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>moe_pesta@moe.gov.sg</u></a>
+<p>For more information, contact <a href="mailto:moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_pesta@moe.gov.sg</a>
 </p>
