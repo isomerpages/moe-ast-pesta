@@ -13,7 +13,7 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 <p><strong>By Ong Ye Kung, Former Minister for Education, 4 March 2020.</strong>
 </p>
 <hr>
-<p>You may access more information regarding SFEd from the links below:</p>
+<p>You may access more information regarding SFEd from the link below:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/skillsfuture-for-educators/overview/" rel="noopener noreferrer nofollow" target="_blank">Academy of Singapore Teachers' webpage on SFEd</a>
@@ -21,7 +21,7 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 </li>
 </ul>
 <hr>
-<h4>The following materials are curated from selected SFEd workshops run by PESTA for open resources sharing.</h4>
+<h4>The following materials are curated from selected SFEd workshops run by PESTA.</h4>
 <p><strong>Click on the drop down arrow to access the resources.</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -96,5 +96,12 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 </div>
 </details>
 </div>
-<p>For more information, contact <a href="mailto:moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_pesta@moe.gov.sg</a>
+<p>You may access more information regarding our workshops from the link
+below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://pesta.moe.edu.sg/pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/" rel="noopener noreferrer nofollow" target="_blank">Workshops (for PE &amp; Sports CCA Teachers)</a>
 </p>
+</li>
+</ul>
+<p></p>
