@@ -1,8 +1,9 @@
 ---
-title: Informal Professional Learning
-permalink: /informal-professional-learning/
+title: PESTA Podcast Series
+permalink: /pesta-podcast-series/
 variant: tiptap
 description: ""
+third_nav_title: Informal Professional Learning
 ---
 <h1>PESTA Podcast Series</h1>
 <p></p>
