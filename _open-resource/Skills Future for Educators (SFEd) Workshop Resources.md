@@ -67,7 +67,7 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Coming soon!</em>
+<p><a href="https://drive.google.com/file/d/1ugb7sqvtBjpSd7DQj2K7PB6ZoMQXW8QH/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Inclusive PE for Mainstream Schools (All Levels)</a>
 </p>
 </li>
 </ul>
