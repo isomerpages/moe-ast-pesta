@@ -2,6 +2,7 @@ collections:
   open-resource:
     output: true
     order:
+      - Informal Professional Learning/.keep
       - About PESTA Open Web Resource (POWeR).md
       - Story Behind Our POWeR Logo.md
       - Skills Future for Educators (SFEd) Workshop Resources.md
