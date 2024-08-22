@@ -67,18 +67,7 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Coming soon!</em>
-</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Assessment Literacy</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Coming soon!</em>
+<p><a href="https://drive.google.com/file/d/1ugb7sqvtBjpSd7DQj2K7PB6ZoMQXW8QH/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Inclusive PE for Mainstream Schools (All Levels)</a>
 </p>
 </li>
 </ul>
@@ -86,6 +75,17 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 </details>
 <details class="isomer-details">
 <summary>Differentiated Instructions</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/1ghFKxgpxlBcXx0jAn7Y30P0JbwB85EJu/view?usp=sharing" rel="noopener nofollow" target="_blank">Teaching of Striking-Fielding Games the Differentiated Way</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Assessment Literacy</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
