@@ -74,18 +74,18 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Assessment Literacy</summary>
+<summary>Differentiated Instructions</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Coming soon!</em>
+<p><a href="https://drive.google.com/file/d/1ghFKxgpxlBcXx0jAn7Y30P0JbwB85EJu/view?usp=sharing" rel="noopener nofollow" target="_blank">Teaching of Striking-Fielding Games the Differentiated Way</a>
 </p>
 </li>
 </ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Differentiated Instructions</summary>
+<summary>Assessment Literacy</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
