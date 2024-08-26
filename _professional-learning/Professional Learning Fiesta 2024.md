@@ -11,7 +11,7 @@ PLF provides a platform for teachers to share and connect. We value the
 wisdom of teachers and encourage teachers to step forward to present and
 sign up to learn from one another.&nbsp;</p>
 <p>Save the Date! 26th August 2024 to 20th September 2024!</p>
-<p>Registration is <strong>open</strong> for participants, visit the <a href="https://sites.google.com/moe.edu.sg/plf2024/home" rel="noopener noreferrer nofollow" target="_blank">PLF2024</a> site
+<p>Visit the <a href="https://sites.google.com/moe.edu.sg/plf2024/home" rel="noopener noreferrer nofollow" target="_blank">PLF2024</a> site
 for more information!</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/plf2024/home"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLF_Banner_edited.jpg"></a>
