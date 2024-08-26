@@ -19,16 +19,6 @@ sections:
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
       background: /images/picture_11.png
   - infopic:
-      title: Teachers’ Conference and ExCEL Fest 2025 (TCEF2025)
-      id: infopic
-      description: The deadline for proposal submission for TCEF2025 has been extended
-        to 14th Aug 2024. Seize this opportunity and showcase your school's
-        initiatives!
-      button: Click here!
-      url: /teachers-conference-and-excel-fest-2025-tcef2025/
-      image: /images/TCEF.png
-      alt: TCEF2025
-  - infopic:
       title: Professional Learning Fiesta 2024
       id: infopic
       description: Save the Date!  26th August 2024 to 19th September
@@ -73,11 +63,4 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
-  - infopic:
-      title: PESTA TCEF 2023 Resource
-      button: Click here!
-      url: https://sites.google.com/moe.edu.sg/tcef2023pestaposterinfomations/home
-      image: /images/tcef2023.jpg
-      alt: PESTA TCEF 2023 Resource
-      description: Looking to access PESTA 2023 TCEF resources?
 ---
