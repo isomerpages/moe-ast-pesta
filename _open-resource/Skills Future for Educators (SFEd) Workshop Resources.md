@@ -89,7 +89,11 @@ improve teachers’ competencies and encourage lifelong learning.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Coming soon!</em>
+<p><a href="https://drive.google.com/file/d/1VNXcJdEJuxbUvAfKetu9fp-q1Gu5jj8b/view?usp=sharing" rel="noopener nofollow" target="_blank">Formative Assessment to Support the Teaching of PE</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1Ig2Yceu4mT2T8g8_lgaHDd4-oO6oK797/view?usp=sharing" rel="noopener nofollow" target="_blank">Supporting Diverse Learners Using Formative Assessment in PE</a>
 </p>
 </li>
 </ul>
