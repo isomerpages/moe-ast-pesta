@@ -19,7 +19,7 @@ energetic figure of a running man.</p>
 </p>
 <p>The gradient of colours in the logo, ranging from shades of red and orange
 to yellow, holds significant meaning:</p>
-<p>Red: Symbolizes energy, passion, and action, reflecting the dynamic and
+<p>Red: Symbolises energy, passion, and action, reflecting the dynamic and
 active nature of physical education.</p>
 <p>Orange: Represents enthusiasm, creativity, and determination, qualities
 essential for PE teachers as they inspire and engage their students.</p>
@@ -38,7 +38,7 @@ and knowledge.</p>
 visual element that exemplifies the spirit of an Academy that is progressive,
 vibrant and passionate; expressing the aspirations and dreams of the fraternity.</p>
 <p>Movement and Speed: The running man embodies the physical activity central
-to PE, emphasizing the importance of staying active and healthy.</p>
+to PE, emphasising the importance of staying active and healthy.</p>
 <p>Determination and Perseverance: The posture of the running man reflects
 determination and perseverance, key traits for both educators and their
 students in pursuing excellence through self-directed professional learning,
