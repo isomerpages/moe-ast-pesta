@@ -69,7 +69,7 @@ Nonlinear pedagogy.</p>
 <p>This episode of 'Team Talk' features PMTT Hanif who joins MTT Nasrun and
 Academy Officer Karthik in a conversation about how he was in his schooling
 days, what made him to become a teacher, his approach to teaching and his
-journey as SG’s 1st master teacher and then principal master teacher!</p>
+journey as Singapore’s 1st master teacher and then principal master teacher!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t6MhJ9zChY0?si=aihF63aWSztqQ-08"></iframe>
 </div>
