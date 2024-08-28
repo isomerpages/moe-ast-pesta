@@ -7,6 +7,13 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Power banner" src="/images/baa0bd37_cd99_468f_8fd7_53f6da37632d.jpg">
 </div>
+<p>The<strong> P</strong>ESTA <strong>O</strong>pen <strong>We</strong>b <strong>R</strong>esource
+(POWeR)<strong> </strong>was launched by Deputy Director-General of Education
+(Professional Development), Ms Beatrice Chong, on 27 August 2024, during
+PESTA's Professional Learning Fiesta.</p>
+<p><em>"POWeR is essentially a one stop platform for our PE teachers to do self-directed professional learning. It is a repository to find many good resources such as podcast, vodcast, 21CC lesson ideas, Skills Future for Educators workshop resources."</em> -
+Ms Beatrice Chong, Dy DGE, opening address for PESTA's Professional Learning
+Fiesta.</p>
 <p>PESTA aims to enrich the global repository of knowledge by offering sound
 physical education (PE) resources, grounded in the exemplary standards
 of the Singapore education system, the Singapore Physical Education Syllabus,
