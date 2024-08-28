@@ -11,7 +11,7 @@ description: ""
 (POWeR)<strong> </strong>was launched by Deputy Director-General of Education
 (Professional Development), Ms Beatrice Chong, on 27 August 2024, during
 PESTA's Professional Learning Fiesta.</p>
-<p><em>"POWeR is essentially a one stop platform for our PE teachers to do self-directed professional learning. It is a repository to find many good resources such as podcast, vodcast, 21CC lesson ideas, Skills Future for Educators workshop resources."</em> 
+<p><em>"POWeR is essentially a one stop platform for our PE teachers to do self-directed professional learning. It is a repository to find many good resources such as podcast, vodcast, 21CC lesson ideas, Skills Future for Educators workshop resources."</em>
 </p>
 <p><em>"There will also be a global audience for POWeR. Hand on heart, PE is one of the subjects that has transformed the way it has approached its teaching and learning....Kudos to the Singapore PE teaching fraternity and there are also many things we can contribute to the global PE fraternity."</em>
 </p>
