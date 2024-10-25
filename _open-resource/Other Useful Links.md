@@ -6,7 +6,11 @@ description: ""
 ---
 <h3></h3>
 <p>The following OPAL links can only be accessed by Singapore Teachers.</p>
-<p><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=52534" rel="noopener noreferrer nofollow" target="_blank">PE Syllabus Resources in OPAL</a>
+<p><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=52534" rel="noopener noreferrer nofollow" target="_blank">PE Syllabus (Primary) Portal in OPAL</a>
+</p>
+<p><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=52547" rel="noopener nofollow" target="_blank">PE Syllabus (Secondary) Portal in OPAL</a>
+</p>
+<p><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=52565" rel="noopener nofollow" target="_blank">PE Syllabus (Pre-University) Portal in OPAL</a>
 </p>
 <p><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=951645" rel="noopener noreferrer nofollow" target="_blank">E-pedagogy Resources (by ETD)</a>
 </p>
