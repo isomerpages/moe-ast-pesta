@@ -21,6 +21,18 @@ practical tips for educators.</p>
 <p><a href="https://open.spotify.com/show/6ZouNEP1A91eMGfVP3NdLa?si=83671f3bae4648de" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to all episodes on Spotify</a>
 </p>
 <hr>
+<h4><strong>Teaching is Tough but What Keeps us Going?</strong></h4>
+<p>This episode of 'Team Talk' features PESTA Deputy Director, Eric, Master
+Teacher Nasrun and Academy Officer Francis. They share about their personal
+journey in teaching and what keeps their passion burning. If you're feeling
+down and burned out, the stories shared by our PESTA officers may get you
+to think about your own stories to keep your passion alive.</p>
+<p><a href="https://open.spotify.com/episode/3TGZE5NAkIlGtU2lPzOrOh?si=lFGw4q7JR6uMTvb3Txse3w" rel="noopener nofollow" target="_blank">Link to Podcast Episode on Spotify</a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_d6qpdIJot8?si=0FRLhhY-oPTxSaPn"></iframe>
+</div>
+<hr>
 <h4><strong>21st Century Competencies in Physical Education</strong></h4>
 <p>This episode of 'Team Talk' features Principal Master Teacher Hanif, Master
 Teacher Nasrun and Lead Teachers Fazlin and Sherlyn. They share about their
