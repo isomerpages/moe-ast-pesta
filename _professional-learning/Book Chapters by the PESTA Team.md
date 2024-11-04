@@ -301,8 +301,11 @@ and referenced across the five levels of the taxonomy. TPSR (Teaching Personal
 and Social Responsibility) Alliance. Expanding on Hellison’s TPSR (Teaching
 Personal and Social Responsibility) model, the website offers a platform
 for sharing resources, ideas and strategies for utilising physical education,
-sports and exercise as vehicles for teaching youths to be more responsible.</p><pre><code>&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</code></pre>
+sports and exercise as vehicles for teaching youths to be more responsible.</p>
 </li>
+</ul>
+<p></p>
+<ul>
 <li>
 <p>Chapter 9: You as the Teacher: Teacher Identity and How it Relates to
 Your Philosophy of Teaching by Mr Teng Tse Sheng</p>
@@ -403,16 +406,17 @@ cognitive and affective learning outcomes.</p>
 </ul>
 <p>Mosston, M. and Ashworth, S. (2008_) Teaching Physical Education_&nbsp;(6th
 edn; First Online Edition). Spectrum Institute for Teaching and Learning,
-viewed 21 May 2021.</p>
+viewed 21 May 2021 <a href="https://spectrumofteachingstyles.org/index.php?id=16" rel="noopener nofollow" target="_blank">https://spectrumofteachingstyles.org/index.php?id=16</a>.</p>
 <p>The development of the Spectrum and each teaching style are described
 in detail in this book.</p>
 <p></p>
 </li>
-</ul><pre><code> &lt;li&gt;
-&lt;input type="checkbox" id="accordion15"&gt;
-&lt;label for="accordion15"&gt;&lt;h4&gt;Chapter 11: Enhancing Physical Education Using Digital Technologies by Mr Jason Zhuo Gensheng and Mr Goh Ming Ming Kelvin&lt;/h4&gt;&lt;/label&gt;
-&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;Further Resources&lt;/strong&gt;&lt;/p&gt;</code></pre>
+</ul>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>
 <p>Casey, A., Goodyear, V.A. and Armour, K.M. (eds.) (2016)&nbsp;<em>Digital Technologies and Learning in Physical Education: Pedagogical Cases</em>,
 Abingdon: Routledge.</p>
 <ul data-tight="true" class="tight">
@@ -562,7 +566,8 @@ teachers.</p>
 </li>
 </ul>
 <p>Centre for the Use of Research and Evidence in Education (2014). National
-framework for mentoring and coaching.&nbsp;<a href="http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf" rel="noopener noreferrer nofollow" target="_blank">http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf</a>&nbsp;&nbsp;</p>
+framework for mentoring and coaching.&nbsp;<a href="http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf" rel="noopener nofollow" target="_blank">http://www.curee.co.uk/files/publication/1219925968/National-framework-for-mentoring-and-coaching.pdf</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>This article presented ten principles, based on evidence from research
@@ -749,7 +754,7 @@ Development in Physical Education by Mr Mark Chan and Mr Kiran Kumar Gomez</p>
 <p><strong>Further Resources</strong>
 </p>
 <p>Hanover Research (2017)&nbsp;Best Practices in Professional Development,
-viewed 21 June 2021.</p><pre><code>This report looks at best practice literature on effective CPD. It includes delivery modes, engagement strategies and evaluation practices. It also presents how three school districts in the United States of America implement best practices, informed by research, in CPD.&lt;/div&gt;&lt;/li&gt;</code></pre>
+viewed 21 June 2021, <a href="https://www.studocu.com/ph/document/systems-plus-college-foundation/humanities-and-social-sciences/best-practices-in-professional-development/43996420" rel="noopener nofollow" target="_blank">https://www.studocu.com/ph/document/systems-plus-college-foundation/humanities-and-social-sciences/best-practices-in-professional-development/43996420</a>.</p><pre><code>This report looks at best practice literature on effective CPD. It includes delivery modes, engagement strategies and evaluation practices. It also presents how three school districts in the United States of America implement best practices, informed by research, in CPD.&lt;/div&gt;&lt;/li&gt;</code></pre>
 <p>DuFour, R., DuFour, R., Eaker, R.E., Mattos, M.A. and Muhammad, A. (2021)&nbsp;<em>Revisiting Professional Learning Communities at Work: Proven Insights for Sustained, Substantive School Improvement</em>&nbsp;(2nd
 edn), Bloomington, IN: Solution Tree Press.</p>
 <ul data-tight="true" class="tight">
