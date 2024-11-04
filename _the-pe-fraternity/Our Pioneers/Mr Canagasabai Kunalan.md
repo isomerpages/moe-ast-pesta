@@ -3,6 +3,7 @@ title: Mr Canagasabai Kunalan
 permalink: /pesta/be-connected-with-the-fraternity/our-pioneers/mr-canagasabai-kunalan/
 description: ""
 third_nav_title: Our Pioneers
+variant: markdown
 ---
 <style>  
 img {  
@@ -11,9 +12,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic-0-(3).jpeg" alt="Mr Canagasabai Kunalan" style="width:75%;">  
+<img src="/images/pic-0-(3).jpeg" alt="Mr Canagasabai Kunalan" style="width:75%;">  
 	
-</body>
+
  
 <p style="text-align:center;"><em>'My spirit is willing – so my flesh keeps trying’</em><br>Mr C. Kunalan<br>Teacher/ Athlete/ Mentor</p>
 
@@ -35,9 +36,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic-2.jpeg" alt="Cross Country Race for DSTS athletes" style="width:75%;">  
+<img src="/images/pic-2.jpeg" alt="Cross Country Race for DSTS athletes" style="width:75%;">  
   
-</body>  
+  
 
 <p style="text-align:center;">Cross Country Race for DSTS athletes</p>
 
@@ -52,9 +53,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic-3.jpeg" alt="Annual BBQ with DSTS Athletes" style="width:75%;">  
+<img src="/images/pic-3.jpeg" alt="Annual BBQ with DSTS Athletes" style="width:75%;">  
   
-</body>
+
 
 <p style="text-align:center;">Annual BBQ with DSTS Athletes</p>
 
@@ -69,9 +70,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic-4.jpeg" alt="On the practice track at Kallang (Photo courtesy of SSC)" style="width:55%;">  
+<img src="/images/pic-4.jpeg" alt="On the practice track at Kallang (Photo courtesy of SSC)" style="width:55%;">  
   
-</body>
+
 
 <p style="text-align:center;">On the practice track at Kallang (Photo courtesy of SSC)</p>
 
@@ -84,9 +85,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic-5-1.jpeg" alt="1961/62 Teachers’ Union Soccer Team" style="width:75%;">  
+<img src="/images/pic-5-1.jpeg" alt="1961/62 Teachers’ Union Soccer Team" style="width:75%;">  
   
-</body>
+
 
 <p style="text-align:center;">1961/62 Teachers’ Union Soccer Team</p>
 
@@ -105,9 +106,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic-6.jpeg" alt="Racing against the 1968 Olympic silver medallist" style="width:75%;">  
+<img src="/images/pic-6.jpeg" alt="Racing against the 1968 Olympic silver medallist" style="width:75%;">  
   
-</body>
+
 
 <p style="text-align:center;">Racing against the 1968 Olympic silver medallist</p>
 
@@ -123,9 +124,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic-7.jpeg" alt="2009 YOG Torch Bearer" style="width:50%;">  
+<img src="/images/pic-7.jpeg" alt="2009 YOG Torch Bearer" style="width:50%;">  
   
-</body>
+
 
 <p style="text-align:center;">2009 YOG Torch Bearer</p>
 
@@ -144,13 +145,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pic-8.jpeg" alt="Embracing Mr K in Cedar Primary School" style="width:75%;">  
+<img src="/images/pic-8.jpeg" alt="Embracing Mr K in Cedar Primary School" style="width:75%;">  
   
-</body>
+
 
 <p style="text-align:center;">Embracing Mr K in Cedar Primary School</p>
 
-In 2012, my school designed an exercise programme (Go for H3) in conjunction with the London Olympics. When I sought Mr K’s help to encourage and motivate my students to participate in the programme, his immediate response was “Sure, not a problem. Let me know the date, time and details.”  He shared his Olympic journey with my students in a personal and light-hearted way. For someone who has achieved so much for Singapore sports, Mr K is incredibly humble. He does not boast about his achievements and always emphasises the importance of hard work as well as heart work, that is to genuinely care for the students unconditionally.
+In 2012, my school designed an exercise programme (Go for H3) in conjunction with the London Olympics. When I sought Mr K’s help to encourage and motivate my students to participate in the programme, his immediate response was “Sure, not a problem. Let me know the date, time and details.”&nbsp; He shared his Olympic journey with my students in a personal and light-hearted way. For someone who has achieved so much for Singapore sports, Mr K is incredibly humble. He does not boast about his achievements and always emphasises the importance of hard work as well as heart work, that is to genuinely care for the students unconditionally.
 
 <u>Ms Eng Li Li, Programme Manager, PESTA</u>
 
@@ -161,10 +162,7 @@ In his quiet and nurturing manner, Mr K also patiently explained to me the varia
 References
 ----------
 
-The Dads for Life Resource Team. (2012). C. Kunalan: Track Legend, Father of Three. Retrieved July 10, 2013, from [http://dadsforlife.sg/dads-stories/c-kunalan-track-legend-father-of-three](http://dadsforlife.sg/dads-stories/c-kunalan-track-legend-father-of-three)
-
-C Kunalan. (2013). Retrieved July 10, 2013, from https://en.wikipedia.org/wiki/ C\_Kunalan
+C Kunalan. (2013). Retrieved July 10, 2013,&nbsp;from&nbsp;https://en.wikipedia.org/wiki/ C\_Kunalan
 
 C Kunalan, Athletics. (2007). Retrieved July 10, 2013, from http://www.sports museum.com.sg/heroes/hall\_of\_fame/c\_kunalan.html
 
-Lim, Marc. (2004). A Tribute to the Fastest Man in 100m for 33 Years. Retrieved July 10, 2013, from [http://www.dunearntech.com/ckunalan.htm](http://www.dunearntech.com/ckunalan.htm)
