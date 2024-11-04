@@ -166,4 +166,4 @@ C Kunalan. (2013). Retrieved July 10, 2013,&nbsp;from&nbsp;https://en.wikipedia.
 
 C Kunalan, Athletics. (2007). Retrieved July 10, 2013, from http://www.sports museum.com.sg/heroes/hall\_of\_fame/c\_kunalan.html
 
-Lim, Marc. (2004). A Tribute to the Fastest Man in 100m for 33 Years.&nbsp;Retrieved July 10, 2013, from&nbsp;[http://www.dunearntech.com/ckunalan.htm](http://www.dunearntech.com/ckunalan.htm)
+Lim, Marc. (2004). A Tribute to the Fastest Man in 100m for 33 Years.&nbsp;Retrieved July 10, 2013, from [https://www.oocities.org/dunearntech/ckunalan.htm](https://www.oocities.org/dunearntech/ckunalan.htm)
