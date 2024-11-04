@@ -152,13 +152,11 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <p>Krathwohl, D. (2002) ‘A revision of Bloom's taxonomy: An overview’,&nbsp;<em>Theory into Practice,</em>&nbsp;41, 212-218; and</p>
 <p>Krathwohl, D., Bloom, B. and Masia, B. (1964)&nbsp;<em>Taxonomy of Educational Objectives: Handbook II. Affective Domain</em>, New York, NY: McKay.</p>
 <ul>
-<li>Krathwohl’s taxonomy can be used as a frame to formatively assess students as you facilitate the development of SEC. Student behaviours can be observed and referenced across the five levels of the taxonomy.</li>
-</ul>
-<p>TPSR (Teaching Personal and Social Responsibility) Alliance, viewed 27 July 2021, <a href="https://www.tpsr-alliance.org">https://www.tpsr-alliance.org</a></p>
-<ul>
-<li>Expanding on Hellison’s TPSR (Teaching Personal and Social Responsibility) model, the website offers a platform for sharing resources, ideas and strategies for utilising physical education, sports and exercise as vehicles for teaching youths to be more responsible.</li>
-</ul>
-    </div>
+<li>Krathwohl’s taxonomy can be used as a frame to formatively assess students as you facilitate the development of SEC. Student behaviours can be observed and referenced across the five levels of the taxonomy.
+TPSR (Teaching Personal and Social Responsibility) Alliance.
+Expanding on Hellison’s TPSR (Teaching Personal and Social Responsibility) model, the website offers a platform for sharing resources, ideas and strategies for utilising physical education, sports and exercise as vehicles for teaching youths to be more responsible.
+
+    </li></ul></div>
   </li>
 	 <li>
     <input id="accordion13" type="checkbox">
@@ -201,10 +199,10 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>This chapter highlights how the use of the reproductive and productive clusters of the Spectrum fosters the development of the students’ competencies in psychomotor, cognitive and affective domains. The article contains some ideas on how the different styles are taught in lessons to meet psychomotor, cognitive and affective learning outcomes.</li>
 </ul>
-<p>Mosston, M. and Ashworth, S. (2008_) Teaching Physical Education_&nbsp;(6th edn; First Online Edition). Spectrum Institute for Teaching and Learning, viewed 21 May 2021,          
-[https://spectrumofteachingstyles.org/index.php?id=16](https://spectrumofteachingstyles.org/index.php?id=16)
-</p></div></li><li>The development of the Spectrum and each teaching style are described in detail in this book. 
-</li></ul>
+<p>Mosston, M. and Ashworth, S. (2008_) Teaching Physical Education_&nbsp;(6th edn; First Online Edition). Spectrum Institute for Teaching and Learning, viewed 21 May 2021.
+	
+The development of the Spectrum and each teaching style are described in detail in this book. 
+</p></div></li></ul>
     
   
 	 <li>
