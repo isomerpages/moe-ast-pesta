@@ -74,8 +74,7 @@ edn), Champaign, IL: Human Kinetics.</p>
 the developmental approach to teaching physical education for children.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>Gallahue, D.L., Ozmun, J.C., and Goodway, J.D. (2012)&nbsp;<em>Understanding Motor Development: Infants, Children, Adolescents, Adults</em>&nbsp;(7th
+<p>&nbsp;Gallahue, D.L., Ozmun, J.C., and Goodway, J.D. (2012)&nbsp;<em>Understanding Motor Development: Infants, Children, Adolescents, Adults</em>&nbsp;(7th
 edn), New York, NY: McGraw-Hill.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -468,7 +467,6 @@ education as a career, and their status within the broader international
 research literature.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Clandinin, J.D. and Connelly, M.F. (2021) Narrative Inquiry: Experience
 and Story in Qualitative Research, San Francisco: Jossey-Bass.</p>
 <ul data-tight="true" class="tight">
@@ -477,7 +475,6 @@ and Story in Qualitative Research, San Francisco: Jossey-Bass.</p>
 inquiry as a research method and as a reflective tool.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Johnson, K.E. and Golombek, P.R. (eds.) (2002) Teachers’ Narrative Inquiry
 as Professional Development, New York: Cambridge University Press.</p>
 <ul data-tight="true" class="tight">
