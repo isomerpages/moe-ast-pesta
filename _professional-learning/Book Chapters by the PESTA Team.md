@@ -2,6 +2,7 @@
 title: Book Chapters by the PESTA Team
 permalink: /pesta/professional-development/book-chapters-by-the-pesta-team/
 description: ""
+variant: markdown
 ---
 ## Continuing Professional Development (CPD) for Teaching and Learning in Physical Education
 
@@ -218,16 +219,14 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <p>Robinson, J. (2017)&nbsp;<em>Episode 100 - One Hundred Ways To Use Technology In PE - The P.E Geek.</em>&nbsp;[online] Thepegeek.com, viewed 18 January 2021,</p>
 <p><a href="https://thepegeek.com/2017/12/episode-100-one-hundred-ways-use-technology-pe/">https://thepegeek.com/2017/12/episode-100-one-hundred-ways-use-technology-pe/</a></p>
 <ul>
-<li>In this 30-minutes podcast Jarrod Robinson (PE Geek), a physical education teacher from Australia, shares 100 ways of using digital technologies in physical education. If you prefer to read a copy, you can access it at:</li>
-</ul>
-<p><a href="http://edt315.weebly.com/uploads/4/5/3/2/4532212/100_ways_to_use_technology_in_pe.pdf">http://edt315.weebly.com/uploads/4/5/3/2/4532212/100_ways_to_use_technology_in_pe.pdf</a></p>
+
 <p>You can also explore his website for more resources:&nbsp;<a href="https://thepegeek.com/">https://thepegeek.com/</a></p>
 <p>If you are on Twitter, you can find him via the handle @mrrobbo where he tweets about resources, ideas, webinars and training courses.</p>
 <p>Support REAL Teachers.org. (n.d.)&nbsp;<em>Technology In Physical Education</em>&nbsp;[online], viewed 27 January 2021, <a href="https://www.supportrealteachers.org/technology-in-physical-education.html">https://www.supportrealteachers.org/technology-in-physical-education.html</a></p>
 <ul>
 <li>This website contains a large repository of resources and articles on effective integration of digital technology in physical education lessons. The organisation was founded in 1998 by Dr. Cathrine Himberg and consists of teachers, parents, school administrators and other stakeholders concerned about quality physical education delivered. You can also find relevant resources for professional development to enhance the overall quality of your physical education lessons.</li>
 </ul>
-    </div>
+    </ul></div>
 	</li>  
   <li>
     <input id="accordion16" type="checkbox">
