@@ -201,12 +201,12 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>This chapter highlights how the use of the reproductive and productive clusters of the Spectrum fosters the development of the students’ competencies in psychomotor, cognitive and affective domains. The article contains some ideas on how the different styles are taught in lessons to meet psychomotor, cognitive and affective learning outcomes.</li>
 </ul>
-<p>Mosston, M. and Ashworth, S. (2008_) Teaching Physical Education_&nbsp;(6th edn; First Online Edition). Spectrum Institute for Teaching and Learning, viewed 21 May 2021, <a href="http://www.spectrumofteachingstyles.org/e-book-download.php">http://www.spectrumofteachingstyles.org/e-book-download.php</a></p>
-<ul>
-<li>The development of the Spectrum and each teaching style are described in detail in this book. A free online book is available on the web link.</li>
-</ul>
-    </div>
-  </li>
+<p>Mosston, M. and Ashworth, S. (2008_) Teaching Physical Education_&nbsp;(6th edn; First Online Edition). Spectrum Institute for Teaching and Learning, viewed 21 May 2021,          
+[https://spectrumofteachingstyles.org/index.php?id=16](https://spectrumofteachingstyles.org/index.php?id=16)
+</p></div></li><li>The development of the Spectrum and each teaching style are described in detail in this book. 
+</li></ul>
+    
+  
 	 <li>
     <input id="accordion15" type="checkbox">
     <label for="accordion15"><h4>Chapter 11: Enhancing Physical Education Using Digital Technologies by Mr Jason Zhuo Gensheng and Mr Goh Ming Ming Kelvin</h4></label>
@@ -413,4 +413,3 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 </ul>
     </div>
   </li>
-</ul>
