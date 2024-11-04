@@ -368,10 +368,10 @@ Below is a resource list for readers to gain more perspectives for the respectiv
     <label for="accordion19"><h4>Chapter 15: Leading and Managing for Effective Continuing Professional Development in Physical Education by Mr Mark Chan and Mr Kiran Kumar Gomez</h4></label>
     <div>
     <p><strong>Further Resources</strong></p>
-<p>Hanover Research (2017)&nbsp;<em>Best Practices in Professional Development</em>, viewed 21 June 2021,<br><a href="https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf">https://www.antiochschools.net/cms/lib/CA02209771/Centricity/domain/43/curriculum-and-instruction/Best%20Practices%20in%20Professional%20Development.CPDf</a></p>
-<ul>
-<li>This report looks at best practice literature on effective CPD. It includes delivery modes, engagement strategies and evaluation practices. It also presents how three school districts in the United States of America implement best practices, informed by research, in CPD.</li>
-</ul>
+Hanover Research (2017)&nbsp;Best Practices in Professional Development, viewed 21 June 2021.
+
+	This report looks at best practice literature on effective CPD. It includes delivery modes, engagement strategies and evaluation practices. It also presents how three school districts in the United States of America implement best practices, informed by research, in CPD.</div></li>
+
 <p>DuFour, R., DuFour, R., Eaker, R.E., Mattos, M.A. and Muhammad, A. (2021)&nbsp;<em>Revisiting Professional Learning Communities at Work: Proven Insights for Sustained, Substantive School Improvement</em>&nbsp;(2nd edn), Bloomington, IN: Solution Tree Press.  </p>
 <ul>
 <li>This book shares insights and perspectives in managing professional learning communities (PLCs) for sustained improvements that translate into positive student learning. It should be particularly interesting for readers who have prior experience in leading and managing PLCs.</li>
@@ -380,8 +380,8 @@ Below is a resource list for readers to gain more perspectives for the respectiv
 <ul>
 <li>This website details how PLCs can be led and managed in the Singapore context. Most Singapore schools have come on board to practice PLCs as a means of facilitating continual CPD, build teachers’ capacity and enhance student learning.</li>
 </ul>
-    </div>
-	</li>  
+    
+	  
   <li>
     <input id="accordion20" type="checkbox">
     <label for="accordion20"><h4>Chapter 16: Continuing Professional Development (CPD): Supporting the Delivery of Quality Teaching in Physical Education by Ms Wendy Koh</h4></label>
