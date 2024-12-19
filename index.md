@@ -19,10 +19,20 @@ sections:
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
       background: /images/picture_11.png
   - infopic:
+      title: 2025 Workshops for PE and Sports CCA Teachers
+      description: Looking for workshops to enhance your professional learning? We
+        have an array of workshops designed for you!   By PE teachers. For PE
+        teachers.
+      button: Please click on this link to find out more!
+      url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
+      image: /images/PL_Calendar_2025_Screenshot.png
+      alt: Workshops for PE teachers
+  - infopic:
       title: Professional Learning Fiesta 2024
       id: infopic
-      description: Save the Date!  26th August 2024 to 19th September
-        2024!  Registration is Open for PRESENTERS!
+      description: Held biennially, Professional Learning Fiesta is a platform for
+        teachers to share and connect.  Visit the PLF2024 site for more
+        information!
       button: CLICK HERE!
       url: /professional-learning-fiesta-2024/
       image: /images/PLF_Banner_edited.jpg
@@ -37,15 +47,6 @@ sections:
       url: /teacher-leaders-tl-symposium/
       image: /images/TL_Sympo.png
       alt: TL Symposium
-  - infopic:
-      title: 2024 Workshops for PE and Sports CCA Teachers
-      description: Looking for workshops to enhance your professional learning? We
-        have an array of workshops designed for you!   By PE teachers. For PE
-        teachers.
-      button: Please click on this link to find out more!
-      url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
-      image: /images/PL_Calendar_2024d.png
-      alt: Workshops for PE teachers
   - infopic:
       title: Physical Education Knowledgeable Others (PEKO)
       description: In 2022, PESTA introduced Physical Education Knowledgeable Others
