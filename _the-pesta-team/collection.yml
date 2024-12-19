@@ -2,7 +2,6 @@ collections:
   the-pesta-team:
     output: true
     order:
-      - Archive.md
       - PESTA Leadership/.keep
       - PESTA Leadership/Melanie Ann Martens.md
       - PESTA Leadership/Eric Chua Puay Wee.md
