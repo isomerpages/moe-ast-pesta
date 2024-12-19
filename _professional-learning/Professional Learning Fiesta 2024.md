@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h3>Professional Learning Fiesta 2024</h3>
-<p>Professional Learning Fiesta 2024 is back! PLF seeks to affirm and celebrate
-the spirit of professional learning amongst PE teachers. Held biennially,
-PLF provides a platform for teachers to share and connect. We value the
-wisdom of teachers and encourage teachers to step forward to present and
-sign up to learn from one another.&nbsp;</p>
-<p>Save the Date! 26th August 2024 to 20th September 2024!</p>
+<p>Held biennially, Professional Learning Fiesta is a platform for teachers
+to share and connect, on top of affirming and celebrating the spirit of
+professional learning amongst PE teachers. We value the wisdom of teachers
+and encourage teachers to step forward to present and sign up to learn
+from one another.&nbsp;</p>
+<p>PF 2024 was held from 26th August to 20th September 2024!</p>
 <p>Visit the <a href="https://sites.google.com/moe.edu.sg/plf2024/home" rel="noopener noreferrer nofollow" target="_blank">PLF2024</a> site
 for more information!</p>
 <p></p>
