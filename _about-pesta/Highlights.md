@@ -7,6 +7,10 @@ variant: markdown
 #### **2024** 
 **May:**
 * PESTA hosted the TL Symposium which was attended by about 200 personnel from the PE fraternity.
+ 
+**August:**
+
+* Professional Learning Fiesta 2024, themed KaleidoscoPE 2.0 was held with over 211 presenters and 97 presentations.
 
 #### **2023** 
 **October:**

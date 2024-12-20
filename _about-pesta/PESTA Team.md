@@ -91,42 +91,31 @@ variant: tiptap
 <div class="isomer-card-link">Tan Hui Juan</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/algena-koh-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Algena_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Algena Koh</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/nur-hana-tay-bio-2022/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Hana_Website_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Karthikesan_Website_Photo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Academy Officer</div>
-<div class="isomer-card-link">Nur Hana Tay</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Karthikesan_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Academy Officer</div><div class="isomer-card-link">Karthikesan S/O Kumar</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/ng-yin-wai-amber/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Amber_Website_Photo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Academy Officer</div>
-<div class="isomer-card-link">Ng Yin Wai Amber</div>
+<div class="isomer-card-link">Karthikesan S/O Kumar</div>
 </div>
 </a>
 </div>
 <h3>Administration Team</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lead Manager" src="/images/Diana_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lead Manager</div><div class="isomer-card-link">Diana Goh Luan En</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/muhammad-hafiz-maarof-profile-bio-2021/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/merry-profile-bio-2019/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lead Manager" src="/images/Hafiz_Website_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Executive" src="/images/Merry_Website_Photo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lead Manager</div>
-<div class="isomer-card-link">Muhammad Hafiz Ma'arof</div>
+<div class="isomer-card-title">Executive</div>
+<div class="isomer-card-link">Merry Hamid</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/merry-profile-bio-2019/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Executive" src="/images/Merry_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Executive</div><div class="isomer-card-link">Merry Hamid</div></div></a>
+</a>
 </div>
 <p></p>
