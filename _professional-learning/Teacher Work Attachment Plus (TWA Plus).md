@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Teacher Work Attachment+ (TWA+)</h2>
 <p></p>
-<h4><strong>[Application Closed]</strong></h4>
+<h4><strong>[Application is Now Open]</strong></h4>
 <p>An opportunity to work with PESTA officers to learn and broaden perspectives
 so as to make learning in the classroom more relevant and authentic.</p>
 <p><strong><u>Learning Objectives</u></strong>
@@ -28,7 +28,8 @@ syllabus, and how PESTA supports learning outcomes through Professional
 Development</p>
 </li>
 </ul>
-<p>The 2024 attachment period is from Term 3 Week 1 to Term 3 Week 4.</p>
+<p>The 2025 four-weeks attachment starts from Term 3 Week 1 to Term 3 Week
+4.</p>
 <p>For more information, please visit the MOE Intranet link below:&nbsp;
 <br><a href="https://intranet.moe.gov.sg/academy/TWA/Pages" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet TWA+ Page</a>
 </p>
