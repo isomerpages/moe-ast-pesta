@@ -28,16 +28,6 @@ sections:
       image: /images/PL_Calendar_2025_Screenshot.png
       alt: Workshops for PE teachers
   - infopic:
-      title: Professional Learning Fiesta 2024
-      id: infopic
-      description: Held biennially, Professional Learning Fiesta is a platform for
-        teachers to share and connect.  Visit the PLF2024 site for more
-        information!
-      button: CLICK HERE!
-      url: /professional-learning-fiesta-2024/
-      image: /images/PLF_Banner_edited.jpg
-      alt: PLF2024
-  - infopic:
       title: Teacher Leaders (TL) Symposium
       id: infopic
       description: Our TL Core Team and Lead Teachers shared their insights on
