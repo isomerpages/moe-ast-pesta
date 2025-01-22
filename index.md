@@ -28,16 +28,6 @@ sections:
       image: /images/PL_Calendar_2025_Screenshot.png
       alt: Workshops for PE teachers
   - infopic:
-      title: Teacher Leaders (TL) Symposium
-      id: infopic
-      description: Our TL Core Team and Lead Teachers shared their insights on
-        Teaching and Learning in PE in the TL Symposium held on Thu, 2 May 2024,
-        1.30 to 6.00 p.m.
-      button: Click here for more info!
-      url: /teacher-leaders-tl-symposium/
-      image: /images/TL_Sympo.png
-      alt: TL Symposium
-  - infopic:
       title: Physical Education Knowledgeable Others (PEKO)
       description: In 2022, PESTA introduced Physical Education Knowledgeable Others
         (PEKO) to harness the strengths and expertise of the PE fraternity to
