@@ -10,6 +10,5 @@ to share and connect, on top of affirming and celebrating the spirit of
 professional learning amongst PE teachers. We value the wisdom of teachers
 and encourage teachers to step forward to present and sign up to learn
 from one another.&nbsp;</p>
-<p>PF 2024 was held from 26th August to 20th September 2024!</p>
-<p>Visit the <a href="https://sites.google.com/moe.edu.sg/plf2024/home" rel="noopener noreferrer nofollow" target="_blank">PLF2024</a> site
-for more information.</p>
+<p>PF 2024 was held from 26th August to 20th September 2024! Watch this space
+for updates about the Professional Learning Fiesta in 2026!</p>
