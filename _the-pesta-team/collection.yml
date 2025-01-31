@@ -2,7 +2,6 @@ collections:
   the-pesta-team:
     output: true
     order:
-      - PESTA Leadership/Wee Boon Nee.md
       - PESTA Leadership/.keep
       - PESTA Leadership/Melanie Ann Martens.md
       - PESTA Leadership/Eric Chua Puay Wee.md
@@ -15,6 +14,7 @@ collections:
       - PESTA Leadership/Karen Low Lai Fong.md
       - PESTA Leadership/Nasrun Bin Mizzy.md
       - PESTA Leadership/Irfan Bin Ismail.md
+      - PESTA Leadership/Wee Boon Nee.md
       - Senior Academy Officers/Mohamed Riad Bin Mohamed Padli.md
       - Senior Academy Officers/.keep
       - Senior Academy Officers/Tan Hui Chun.md
