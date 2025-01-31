@@ -8,6 +8,9 @@ third_nav_title: Senior Academy Officers
 <h4>Algena Koh (Senior Academy Officer)</h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/Algena_4_2025.jpg">
+</div>
 <p>Prior to joining PESTA, Algena has been with CHIJ Katong Convent Secondary
 for 17 years where she served as HOD Student Development. Her earlier teaching
 stint was in St Patrick’s School where she taught for 7 years.</p>
