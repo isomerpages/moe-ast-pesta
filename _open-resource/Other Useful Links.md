@@ -67,6 +67,15 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PELOT+ Blending Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/310b52de-60a8-4a82-9b55-d3ce81228649" rel="noopener nofollow" target="_blank">Introduction to PELOT+BL</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
