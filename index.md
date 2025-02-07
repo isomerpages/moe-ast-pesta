@@ -28,6 +28,17 @@ sections:
       image: /images/PL_Calendar_2025_Screenshot.png
       alt: Workshops for PE teachers
   - infopic:
+      title: PESTA Open Web Resource (POWeR)
+      subtitle: POWeR
+      id: infopic
+      description: PESTA Open Web Resource (POWeR) aims to enrich the global
+        repository of knowledge by offering sound physical education (PE)
+        resources.
+      button: GET RESOURCES!
+      url: https://pesta.moe.edu.sg/aboutpower/
+      image: /images/WhatsApp_Image_2024_07_10_at_1_26_33_PM.jpg
+      alt: Image alt text
+  - infopic:
       title: Physical Education Knowledgeable Others (PEKO)
       description: In 2022, PESTA introduced Physical Education Knowledgeable Others
         (PEKO) to harness the strengths and expertise of the PE fraternity to
