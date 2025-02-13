@@ -68,7 +68,7 @@ variant: tiptap
 </a>
 </div>
 <h3>Senior / Academy Officers<br></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Kai_Yueh_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Aw Kai Yueh</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Kai_Yueh_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer KY</div><div class="isomer-card-link">Aw Kai Yueh</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/tang-yee-fun-francis/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -76,10 +76,10 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Senior Academy Officer</div>
+<div class="isomer-card-title">Senior Academy Officer F</div>
 <div class="isomer-card-link">Francis Tang Yee Fun</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Mohammed_Ridzal_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Mohammed Ridzal Mohammed Ali</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Mohammed_Ridzal_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer Rid</div><div class="isomer-card-link">Mohammed Ridzal Mohammed Ali</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/tan-hui-chun/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -87,19 +87,31 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Senior Academy Officer</div>
+<div class="isomer-card-title">Senior Academy Officer HJ</div>
 <div class="isomer-card-link">Tan Hui Juan</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/algena-koh-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Algena_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Algena Koh</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Karthikesan_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Academy Officer K</div><div class="isomer-card-link">Karthikesan S/O Kumar</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/Senior%20Academy%20Officers/editPage/Mohamed%20Riad%20Bin%20Mohamed%20Padli.md" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Karthikesan_Website_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Mohd_Riad_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Academy Officer</div>
-<div class="isomer-card-link">Karthikesan S/O Kumar</div>
+<div class="isomer-card-title">Senior Academy Officer R</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/algena-koh-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Algena_4_2025.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer A</div><div class="isomer-card-link">Algena Koh</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/Senior%20Academy%20Officers/editPage/David%20James%20Chua.m" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Staff Photos/David_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Academy Officer D</div>
+<div class="isomer-card-link">David James Chua</div>
 </div>
 </a>
 </div>
