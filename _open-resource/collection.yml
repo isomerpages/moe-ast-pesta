@@ -2,11 +2,11 @@ collections:
   open-resource:
     output: true
     order:
-      - Warm Up Game Ideas.md
       - About PESTA Open Web Resource (POWeR).md
       - Story Behind Our POWeR Logo.md
       - Skills Future for Educators (SFEd) Workshop Resources.md
       - 21st Century Competencies.md
       - Informal Professional Learning/.keep
       - Informal Professional Learning/PESTA Podcast Series.md
+      - Warm Up Game Ideas.md
       - Other Useful Links.md
