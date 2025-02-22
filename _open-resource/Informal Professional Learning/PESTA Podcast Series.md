@@ -20,6 +20,25 @@ physical education. Each episode aims to inspire, educate, and provide
 practical tips for educators.</p>
 <p><a href="https://open.spotify.com/show/6ZouNEP1A91eMGfVP3NdLa?si=83671f3bae4648de" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to all episodes on Spotify</a>
 </p>
+<p></p>
+<h4><strong>Conversation with Professor Duarte Araujo</strong></h4>
+<p>In this episode, we talk to Professor Duarte Araújo about the Ecological
+Dynamics Approach. He is a prominent figure in the field of sport psychology
+and motor behavior. He serves as a professor at the Faculty of Human Kinetics,
+University of Lisbon, where he leads the Laboratory of Expertise in Sport
+and coordinates the Interdisciplinary Centre for the Study of Human Performance
+(CIPER). His research focuses on sport expertise, decision-making, performance
+analysis, and skill learning from an ecological dynamics perspective. He
+has published over 200 scientific papers and more than 15 books. Notably,
+Stanford University has recognized him among the top 2% of researchers
+worldwide across all fields. Beyond academia, Professor Araújo collaborates
+extensively with sports institutions globally, contributing his expertise
+to enhance athletic performance and understanding.</p>
+<p><a href="https://open.spotify.com/episode/3TGZE5NAkIlGtU2lPzOrOh?si=lFGw4q7JR6uMTvb3Txse3w" rel="noopener nofollow" target="_blank">Link to Podcast Episode on Spotify</a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t_vAYzBpWc8?si=_OuKmbGcP8UOUkdb"></iframe>
+</div>
 <hr>
 <h4><strong>Teaching is Tough but What Keeps us Going?</strong></h4>
 <p>This episode of 'Team Talk' features PESTA Deputy Director, Eric, Master
