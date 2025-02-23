@@ -51,7 +51,4 @@ Watch this page for a list of updates.</p>
 </tbody>
 </table>
 <h4></h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YQVsiT2PIhA?si=AcjM8e_PW1f1F9Kl"></iframe>
-</div>
 <p></p>
