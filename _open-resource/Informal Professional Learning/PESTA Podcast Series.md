@@ -34,7 +34,7 @@ Stanford University has recognized him among the top 2% of researchers
 worldwide across all fields. Beyond academia, Professor Araújo collaborates
 extensively with sports institutions globally, contributing his expertise
 to enhance athletic performance and understanding.</p>
-<p><a href="https://open.spotify.com/episode/3TGZE5NAkIlGtU2lPzOrOh?si=lFGw4q7JR6uMTvb3Txse3w" rel="noopener nofollow" target="_blank">Link to Podcast Episode on Spotify</a>
+<p><a href="https://open.spotify.com/episode/1TMuqpGCjtgyATVRIRUPG0?si=10e4aa67e7254344" rel="noopener nofollow" target="_blank">Link to Podcast Episode on Spotify</a>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t_vAYzBpWc8?si=_OuKmbGcP8UOUkdb"></iframe>
