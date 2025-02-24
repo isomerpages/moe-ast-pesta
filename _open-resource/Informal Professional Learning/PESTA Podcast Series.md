@@ -20,11 +20,11 @@ physical education. Each episode aims to inspire, educate, and provide
 practical tips for educators.</p>
 <p><a href="https://open.spotify.com/show/6ZouNEP1A91eMGfVP3NdLa?si=83671f3bae4648de" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to all episodes on Spotify</a>
 </p>
-<p></p>
+<hr>
 <h4><strong>Conversation with Professor Duarte Araujo</strong></h4>
 <p>In this episode, we talk to Professor Duarte Araújo about the Ecological
 Dynamics Approach. He is a prominent figure in the field of sport psychology
-and motor behavior. He serves as a professor at the Faculty of Human Kinetics,
+and motor behaviour. He serves as a professor at the Faculty of Human Kinetics,
 University of Lisbon, where he leads the Laboratory of Expertise in Sport
 and coordinates the Interdisciplinary Centre for the Study of Human Performance
 (CIPER). His research focuses on sport expertise, decision-making, performance
