@@ -17,27 +17,44 @@ Watch this page for a list of updates.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>Press the Button *New</strong></h4>
+<h4><strong>Press the Button</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YU_-QIFCIB4?si=XzK7RxyJKJJSclvv"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YU_-QIFCIB4?si=P-3ENJrGpUsRtH5a"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>No Entry Version 1 *New</strong></h4>
+<h4><strong>No Entry Version 1</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zdb2FF2OpCg?si=FcuxMT4xsCO_CnBJ"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zdb2FF2OpCg?si=YulXyQCF48fD9doE"></iframe>
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>No Entry Version 2 *New</strong></h4>
+<h4><strong>No Entry Version 2</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YQVsiT2PIhA?si=AcjM8e_PW1f1F9Kl"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YQVsiT2PIhA?si=baHcXsZKzXjlfSPx"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><strong>Around the World *New</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/33vEBunCCsk?si=JzoBCDUeXjWz8btP"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Protect the Castle Version 1 *New</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QWnMPVvzYto?si=oimcf_Jlwr8Fejst"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Protect the Castle Version 2 *New</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1rJhwzoCe9A?si=HTDGdQMrkldzOBMJ"></iframe>
+</div>
 </td>
 </tr>
 <tr>
