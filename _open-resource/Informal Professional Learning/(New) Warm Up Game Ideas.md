@@ -17,13 +17,13 @@ Watch this page for a list of updates.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>Press the Button </strong></h4>
+<h4><strong>Press the Button</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YU_-QIFCIB4?si=P-3ENJrGpUsRtH5a"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>No Entry Version 1 </strong></h4>
+<h4><strong>No Entry Version 1</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zdb2FF2OpCg?si=YulXyQCF48fD9doE"></iframe>
 </div>
@@ -31,7 +31,7 @@ Watch this page for a list of updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>No Entry Version 2 </strong></h4>
+<h4><strong>No Entry Version 2</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YQVsiT2PIhA?si=baHcXsZKzXjlfSPx"></iframe>
 </div>
