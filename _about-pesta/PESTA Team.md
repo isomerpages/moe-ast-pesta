@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h1>PESTA TEAM</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PESTA Team Photo 2024" src="/images/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 PESTA Staff Photo" src="/images/PESTA Website Photo Album/Chosen.jpg">
 </div>
 <h3>PESTA Leadership</h3>
 <p></p>
