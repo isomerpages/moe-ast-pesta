@@ -75,7 +75,7 @@ please feel free to leave your inputs in the online form&nbsp;<a href="https://f
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Puay Wee</p>
+<p>Chua Puay Wee Eric</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Director</p>
@@ -104,6 +104,17 @@ please feel free to leave your inputs in the online form&nbsp;<a href="https://f
 </td>
 <td rowspan="1" colspan="1">
 <p>teng_tse_sheng@moe.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Seck Heong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher (Schools)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_seck_heong@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +166,7 @@ please feel free to leave your inputs in the online form&nbsp;<a href="https://f
 <p>Benjamin Tan Su-Jim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher (Schools)</p>
+<p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>benjamin_sj_tan@schools.gov.sg</p>
@@ -163,13 +174,13 @@ please feel free to leave your inputs in the online form&nbsp;<a href="https://f
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Seck Heong</p>
+<p>Wee Boon Nee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher (Schools)</p>
+<p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_seck_heong@schools.gov.sg</p>
+<p>wee_boon_nee@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -229,13 +240,24 @@ please feel free to leave your inputs in the online form&nbsp;<a href="https://f
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Hana Tay (Ms)</p>
+<p>Mohamed Riad Bin Mohamed Padli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohd_riad@moe.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>David James Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_hana_tay@moe.gov.sg</p>
+<p>david_james_chua@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -251,17 +273,6 @@ please feel free to leave your inputs in the online form&nbsp;<a href="https://f
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Yin Wai Amber (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>amber_ng@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Diana Goh Luan En (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -269,17 +280,6 @@ please feel free to leave your inputs in the online form&nbsp;<a href="https://f
 </td>
 <td rowspan="1" colspan="1">
 <p>diana_goh@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muhammad Hafiz Bin Ma'arof</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_hafiz_maarof@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
