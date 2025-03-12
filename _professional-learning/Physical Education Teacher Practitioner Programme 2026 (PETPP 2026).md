@@ -528,8 +528,7 @@ proficiency in English, and obtain medical clearance.</p>
 and Outdoor Education Officer – Physical Education)
 <br><a rel="noopener noreferrer nofollow" target="_blank">Muhammad_Sulaiman_OTHMAN@moe.gov.sg</a>
 </p>
-<p>&nbsp;Ms Algena Koh</p>
-<p>(Senior Academy Officer/PESTA)
+<p>&nbsp;Ms Algena Koh(Senior Academy Officer/PESTA)
 <br><a rel="noopener noreferrer nofollow" target="_blank">Algena_louisa_KOH@moe.gov.sg</a>
 </p>
 <p></p>
