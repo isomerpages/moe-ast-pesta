@@ -28,6 +28,16 @@ sections:
       image: /images/PL_Calendar_2025_Screenshot.png
       alt: Workshops for PE teachers
   - infopic:
+      title: PETPP 2026
+      id: infopic
+      description: The Physical Teachers Teaching Practitioner Programme (PETPP) 2026
+        is open for application!
+      button: Click for more details!
+      url: /physical-education-teacher-practitioner-program-2026-petpp-2026/
+      image: /images/Website
+        Banners/lon9b3an_make_me_a_poster_themed_on_physical_education_public_cfe53c51_43a7_46e4_9dd1_9e0ce11554b5_3.png
+      alt: Image alt text
+  - infopic:
       title: PESTA Open Web Resource (POWeR)
       subtitle: POWeR
       id: infopic
