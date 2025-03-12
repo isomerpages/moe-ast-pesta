@@ -4,6 +4,7 @@ permalink: /physical-education-teacher-practitioner-program-2026-petpp-2026/
 variant: tiptap
 description: ""
 ---
+<h3>Physical Education Teacher Practitioner Programme (PETPP) 2026</h3>
 <p>The Physical Education Teacher Practitioner Programme (PETPP) 2026 equips
 non-qualified PE teachers with the skills needed to deliver safe, curriculum-aligned
 lessons in primary and secondary schools. Running from January to April
@@ -512,9 +513,13 @@ proficiency in English, and obtain medical clearance.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>More Information</h4>
 <p>For more details and application guidelines, please download this file
-here</p>
-<p>Interested Applicants, please download the form here</p>
+<a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Pgm_Outline.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p>Interested Applicants, please download the form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <p>For enquiries, please contact:</p>
 <p>&nbsp;Mr Muhammad Sulaiman Bin Othman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Senior Physical, Sports
