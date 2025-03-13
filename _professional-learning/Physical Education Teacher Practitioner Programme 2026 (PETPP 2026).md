@@ -515,12 +515,12 @@ proficiency in English, and obtain medical clearance.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Register Now!</h4>
+<p>Interested Applicants, please download the form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <h4>More Information</h4>
 <p>For more details and application guidelines, please download this file
 <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Pgm_Outline.pdf" rel="noopener nofollow" target="_blank">here</a>
-</p>
-<p>Interested Applicants, please download the form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p>For enquiries, please contact:</p>
 <p>&nbsp;Mr Muhammad Sulaiman Bin Othman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
