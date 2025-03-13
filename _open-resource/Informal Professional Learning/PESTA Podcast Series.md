@@ -21,6 +21,16 @@ practical tips for educators.</p>
 <p><a href="https://open.spotify.com/show/6ZouNEP1A91eMGfVP3NdLa?si=83671f3bae4648de" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to all episodes on Spotify</a>
 </p>
 <hr>
+<h4><strong>Conversation with Lead Teacher Yusri</strong></h4>
+<p>In this episode, we talk to Lead Teacher Yusri from Punggol Secondary
+School. Yusri has been a PE teacher for 26 years and he is here to talk
+about about the good practices and the importance of rounding up learning
+with a Sports Carnival.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EZ-OiyQX7C4?si=ZFsSLL_Ox_K7rG11"></iframe>
+</div>
+<hr>
 <h4><strong>Conversation with Professor Duarte Araujo</strong></h4>
 <p>In this episode, we talk to Professor Duarte Araújo about the Ecological
 Dynamics Approach. He is a prominent figure in the field of sport psychology
