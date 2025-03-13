@@ -65,4 +65,18 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: New Warm Up Game Ideas
+          date: 13 March 2025
+          announcement: New Warm Up Game Idea videos are up on the POWeR Page
+          link_text: Click here to explore
+          link_url: https://pesta.moe.edu.sg/warm-up-game-ideas/
+        - title: Team Talk Podcast new episiode
+          date: 13 March 2025
+          announcement: "A new podcast from Team Talk: A PESTA Podcast Series is here."
+          link_text: Click here to watch!
+          link_url: https://pesta.moe.edu.sg/pesta-podcast-series/
 ---
