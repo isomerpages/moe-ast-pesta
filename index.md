@@ -32,7 +32,7 @@ sections:
           announcement: "A new podcast from Team Talk: A PESTA Podcast Series is here."
           link_text: Click here to watch!
           link_url: https://pesta.moe.edu.sg/pesta-podcast-series/
-        - title: PETTP 2026
+        - title: PETPP 2026
           date: 12 March 2025
           announcement: The Physical Education Teacher Practitioner Programme (PETPP) 2026
             is open for registration!
