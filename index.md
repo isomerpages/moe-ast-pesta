@@ -18,26 +18,6 @@ sections:
           description: ""
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
       background: /images/PESTA Website Photo Album/PESTA_front_page_2.gif
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: New Warm Up Game Ideas
-          date: 13 March 2025
-          announcement: New Warm Up Game Idea videos are up on the POWeR Page
-          link_text: Click here to explore
-          link_url: https://pesta.moe.edu.sg/warm-up-game-ideas/
-        - title: Team Talk Podcast new episiode
-          date: 13 March 2025
-          announcement: "A new podcast from Team Talk: A PESTA Podcast Series is here."
-          link_text: Click here to watch!
-          link_url: https://pesta.moe.edu.sg/pesta-podcast-series/
-        - title: PETPP 2026
-          date: 12 March 2025
-          announcement: The Physical Education Teacher Practitioner Programme (PETPP) 2026
-            is open for registration!
-          link_text: Find out more!
-          link_url: https://pesta.moe.edu.sg/physical-education-teacher-practitioner-program-2026-petpp-2026/
   - infopic:
       title: 2025 Workshops for PE and Sports CCA Teachers
       description: Looking for workshops to enhance your professional learning? We
