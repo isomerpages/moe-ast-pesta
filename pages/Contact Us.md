@@ -8,8 +8,7 @@ variant: tiptap
 <img style="width:50%" height="auto" width="100%" src="/images/pesta-logo-(clear).jpeg">
 </div>
 <h3>Physical Education &amp; Sports Teacher Academy</h3>
-<p>Email: <a href="moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_pesta@moe.gov.sg</a>
-</p>
+<p>Email: moe_pesta@moe.gov.sg</p>
 <p>Tel: 6664 1520
 <br>
 </p>
@@ -42,7 +41,7 @@ and many other professional learning content.</p>
 </div>
 <h3>We Want to Hear From You!</h3>
 <p>If you have any feedback/suggestions for PESTA or for the PE fraternity,
-please feel free to leave your inputs in the online form&nbsp;<a href="https://form.gov.sg/62feec402c1e9100131b6720" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+please feel free to email your feedback at moe_pesta@moe.gov.sg</p>
 <h3>PESTA Staff</h3>
 <table style="minWidth: 75px">
 <colgroup>
