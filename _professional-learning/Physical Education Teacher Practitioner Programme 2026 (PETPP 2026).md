@@ -516,14 +516,14 @@ proficiency in English, and obtain medical clearance.</p>
 </tbody>
 </table>
 <h4>Register Now!</h4>
-<p>Interested Applicants, please download the form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Please download the registration form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h4>More Information</h4>
 <p>For more details and application guidelines, please download this file
 <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Pgm_Outline.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>For enquiries, please contact:</p>
-<p>&nbsp;Mr Muhammad Sulaiman Bin Othman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>Mr Muhammad Sulaiman Bin Othman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Senior Physical, Sports
 and Outdoor Education Officer – Physical Education)
 <br><a rel="noopener noreferrer nofollow" target="_blank">Muhammad_Sulaiman_OTHMAN@moe.gov.sg</a>
