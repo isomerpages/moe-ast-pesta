@@ -17,7 +17,7 @@ sections:
         - title: Our Pioneers
           description: ""
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
-      background: /images/PESTA Website Photo Album/PESTA_front_page_2.gif
+      background: /images/PESTA Website Photo Album/Pesta_Front_Page_New.gif
   - infopic:
       title: 2025 Workshops for PE and Sports CCA Teachers
       description: Looking for workshops to enhance your professional learning? We
