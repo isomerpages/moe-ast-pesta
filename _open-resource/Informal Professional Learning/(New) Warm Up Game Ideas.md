@@ -45,13 +45,13 @@ Watch this page for a list of updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Protect the Castle Version 1 *New</strong></h4>
+<h4><strong>Protect the Castle Version 1 </strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QWnMPVvzYto?si=oimcf_Jlwr8Fejst"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Protect the Castle Version 2 *New</strong></h4>
+<h4><strong>Protect the Castle Version 2 </strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1rJhwzoCe9A?si=HTDGdQMrkldzOBMJ"></iframe>
 </div>
@@ -59,9 +59,28 @@ Watch this page for a list of updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4></h4>
+<h4><strong>Close Shop! *New</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ft8Vgfd0360?si=l_I6qAnLkuYYHaHe"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<h4><strong> Odd One Out! *New</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xIOwfq5-UV4?si=QP0AVFsIbZ9iGT2f"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Exit *New</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JJbIA4RhRaw?si=B3Fpv03iYpdgxA5V"></iframe>
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h4></h4>
 <p></p>
 </td>
 </tr>
