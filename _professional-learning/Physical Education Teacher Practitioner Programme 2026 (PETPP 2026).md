@@ -7,13 +7,17 @@ image: /images/Website
   Banners/lon9b3an_make_me_a_poster_themed_on_physical_education_public_cfe53c51_43a7_46e4_9dd1_9e0ce11554b5_3.png
 ---
 <h3>Physical Education Teacher Practitioner Programme (PETPP) 2026</h3>
-<p>The Physical Education Teacher Practitioner Programme (PETPP) 2026 equips
-non-qualified PE teachers with the skills needed to deliver safe, curriculum-aligned
-lessons in primary and secondary schools. Running from January to April
-2026 with a mix of full-day sessions, half-day sessions, and school visits,
-the programme is open to non-PE trained Education Officers starting Semester
-2, 2026. Applicants must have a School Leader’s endorsement, demonstrate
-proficiency in English, and obtain medical clearance.</p>
+<p>The Physical Education Teacher Practitioner Programme (PETPP) equips non-PE
+trained teachers with essential knowledge and skills to deliver safe, curriculum-aligned
+PE lessons in primary and secondary schools. Running from January to April
+2026, the programme will be conducted at the Academy of Singapore Teachers
+(Malan Road) by PESTA and PSOEB. It consists of a mix of full and half-day
+workshops and school visits. During these sessions, participants will have
+a hands-on approach to learning how to teach PE and will observe PE lessons
+across different learning areas at designated primary or secondary schools.
+Upon completion of the programme, participants will be awarded a Subject
+Proficiency (SP) 3 for Physical Education. The deadline for application
+is 1 August 2025.</p>
 <h4>Course Outline (Primary)</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -515,20 +519,15 @@ proficiency in English, and obtain medical clearance.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Register Now!</h4>
+<p>Please download the registration form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <h4>More Information</h4>
 <p>For more details and application guidelines, please download this file
 <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Pgm_Outline.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p>Interested Applicants, please download the form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
 <p>For enquiries, please contact:</p>
-<p>&nbsp;Mr Muhammad Sulaiman Bin Othman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Senior Physical, Sports
-and Outdoor Education Officer – Physical Education)
-<br><a rel="noopener noreferrer nofollow" target="_blank">Muhammad_Sulaiman_OTHMAN@moe.gov.sg</a>
-</p>
-<p>&nbsp;Ms Algena Koh(Senior Academy Officer/PESTA)
-<br><a rel="noopener noreferrer nofollow" target="_blank">Algena_louisa_KOH@moe.gov.sg</a>
-</p>
-<p></p>
+<p>Mr Muhammad Sulaiman Bin Othman (Senior Physical, Sports and Outdoor Education
+Officer – Physical Education) Muhammad_Sulaiman_OTHMAN@moe.gov.sg</p>
+<p>Ms Algena Koh (Senior Academy Officer/PESTA)
+<br>Algena_louisa_koh@moe.gov.sg</p>
