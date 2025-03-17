@@ -7,7 +7,7 @@ third_nav_title: Informal Professional Learning
 ---
 <h2><strong>Warm Up Game Ideas</strong></h2>
 <p>Below are a list of warm up games you can use for your own PE lessons.
-Watch this page for a list of updates.</p>
+Watch this page as there will be more updates with new games!</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -45,13 +45,13 @@ Watch this page for a list of updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Protect the Castle Version 1 </strong></h4>
+<h4><strong>Protect the Castle Version 1</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QWnMPVvzYto?si=oimcf_Jlwr8Fejst"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Protect the Castle Version 2 </strong></h4>
+<h4><strong>Protect the Castle Version 2</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1rJhwzoCe9A?si=HTDGdQMrkldzOBMJ"></iframe>
 </div>
@@ -65,7 +65,7 @@ Watch this page for a list of updates.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong> Odd One Out! *New</strong></h4>
+<h4><strong>Odd One Out! *New</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xIOwfq5-UV4?si=QP0AVFsIbZ9iGT2f"></iframe>
 </div>
