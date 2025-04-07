@@ -37,7 +37,7 @@ Watch this page as there will be more updates with new games!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Around the World *New</strong></h4>
+<h4><strong>Around the World</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/33vEBunCCsk?si=JzoBCDUeXjWz8btP"></iframe>
 </div>
@@ -59,13 +59,13 @@ Watch this page as there will be more updates with new games!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Close Shop! *New</strong></h4>
+<h4><strong>Close Shop!</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ft8Vgfd0360?si=l_I6qAnLkuYYHaHe"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Odd One Out! *New</strong></h4>
+<h4><strong>Odd One Out!</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xIOwfq5-UV4?si=QP0AVFsIbZ9iGT2f"></iframe>
 </div>
@@ -73,15 +73,17 @@ Watch this page as there will be more updates with new games!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Exit *New</strong></h4>
+<h4><strong>Exit</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JJbIA4RhRaw?si=B3Fpv03iYpdgxA5V"></iframe>
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h4></h4>
-<p></p>
+<h4><strong>A Whole Kneel World *New</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xI15BLEa7pI?si=1evf5mFjzLSksj5a"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
