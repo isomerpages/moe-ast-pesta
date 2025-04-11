@@ -20,7 +20,6 @@ sections:
       background: /images/PESTA Website Photo Album/Pesta_Front_Page_New.gif
   - infopic:
       title: TCEF2025
-      subtitle: Add an image and text
       id: infopic
       description: TCEF2025 is coming from 3–5 June—get ready to connect, learn, and
         spark ideas to shape the future of teaching!
@@ -71,7 +70,7 @@ sections:
       title: PE Fraternity
       description: What is teaching PE all about? Interested to know more about the PE
         fraternity?
-      button: Yes I am!
+      button: let's find out!
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
