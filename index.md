@@ -28,7 +28,7 @@ sections:
       image: /images/PL_Calendar_2025_Screenshot.png
       alt: Workshops for PE teachers
   - infopic:
-      title: TCEF 2025
+      title: TCEF2025
       subtitle: Add an image and text
       id: infopic
       description: TCEF2025 is coming from 3–5 June—get ready to connect, learn, and
