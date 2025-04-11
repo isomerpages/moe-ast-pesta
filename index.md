@@ -36,7 +36,7 @@ sections:
       button: Registration and info here
       url: https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/professional-learning/editPage/Teachers%E2%80%99%20Conference%20and%20ExCEL%20Fest%202025%20(TCEF2025).md
       alt: Image alt text
-      image: /images/Website Banners/TCEF_Logo_White_20250207.png
+      image: /images/Website Banners/TCEF_Logo_Original_transparent.png
   - infopic:
       title: PETPP 2026
       id: infopic
