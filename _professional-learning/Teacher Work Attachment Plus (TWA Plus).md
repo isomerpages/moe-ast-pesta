@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Teacher Work Attachment+ (TWA+)</h2>
 <p></p>
-<h4><strong>[Application is Now Closed for  2025]</strong></h4>
+<h4><strong>[Application is Now Closed for 2025]</strong></h4>
 <p>An opportunity to work with PESTA officers to learn and broaden perspectives
 so as to make learning in the classroom more relevant and authentic.</p>
 <p><strong><u>Learning Objectives</u></strong>
