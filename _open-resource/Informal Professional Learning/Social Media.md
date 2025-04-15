@@ -42,7 +42,4 @@ and many other professional learning content.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 253.585px;" height="auto" width="100%" alt="" src="https://pesta.moe.edu.sg/images/PESTA_Instagram_QR_Code.png">
 </div>
-<h3>We Want to Hear From You!</h3>
-<p>If you have any feedback/suggestions for PESTA or for the PE fraternity,
-please feel free to email your feedback at <a href="https://www.facebook.com/groups/1526387690786653/" rel="noopener noreferrer nofollow" target="_blank">moe_pesta@moe.gov.sg</a>
-</p>
+<p></p>
