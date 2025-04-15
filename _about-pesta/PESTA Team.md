@@ -48,7 +48,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Mabel_Website_Latest.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Staff Photos/Mabel_Website_Latest.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
