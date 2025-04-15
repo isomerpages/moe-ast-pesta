@@ -5,16 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Informal Professional Learning
 ---
-<p>As an organization committed to advancing professional learning for educators,
-we recognize the power of social media as a dynamic platform to share valuable
-content with the teaching community. Through channels like Instagram and
-YouTube, we disseminate practical strategies, insightful resources, and
-inspiring stories that educators can engage with at their convenience.
-This approach complements our traditional workshops and school engagements,
-fostering continuous, informal learning and connecting teachers across
-diverse contexts. By leveraging social media, we aim to build vibrant professional
-learning networks that support collaboration, innovation, and the ongoing
-development of teaching practices.</p>
+<p>PESTA is committed to advancing professional learning for educators through
+social media as a dynamic platform where the teaching fraternity shares
+valuable ideas and experiences. Our Facebook, Instagram and YouTube channels
+offer practical teaching strategies, curated resources and inspiring stories,
+all readily accessible to educators. This informal approach to learning
+and networking complements our structured workshops and school engagements,
+fostering continuous growth and meaningful connections across diverse teaching
+communities. Through these digital platforms, we nurture vibrant professional
+learning networks that spark collaboration, innovation and excellence in
+teaching practices.</p>
 <h3>PESTA Facebook</h3>
 <p>For PE teachers. By PE teachers. With PE teachers.</p>
 <p>Join us on the largest online MOE PE teachers' network here! With over
