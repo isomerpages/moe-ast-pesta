@@ -33,7 +33,7 @@ variant: tiptap
 <div class="isomer-card-title">Master Teacher</div>
 <div class="isomer-card-link">Benjamin Tam Su-Jim</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/PESTA%20Leadership/editPage/Wee%20Boon%20Nee.m" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teache" src="/images/Staff Photos/Wee_Boon_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher</div><div class="isomer-card-link">Wee Boon Nee</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/PESTA%20Leadership/editPage/Wee%20Boon%20Nee.m" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teache" src="/images/Staff Photos/Wee_Boon_test.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher</div><div class="isomer-card-link">Wee Boon Nee</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/irfan-ismail-2024/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -48,7 +48,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Staff Photos/Mabel_Website_Latest.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Staff Photos/mabel_test.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
