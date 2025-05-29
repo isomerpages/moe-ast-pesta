@@ -1,5 +1,5 @@
 ---
-title: Physical Education Teacher Practitioner Programme 2026 (PETPP 2026)
+title: Physical Education Teacher Practitioner Programme (PETPP)
 permalink: /physical-education-teacher-practitioner-program-2026-petpp-2026/
 variant: tiptap
 description: PETTP 2026
