@@ -43,8 +43,7 @@ sections:
         is open for application!
       button: Click for more details!
       url: /physical-education-teacher-practitioner-program-2026-petpp-2026/
-      image: /images/Website
-        Banners/lon9b3an_make_me_a_poster_themed_on_physical_education_public_cfe53c51_43a7_46e4_9dd1_9e0ce11554b5_3.png
+      image: /images/Website Banners/unnamed.jpg
       alt: Image alt text
   - infopic:
       title: PESTA Open Web Resource (POWeR)
