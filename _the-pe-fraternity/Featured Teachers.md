@@ -76,7 +76,7 @@ variant: tiptap
 <p>ITE College East</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>Kheng Cheng School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -110,7 +110,7 @@ variant: tiptap
 <p>Victoria Junior College</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>Canberra Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -178,7 +178,7 @@ variant: tiptap
 <p>Xingnan Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -195,7 +195,7 @@ variant: tiptap
 <p>ITE College East</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -212,7 +212,7 @@ variant: tiptap
 <p>Northbrooks Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -229,7 +229,7 @@ variant: tiptap
 <p>Millennia Institute</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -246,7 +246,7 @@ variant: tiptap
 <p>Raffles Institution</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -263,7 +263,7 @@ variant: tiptap
 <p>Dunman Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -280,7 +280,7 @@ variant: tiptap
 <p>Hwa Chong Institution</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -297,7 +297,7 @@ variant: tiptap
 <p>Yuying Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -314,7 +314,7 @@ variant: tiptap
 <p>ITE College West</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -331,7 +331,7 @@ variant: tiptap
 <p>Damai Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -348,7 +348,7 @@ variant: tiptap
 <p>Boon Lay Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -382,7 +382,7 @@ variant: tiptap
 <p>Tanjong Katong Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -399,7 +399,7 @@ variant: tiptap
 <p>Pei Hwa Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -416,7 +416,7 @@ variant: tiptap
 <p>First Toa Payoh Prmary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -433,7 +433,7 @@ variant: tiptap
 <p>Hwa Chong Institution</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -450,7 +450,7 @@ variant: tiptap
 <p>CHIJ Kellock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
