@@ -33,40 +33,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Yew Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Victoria Junior College</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OTCA Merit (2023)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Ze Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kheng Cheng School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OTCA Merit (2023)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,6 +77,40 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Teacher-Coach Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Ze Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kheng Cheng School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Teacher-Coach Award (Merit)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yew Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Victoria Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
