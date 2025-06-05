@@ -33,47 +33,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Yew Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Victoria Junior College</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OTCA Merit (2023)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Ze Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kheng Cheng School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OTCA Merit (2023)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Siua Kian Ling, Cassandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cantonment Pri</p>
+<p>Cantonment Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award</p>
@@ -90,7 +56,7 @@ variant: tiptap
 <p>Mishon Lew Kooi Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Woodlands Pri</p>
+<p>Woodlands Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award (Merit)</p>
@@ -110,7 +76,41 @@ variant: tiptap
 <p>ITE College East</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Ze Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kheng Cheng Sch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yew Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Victoria Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -124,10 +124,10 @@ variant: tiptap
 <p>Lok Chee How</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canberra Sec</p>
+<p>Canberra Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -141,7 +141,7 @@ variant: tiptap
 <p>Rodney Yeo Chin Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Northlight School</p>
+<p>Northlight Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award</p>
@@ -178,7 +178,7 @@ variant: tiptap
 <p>Xingnan Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -195,7 +195,7 @@ variant: tiptap
 <p>ITE College East</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -212,7 +212,7 @@ variant: tiptap
 <p>Northbrooks Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -229,7 +229,7 @@ variant: tiptap
 <p>Millennia Institute</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -246,7 +246,7 @@ variant: tiptap
 <p>Raffles Institution</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -263,7 +263,7 @@ variant: tiptap
 <p>Dunman Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -280,7 +280,7 @@ variant: tiptap
 <p>Hwa Chong Institution</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -297,7 +297,7 @@ variant: tiptap
 <p>Yuying Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -314,7 +314,7 @@ variant: tiptap
 <p>ITE College West</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -328,10 +328,10 @@ variant: tiptap
 <p>Shahizan Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Damai Primary School</p>
+<p>Damai Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -345,10 +345,10 @@ variant: tiptap
 <p>Umar Abdul Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boon Lay Secondary School</p>
+<p>Boon Lay Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -362,7 +362,7 @@ variant: tiptap
 <p>So Kwang Loong Joe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jurong West Secondary School</p>
+<p>Jurong West Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Teacher-Coach Award (Merit)</p>
@@ -379,10 +379,10 @@ variant: tiptap
 <p>Shahul Hamed Abdul Majeed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tanjong Katong Primary School</p>
+<p>Tanjong Katong Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -396,10 +396,10 @@ variant: tiptap
 <p>Mohd Arizal Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pei Hwa Secondary School</p>
+<p>Pei Hwa Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -413,10 +413,10 @@ variant: tiptap
 <p>Joel Prathiev Vinson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Toa Payoh Prmary School</p>
+<p>First Toa Payoh Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -433,7 +433,7 @@ variant: tiptap
 <p>Hwa Chong Institution</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -450,7 +450,7 @@ variant: tiptap
 <p>CHIJ Kellock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award</p>
+<p>SPEA Outstanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -464,7 +464,7 @@ variant: tiptap
 <p>Muhammad Shufi Bin Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hillgrove Secondary School</p>
+<p>Hillgrove Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award (Secondary)</p>
@@ -481,7 +481,7 @@ variant: tiptap
 <p>Lincoln Lai Yeng Yew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fernvale Pri</p>
+<p>Fernvale Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award (Primary)</p>
@@ -498,7 +498,7 @@ variant: tiptap
 <p>Louis Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sengkang Sec</p>
+<p>Sengkang Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award (Secondary)</p>
@@ -532,7 +532,7 @@ variant: tiptap
 <p>Morna Tan Wang Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fairfield Methodist Pri</p>
+<p>Fairfield Methodist Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award (Primary)</p>
@@ -549,7 +549,7 @@ variant: tiptap
 <p>Mohamed Taufeek Bin Ramlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Changkat Pri</p>
+<p>Changkat Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award (Primary)</p>
@@ -566,7 +566,7 @@ variant: tiptap
 <p>Brian Lui Wai Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Northland Sec</p>
+<p>Northland Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award (Secondary)</p>
@@ -583,7 +583,7 @@ variant: tiptap
 <p>Jay Sng Yuan Zhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Compassvale Pri</p>
+<p>Compassvale Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -617,7 +617,7 @@ variant: tiptap
 <p>Lawrence Lim Bok Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuying Sec</p>
+<p>Yuying Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -651,7 +651,7 @@ variant: tiptap
 <p>Taufiq Bin Sanusi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Evergreen Sec</p>
+<p>Evergreen Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (Secondary/JC - North Zone)</p>
@@ -685,7 +685,7 @@ variant: tiptap
 <p>Lim Tien Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Victoria JC</p>
+<p>Victoria Junior College</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (Secondary/JC - East Zone)</p>
@@ -719,7 +719,7 @@ variant: tiptap
 <p>Max Chua Thian Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Woodlands Pri</p>
+<p>Woodlands Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Outstanding PE Teacher Award (Primary)</p>
@@ -753,7 +753,7 @@ variant: tiptap
 <p>Shahizan Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pasir Ris Pri</p>
+<p>Pasir Ris Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (Primary - East Zone)</p>
@@ -770,7 +770,7 @@ variant: tiptap
 <p>Phoon Soe Leng Sandy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nan Hua Pri</p>
+<p>Nan Hua Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (Primary - West Zone)</p>
@@ -787,7 +787,7 @@ variant: tiptap
 <p>Lim Kern Wei, Randall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hougang Pri</p>
+<p>Hougang Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award (Primary)</p>
@@ -804,7 +804,7 @@ variant: tiptap
 <p>Mohamad Hairil Bin Johari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edgefield Pri</p>
+<p>Edgefield Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -838,7 +838,7 @@ variant: tiptap
 <p>Eleonor S Rivera</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Serangoon JC</p>
+<p>Serangoon Junior College</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -872,7 +872,7 @@ variant: tiptap
 <p>Ang Swee Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elias Park Pri</p>
+<p>Elias Park Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA Oustanding PE Teacher Award(Primary)</p>
@@ -906,7 +906,7 @@ variant: tiptap
 <p>Lee Wei Yap Roy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>River Valley Pri</p>
+<p>River Valley Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -923,7 +923,7 @@ variant: tiptap
 <p>Helen Low Kwee Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Vista Sec</p>
+<p>North Vista Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -940,7 +940,7 @@ variant: tiptap
 <p>Abdul Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canberra Sec</p>
+<p>Canberra Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC-Income SPEA Oustanding PE Teacher Award</p>
@@ -974,7 +974,7 @@ variant: tiptap
 <p>Chua Max</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Woodlands Pri</p>
+<p>Woodlands Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -1008,7 +1008,7 @@ variant: tiptap
 <p>Koh Yiak Kheng Leonard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ngee Ann Sec</p>
+<p>Ngee Ann Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC-Income SPEA Oustanding PE Teacher Award</p>
@@ -1042,7 +1042,7 @@ variant: tiptap
 <p>Lim Hee Lean Melinda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pasir Ris Sec</p>
+<p>Pasir Ris Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -1059,7 +1059,7 @@ variant: tiptap
 <p>Oh See Moey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ St Nicholas Girls' Sec</p>
+<p>CHIJ St Nicholas Girls' Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -1093,7 +1093,7 @@ variant: tiptap
 <p>Foo Say Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ St Nicholas Girls' Pri</p>
+<p>CHIJ St Nicholas Girls' Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPEA PE Teacher Award (MERIT)</p>
@@ -1110,7 +1110,7 @@ variant: tiptap
 <p>Ang Kwan Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xin Min Sec</p>
+<p>Xin Min Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC-Income SPEA Oustanding PE Teacher Award</p>
@@ -1127,7 +1127,7 @@ variant: tiptap
 <p>Steven Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commonwealth Sec</p>
+<p>Commonwealth Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC-Income SPEA Oustanding PE Teacher Award</p>
@@ -1144,7 +1144,7 @@ variant: tiptap
 <p>K. V. Sridar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bedok North Pri</p>
+<p>Bedok North Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC-Income SPEA Oustanding PE Teacher Award</p>
