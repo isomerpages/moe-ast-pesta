@@ -73,4 +73,10 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
+  - textcards:
+      title: ALERT!
+      id: textcards
+      description: Please note that government officials will never ask you to
+        transfer money or disclose bank login details over a phone call. Unsure
+        if something is a scam? Call the 24/7 ScamShield Helpline at 1799.
 ---
