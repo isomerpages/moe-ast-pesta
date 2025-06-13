@@ -520,7 +520,8 @@ is 1 August 2025.</p>
 </tbody>
 </table>
 <h4>Register Now!</h4>
-<p>Please download the registration form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">her</a>
+<p>Please download the registration form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">he</a>
+<a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">r</a>
 <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">e</a>
 </p>
 <h4>More Information</h4>
