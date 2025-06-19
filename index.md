@@ -19,15 +19,6 @@ sections:
           url: /pesta/be-connected-with-the-fraternity/our-pioneers
       background: /images/PESTA Website Photo Album/Pesta_Front_Page_New.gif
   - infopic:
-      title: TCEF2025
-      id: infopic
-      description: TCEF2025 is coming from 3–5 June—get ready to connect, learn, and
-        spark ideas to shape the future of teaching!
-      button: Registration and info here
-      url: https://pesta.moe.edu.sg/teachers-conference-and-excel-fest-2025-tcef2025/
-      alt: Image alt text
-      image: /images/Website Banners/TCEF_Logo_Original_transparent.png
-  - infopic:
       title: 2025 Workshops for PE and Sports CCA Teachers
       description: Looking for workshops to enhance your professional learning? We
         have an array of workshops designed for you!   By PE teachers. For PE
@@ -73,4 +64,10 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
+  - textcards:
+      title: ALERT!
+      id: textcards
+      description: Please note that government officials will never ask you to
+        transfer money or disclose bank login details over a phone call. Unsure
+        if something is a scam? Call the 24/7 ScamShield Helpline at 1799.
 ---
