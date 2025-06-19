@@ -54,7 +54,7 @@ sections:
         enhance...
       button: Please click on this link to find out more!
       url: /pesta/be-connected-with-the-fraternity/physical-education-knowledgeable-others-peko
-      image: /images/peko30657bbb65bc46838744da5ed9b80113.png
+      image: /images/Website Banners/Gemini_Generated_Image_z6gcsjz6gcsjz6gc.png
       alt: PEKO
   - infopic:
       title: PE Fraternity
