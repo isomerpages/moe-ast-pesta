@@ -80,9 +80,23 @@ Watch this page as there will be more updates with new games!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>A Whole Kneel World *New</strong></h4>
+<h4><strong>A Whole Kneel World</strong></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xI15BLEa7pI?si=1evf5mFjzLSksj5a"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Left Or Right *NEW</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uvYQYHuXfDY?si=YJtyNe_bV2PFYp-s"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Hit the Cone v1 *NEW</strong></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o4n0yVIdIOs?si=NEiFVKeSJMHDC6w3"></iframe>
 </div>
 </td>
 </tr>
