@@ -1,0 +1,14 @@
+logo: /images/pesta-logo-(clear).jpeg
+links:
+  - title: About Pesta
+    collection: about-pesta
+  - title: The PE Fraternity
+    collection: the-pe-fraternity
+  - title: Professional Learning
+    collection: professional-learning
+  - title: Partners and Stakeholders
+    url: /pesta/partners-and-stakeholders
+  - title: PESTA Open Web Resource
+    collection: open-resource
+  - title: Contact Us
+    url: /pesta/contact-pesta-staff/
