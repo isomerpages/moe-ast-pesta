@@ -65,7 +65,7 @@ sections:
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
   - textcards:
-      title: ALERT!
+      title: Scam Advisory
       id: textcards
       description: Please note that government officials will never ask you to
         transfer money or disclose bank login details over a phone call. Unsure
