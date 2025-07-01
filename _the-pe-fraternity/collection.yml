@@ -1,0 +1,21 @@
+collections:
+  the-pe-fraternity:
+    output: true
+    order:
+      - PESTA Teacher Attributes.md
+      - Our Networks/Teacher Leader (TL).md
+      - Our Networks/.keep
+      - Our Physical Education Knowledgeable Others (PEKO).md
+      - Our Pioneers/.keep
+      - Our Pioneers/Our Pioneers.md
+      - Our Pioneers/Mr Canagasabai Kunalan.md
+      - Our Pioneers/Dr Lau Teng Chuan.md
+      - Our Pioneers/Dr Tan Eng Yoon.md
+      - Our Pioneers/Mr Joseph David.md
+      - Our Pioneers/Mrs Glory Barnabas.md
+      - Our Pioneers/Mr Tan Hwee Hock.md
+      - Our Pioneers/Mr Woon Sui Kut.md
+      - Our Pioneers/Mr Yap Boon Chuan.md
+      - Our Pioneers/Ms Ong Siong Ngo.md
+      - Our Pioneers/Dr Quek Jin Jong.md
+      - Featured Teachers.md
