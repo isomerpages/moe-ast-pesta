@@ -1,8 +1,0 @@
----
-title: Merry Bte Hamid
-permalink: /pesta/about-pesta/the-pesta-team/merry-profile-bio-2019/
-description: ""
-third_nav_title: Administration Team
-variant: tiptap
----
-<h5>Merry Hamid (Executive)</h5><div class="isomer-image-wrapper"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Merry3.JPG"></div><p>Merry started her career with Inland Revenue Authority of Singapore (IRAS) previously known as Income Tax in 1978 which she was attached under the Anti-Evasion Unit. Working with professional officers, she was exposed with different areas of tasks. She then joined MOE in 1981 when Income Tax switched to private organisation. In mid Aug 1978, she started her journey in MOE that spanned 38 years. Over the years, she experienced various job scopes with different divisions/units. Working with different officers, colleagues and other general staff have given her wider knowledge of working styles. At Higher Education division (HED), she did finance as a purchasing officer, MCare (answering and replying interim application for admission to ITE, polys and universities) and other tasks. Having been in HED for 19 years, she decided to explore different job scopes. Her last stay in HED came to end in Jan 2014 when she joined PESTA at Malan Road Campus.</p><p>Merry provides logistic and administrative support in finance and procurement, human resources, estate management, booking of facilities and fixed assets. She enjoys her migration being part of the PESTA family who are very friendly, caring and supportive.</p><p>She is now looking forward to her ‘rest’ day in years to come – Retirement!</p><p></p>
