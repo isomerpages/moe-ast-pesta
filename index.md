@@ -4,7 +4,9 @@ title: Physical Education & Sports Teacher Academy
 description: Physical Education & Sports Teacher Academy
 image: /images/pesta-logo-(clear).jpeg
 permalink: /
-notification: ""
+notification: "Scam Advisory: Please note that government officials will never
+  ask you to transfer money or disclose bank login details over a phone call.
+  Unsure if something is a scam? Call the 24/7 ScamShield Helpline at 1799."
 sections:
   - hero:
       key_highlights:
@@ -64,10 +66,4 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
-  - textcards:
-      title: Scam Advisory
-      id: textcards
-      description: Please note that government officials will never ask you to
-        transfer money or disclose bank login details over a phone call. Unsure
-        if something is a scam? Call the 24/7 ScamShield Helpline at 1799.
 ---
