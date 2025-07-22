@@ -21,6 +21,25 @@ practical tips for educators.</p>
 <p><a href="https://open.spotify.com/show/6ZouNEP1A91eMGfVP3NdLa?si=83671f3bae4648de" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to all episodes on Spotify</a>
 </p>
 <hr>
+<h4><strong>Conversation with Dr Terry Sweeting</strong></h4>
+<p>Join host Karthik as he sits down with Dr Terry Sweeting—emeritus professor
+of kinesiology, award‑winning dance scholar, and pioneer of creative‑dance
+programs for kids. Dr Sweeting talks about: Why creative movement matters:
+boosting engagement and closing equity gaps in Title I and other underserved
+schools. Teacher‑friendly strategies: simple ways any classroom teacher
+can weave dance into daily lessons—no specialist training required. Family
+dance &amp; well‑being: insights from her recent video series that gets
+parents moving alongside their children. Cross‑cultural lessons: stories
+from her work in Singapore, Canada, and the U.S. on building inclusive,
+culturally rich dance experiences. Whether you’re an educator, parent,
+or arts supporter, this episode shows how movement can become a universal
+tool for learning, inclusion, and healing. Hit play to get inspired—and
+don’t forget to subscribe for more conversations that re‑imagine education
+through the arts!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M1nZH63Ns78?si=d5ZKvK6_5xR0g0Ni"></iframe>
+</div>
+<hr>
 <h4><strong>Conversation with Lead Teacher Yusri</strong></h4>
 <p>In this episode, we talk to Lead Teacher Yusri from Punggol Secondary
 School. Yusri has been a PE teacher for 26 years and he is here to talk
