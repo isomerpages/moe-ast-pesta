@@ -6,7 +6,7 @@ description: PETTP 2026
 image: /images/Website
   Banners/lon9b3an_make_me_a_poster_themed_on_physical_education_public_cfe53c51_43a7_46e4_9dd1_9e0ce11554b5_3.png
 ---
-<h3>Physical Education Teacher Practitioner Programme (PETPP) 2026</h3>
+<h3>Physical Education Teacher Practitioner Programme (PETPP) 2026 [Registration Closed: 1st Aug 2025]</h3>
 <p>The Physical Education Teacher Practitioner Programme (PETPP) equips non-PE
 trained teachers with essential knowledge and skills to deliver safe, curriculum-aligned
 PE lessons in primary and secondary schools. Running from January to April
@@ -519,11 +519,6 @@ is 1 August 2025.</p>
 </tr>
 </tbody>
 </table>
-<h4>Register Now!</h4>
-<p>Please download the registration form <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">he</a>
-<a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">r</a>
-<a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Registration_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">e</a>
-</p>
 <h4>More Information</h4>
 <p>For more details and application guidelines, please download this file
 <a href="/files/Registration Forms/PETPP_2026__Pri_Sec__Pgm_Outline.pdf" rel="noopener nofollow" target="_blank">here</a>
