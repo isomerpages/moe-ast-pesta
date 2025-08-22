@@ -9,7 +9,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESTA Website Photo Album/Final_book_cover_design_picture.png">
 </div>
-<p></p>
 <p>In this collection, PESTA offers a heartfelt gift to the nation—a celebration
 of how lessons taught, games played, and students believed in can shape
 lives and leave a lasting legacy. Told through six themed chapters, the
@@ -43,6 +42,9 @@ before and inspiring the next generation.</p>
 <p>Whether you’re a teacher, student, parent, or athlete, these stories will
 move you, challenge you, and invite you to share your own.
 <br><strong>Let us continue to Lead, Care, and Inspire.</strong>
+<br>
+</p>
+<p><strong>Book coming soon on Teacher's Day!</strong>
 <br>
 <br><strong>A Heartfelt Gift From,</strong>
 <br><strong>PESTA</strong>
