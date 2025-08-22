@@ -9,11 +9,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESTA Website Photo Album/Final_book_cover_design_picture.png">
 </div>
-<p>Here’s a polished website blurb you can drop in:</p>
-<p>In this collection, Singapore’s PE fraternity offers a heartfelt gift
-to the nation—a celebration of how lessons taught, games played, and students
-believed in can shape lives and leave a lasting legacy. Told through six
-themed chapters, the book journeys from the field to the heart:</p>
+<p></p>
+<p>In this collection, PESTA offers a heartfelt gift to the nation—a celebration
+of how lessons taught, games played, and students believed in can shape
+lives and leave a lasting legacy. Told through six themed chapters, the
+book journeys from the field to the heart:</p>
 <ul>
 <li>
 <p><strong>The Mission: United for Glory</strong> — the unifying spirit of
