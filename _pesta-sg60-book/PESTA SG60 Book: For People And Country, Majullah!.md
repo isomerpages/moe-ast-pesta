@@ -44,6 +44,6 @@ before and inspiring the next generation.</p>
 move you, challenge you, and invite you to share your own.
 <br><strong>Let us continue to Lead, Care, and Inspire.</strong>
 <br>
-<br><strong>With Love, </strong>
+<br><strong>A Heartfelt Gift From,</strong>
 <br><strong>PESTA</strong>
 </p>
