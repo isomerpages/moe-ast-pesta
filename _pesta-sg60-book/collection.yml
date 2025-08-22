@@ -1,4 +1,5 @@
 collections:
   pesta-sg60-book:
     output: true
-    order: []
+    order:
+      - "PESTA SG60 Book: For People And Country, Majullah!.md"
