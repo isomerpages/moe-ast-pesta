@@ -4,7 +4,7 @@ permalink: /pesta-sg60-book-for-people-and-country-majullah/
 variant: tiptap
 description: ""
 ---
-<h1>For People And Country - Majullah!</h1>
+<h1>For People And Country - Majulah!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESTA Website Photo Album/Final_book_cover_design_picture.png">
