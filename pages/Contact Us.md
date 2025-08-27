@@ -66,17 +66,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Benjamin Tan Su-Jim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>benjamin_sj_tan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Wee Boon Nee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,17 +238,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>diana_goh@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Merry Bte Hamid (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>merry_hamid@moe.gov.sg</p>
 </td>
 </tr>
 </tbody>
