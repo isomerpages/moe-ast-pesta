@@ -8,7 +8,7 @@ variant: tiptap
 <h5>Chua Puay Wee Eric (Deputy Director)</h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/Eric_Chua_DD_PESTA__No_Background_.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/Eric_Chua_DD_PESTA__No_Background_.png">
 </div>
 <p>With over two decades of experience in sports and education, Eric brings
 extensive expertise and passion to his leadership role at PESTA, which
