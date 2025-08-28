@@ -16,9 +16,9 @@ sections:
         - title: Professional Learning
           description: ""
           url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
-        - title: Our Pioneers
+        - title: PESTA OPEN WEB RESOURCES
           description: ""
-          url: /pesta/be-connected-with-the-fraternity/our-pioneers
+          url: https://pesta.moe.edu.sg/aboutpower/
       background: /images/PESTA Website Photo Album/Pesta_Front_Page_New.gif
   - infopic:
       title: 2025 Workshops for PE and Sports CCA Teachers
