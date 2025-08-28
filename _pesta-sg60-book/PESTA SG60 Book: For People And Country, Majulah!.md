@@ -9,43 +9,51 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESTA Website Photo Album/Final_book_cover_design_picture.png">
 </div>
-<p>In this collection, PESTA offers a heartfelt gift to the nation—a celebration
-of how lessons taught, games played, and students believed in can shape
-lives and leave a lasting legacy. Told through six themed chapters, the
-book journeys from the field to the heart:</p>
-<ul>
+<p>As Singapore marks her 60th year of independence, this book stands as
+both a celebration and a commitment. “<em>For People and Country. Majulah!</em>”
+brings together 60 powerful stories, one for every year of our nationhood.
+Penned by 60 PE teachers across generations and profiles, these narratives
+echo with perseverance, sacrifice, and unyielding hope. They are stories
+of hardship, triumph, growth, and sacrifice – each a thread in the fabric
+of our national story. These stories are not just about the past – they
+are a call to action for the future. To continue nurturing hearts and minds;
+to pass the torch not just in ceremony, but in daily practice.</p>
+<p>&nbsp;</p>
+<p>Told through six themed chapters, the book journeys from the field to
+the heart.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>The Mission: United for Glory</strong> — the unifying spirit of
+<p><strong>The Mission: United for Glory</strong> – the unifying spirit of
 sport, playing for something bigger than ourselves.</p>
 </li>
 <li>
-<p><strong>The Legends: Heroes Among Us</strong> — teachers, coaches, and
+<p><strong>The Legends: Heroes Among Us </strong>– teachers, coaches, and
 students whose grit turns obstacles into opportunities.</p>
 </li>
 <li>
-<p><strong>The Moments: Triumphs that Define</strong> — pivotal shots and
-quiet breakthroughs that transform lives.</p>
+<p><strong>The Moments: Triumphs that Define</strong>&nbsp;– pivotal incidents
+and quiet breakthroughs that transform lives.</p>
 </li>
 <li>
-<p><strong>The Identity: Strength in Diversity</strong> — how a multicultural
-Singapore finds common ground in play and competition.</p>
+<p><strong>The Identity: Strength in Diversity</strong>&nbsp;– how a multicultural
+Singapore finds common ground in learning, playing and competing.</p>
 </li>
 <li>
-<p><strong>The Lessons: Wisdom from the Field</strong> — resilience, teamwork,
-and integrity carried beyond the court.</p>
+<p><strong>The Lessons: Wisdom from the Field</strong>&nbsp;– resilience,
+teamwork, and integrity carried beyond the court.</p>
 </li>
 <li>
-<p><strong>The Legacy: Passing the Torch</strong> — honouring those who came
-before and inspiring the next generation.</p>
+<p><strong>The Legacy: Passing the Torch</strong>&nbsp;– honouring those
+who came before and inspiring the next generation.</p>
 </li>
 </ul>
-<p>Whether you’re a teacher, student, parent, or athlete, these stories will
-move you, challenge you, and invite you to share your own.
-<br><strong>Let us continue to Lead, Care, and Inspire.</strong>
+<p>&nbsp;</p>
+<p>As we honour six decades of Singapore’s journey – whether you are a teacher,
+student, parent, athlete, or simply someone who believes in the power of
+stories – we invite you to journey with us. May these stories move you,
+challenge you, and inspire you to write and share your own.</p>
+<p>&nbsp;</p>
+<p>Book coming soon on Teacher's Day!
 <br>
-</p>
-<p><strong>Book coming soon on Teacher's Day!</strong>
-<br>
-<br><strong>A Heartfelt Gift From,</strong>
-<br><strong>PESTA</strong>
-</p>
+<br>A heartfelt gift from PESTA</p>
+<p></p>
