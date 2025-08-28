@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: /pesta/about-pesta/the-pesta-team
+          url: https://pesta.moe.edu.sg/pesta/about-pesta/principals-message/
         - title: Professional Learning
           description: ""
           url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
