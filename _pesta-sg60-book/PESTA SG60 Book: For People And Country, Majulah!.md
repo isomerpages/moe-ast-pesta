@@ -52,7 +52,10 @@ who came before and inspiring the next generation.</p>
 student, parent, athlete, or simply someone who believes in the power of
 stories – we invite you to journey with us. May these stories move you,
 challenge you, and inspire you to write and share your own.</p>
-<p>&nbsp;</p>
+<h4>Watch one of the featured stories in the book</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/svGOLVAVK30?si=P4G80Uc7UdbEg0ey"></iframe>
+</div>
 <p>Book coming soon on Teacher's Day!
 <br>
 <br>A heartfelt gift from PESTA</p>
