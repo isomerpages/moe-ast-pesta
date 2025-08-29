@@ -1,5 +1,5 @@
 collections:
-  the-pesta-team:
+  pesta-team:
     output: true
     order:
       - PESTA Leadership/.keep
