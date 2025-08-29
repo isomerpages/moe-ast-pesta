@@ -59,7 +59,7 @@ sections:
       image: /images/Website Banners/Gemini_Generated_Image_z6gcsjz6gcsjz6gc.png
       alt: PEKO
   - infopic:
-      title: PE Fraternity
+      title: Our PE Fraternity
       description: What is teaching PE all about? Interested to know more about the PE
         fraternity?
       button: let's find out!
