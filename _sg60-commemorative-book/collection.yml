@@ -1,0 +1,5 @@
+collections:
+  sg60-commemorative-book:
+    output: true
+    order:
+      - SG60 Commemorative Book.md

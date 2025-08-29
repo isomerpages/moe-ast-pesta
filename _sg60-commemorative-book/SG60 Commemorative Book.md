@@ -1,10 +1,10 @@
 ---
-title: "PESTA SG60 Book: For People And Country, Majulah!"
+title: SG60 Commemorative Book
 permalink: /pesta-sg60-book-for-people-and-country-majulah/
 variant: tiptap
 description: ""
 ---
-<h1>For People And Country, Majulah!</h1>
+<h2><strong>For People And Country. Majulah!</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESTA Website Photo Album/Final_book_cover_design_picture.png">
@@ -18,7 +18,6 @@ of hardship, triumph, growth, and sacrifice – each a thread in the fabric
 of our national story. These stories are not just about the past – they
 are a call to action for the future. To continue nurturing hearts and minds;
 to pass the torch not just in ceremony, but in daily practice.</p>
-<p>&nbsp;</p>
 <p>Told through six themed chapters, the book journeys from the field to
 the heart.</p>
 <ul data-tight="true" class="tight">
@@ -47,7 +46,6 @@ teamwork, and integrity carried beyond the court.</p>
 who came before and inspiring the next generation.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>As we honour six decades of Singapore’s journey – whether you are a teacher,
 student, parent, athlete, or simply someone who believes in the power of
 stories – we invite you to journey with us. May these stories move you,

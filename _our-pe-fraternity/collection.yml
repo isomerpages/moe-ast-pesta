@@ -1,5 +1,5 @@
 collections:
-  the-pe-fraternity:
+  our-pe-fraternity:
     output: true
     order:
       - PESTA Teacher Attributes.md
