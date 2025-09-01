@@ -118,5 +118,16 @@ variant: tiptap
 <h3>Administration Team</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/diana-goh-profile-bio-2019/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lead Manager" src="/images/Diana_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lead Manager</div><div class="isomer-card-link">Diana Goh Luan En</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Manager" src="/images/Staff Photos/DSC05291_compressed.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Manager</div>
+<div class="isomer-card-link">Mohamad Isman Bin Mohd Rosli</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Manager" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Manager</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
