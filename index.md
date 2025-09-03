@@ -21,6 +21,15 @@ sections:
           url: https://pesta.moe.edu.sg/aboutpower/
       background: /images/PESTA Website Photo Album/Pesta_Front_Page_New.gif
   - infopic:
+      title: For People and Country. Majulah!
+      id: infopic
+      description: 60 inspirational stories, written by 60 PE teachers. A gift to the
+        nation on our 60th birthday, and Teachers’ Day.
+      button: Click to read the stories
+      url: https://pesta.moe.edu.sg/pesta-sg60-book-for-people-and-country-majulah/
+      image: /images/Website Banners/SG60_Book_16_9_AR.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Workshops for PE and Sports CCA Teachers
       description: Looking for workshops to enhance your professional learning? We
         have an array of workshops designed for you!   By PE teachers. For PE
@@ -66,13 +75,4 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
-  - infopic:
-      title: For People and Country. Majulah!
-      id: infopic
-      description: 60 inspirational stories, written by 60 PE teachers. A gift to the
-        nation on our 60th birthday, and Teachers’ Day.
-      button: Click to read the stories
-      url: https://pesta.moe.edu.sg/pesta-sg60-book-for-people-and-country-majulah/
-      image: /images/Website Banners/SG60_Book_16_9_AR.jpg
-      alt: Image alt text
 ---
