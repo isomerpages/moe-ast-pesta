@@ -58,6 +58,5 @@ challenge you, and inspire you to write and share your own.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/svGOLVAVK30?si=P4G80Uc7UdbEg0ey"></iframe>
 </div>
-<p>
-<br>A heartfelt gift from PESTA</p>
+<p>A heartfelt gift from PESTA</p>
 <p></p>
