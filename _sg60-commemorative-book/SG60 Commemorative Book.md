@@ -53,7 +53,7 @@ challenge you, and inspire you to write and share your own.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H8yagAsguGE?si=Hte38oFQVFq8lkvf"></iframe>
 </div>
-<h4><strong><em>To read the full 60 stories, click </em></strong><a href="https://online.fliphtml5.com/cjnla/xqss/#p=28" rel="noopener nofollow" target="_blank">here</a></h4>
+<h4><strong><em>To read the full 60 stories, click </em></strong><a href="https://online.fliphtml5.com/cjnla/xqss/#p=1" rel="noopener nofollow" target="_blank">here</a></h4>
 <h4>Watch one of the featured stories in the book</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/svGOLVAVK30?si=P4G80Uc7UdbEg0ey"></iframe>
