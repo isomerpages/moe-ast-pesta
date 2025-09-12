@@ -3,6 +3,7 @@ title: Teacher Leader (TL)
 permalink: /pesta/be-connected-with-the-fraternity/our-networks/teacher-leader-tl/
 description: ""
 third_nav_title: Our Networks
+variant: markdown
 ---
 The PE Teacher Leaders (TL) Network was formed in 2012, then named Senior Teachers Network. It was renamed TL Network in 2014, after the appointment Master and Lead Teachers in the PE fraternity.
 
