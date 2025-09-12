@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - PESTA Teacher Attributes.md
-      - Our Networks/Teacher Leader (TL) Core Team.md
-      - Our Networks/Teacher Leader (TL).md
       - Our Networks/.keep
+      - Our Networks/Teacher Leader (TL).md
+      - Our Networks/Teacher Leader (TL) Core Team.md
       - Our Physical Education Knowledgeable Others (PEKO).md
       - Our Pioneers/.keep
       - Our Pioneers/Our Pioneers.md
