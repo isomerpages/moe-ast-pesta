@@ -7,6 +7,9 @@ third_nav_title: Our Networks
 ---
 <h3><strong>PE Teacher Leader Core Team (2025-2026)</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESTA Website Photo Album/unnamed__15_.jpg">
+</div>
 <p>The Teacher Leader (TL) Core Team comprises a select group of TLs nominated
 by PESTA and endorsed by the Schools Division for a two-year appointment.
 Throughout their tenure, they receive mentorship from PESTA Master Teachers
