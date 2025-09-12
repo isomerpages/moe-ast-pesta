@@ -128,6 +128,6 @@ variant: tiptap
 <div class="isomer-card-title">Manager</div>
 <div class="isomer-card-link">Mohamad Isman Bin Mohd Rosli</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Manager" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Manager</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a>
 </div>
 <p></p>
