@@ -33,6 +33,108 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Wei Loon Daryl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fuhua Pri Sch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPEA Oustanding PE Teacher Award (Merit)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nicholas Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maris Stella High Sch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPEA Outstanding Teacher-Coach Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dennis Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xingnan Pri Sch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPEA Oustanding PE Teacher Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Iqbal Bin Mohd Sharifuddin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPEA Oustanding PE Teacher Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeo Eng Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Girls’ Pri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPEA Oustanding PE Teacher Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Phey Serh Maria</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rainbow Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPEA Outstanding SPED PE Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
