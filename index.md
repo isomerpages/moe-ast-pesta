@@ -27,7 +27,7 @@ sections:
         teachers.
       button: Please click on this link to find out more!
       url: /pesta/professional-development/courses-and-twa-for-pe-and-sports-teachers/
-      image: /images/Website Banners/Screenshot_2026_01_05_144556.png
+      image: /images/Website Banners/Screenshot_2026_01_05_150131.png
       alt: Workshops for PE teachers
   - infopic:
       title: PESTA Open Web Resource (POWeR)
