@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Workshops for PE and Sports CCA Teachers</h2>
-<p>Please click on the unique link to the workshop in the list or login&nbsp;to&nbsp;
+<p>Please click on the unique link to the workshop in the list or login&nbsp;to
 <a href="https://www.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>&nbsp;to&nbsp;obtain more details on the workshop's structure,
 objectives etc and register.</p>
 <p></p>
