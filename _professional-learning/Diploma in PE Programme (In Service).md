@@ -22,7 +22,6 @@ teaching Subject Areas of Need (SAN) or niche subjects, due to existing
 staffing requirements. The programme's commencement is subject to meeting
 the minimum number of participants required by NIE.</p>
 <p>For enquiries, please email <a href="mailto:moe_pesta@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_pesta@moe.gov.sg</a>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Banners/EDM_ApplicationForm.jpg">
-</div>
+<p>Click the link <a href="https://form.gov.sg/6916ca5a437725989288736d" rel="noopener nofollow" target="_blank">here</a> or
+the image below to access the application form</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6916ca5a437725989288736d"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Banners/EDM_ApplicationForm.jpg"></a>
 <p></p>
