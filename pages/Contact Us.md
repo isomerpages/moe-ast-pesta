@@ -99,6 +99,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Aw Kai Yueh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>aw_kai_yueh@moe.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mabel Yong Chooi Cheng (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,7 +135,7 @@ variant: tiptap
 <p>Tan Seck Heong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher (Schools)</p>
+<p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_seck_heong@moe.gov.sg</p>
@@ -135,7 +146,7 @@ variant: tiptap
 <p>Teng Tse Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher</p>
+<p>Master Teacher (Schools)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>teng_tse_sheng@moe.gov.sg</p>
@@ -176,17 +187,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aw Kai Yueh (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>aw_kai_yueh@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mohamed Riad Bin Mohamed Padli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,17 +194,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>mohd_riad@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mohammed Ridzal Bin Mohammed Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohammed_ridzal_mohammed_ali@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -220,17 +209,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Karthikesan S/O Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>karthikesan_kumar@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Diana Goh Luan En (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,6 +216,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>diana_goh@moe.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Isman Mohd Rosli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohamad_isman_mohd_rosli@moe.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shobana Rajen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shobana_rajen@moe.gov.sg</p>
 </td>
 </tr>
 </tbody>
