@@ -4,41 +4,6 @@ permalink: /pesta/about-pesta/the-pesta-team/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/algena-koh-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Algena_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Algena Koh</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/tang-yee-fun-francis/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Francis_Website_Photo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Senior Academy Officer</div>
-<div class="isomer-card-link">Francis Tang Yee Fun</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/tan-hui-chun/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Hui_Chun_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Tan Hui Juan</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/Senior%20Academy%20Officers/editPage/Mohamed%20Riad%20Bin%20Mohamed%20Padli.md" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Mohd_Riad_5.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Senior Academy Officer</div>
-<div class="isomer-card-link">Mohamed Riad Bin Mohamed Padli</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/alex-ang-bio-2026/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Alex_4_v2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Ang Kok Wee (Alex)</div></div></a>
-<a rel="noopener noreferrer nofollow" href="tbc" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/PESTA Website Photo Album/PLaceholder_Blank.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Senior Academy Officer</div>
-<div class="isomer-card-link">Jason Lum</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/Senior%20Academy%20Officers/editPage/David%20James%20Chua.m" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Staff Photos/David_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Academy Officer</div><div class="isomer-card-link">David James Chua</div></div></a>
-</div>
 <h1>PESTA TEAM</h1>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -164,40 +129,5 @@ variant: tiptap
 <div class="isomer-card-link">Mohamad Isman Bin Mohd Rosli</div>
 </div>
 </a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/algena-koh-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Algena_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Algena Koh</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/tang-yee-fun-francis/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Francis_Website_Photo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Senior Academy Officer</div>
-<div class="isomer-card-link">Francis Tang Yee Fun</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/tan-hui-chun/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Hui_Chun_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Tan Hui Juan</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/Senior%20Academy%20Officers/editPage/Mohamed%20Riad%20Bin%20Mohamed%20Padli.md" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Mohd_Riad_5.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Senior Academy Officer</div>
-<div class="isomer-card-link">Mohamed Riad Bin Mohamed Padli</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/alex-ang-bio-2026/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Alex_4_v2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Ang Kok Wee (Alex)</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Karthikesan_Website_Photo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Academy Officer</div>
-<div class="isomer-card-link">Karthikesan S/O Kumar</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/Senior%20Academy%20Officers/editPage/David%20James%20Chua.m" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Staff Photos/David_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Academy Officer</div><div class="isomer-card-link">David James Chua</div></div></a>
 </div>
 <p></p>
