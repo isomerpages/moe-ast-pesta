@@ -66,7 +66,7 @@ variant: tiptap
 <div class="isomer-card-title">Master Teacher</div>
 <div class="isomer-card-link">Teng Tse Sheng</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/aw-kai-yueh-bio-2022/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Kai_Yueh_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Master Teacher</div><div class="isomer-card-link">Aw Kai Yueh</div></div></a>
 </div>
 <h3>Senior / Academy Officers<br></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/algena-koh-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Algena_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Algena Koh</div></div></a>
