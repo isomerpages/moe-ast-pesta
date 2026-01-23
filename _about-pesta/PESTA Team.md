@@ -92,10 +92,10 @@ variant: tiptap
 <div class="isomer-card-link">Aw Kai Yueh</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/Senior%20Academy%20Officers/editPage/Mohamed%20Riad%20Bin%20Mohamed%20Padli.md" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Mohd_Riad_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Mohamed Riad Bin Mohamed Padli</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/mohammed-ridzal-bin-mohammed-ali-bio-2023/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/alex-ang-bio-2026/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Mohammed_Ridzal_Website_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Alex_4_v2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
