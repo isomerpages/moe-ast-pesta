@@ -100,7 +100,7 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Senior Academy Officer</div>
-<div class="isomer-card-link">Mohammed Ridzal Mohammed Ali</div>
+<div class="isomer-card-link">Ang Kok Wee (Alex)</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/sites/moe-ast-pesta/folders/the-pesta-team/subfolders/Senior%20Academy%20Officers/editPage/David%20James%20Chua.m" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Academy Officer" src="/images/Staff Photos/David_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Academy Officer</div><div class="isomer-card-link">David James Chua</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/karthikesan-s-o-kumar/" class="isomer-card">
