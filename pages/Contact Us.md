@@ -198,13 +198,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Jason Lum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>jason_lum@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
