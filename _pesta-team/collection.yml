@@ -2,11 +2,11 @@ collections:
   pesta-team:
     output: true
     order:
-      - PESTA Leadership/Aw Kai Yueh.md
       - PESTA Leadership/.keep
       - PESTA Leadership/Melanie Ann Martens.md
       - PESTA Leadership/Chua Puay Wee Eric.md
       - PESTA Leadership/Hanif Bin Abdul Rahman.md
+      - PESTA Leadership/Aw Kai Yueh.md
       - PESTA Leadership/Wee Boon Nee.md
       - PESTA Leadership/Irfan Bin Ismail.md
       - PESTA Leadership/Joanna Phan.md
