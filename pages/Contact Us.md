@@ -198,7 +198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jason Lum</p>
+<p>Jason Lum Tuck Choi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Academy Officer</p>
