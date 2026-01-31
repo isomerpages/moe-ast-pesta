@@ -1,5 +1,5 @@
 ---
-title: Kok Wee Ang (Alex)
+title: Ang Kok Wee Alex
 permalink: /pesta/about-pesta/the-pesta-team/alex-ang-bio-2026/
 description: ""
 third_nav_title: Senior Academy Officers

@@ -165,6 +165,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ang Kok Wee Alex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_kok_wee@moe.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tang Yee Fun Francis</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,6 +194,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_hui_chun@moe.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jason Lum Tuck Choi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jason_lum@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -255,7 +277,7 @@ variant: tiptap
 <br>Orchard MRT: 175
 <br>Queenstown MRT: 51</p>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31910.62587407959!2d103.802846!3d1.276458!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86c1c80b2bd60a97!2sAcademy%20of%20Singapore%20Teachers!5e0!3m2!1sen!2ssg!4v1667964802424!5m2!1sen!2ssg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31910.62587407959!2d103.802846!3d1.276458!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86c1c80b2bd60a97!2sAcademy%20of%20Singapore%20Teachers!5e0!3m2!1sen!2ssg!4v1667964802424!5m2!1sen!2ssg"></iframe>
 </div>
 <p><u>Carpark: </u>
 <br>Drivers are advised to park at the nearby&nbsp;<a href="https://www.sgcarmart.com/news/carpark_index.php?ID=816&amp;LOC=all&amp;TYP=carpark&amp;SRH=" rel="noopener noreferrer nofollow" target="_blank">Gillman Barracks</a>&nbsp;or&nbsp;
