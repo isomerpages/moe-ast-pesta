@@ -91,7 +91,7 @@ variant: tiptap
 <div class="isomer-card-title">Senior Academy Officer</div>
 <div class="isomer-card-link">Mohamed Riad Bin Mohamed Padli</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/alex-ang-bio-2026/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Alex_4_v2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Ang Kok Wee (Alex)</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/alex-ang-bio-2026/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Screenshot_2026_02_13_102853.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Ang Kok Wee (Alex)</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://pesta.moe.edu.sg/jason-lum-tuck-choi/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
