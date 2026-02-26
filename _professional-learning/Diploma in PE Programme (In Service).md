@@ -4,8 +4,7 @@ permalink: /diploma-in-physical-education-programme/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Diploma in Physical Education (In-Service) Programme 2027/2028</strong></h3>
-<h4>(Applications open in January 2026)</h4>
+<h3><strong>Diploma in Physical Education (In-Service) Programme 2027/2028</strong><br>(Registration Deadline: 15<sup>th</sup> April 2026)</h3>
 <p>The Diploma in Physical Education (In-Service) Programme aims to develop
 professional competency and expertise in non-PE teachers for teaching Physical
 Education (PE) at Primary and Secondary levels. The programme will be conducted

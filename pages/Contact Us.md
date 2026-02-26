@@ -66,6 +66,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teng Tse Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher (Schools)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teng_tse_sheng@moe.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Wee Boon Nee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,17 +95,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>irfan_ismail@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Joanna Phan Swee Lee (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>joanna_phan@moe.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -139,17 +139,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_seck_heong@moe.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teng Tse Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master Teacher (Schools)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teng_tse_sheng@moe.gov.sg</p>
 </td>
 </tr>
 <tr>

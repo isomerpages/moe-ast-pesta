@@ -23,39 +23,6 @@ variant: tiptap
 <div class="isomer-card-link">Chua Puay Wee Eric</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/hanif-profile-bio-2019/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Principal Master Teacher" src="/images/Hanif_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Principal Master Teacher</div><div class="isomer-card-link">Hanif Abdul Rahman</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://pesta.moe.edu.sg/aw-kai-yueh/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Staff Photos/Screenshot_2026_01_30_112413.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Master Teacher</div>
-<div class="isomer-card-link">Aw Kai Yueh</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://pesta.moe.edu.sg/wee-boon-nee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teache" src="/images/Staff Photos/Wee_Boon_test.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher</div><div class="isomer-card-link">Wee Boon Nee</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/irfan-ismail-2024/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Irfan_Website_Photo.JPG">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Master Teacher</div>
-<div class="isomer-card-link">Irfan Ismail</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Staff Photos/mabel_test.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher</div><div class="isomer-card-link">Mabel Yong</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Master Teacher - Schools" src="/images/Nasrun_Website_Photo.JPG">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Master Teacher</div>
-<div class="isomer-card-link">Nasrun Mizzy</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teacher - Schools" src="/images/Seck_Heong_Website_Photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher - Schools</div><div class="isomer-card-link">Tan Seck Heong</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/teng-tse-sheng-profile-bio-2019/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -63,8 +30,41 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Master Teacher</div>
+<div class="isomer-card-title">Master Teacher - Schools</div>
 <div class="isomer-card-link">Teng Tse Sheng</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://pesta.moe.edu.sg/aw-kai-yueh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Staff Photos/Screenshot_2026_01_30_112413.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher</div><div class="isomer-card-link">Aw Kai Yueh</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://pesta.moe.edu.sg/wee-boon-nee/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Master Teache" src="/images/Staff Photos/Wee_Boon_test.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Master Teacher</div>
+<div class="isomer-card-link">Wee Boon Nee</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/irfan-ismail-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Irfan_Website_Photo.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher</div><div class="isomer-card-link">Irfan Ismail</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/mabel-yong-profile-bio-2019/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Staff Photos/mabel_test.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Master Teacher</div>
+<div class="isomer-card-link">Mabel Yong</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/nasrun-mizzy-2023/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Master Teacher - Schools" src="/images/Nasrun_Website_Photo.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Master Teacher</div><div class="isomer-card-link">Nasrun Mizzy</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/tan-seck-heong-profile-bio-2019/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Master Teacher" src="/images/Seck_Heong_Website_Photo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Master Teacher</div>
+<div class="isomer-card-link">Tan Seck Heong</div>
 </div>
 </a>
 </div>
@@ -91,7 +91,7 @@ variant: tiptap
 <div class="isomer-card-title">Senior Academy Officer</div>
 <div class="isomer-card-link">Mohamed Riad Bin Mohamed Padli</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/alex-ang-bio-2026/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Alex_4_v2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Ang Kok Wee (Alex)</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/pesta/about-pesta/the-pesta-team/alex-ang-bio-2026/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senior Academy Officer" src="/images/Staff Photos/Screenshot_2026_02_13_102853.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senior Academy Officer</div><div class="isomer-card-link">Ang Kok Wee (Alex)</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://pesta.moe.edu.sg/jason-lum-tuck-choi/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
