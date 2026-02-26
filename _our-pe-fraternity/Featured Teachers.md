@@ -144,7 +144,7 @@ variant: tiptap
 <p>Cantonment Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award</p>
+<p>SPEA Outstanding PE Teacher Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -161,7 +161,7 @@ variant: tiptap
 <p>Woodlands Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award (Merit)</p>
+<p>SPEA Outstanding PE Teacher Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -246,7 +246,7 @@ variant: tiptap
 <p>Northlight Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award</p>
+<p>SPEA Outstanding PE Teacher Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -263,7 +263,7 @@ variant: tiptap
 <p>ITE College West</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award</p>
+<p>SPEA Outstanding PE Teacher Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
@@ -467,7 +467,7 @@ variant: tiptap
 <p>Jurong West Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Teacher-Coach Award (Merit)</p>
+<p>SPEA Outstanding Teacher-Coach Award (Merit)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -569,7 +569,7 @@ variant: tiptap
 <p>Hillgrove Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award (Secondary)</p>
+<p>SPEA Outstanding PE Teacher Award (Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -586,7 +586,7 @@ variant: tiptap
 <p>Fernvale Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award (Primary)</p>
+<p>SPEA Outstanding PE Teacher Award (Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2017</p>
@@ -603,7 +603,7 @@ variant: tiptap
 <p>Sengkang Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award (Secondary)</p>
+<p>SPEA Outstanding PE Teacher Award (Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2017</p>
@@ -637,7 +637,7 @@ variant: tiptap
 <p>Fairfield Methodist Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award (Primary)</p>
+<p>SPEA Outstanding PE Teacher Award (Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2015</p>
@@ -654,7 +654,7 @@ variant: tiptap
 <p>Changkat Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award (Primary)</p>
+<p>SPEA Outstanding PE Teacher Award (Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2013</p>
@@ -671,7 +671,7 @@ variant: tiptap
 <p>Northland Sec Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award (Secondary)</p>
+<p>SPEA Outstanding PE Teacher Award (Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2013</p>
@@ -994,7 +994,7 @@ variant: tiptap
 <p>Pioneer Junior College</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA OUTSTANDING PE TEACHER AWARD (Secondary/JC)</p>
+<p>SPEA Outstanding PE Teacher Award (Secondary/JC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2007</p>
