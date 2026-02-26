@@ -104,13 +104,13 @@ Watch this page as there will be more updates with new games!</p>
 <td rowspan="1" colspan="1">
 <h4><strong>Bounce Bounce *NEW</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TnA5aAqF8Ko?si=mmade7uMAxAyIOP3"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TnA5aAqF8Ko?si=mmade7uMAxAyIOP3"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong> Foot Tennis *NEW</strong></h4>
+<h4><strong>Foot Tennis *NEW</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T8FyRj1auZs?si=f9ycdD64MhvkRtdk"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T8FyRj1auZs?si=f9ycdD64MhvkRtdk"></iframe>
 </div>
 </td>
 </tr>
