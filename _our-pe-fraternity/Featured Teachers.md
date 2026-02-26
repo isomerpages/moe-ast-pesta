@@ -4,7 +4,7 @@ permalink: /pesta/be-connected-with-the-fraternity/featured-teachers/
 description: ""
 variant: tiptap
 ---
-<h3>OUTSTANDING PE TEACHER AWARD / OUTSTANDING TEACHER-COACH AWARD (1996 TO 2023)</h3>
+<h3>OUTSTANDING PE TEACHER AWARD / OUTSTANDING TEACHER-COACH AWARD</h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -70,13 +70,13 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dennis Yap</p>
+<p>Denise Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Xingnan Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award</p>
+<p>SPEA Oustanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>Raffles Institution</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award</p>
+<p>SPEA Oustanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
@@ -110,7 +110,7 @@ variant: tiptap
 <p>Raffles Girls’ Pri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPEA Oustanding PE Teacher Award</p>
+<p>SPEA Oustanding Teacher-Coach Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
