@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Teacher Work Attachment Plus (TWA+)</h2>
-<h3>(6 to 31 July 2026)</h3>
+<h4>(6 to 31 July 2026)</h4>
 <p>The Teacher Work Attachment Plus (TWA+) Programme enables educators to
 gain valuable industry exposure beyond the classroom, helping them become
 future-ready professionals who can better guide students in our rapidly
