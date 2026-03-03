@@ -19,8 +19,9 @@ relevant and authentic through engaging with Master Teachers, shadowing
 innovative programme development processes, observing best practices in
 action, and actively contributing to the future of physical education across
 Singapore schools.</p>
-<p>To register for TWA+, please click <a href="https://form.gov.sg/6819a56647a172f032b6097c" rel="noopener noreferrer nofollow" target="_blank">here</a> (pls insert
-link).&nbsp;</p>
+<p>To register for 2026 TWA+ Programme (from 6 to 31 July 2026), please click
+<a href="https://form.gov.sg/6819a56647a172f032b6097c" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <p><strong>Registration closes 30 April 2026.</strong>
 </p>
 <p>For more information on TWA+, please refer to learning objectives and
