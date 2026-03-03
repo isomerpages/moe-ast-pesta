@@ -4,8 +4,8 @@ permalink: /teacher-work-attachment-plus-twa-plus/
 variant: tiptap
 description: ""
 ---
-<h2>Teacher Work Attachment+ (TWA+)</h2>
-<h3>(6 to 31 July 2026)</h3>
+<h2>Teacher Work Attachment Plus (TWA+)</h2>
+<h4>(6 to 31 July 2026)</h4>
 <p>The Teacher Work Attachment Plus (TWA+) Programme enables educators to
 gain valuable industry exposure beyond the classroom, helping them become
 future-ready professionals who can better guide students in our rapidly
@@ -19,8 +19,9 @@ relevant and authentic through engaging with Master Teachers, shadowing
 innovative programme development processes, observing best practices in
 action, and actively contributing to the future of physical education across
 Singapore schools.</p>
-<p>To register for TWA+, please click <a href="https://form.gov.sg/6819a56647a172f032b6097c" rel="noopener noreferrer nofollow" target="_blank">here</a> (pls insert
-link).&nbsp;</p>
+<p>To register for 2026 TWA+ Programme (from 6 to 31 July 2026), please click
+<a href="https://form.gov.sg/6819a56647a172f032b6097c" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <p><strong>Registration closes 30 April 2026.</strong>
 </p>
 <p>For more information on TWA+, please refer to learning objectives and
