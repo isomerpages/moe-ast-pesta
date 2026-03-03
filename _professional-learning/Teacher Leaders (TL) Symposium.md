@@ -6,11 +6,7 @@ description: ""
 ---
 <h3>Teacher Leaders (TL) Symposium 2026</h3>
 <p><strong>Connecting Practice. Rejuvenating the Joy of Teaching</strong>
-<br>
 </p>
-<p>The inaugural PESTA TL Symposium was held on Thu, 2 May 2024, 1:30 – 6:00
-p.m! Our PE Teacher Leaders shared with the fraternity their insights gained
-from inquiry on teach.</p>
 <p>PESTA is proud to present the 2026 Teacher Leaders (TL) Symposium — a
 professional learning platform dedicated to deepening connections across
 practice, theory and purpose. Building on the success of our inaugural
