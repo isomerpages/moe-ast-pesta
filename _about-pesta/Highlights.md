@@ -4,7 +4,7 @@ permalink: /pesta/about-pesta/pesta-highlights/
 description: ""
 variant: tiptap
 ---
-<h4><strong>2026 </strong></h4>
+<h4><strong>2026</strong></h4>
 <p><strong>Jamuary:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -14,7 +14,7 @@ learning courses within the year with quick-access links and key programme
 information.</p>
 </li>
 </ul>
-<h4><strong>2025 </strong></h4>
+<h4><strong>2025</strong></h4>
 <p><strong>August:</strong>
 </p>
 <ul data-tight="true" class="tight">
