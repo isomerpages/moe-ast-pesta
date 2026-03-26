@@ -1,10 +1,10 @@
 ---
-title: PESTA Team
+title: Our PESTA Team
 permalink: /pesta/about-pesta/the-pesta-team/
 description: ""
 variant: tiptap
 ---
-<h1>PESTA TEAM</h1>
+<h1>Our PESTA Team</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 PESTA Staff Photo" src="/images/PESTA Website Photo Album/Chosen.jpg">

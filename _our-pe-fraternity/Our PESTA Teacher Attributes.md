@@ -1,7 +1,8 @@
 ---
-title: PESTA Teacher Attributes
+title: Our PESTA Teacher Attributes
 permalink: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
 description: ""
+variant: tiptap
 ---
 **P**ractising Professionals of PE and Sports  
   
