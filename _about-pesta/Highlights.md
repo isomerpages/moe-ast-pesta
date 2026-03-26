@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>2026</strong></h4>
-<p><strong>Jamuary:</strong>
+<p><strong>January:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -24,6 +24,8 @@ for their collaborative project- an innovative 360° immersive video solution
 to help students reduce their fear of heights and build confidence for
 Challenge Rope Courses using VR headsets, combined with effective adult
 and peer support.</p>
+</li>
+</ul>
 <p></p>
 <p><strong>September:</strong>
 </p>
@@ -39,8 +41,6 @@ through the power of narrative.</p>
 sporting legends like the 1994 Singapore Football Dream Team to explore
 lessons in character development, team building, and sporting culture for
 schools.</p>
-</li>
-</ul>
 </li>
 </ul>
 <h4><strong>2024</strong></h4>
