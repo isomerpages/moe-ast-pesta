@@ -29,13 +29,13 @@ and peer support.</p>
 <p></p>
 <p><strong>September:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>PESTA launched its SG60 book, For People and Country - Majulah, a commemorative
 collection of 60 stories from PE teachers aimed at inspiring the next generation
 through the power of narrative.</p>
-<p>October 2025:</p>
-</li>
+<p></p>
+<p><strong>October:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>PESTA launched its Team Talk podcast series, featuring conversations with
 sporting legends like the 1994 Singapore Football Dream Team to explore
