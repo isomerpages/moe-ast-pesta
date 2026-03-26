@@ -2,12 +2,12 @@ collections:
   professional-learning:
     output: true
     order:
-      - Workshops (for PE & Sports CCA Teachers).md
-      - Teachers’ Conference and ExCEL Fest (TCEF).md
-      - Physical Education Teacher Practitioner Programme (PETPP).md
+      - Book Chapters by the PESTA Team.md
       - Diploma in PE Programme (In Service).md
+      - Physical Education Teacher Practitioner Programme (PETPP).md
+      - PL Framework for PE and Sports Teachers.md
       - Professional Learning Fiesta.md
+      - Teachers’ Conference and ExCEL Fest (TCEF).md
       - Teacher Leaders (TL) Symposium.md
       - Teacher Work Attachment Plus (TWA Plus).md
-      - Book Chapters by the PESTA Team.md
-      - PL Framework for PE and Sports Teachers.md
+      - Workshops (for PE & Sports CCA Teachers).md
