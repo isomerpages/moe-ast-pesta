@@ -2,7 +2,7 @@ collections:
   our-pe-fraternity:
     output: true
     order:
-      - PESTA Teacher Attributes.md
+      - Our PESTA Teacher Attributes.md
       - Our Networks/.keep
       - Our Networks/Teacher Leader (TL).md
       - Our Networks/Teacher Leader (TL) Core Team.md
