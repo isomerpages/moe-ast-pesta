@@ -4,6 +4,8 @@ permalink: /pesta/be-connected-with-the-fraternity/physical-education-knowledgea
 description: ""
 variant: markdown
 ---
+
+![](/images/Website%20Banners/2026_PEKOs.jpg)
 In 2022, PESTA introduced Physical Education Knowledgeable Others (PEKO) to harness the strengths and expertise of the PE fraternity to enhance PD experiences in a more beneficial and sustainable way. These knowledgeable others are PE teachers with expertise in areas such as:
 
 *   Curriculum Leadership,
