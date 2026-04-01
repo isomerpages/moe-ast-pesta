@@ -3,6 +3,7 @@ title: Story Behind Our POWeR Logo
 permalink: /story-behind-our-power-logo/
 variant: tiptap
 description: ""
+third_nav_title: PESTA Open Web Resource POWeR
 ---
 <p></p>
 <div class="isomer-image-wrapper">
