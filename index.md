@@ -32,7 +32,8 @@ sections:
   - infopic:
       title: 2026 PEKOs
       id: infopic
-      description: We are glad to announce the list of 2026 PEKOs!
+      description: Introducing the 2026 list of Physical Education Knowledgeable
+        Others (PEKO)!
       button: FIND MORE MORE!
       url: https://pekos-2026.netlify.app/
       image: /images/Website Banners/2026_PEKOs.jpg
