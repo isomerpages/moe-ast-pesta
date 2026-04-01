@@ -2,6 +2,8 @@ collections:
   professional-learning:
     output: true
     order:
+      - Professional Sharing Sessions/Teachers’ Conference and ExCEL Fest
+        (TCEF).md
       - Professional Sharing Sessions/Professional Learning Fiesta.md
       - Professional Sharing Sessions/.keep
       - PL Framework for PE and Sports Teachers.md
