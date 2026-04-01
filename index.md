@@ -59,15 +59,6 @@ sections:
       image: /images/Website Banners/SG60_Book_16_9_AR.jpg
       alt: Image alt text
   - infopic:
-      title: Physical Education Knowledgeable Others (PEKO)
-      description: In 2022, PESTA introduced Physical Education Knowledgeable Others
-        (PEKO) to harness the strengths and expertise of the PE fraternity to
-        enhance...
-      button: Please click on this link to find out more!
-      url: /pesta/be-connected-with-the-fraternity/physical-education-knowledgeable-others-peko
-      image: /images/Website Banners/Gemini_Generated_Image_z6gcsjz6gcsjz6gc.png
-      alt: PEKO
-  - infopic:
       title: Our PE Fraternity
       description: What is teaching PE all about? Interested to know more about the PE
         fraternity?
