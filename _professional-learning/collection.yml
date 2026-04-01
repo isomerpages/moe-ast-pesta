@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - Professional Sharing Sessions/.keep
       - PL Framework for PE and Sports Teachers.md
       - Non PE Trained Teachers/.keep
       - Non PE Trained Teachers/Physical Education Teacher Practitioner
