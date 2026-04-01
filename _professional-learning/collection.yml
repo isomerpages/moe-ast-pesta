@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - Professional Sharing Sessions/Teacher Leaders (TL) Symposium.md
       - Professional Sharing Sessions/Teachers’ Conference and ExCEL Fest
         (TCEF).md
       - Professional Sharing Sessions/Professional Learning Fiesta.md
