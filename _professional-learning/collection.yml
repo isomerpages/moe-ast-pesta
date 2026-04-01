@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - Teacher Leaders (TL) Symposium.md
       - PL Framework for PE and Sports Teachers.md
       - Workshops (for PE & Sports CCA Teachers).md
       - Professional Sharing Sessions/.keep
