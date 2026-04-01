@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.nysi.org.sg/" rel="noopener noreferrer nofollow" target="_blank">High Performance Sport Institute</a>
+<p><a href="http://www.nysi.org.sg/" rel="noopener noreferrer nofollow" target="_blank">High Performance Sport Institute (HPSI)</a>
 </p>
 </li>
 <li>
