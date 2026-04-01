@@ -32,7 +32,8 @@ sections:
   - infopic:
       title: 2026 PEKOs
       id: infopic
-      description: We are glad to announce the list of 2026 PEKOs!
+      description: Introducing the 2026 list of Physical Education Knowledgeable
+        Others (PEKO)!
       button: FIND MORE MORE!
       url: https://pekos-2026.netlify.app/
       image: /images/Website Banners/2026_PEKOs.jpg
@@ -57,15 +58,6 @@ sections:
       url: https://pesta.moe.edu.sg/pesta-sg60-book-for-people-and-country-majulah/
       image: /images/Website Banners/SG60_Book_16_9_AR.jpg
       alt: Image alt text
-  - infopic:
-      title: Physical Education Knowledgeable Others (PEKO)
-      description: In 2022, PESTA introduced Physical Education Knowledgeable Others
-        (PEKO) to harness the strengths and expertise of the PE fraternity to
-        enhance...
-      button: Please click on this link to find out more!
-      url: /pesta/be-connected-with-the-fraternity/physical-education-knowledgeable-others-peko
-      image: /images/Website Banners/Gemini_Generated_Image_z6gcsjz6gcsjz6gc.png
-      alt: PEKO
   - infopic:
       title: Our PE Fraternity
       description: What is teaching PE all about? Interested to know more about the PE

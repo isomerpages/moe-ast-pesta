@@ -1,5 +1,5 @@
 ---
-title: Partners and Stakeholders
+title: Our Partners and Stakeholders
 permalink: /pesta/partners-and-stakeholders/
 description: ""
 variant: tiptap
