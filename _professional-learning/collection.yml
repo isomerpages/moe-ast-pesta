@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - Professional Sharing Sessions/Professional Learning Fiesta.md
       - Professional Sharing Sessions/.keep
       - PL Framework for PE and Sports Teachers.md
       - Non PE Trained Teachers/.keep
