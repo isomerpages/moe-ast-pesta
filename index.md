@@ -30,6 +30,14 @@ sections:
       image: /images/Website Banners/Screenshot_2026_01_05_150131.png
       alt: Workshops for PE teachers
   - infopic:
+      title: 2026 PEKOs
+      id: infopic
+      description: We are glad to announce the list of 2026 PEKOs!
+      button: FIND MORE MORE!
+      url: https://pekos-2026.netlify.app/
+      image: /images/Website Banners/2026_PEKOs.jpg
+      alt: Image alt text
+  - infopic:
       title: PESTA Open Web Resource (POWeR)
       subtitle: POWeR
       id: infopic
