@@ -2,6 +2,7 @@ collections:
   open-resource:
     output: true
     order:
+      - PESTA Open Web Resource POWeR/Story Behind Our POWeR Logo.md
       - PESTA Open Web Resource POWeR/About PESTA Open Web Resource (POWeR).md
       - PESTA Open Web Resource POWeR/.keep
       - Informal Professional Learning/.keep
