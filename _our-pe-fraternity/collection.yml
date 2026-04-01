@@ -2,7 +2,6 @@ collections:
   our-pe-fraternity:
     output: true
     order:
-      - Partners and Stakeholders.md
       - Our PESTA Teacher Attributes.md
       - Our Networks/.keep
       - Our Networks/Teacher Leader (TL).md
@@ -22,3 +21,4 @@ collections:
       - Our Pioneers/Dr Quek Jin Jong.md
       - Our Featured Teachers.md
       - Our SG60 Commemorative Book.md
+      - Partners and Stakeholders.md
