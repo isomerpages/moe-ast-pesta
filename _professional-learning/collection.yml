@@ -2,7 +2,6 @@ collections:
   professional-learning:
     output: true
     order:
-      - Book Chapters by the PESTA Team.md
       - Diploma in PE Programme (In Service).md
       - Physical Education Teacher Practitioner Programme (PETPP).md
       - PL Framework for PE and Sports Teachers.md
