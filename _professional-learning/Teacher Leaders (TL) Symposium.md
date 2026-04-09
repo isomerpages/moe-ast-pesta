@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Teacher Leaders (TL) Symposium 2026</h3>
-<p></p><a class="isomer-image-wrapper" href="https://tl-symposium26.netlify.app/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Website Banners/Screenshot_2026_04_09_145216.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://tl-symposium26.netlify.app/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Website Banners/Screenshot_2026_04_09_145216.png"></a>
 <p>
 <br><strong>Connecting Practice. Rejuvenating the Joy of Teaching</strong>
 </p>
