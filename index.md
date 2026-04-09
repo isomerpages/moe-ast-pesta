@@ -66,4 +66,15 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
+  - infopic:
+      title: TL SYMPOSIUM 2026
+      subtitle: accessible via non-wog devices
+      id: infopic
+      description: Connecting Practice. Rejuvenating the Joy of Teaching. [FOR TLs and
+        and KPs only]
+      button: visit the website for more info
+      url: https://tl-symposium26.netlify.app/
+      image: /images/Website
+        Banners/hedra_image_d295a220_0a59_484d_909c_addccfe27e49.png
+      alt: Image alt text
 ---
