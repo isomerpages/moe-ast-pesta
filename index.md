@@ -68,9 +68,9 @@ sections:
       alt: PE Fraternity
   - infopic:
       title: TL SYMPOSIUM 2026
-      subtitle: accessible via non-wog devices
+      subtitle: accessible via non-Wog devices
       id: infopic
-      description: Connecting Practice. Rejuvenating the Joy of Teaching. [FOR TLs and
+      description: Connecting Practice. Rejuvenating the Joy of Teaching. [Open to TLs
         and KPs only]
       button: visit the website for more info
       url: https://tl-symposium26.netlify.app/
