@@ -74,7 +74,6 @@ sections:
         and KPs only]
       button: visit the website for more info
       url: https://tl-symposium26.netlify.app/
-      image: /images/Website
-        Banners/hedra_image_d295a220_0a59_484d_909c_addccfe27e49.png
+      image: /images/Website Banners/Screenshot_2026_04_09_145216.png
       alt: Image alt text
 ---
