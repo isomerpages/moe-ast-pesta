@@ -4,7 +4,8 @@ permalink: /pesta/be-connected-with-the-fraternity/physical-education-knowledgea
 description: ""
 variant: tiptap
 ---
-<h4><br>Introducing 2026 PEKOs <br></h4><a class="isomer-image-wrapper" href="https://pekos-2026.netlify.app/"><img style="width: 60%;" height="auto" width="100%" alt="[click image to visit site]" src="/images/Website Banners/2026_PEKOs.jpg"></a>
+<h3><br>Introducing 2026 PEKOs <br></h3>
+<p>[click on image to access the website]</p><a class="isomer-image-wrapper" href="https://pekos-2026.netlify.app/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Banners/WhatsApp_Image_2026_03_31_at_2_24_51_PM.jpg"></a>
 <p>
 <br>In 2022, PESTA introduced Physical Education Knowledgeable Others (PEKO)
 to&nbsp;harness the strengths and expertise of the PE fraternity to enhance
