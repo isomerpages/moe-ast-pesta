@@ -36,7 +36,7 @@ sections:
         Others (PEKO)!
       button: FIND MORE MORE!
       url: https://pekos-2026.netlify.app/
-      image: /images/Website Banners/2026_PEKOs.jpg
+      image: /images/Website Banners/WhatsApp_Image_2026_03_31_at_2_24_51_PM.jpg
       alt: Image alt text
   - infopic:
       title: PESTA Open Web Resource (POWeR)
