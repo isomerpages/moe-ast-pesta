@@ -30,6 +30,16 @@ sections:
       image: /images/Website Banners/Screenshot_2026_01_05_150131.png
       alt: Workshops for PE teachers
   - infopic:
+      title: TL SYMPOSIUM 2026
+      subtitle: accessible via non-Wog devices
+      id: infopic
+      description: Connecting Practice. Rejuvenating the Joy of Teaching. [Open to TLs
+        and KPs only]
+      button: visit the website for more info
+      url: https://tl-symposium26.netlify.app/
+      image: /images/Website Banners/Screenshot_2026_04_09_145216.png
+      alt: Image alt text
+  - infopic:
       title: 2026 PEKOs
       id: infopic
       description: Introducing the 2026 list of Physical Education Knowledgeable
@@ -66,14 +76,4 @@ sections:
       url: /pesta/be-connected-with-the-fraternity/pesta-teacher-attributes/
       image: /images/tl network pic cropped.jpg
       alt: PE Fraternity
-  - infopic:
-      title: TL SYMPOSIUM 2026
-      subtitle: accessible via non-Wog devices
-      id: infopic
-      description: Connecting Practice. Rejuvenating the Joy of Teaching. [Open to TLs
-        and KPs only]
-      button: visit the website for more info
-      url: https://tl-symposium26.netlify.app/
-      image: /images/Website Banners/Screenshot_2026_04_09_145216.png
-      alt: Image alt text
 ---
