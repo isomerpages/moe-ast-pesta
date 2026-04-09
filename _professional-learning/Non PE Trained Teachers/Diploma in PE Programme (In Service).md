@@ -3,6 +3,7 @@ title: Diploma in PE Programme (In Service)
 permalink: /diploma-in-physical-education-programme/
 variant: tiptap
 description: ""
+third_nav_title: Non PE Trained Teachers
 ---
 <h3><strong>Diploma in Physical Education (In-Service) Programme 2027/2028</strong><br>(Registration Deadline: 15<sup>th</sup> April 2026)</h3>
 <p>The Diploma in Physical Education (In-Service) Programme aims to develop

@@ -2,11 +2,13 @@ collections:
   professional-learning:
     output: true
     order:
-      - Diploma in PE Programme (In Service).md
-      - Physical Education Teacher Practitioner Programme (PETPP).md
       - PL Framework for PE and Sports Teachers.md
+      - Workshops (for PE & Sports CCA Teachers).md
       - Professional Learning Fiesta.md
       - Teachers’ Conference and ExCEL Fest (TCEF).md
       - Teacher Leaders (TL) Symposium.md
+      - Non PE Trained Teachers/.keep
+      - Non PE Trained Teachers/Physical Education Teacher Practitioner
+        Programme (PETPP).md
+      - Non PE Trained Teachers/Diploma in PE Programme (In Service).md
       - Teacher Work Attachment Plus (TWA Plus).md
-      - Workshops (for PE & Sports CCA Teachers).md
