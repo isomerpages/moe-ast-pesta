@@ -17,13 +17,11 @@ as a Sports Executive at SAFRA, where he was involved in planning and organising
 sports programmes, club management, and development. His passion for sports
 and working with youth led him to join MOE in 2000 as a Physical Education
 (PE) teacher.</p>
-<p>&nbsp;</p>
 <p>Eric began his teaching career at CHIJ St Theresa's Convent before moving
 to Meridian Junior College, where he took on the responsibilities of Subject
 Head for Sports and subsequently Head of Department for Co-Curricular Activities.
 In 2013, he was appointed as Vice-Principal and served at Holy Innocents
 High School and Queenstown Secondary School.</p>
-<p>&nbsp;</p>
 <p>Eric believes firmly in the unique worth of every individual, the enhancement
 of their well-being, and the symbiotic relationship between the individual
 and society. He holds the conviction that every child wants to learn and
@@ -32,14 +30,12 @@ schooling experience that enables them to become active and physically
 competent individuals. It contributes to their holistic education and the
 development of 21st Century Competencies, better preparing each student
 to thrive in our fast-changing and highly-connected world.</p>
-<p>&nbsp;</p>
 <p>Outside of work, Eric maintains an active lifestyle through swimming,
 cycling, gym workouts, and pickleball. He is an advocate for ketogenic
 diet and intermittent fasting—a healthy lifestyle he has maintained for
 over a decade, which has enabled him to lose over 10kg and drop 2 clothing
 sizes. He now conducts talks and sharing sessions about his health journey,
-inspiring others to embrace wellness.</p>
-<p>&nbsp;</p>
+inspiring others to embrace wellness</p>
 <p>At PESTA, Eric works alongside his esteemed team of Master Teachers and
 Academy officers, partnering with various stakeholders to cultivate a distinctive
 community of PE teachers. Through their collective efforts, they deliver
