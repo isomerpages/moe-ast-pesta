@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - Physical Education Teacher Practitioner Programme (PETPP).md
       - PL Framework for PE and Sports Teachers.md
       - Workshops (for PE & Sports CCA Teachers).md
       - Professional Learning Fiesta.md
