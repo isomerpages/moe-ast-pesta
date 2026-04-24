@@ -5,7 +5,6 @@ variant: tiptap
 description: PETTP 2026
 image: /images/Website
   Banners/lon9b3an_make_me_a_poster_themed_on_physical_education_public_cfe53c51_43a7_46e4_9dd1_9e0ce11554b5_3.png
-third_nav_title: Non PE Trained Teachers
 ---
 <h3>Physical Education Teacher Practitioner Programme (PETPP) 2026 [Registration Closed: 1st Aug 2025]</h3>
 <p>The Physical Education Teacher Practitioner Programme (PETPP) equips non-PE
