@@ -45,7 +45,7 @@ sections:
       description: Introducing the 2026 list of Physical Education Knowledgeable
         Others (PEKO)!
       button: FIND MORE MORE!
-      url: https://pekos-2026.netlify.app/
+      url: https://pesta.moe.edu.sg/pesta/be-connected-with-the-fraternity/physical-education-knowledgeable-others-peko/
       image: /images/Website Banners/WhatsApp_Image_2026_03_31_at_2_24_51_PM.jpg
       alt: Image alt text
   - infopic:
