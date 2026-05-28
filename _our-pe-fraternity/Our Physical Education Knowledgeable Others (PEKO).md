@@ -41,10 +41,8 @@ and/or online consultations for a period of 5 weeks.</p>
 in the link below to find out more about the process.</p>
 <p><a href="https://drive.google.com/file/d/13EqyrTmYyx7U3no4m5yAwYsSm3kwT_ag/view?usp=drivesdk" rel="noopener noreferrer nofollow" target="_blank">How to Engage a PEKO - Video Guide</a>
 </p>
-<p>Click here for the list of PEKO!
-<br>(Updated as of: March 2026) <a href="/files/PEKO%20List%20Directory/PEKO_List_2026_For_PESTA_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">PEKO Updated List as of March 2026</a>
-</p>
-<p>To collaborate with a PEKO, please fill in this form:&nbsp; <a href="http://go.gov.sg/pekorequest" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/pekorequest</a>
+<h4><strong>Click here for the list of PEKOs! </strong><br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRq6-5LPJ70iOjxhDvMRy_bsl7Zid9UzDEfwMuVZtbSxPUNRHIcOj_hWFjQjnBKJw/pubhtml?gid=704502134&amp;single=true" rel="noopener noreferrer nofollow" target="_blank">PEKO List</a></h4>
+<p>To collaborate with a PEKO, please fill in this form:&nbsp;<a href="https://form.gov.sg/6a17a96c4a1b477e4451c063" rel="noopener noreferrer nofollow" target="_blank"> http://go.gov.sg/pekorequest</a>
 </p>
 <p>If you have engaged a PEKO, we would like to hear from you!
 <br>Please fill up this feedback form after your engagement/collaboration

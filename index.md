@@ -30,14 +30,13 @@ sections:
       image: /images/Website Banners/Screenshot_2026_01_05_150131.png
       alt: Workshops for PE teachers
   - infopic:
-      title: TL SYMPOSIUM 2026
-      subtitle: accessible via non-Wog devices
+      title: Professional Learning Fiesta 2026
       id: infopic
-      description: Connecting Practice. Rejuvenating the Joy of Teaching. [Open to TLs
-        and KPs only]
+      description: A vibrant PE fiesta where educators share ideas, learn together and
+        spark innovation for our students’ future.
       button: visit the website for more info
-      url: https://tl-symposium26.netlify.app/
-      image: /images/Website Banners/Screenshot_2026_04_09_145216.png
+      url: https://plf-2026.netlify.app/
+      image: /images/Website Banners/PLF2026_Banner.png
       alt: Image alt text
   - infopic:
       title: 2026 PEKOs
