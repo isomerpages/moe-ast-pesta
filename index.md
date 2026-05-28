@@ -36,7 +36,7 @@ sections:
         spark innovation for our students’ future.
       button: visit the website for more info
       url: https://plf-2026.netlify.app/
-      image: /images/Website Banners/Screenshot_2026_04_09_145216.png
+      image: /images/Website Banners/PLF2026_Banner.png
       alt: Image alt text
   - infopic:
       title: 2026 PEKOs
